@@ -3,6 +3,10 @@
     src: url('../gill-sans-light.otf') format('truetype');
 }
 
+.skuleblue {
+    background-color: #3b739e;
+}
+
 /* INDEX PAGE STYLING */
 html {
     background: #fff;
