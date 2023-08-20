@@ -26,61 +26,6 @@ button {
     background: #efefef;
 }
 
-/* HEADER STYLING */
-.header {
-    max-height: 45px;
-    min-height: 45px !important;
-}
-
-.nav-toggle {
-    height: 45px;
-    width: 45px;
-}
-
-.is-fluid {
-    margin: 0 !important;
-    padding: 0 0 0 10px;
-}
-
-.container {
-    margin: 0 auto;
-}
-
-.tabs.is-boxed li.is-active a {
-    background: #efefef !important;
-}
-
-.hero:first-of-type {
-    background-image: url("../img/engsoc-crest-bg.svg");
-    background-repeat: no-repeat;
-    background-size: 600px;
-    background-position: right;
-}
-
-.nav-item {
-    font-size: 18px;
-}
-
-[] #logo {
-    padding: 3px 0 5px 0 !important;
-}
-
-#logo img {
-    max-height: 40px;
-}
-
-#crest {
-    padding: 32px 0;
-    margin: -32px 0;
-    background: url("../img/engsoc-crest-w.svg") no-repeat center;
-    background-size: contain;
-}
-
-.tabs.is-boxed a {
-    border: 0;
-    margin: 0;
-}
-
 /* INDEX PAGE SUBSECTIONS STYLING */
 .index:before {
     content: '';
