@@ -4,13 +4,30 @@
     background-color: #3b739e !important;
 }
 
+.darkskuleblue {
+    background-color: #274d6b !important;
+}
+
+.menu {
+    position: sticky;
+    top: 20px;
+}
+
+.box {
+    box-shadow: 0 0 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-weight: 350 !important;
+}
+
 .vp-comms-green {
     background-color: #3b739e !important;
 }
 
 html {
-    overflow-y: auto !important;
     font-family: 'Quicksand', sans-serif !important;
+    background-color: #eeeeee;
 }
 
 /* INDEX PAGE SUBSECTIONS STYLING */
@@ -82,9 +99,12 @@ html {
     }
 }
 
+/* .footer {
+    background: #ffffff
+} */
+
 .footer-box {
-    padding: 0 0 20px !important;
-    background: #fff !important;
+    background: #ffffff !important;
     border-radius: 0 !important;
     box-shadow: 0 0 0 !important;
 }

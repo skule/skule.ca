@@ -3,12 +3,10 @@ title: Governing Members
 layout: default
 ---
 
-<div class="columns is-gapless">
-    <div class="column">
-        <h1 class="title"> Governing Members</h1>
-        <p> The Engineering Society is run by volunteers in a wide variety of positions. It would be impossible to list everyone who contributes to its operation, but this page includes information about many of those volunteers. You can find all of their names and contact information below</p>
-    </div>
-</div> <br /> <br />
+# Governing Members
+
+The Engineering Society is run by volunteers in a wide variety of positions. It would be impossible to list everyone who contributes to its operation, but this page includes information about many of those volunteers. You can find all of their names and contact information below
+
 <div class="columns is-multiline">
     <div class="column is-2 is-hidden-touch">
         <aside class="menu">
