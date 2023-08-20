@@ -1,3 +1,8 @@
+---
+title: Engineering Society Officers
+layout: default
+---
+
 <div class="columns is-multiline">
     <div class="column is-2 is-hidden-touch">
         <aside class="menu">

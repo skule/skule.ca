@@ -1,4 +1,8 @@
-<h1 class="title">ECC Advocacy</h1>
+---
+title: ECC Advocacy
+layout: default
+---
+
 <div class="box" id="major">
     <article class="media">
         <div class="media-content">

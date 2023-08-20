@@ -1,4 +1,9 @@
-<h1 class="title">Audio/Visual Equipment Rentals</h1>
+---
+title: Audiovisual Equipment Rentals
+layout: default
+order: 100
+---
+
 <p>If you are an EngSoc-affiliated Club, Associated Entity, Project Directorship, or Discipline Club, and affiliated with Ulife/SOP, you can book projectors, speakers, and microphones through EngSoc. Instructions for booking non-EngSoc spaces can be found <a href="https://drive.google.com/file/d/1-dLtknTFG0V99_lt0c71CH72E35bExgs/view" target=_blank>in this document</a>, and more information about SOP affiliation can be found <a href="https://sop.utoronto.ca/" target=_blank>in this site</a>.</p>
 <p>EngSoc-affiliated organizations will be granted free use of projectors in classrooms, including speakers, microphones, projectors, etc. <b><i>However, clubs must pay for the services through campus events in advance and then get a reimbursement through EngSoc by filling out a cheque requisition and providing proof of purchase (such as a paid invoice). For further info on reimbursements, visit <a href=https://skule.ca/cheque_requisitions>skule.ca/cheque_requisitions</a>.</i></b></p>
 <p>This project is intended to be used solely for the purpose of club or design team work, and not for personal projects or use. If you require a large number of rooms, a booking for a conference or other large event, and events that span over multiple days, please contact Rhonda at <a href="mailto:rhonda@skule.ca">rhonda@skule.ca</a> and the VP Student Life at <a href="mailto:vpstudentlife@skule.ca">vpstudentlife@skule.ca</a> to negotiate in-classroom AV usage.</p>

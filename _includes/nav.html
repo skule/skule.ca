@@ -14,131 +14,42 @@
     </div>
 
     <div class="navbar-menu ">
-        <div class="navbar-start"></div> <!-- left nav mennu -->
-
-
-        <div class="navbar-end "> <!-- right nav menu -->
-
-
+        <div class="navbar-start">
+            {% assign mydocs = site.pages | group_by: 'dir' %}
+            {% for cat in mydocs %}
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link" href="./get_involved">Get Involved</a>
+                <a class="navbar-link" href="e">{{ cat.name | remove: "/" | replace: "-", " " | capitalize }}</a>
                 <div class="navbar-dropdown">
-                    <a class="navbar-item " href="./affiliated_clubs">Affiliated Clubs</a>
-                    <a class="navbar-item" href="./design_teams">Design Teams</a>
-                    <a class="navbar-item" href="./directorships">Project Directors</a>
-                    <a class="navbar-item" href="./associated">Associated Entities</a>
-                    <a class="navbar-item" href="./discipline_clubs">Discipline Clubs</a>
-                    <a class="navbar-item" href="./elections">Elections</a>
+                    {% assign items = cat.items | sort: 'order' %}
+                    {% for item in items %}
+                    <a class="navbar-item " href="{{ item.url }}">{{ item.title }}</a>
+                    {% endfor %}
                 </div>
             </div>
-            <div class="navbar-item has-dropdown is-hoverable ">
-                <a class="navbar-link" href="./finances">Finances</a>
-                <div class="navbar-dropdown">
-                    <a class="navbar-item" href="./financial_status">Financial Status</a>
-                    <a class="navbar-item" href="./special_projects">Special Projects</a><a class="navbar-item" href="./conferences">Conferences</a>
-                    <a class="navbar-item" href="./club_funding">Club Funding</a>
-                    <a class="navbar-item" href="./levies">Levies</a>
-                    <a class="navbar-item" href="./SEF">Skule Endowment Fund</a>
-                    <a class="navbar-item" href="./cheque_requisitions">Cheque Requisitions</a>
-                    <a class="navbar-item" href="./finance_committee">Finance Committee</a>
-                </div>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable ">
-                <a class="navbar-link" href="./academics">Academics</a>
-                <div class="navbar-dropdown">
-                    <a class="navbar-item" href="./academic_representation">Academic Representation</a>
-                    <a class="navbar-item" href="./past_exams">Past Midterms and Exams</a>
-                    <a class="navbar-item" href="./tutoring">Tutoring</a>
-                    <a class="navbar-item" href="./academic_faqs">FAQs</a>
-                    <a class="navbar-item" href="./documents_and_publications">Documents and Publications</a>
-                    <a class="navbar-item" href="./ECC">ECC Advocacy</a>
-                </div>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable ">
-                <a class="navbar-link" href="./club_resources">Club Resources</a>
-                <div class="navbar-dropdown">
-                    <a class="navbar-item" href="./club_affiliation">Affiliation Process</a>
-                    <a class="navbar-item" href="./club_funding">Club Funding</a>
-                    <a class="navbar-item" href="./promotion">Promotion</a>
-                    <a class="navbar-item" href="./discounts">Food Discounts for Clubs</a>
-                    <a class="navbar-item" href="./cac">Club Affiliation Committee</a>
-                </div>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable ">
-                <a class="navbar-link" href="./bookings">Bookings/Rentals</a>
-                <div class="navbar-dropdown">
-                    <a class="navbar-item" href="./room_bookings">Room Bookings</a>
-                    <a class="navbar-item" href="./av_bookings">A/V Equipment</a>
-                    <a class="navbar-item" href="./parking_bookings">Parking Spot</a>
-                    <a class="navbar-item" href="./lockers">Lockers</a>
-                </div>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable ">
-                <a class="navbar-link" href="./about">About Us</a>
-                <div class="navbar-dropdown">
-                    <a class="navbar-item" href="./engsoc">EngSoc</a>
-                    <a class="navbar-item" href="./what_is_skule">What is Skule™?</a>
-                    <a class="navbar-item" href="./contact">Contact</a>
-                    <a class="navbar-item" href="./officers">Officers</a>
-                    <a class="navbar-item" href="./humans">Governing Members</a>
-                    <a class="navbar-item" href="./awards">Awards</a>
-                    <a class="navbar-item" href="./agm">Annual General Meeting</a>
-                    <a class="navbar-item" href="./psc">Policies and Structures Committee</a>
-                </div>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable ">
-                <a class="navbar-link" href="./documents">EngSoc Documents</a>
-                <div class="navbar-dropdown">
-                    <a class="navbar-item" href="./governing_documents">Governing Documents</a>
-                    <a class="navbar-item" href="./minutes">Meeting Minutes</a>
-                    <a class="navbar-item" href="./financial_documents">Financial Documents</a>
-                    <a class="navbar-item" href="./statement">EngSoc Statement on Anti-Black Racism</a>
-                </div>
-            </div>
-            <div class="navbar-item has-dropdown is-hoverable ">
-                <a class="navbar-link" href="./externalResources">External Resources</a>
-                <div class="navbar-dropdown">
-                    <a class="navbar-item" href="./utsu">UTSU</a>
-                    <a class="navbar-item" href="./campus_resources">Campus Resources</a>
-                    <a class="navbar-item" href="./skulepedia">Skulepedia</a>
-                    <a class="navbar-item" href="./faculty_incident_disclosure">Incident Disclosure Form</a>
-                </div>
-            </div>
-        </div> <!-- navbar-end end -->
-    </div> <!-- end of navbar menu -->
-</nav> <!-- end of nav -->
-</div> <!--- end of hero-head -->
-<section class="skuleblue hero is-primary is-small">
-
-    <div class="hero-head">
-
-        <!-- Hero content: will be in the middle -->
-        <div class="hero-body">
-            <div class="container">
-                <div class="columns is-gapless">
-                    <div class="column">
-                        <h1 class="title">
-                            About Us </h1>
-                    </div>
-                </div>
-            </div>
+            {% endfor %}
         </div>
+        <div class="navbar-end "></div>
+    </div>
+</nav>
 
-        <!-- Hero footer: will stick at the bottom -->
-        <div class="hero-foot">
-            <nav class="tabs is-boxed">
-                <div class="container">
-                    <ul class="major">
-                        <li id="tab-engsoc" class="tab"><a href="./engsoc">EngSoc</a></li>
-                        <li id="tab-what_is_skule" class="tab"><a href="./what_is_skule">What is Skule™?</a></li>
-                        <li id="tab-contact" class="tab"><a href="./contact">Contact</a></li>
-                        <li id="tab-officers" class="tab"><a href="./officers">Officers</a></li>
-                        <li id="tab-humans" class="tab"><a href="#">Governing Members</a></li>
-                        <li id="tab-awards" class="tab"><a href="./awards">Awards</a></li>
-                        <li id="tab-agm" class="tab"><a href="./agm">Annual General Meeting</a></li>
-                        <li id="tab-psc" class="tab"><a href="./psc">Policies and Structures Committee</a></li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
+<section class="hero is-primary is-small">
+    <div class="hero-body container">
+        <h1 class="title">
+            {% assign titlewords = page.dir | remove: "/" | split: "-" %}
+            {% for titleword in titlewords %}
+            {{ titleword | capitalize | replace: "The","the" }}
+            {% endfor %}
+        </h1>
+    </div>
+    <div class="hero-foot container">
+        <nav class="tabs is-boxed">
+            <ul class="major">
+                {% assign items = site.pages | sort: "order" %}
+                {% for item in items %}
+                {% if page.dir == item.dir %}
+                <li class="tab"><a href="{{ item.url }}">{{ item.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+    </div>
 </section>

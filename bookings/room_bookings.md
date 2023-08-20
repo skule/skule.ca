@@ -1,4 +1,9 @@
-<h1 class="title">Room Bookings</h1>
+---
+title: Room Bookings
+layout: default
+order : 300
+---
+
 <p>If you are an EngSoc-affiliated Club, Associated Entity, Project Directorship, or Discipline Club, you can book a room through EngSoc. A variety of University of Toronto rooms and the Engineering Communications room (or "EngCom") are available for booking. </p>
 <p><em>Note: Please book rooms <b>at least 7 business days</b> in advance. We cannot physically book rooms later than that as the website system blocks us out.</em> </p>
 <p>General Room Bookings: Only GB202 and the Engineering Communications (EngComm) room can be booked through EngSoc. Other bookings for rooms are done directly through Campus Events (formerly ACE). Please ensure that your group is affiliated with SOP to access these bookings when available. Instructions for booking non-EngSoc spaces can be found in <a href="https://drive.google.com/file/d/1-dLtknTFG0V99_lt0c71CH72E35bExgs/view" target=_blank>this document</a> , and more information about SOP affiliation can be found on their <a href="https://sop.utoronto.ca/" target=_blank>site</a>.</p>

@@ -1,3 +1,8 @@
+---
+title: Academic Representation
+layout: default
+---
+
 <div class="columns">
     <div class="column">
         <div class="content">

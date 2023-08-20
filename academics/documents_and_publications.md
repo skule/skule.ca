@@ -1,3 +1,8 @@
+---
+title: Documents and Publications
+layout: default
+---
+
 <div class="columns">
     <div class="column">
         <div class="content">

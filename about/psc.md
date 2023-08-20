@@ -1,4 +1,8 @@
-<h1> Policies and Structures Committee </h1>
+---
+title: Policies and Structures Committee
+layout: default
+---
+
 <h2>What is the Policies and Structures Committee?</h2>
 <p>The Policies and Structures Committee (PSC) is an EngSoc subcommittee that meets once per month to discuss possible changes to EngSoc's Bylaws and policies. Topics that we discuss include revising the Constitution, Election Bylaws, and anything else that is relevant to the operations of the Engineering Society.</p>
 <p>If you would like to access the PSC meeting minutes, please click <a href="https://drive.google.com/drive/u/1/folders/1A2tghRaPWWPHn7Mukl-At_jkkTbpUTu5" target=blank>here</a>. If you would like to access the EngSoc Bylaws and Policies, please click <a href="https://skule.ca/governing_documents" target=blank>here</a>.Read on below to learn more about what we do!</p>
