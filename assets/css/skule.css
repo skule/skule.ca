@@ -4,26 +4,10 @@
     background-color: #3b739e !important;
 }
 
-/* INDEX PAGE STYLING */
 html {
     background: #fff;
     overflow-y: auto !important;
-}
-
-body {
-    font-family: 'Quicksand', sans-serif;
-    text-rendering: auto;
-    font-size: 18px;
-    background: #fff;
-}
-
-input,
-button {
-    font-family: 'Quicksand', sans-serif;
-}
-
-.section {
-    background: #efefef;
+    font-family: 'Quicksand', sans-serif !important;
 }
 
 /* INDEX PAGE SUBSECTIONS STYLING */
@@ -95,40 +79,11 @@ button {
     }
 }
 
-/* CONTENT STYLING */
-.table {
-    background: none;
-}
-
-.table tr:hover {
-    background: none;
-}
-
-.title {
-    font-weight: normal;
-}
-
-.box {
-    box-shadow: 0 0 0;
-    border: 0px;
-}
-
-.is-fullwidth {
-    width: 100%;
-}
-
-
-/* FOOTER STYLING */
-.footer {
-    background: #fff;
-    padding-bottom: 30px;
-}
-
 .footer-box {
     padding: 0 0 20px !important;
-    background: #fff;
-    border-radius: 0;
-    box-shadow: 0 0 0;
+    background: #fff !important;
+    border-radius: 0 !important;
+    box-shadow: 0 0 0 !important;
 }
 
 @media (max-width: 768px) {
