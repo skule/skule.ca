@@ -5,65 +5,79 @@
 
 /* INDEX PAGE STYLING */
 html {
-    background: #fff;
-    overflow-y: auto !important;
+	background: #fff;
+	overflow-y: auto !important;
 }
+
 body {
-    font-family: 'Gill Sans Light';
+	font-family: 'Gill Sans Light';
 	text-rendering: auto;
-    font-size: 18px;
-    background: #fff;
+	font-size: 18px;
+	background: #fff;
 }
-input, button {
-    font-family: 'Gill Sans Light';
+
+input,
+button {
+	font-family: 'Gill Sans Light';
 }
+
 .section {
-    background: #efefef;
+	background: #efefef;
 }
 
 /* HEADER STYLING */
 .header {
-    max-height: 45px;
-    min-height: 45px !important;
+	max-height: 45px;
+	min-height: 45px !important;
 }
+
 .nav-toggle {
-    height: 45px;
-    width: 45px;
+	height: 45px;
+	width: 45px;
 }
+
 .is-fluid {
-    margin: 0 !important;
-    padding: 0 0 0 10px;
+	margin: 0 !important;
+	padding: 0 0 0 10px;
 }
+
 .container {
-    margin: 0 auto;
+	margin: 0 auto;
 }
+
 .tabs.is-boxed li.is-active a {
-    background: #efefef !important;
+	background: #efefef !important;
 }
+
 .hero:first-of-type {
-    background-image: url("../img/engsoc-crest-bg.svg");
+	background-image: url("../img/engsoc-crest-bg.svg");
 	background-repeat: no-repeat;
 	background-size: 600px;
 	background-position: right;
 }
+
 .nav-item {
 	font-size: 18px;
-}[]
-#logo{
-    padding: 3px 0 5px 0 !important;
 }
+
+[] #logo {
+	padding: 3px 0 5px 0 !important;
+}
+
 #logo img {
-    max-height: 40px;
+	max-height: 40px;
 }
+
 #crest {
-    padding: 32px 0;
-    margin: -32px 0;
-    background: url("../img/engsoc-crest-w.svg") no-repeat center;
-    background-size: contain;
+	padding: 32px 0;
+	margin: -32px 0;
+	background: url("../img/engsoc-crest-w.svg") no-repeat center;
+	background-size: contain;
 }
+
 .tabs.is-boxed a {
-    border: 0;
-    margin: 0;
+	border: 0;
+	margin: 0;
 }
 
 
@@ -73,11 +87,11 @@ input, button {
 	padding-left: 10px !important;
 }
 
-.navbar-menu.is-active{
+.navbar-menu.is-active {
 	background-color: inherit;
 }
 
-a#logo{
+a#logo {
 	padding: 3px 0 5px !important;
 }
 
@@ -85,28 +99,28 @@ a.navbar-link {
 	padding: 8px 12px !important;
 }
 
-a.navbar-link:hover{
+a.navbar-link:hover {
 	color: #fff !important;
 }
 
-a.navbar-item:hover{
+a.navbar-item:hover {
 	color: #fff !important;
 }
 
-.navbar-dropdown>a.navbar-item{
+.navbar-dropdown>a.navbar-item {
 	padding: 8px 12px !important;
 }
 
-.navbar>a{
+.navbar>a {
 	color: rgba(255, 255, 255, 0.7);
 	font-size: 18px;
 }
 
-#nav-toggle>span{
+#nav-toggle>span {
 	background-color: white;
 }
 
-#nav-toggle:hover{
+#nav-toggle:hover {
 	background-color: rgba(10, 10, 10, 0.1) !important;
 }
 
@@ -115,28 +129,32 @@ a.navbar-item:hover{
 	max-height: 45px;
 	min-height: 45px !important;
 }
-.navbar-max-height{
+
+.navbar-max-height {
 	max-height: 100% !important;
 }
 
 
 /* CONTENT STYLING */
 .is-small .hero-body {
-    padding-bottom: 20px;
+	padding-bottom: 20px;
 }
+
 .columns {
-    margin: 0 !important;
+	margin: 0 !important;
 }
-.section .container *not(aside) ul{
-    list-style-type: disc;
-    padding-left: 40px
+
+.section .container *not(aside) ul {
+	list-style-type: disc;
+	padding-left: 40px
 }
 
 /* IMPORTANT LINKS STYLING */
 .major {
-    font-family: 'Montserrat', sans-serif;
-    text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
 }
+
 .major .fa {
 	font-size: 72px;
 	min-width: 112px;
@@ -146,33 +164,40 @@ a.navbar-item:hover{
 	background-color: #3b739e;
 	color: #ffec8e;
 }
+
 .major a:hover {
 	color: #3b739e;
 }
+
 .major a:hover .fa {
 	color: #fff;
 }
+
 .major span {
-    font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 /* DIGEST FEED STYLING */
 .feed {
 	overflow-x: auto;
 }
+
 .feed .no-uid .card {
 	height: 100%;
 }
+
 .feed .card {
 	box-shadow: 0 0 0;
 	border-radius: 10px;
 	padding: 0 0 60px;
 }
+
 .feed .youtube {
 	height: auto;
 	width: 100%;
 	padding: 10px 0 0;
 }
+
 .feed .post-footer {
 	position: absolute;
 	bottom: 24px;
@@ -180,56 +205,66 @@ a.navbar-item:hover{
 
 /* INDEX PAGE SUBSECTIONS STYLING */
 .index:before {
-    content: '';
+	content: '';
 	position: relative;
 	top: 0;
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background-image: linear-gradient(to bottom right,#002f4b,#dc4225);
+	background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
 	opacity: .6;
 }
+
 #about {
 	background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('../img/index-bg/about.jpg') center no-repeat;
 	background-size: cover;
 }
+
 #get-involved {
 	background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('../img/index-bg/get-involved.jpg') center no-repeat;
 	background-size: cover;
 }
+
 #finances {
 	background: linear-gradient(to right, rgba(239, 239, 239, 0.98), rgba(239, 239, 239, 0.98)), url('../img/index-bg/finances.jpg') center no-repeat;
 	background-size: cover;
 }
+
 #club-resources {
 	background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('../img/index-bg/club-resources.jpg') center no-repeat;
 	background-size: cover;
 }
+
 #bookings {
 	background: linear-gradient(to right, rgba(239, 239, 239, 0.95), rgba(239, 239, 239, 0.95)), url('../img/index-bg/bookings.jpg') center no-repeat;
 	background-size: cover;
 }
+
 @media (max-width: 768px) {
 	#about {
 		background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 60%, rgba(239, 239, 239, 0) 90%), url('../img/index-bg/about.jpg') center no-repeat;
 		background-size: cover;
 		padding: 0 0 25%;
 	}
+
 	#get-involved {
 		background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 60%, rgba(239, 239, 239, 0) 90%), url('../img/index-bg/get-involved.jpg') center no-repeat;
 		background-size: cover;
 		padding: 0 0 25%;
 	}
+
 	#finances {
-		background: linear-gradient(to right, rgba(239, 239, 239, 0.98) 0%, rgba(239, 239, 239, 0.98 ) 75%, rgba(239, 239, 239, 0) 100%), url('../img/index-bg/finances.jpg') center no-repeat;
+		background: linear-gradient(to right, rgba(239, 239, 239, 0.98) 0%, rgba(239, 239, 239, 0.98) 75%, rgba(239, 239, 239, 0) 100%), url('../img/index-bg/finances.jpg') center no-repeat;
 		background-size: cover;
 		padding: 0;
 	}
+
 	#club-resources {
 		background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 60%, rgba(239, 239, 239, 0) 90%), url('../img/index-bg/club-resources.jpg') center no-repeat;
 		background-size: cover;
 		padding: 0 0 25%;
 	}
+
 	#bookings {
 		background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95), rgba(239, 239, 239, 0.95)), url('../img/index-bg/bookings.jpg') center no-repeat;
 		background-size: cover;
@@ -239,29 +274,35 @@ a.navbar-item:hover{
 
 /* CONTENT STYLING */
 .table {
-    background: none;
+	background: none;
 }
+
 .table tr:hover {
-    background: none;
+	background: none;
 }
+
 .title {
 	font-weight: normal;
 }
+
 .box {
 	box-shadow: 0 0 0;
 	border: 0px;
 }
+
 .is-fullwidth {
-    width: 100%;
+	width: 100%;
 }
 
 /* YOUTUBE STYLING */
 .youtube {
 	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
+	padding-bottom: 56.25%;
+	/* 16:9 */
 	padding-top: 25px;
 	height: 0;
 }
+
 .youtube iframe {
 	position: absolute;
 	top: 0;
@@ -272,17 +313,19 @@ a.navbar-item:hover{
 
 /* FOOTER STYLING */
 .footer {
-    background: #fff;
-    padding-bottom: 30px;
+	background: #fff;
+	padding-bottom: 30px;
 }
+
 .footer-box {
-    padding: 0 0 20px !important;
-    background: #fff;
-    border-radius: 0;
-    box-shadow: 0 0 0;
+	padding: 0 0 20px !important;
+	background: #fff;
+	border-radius: 0;
+	box-shadow: 0 0 0;
 }
+
 @media (max-width: 768px) {
-    .footer-box {
-        border-bottom: 0;
-    }
+	.footer-box {
+		border-bottom: 0;
+	}
 }
