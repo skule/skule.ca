@@ -11,8 +11,8 @@ layout: default
             {% endfor %}
         </h1>
     </div>
-    <div class="hero-foot container is-hidden-touch">
-        <nav class="tabs is-boxed">
+    <div class="hero-foot is-hidden-touch">
+        <nav class="tabs is-boxed is-fullwidth">
             <ul class="major">
                 {% assign items = site.pages | sort: "order" %}
                 {% for item in items %}
