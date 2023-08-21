@@ -16,7 +16,7 @@
     <div class="navbar-menu" id="navMenu">
         <div class="navbar-start"></div>
         <div class="navbar-end ">
-            {% assign mydocs = site.pages | group_by: 'dir' %}
+            {% assign mydocs = site.html_pages | group_by: 'dir' %}
             {% for cat in mydocs %}
             {% if cat.name != "/"%}
             <div class="navbar-item has-dropdown is-hoverable">

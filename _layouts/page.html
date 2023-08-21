@@ -14,7 +14,7 @@ layout: default
     <div class="hero-foot is-hidden-touch">
         <nav class="tabs is-boxed is-fullwidth">
             <ul class="major">
-                {% assign items = site.pages | sort: "order" %}
+                {% assign items = site.html_pages | sort: "order" %}
                 {% for item in items %}
                 {% if page.dir == item.dir %}
                 <li class="tab {% if item.url == page.url %} is-active {% endif %}">
