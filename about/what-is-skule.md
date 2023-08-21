@@ -3,13 +3,12 @@ title: What is Skule?
 layout: page
 ---
 
-<p>Skule™ is the name of the University of Toronto's engineering community at the St. George campus. It is made up of about 5000 undergraduate students, hundreds of graduate students, and a range of dedicated alumni. It is also home to hundreds of engineering clubs, athletics teams, design teams, and traditions (see below). The Skule™ name was first used almost a century ago when students discovered something that they had in common: engineers don't know how to spell. As something that the community created together, the Engineering Society trademarked the name in 1984.</p>
-</div>
-<hr>
-<h1 class="title">Traditions</h1>
-<p> Existing longer than a century, it is no wonder that Skule™ has so many rich traditions. </p>
-</div>
-</section>
+Skule™ is the name of the University of Toronto's engineering community at the St. George campus. It is made up of about 5000 undergraduate students, hundreds of graduate students, and a range of dedicated alumni. It is also home to hundreds of engineering clubs, athletics teams, design teams, and traditions (see below). The Skule™ name was first used almost a century ago when students discovered something that they had in common: engineers don't know how to spell. As something that the community created together, the Engineering Society trademarked the name in 1984.
+
+## Traditions
+
+Existing longer than a century, it is no wonder that Skule™ has so many rich traditions.
+
 <section class="hero is-dark">
     <div class="hero-body">
         <div class="container">
@@ -18,6 +17,7 @@ layout: page
         </div>
     </div>
 </section>
+
 <section class="hero is-warning">
     <div class="hero-body">
         <div class="container">
@@ -26,7 +26,8 @@ layout: page
         </div>
     </div>
 </section>
-<section class="hero is-purple">
+
+<section class="hero is-primary">
     <div class="hero-body">
         <div class="container">
             <h1 class="title"> Orientation Week </h1>
@@ -34,7 +35,8 @@ layout: page
         </div>
     </div>
 </section>
-<section class="hero is-light">
+
+<section class="hero is-danger">
     <div class="hero-body">
         <div class="container">
             <h1 class="title"> Godiva Week </h1>
@@ -42,6 +44,7 @@ layout: page
         </div>
     </div>
 </section>
+
 <section class="hero is-success">
     <div class="hero-body">
         <div class="container">
@@ -50,6 +53,7 @@ layout: page
         </div>
     </div>
 </section>
+
 <section class="hero is-info">
     <div class="hero-body">
         <div class="container">

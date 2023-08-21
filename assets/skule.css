@@ -131,3 +131,57 @@ html {
         background: #eeeeee;
     }
 }
+
+.president {
+    background-color: #5d45a9;
+    color: white;
+}
+
+.president-text {
+    color: #5d45a9;
+}
+
+.vp-finance {
+    background-color: #38a87a;
+    color: white;
+}
+
+.vp-finance-text {
+    color: #38a87a;
+}
+
+.vp-comms {
+    background-color: #f55252;
+    color: white;
+}
+
+.vp-comms-text {
+    color: #f55252;
+}
+
+.vp-academic {
+    background-color: #2b6482;
+    color: white;
+}
+
+.vp-academic-text {
+    color: #2b6482;
+}
+
+.vp-student-life {
+    background-color: #f5d952;
+    color: white;
+}
+
+.vp-student-life-text {
+    color: #f5d952;
+}
+
+.speakpersono {
+    background-color: #0a0a0a;
+    color: white;
+}
+
+.speakpersono-text {
+    color: #0a0a0a;
+}

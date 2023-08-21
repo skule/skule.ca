@@ -21,8 +21,7 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > 
 >**Fun Fact!** *TBA* 
 > 
-> <a class="button is-small is-primary" href="mailto:president@skule.ca">Email</a> 
-> <a class="button is-small is-primary" href="https://www.instagram.com/uoftengsocpresident/">Instagram</a> 
+> <a class="button is-small president" href="mailto:president@skule.ca">Email</a> 
 
 > ## Vice-President Finance
 > 
@@ -44,7 +43,7 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > 
 > **Fun Fact!** 
 > 
-> <a class="button is-small is-info" href="mailto:vpfinance@skule.ca">Email</a>
+> <a class="button is-small vp-finance" href="mailto:vpfinance@skule.ca">Email</a>
 
 > ## Vice-President Communications
 > 
@@ -64,7 +63,7 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > 
 > **Fun Fact!** 
 > 
-> <a class="button is-small is-warning" href="mailto:vpcomm@skule.ca">Email</a>
+> <a class="button is-small vp-comms" href="mailto:vpcomm@skule.ca">Email</a>
 
 > ## Vice-President Academic
 > 
@@ -86,7 +85,7 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > 
 > **Fun Fact!**
 > 
-> <a class="button is-small is-danger" href="mailto:vpacademic@skule.ca">Email</a>
+> <a class="button is-small vp-academic" href="mailto:vpacademic@skule.ca">Email</a>
 
 > ## Vice-President Student Life
 > 
@@ -105,4 +104,4 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > 
 > **Fun Fact!** 
 > 
-> <a class="button is-small is-primary" href="mailto:vpstudentlife@skule.ca">Email</a>
+> <a class="button is-small vp-student-life" href="mailto:vpstudentlife@skule.ca">Email</a>
