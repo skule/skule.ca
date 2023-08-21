@@ -9,7 +9,7 @@ The committee is chaired by the VP Student Life and the members include the VP F
 
 The committee reviews applications in various rounds throughout the school year usually around August, September and January but also has special meetings throughout the year. If you have any questions about the committee or if you are interested in starting a new club, please reach out to the VP Student Life at [vpstudentlife@skule.ca](mailto:vpstudentlife@skule.ca).
 
-## Comittee Members
+## Committee Members
 
 | Name                     | Role                       |
 | ------------------------ | -------------------------- |

@@ -3,7 +3,8 @@ title: Meeting Minutes
 layout: page
 ---
 
-<p>The following are records of past meetings. If you have any questions about the format of meetings or why a meeting may be unavailable, please contact [vpcomm@skule.ca](mailto:vpcomm@skule.ca).</p>
+
+The following are records of past meetings. If you have any questions about the format of meetings or why a meeting may be unavailable, please contact [vpcomm@skule.ca](mailto:vpcomm@skule.ca).
 <table>
     <tbody>
         <tr>
@@ -34,7 +35,7 @@ layout: page
             <td>[Drive Folder](https://drive.google.com/drive/folders/1ZuF0oFt4WOza_54qWqZTXrUY6camiqKp?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1DNG4jmAzLdeGdw0x6FKkEhhTfR0W1Nwp)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1A2tghRaPWWPHn7Mukl-At_jkkTbpUTu5?usp=sharing)</td>
-            <td><i>TBA</i><!--<a href="https://drive.google.com/drive/folders/1CmJ18I1N17uX1dB4D-lWDCXJl0kjZ5RH?usp=sharing">Drive Folder<a>--></td>
+            <td>*TBA*<!--<a href="https://drive.google.com/drive/folders/1CmJ18I1N17uX1dB4D-lWDCXJl0kjZ5RH?usp=sharing">Drive Folder<a>--></td>
         </tr>
         <tr>
             <td>**2T1-2T2**</td>
@@ -64,7 +65,7 @@ layout: page
             <td>[Drive Folder](https://drive.google.com/drive/folders/1QyhLxtmdB3Zf2CPfX6nRAvxgFIUW7eDl?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1N1euhdrQjuTzGajx3fFlkvLHwvxTEQ8W?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1ia_1pPPsJs9ITNW2alC46v97n0tmWOku)</td>
-            <td><em>Not available</em></td>
+            <td>*Not available*</td>
         </tr>
         <tr>
             <td>**1T8-1T9**</td>
@@ -112,37 +113,39 @@ layout: page
             <td>[Drive Folder](https://drive.google.com/drive/folders/1OZuB0IVxhewzaYcZGh1wPhiP7Mn2KKGO?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1e326AzVZ28SUIE9vodXu03Q50hl3EvxY?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/122h67gba-S3KtTNicXjbq7yBYcjJ1CCK?usp=sharing)</td>
-            <td><em>Not Available</em></td>
+            <td>*Not Available*</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1mM3_SM4R3QgnimI0t3GB59llSGAjh7aM?usp=sharing)</td>
-            <td><em>Not Available</em></td>
+            <td>*Not Available*</td>
         </tr>
         <tr>
             <td>**1T3-1T4**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/0B2SUZIh_6iOgamJyQkFteExYX2s?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/0B2SUZIh_6iOgQ2cyTHBWNEw4dVE?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/14WRBFFAHIGx9MTwApDCOL8mnNaSCN5Te?usp=sharing)</td>
-            <td><em>Not available</em></td>
-            <td><em>Not available</em></td>
-            <td><em>Not available</em></td>
-            <td><em>Not Available</em></td>
+            <td>*Not available*</td>
+            <td>*Not available*</td>
+            <td>*Not available*</td>
+            <td>*Not Available*</td>
         </tr>
         <tr>
             <td>**1T2-1T3**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1LqZDhjlXMMtVgdCepc_Uv43oRsPHD4JI?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/10rot_jmH5LqtweKeCJczkhAAT-AjzCnh?usp=sharing)</td>
-            <td><em>Not available</em></td>
-            <td><em>Not available</em></td>
-            <td><em>Not available</em></td>
-            <td><em>Not available</em></td>
-            <td><em>Not Available</em></td>
+            <td>*Not available*</td>
+            <td>*Not available*</td>
+            <td>*Not available*</td>
+            <td>*Not available*</td>
+            <td>*Not Available*</td>
         </tr>
     </tbody>
 </table> <br>
 <div>
     <h3>Council and General Meetings</h3>
-    <p>General Meetings are where all undergraduate engineering students can vote on a focused set of topics. In particular, The Annual General Meeting (or "AGM") includes ratification of any changes that the Board of Directors has made to the Constitution in the past year, ratification of the Society&rsquo;s audited financial statements for the previous fiscal year, and appointment of auditors for the current fiscal year. General Meetings are overseen by the VP Communications unless they are for the purpose of recall, in which case they are overseen by the Chief Returning Officer.</p>
+    
+General Meetings are where all undergraduate engineering students can vote on a focused set of topics. In particular, The Annual General Meeting (or "AGM") includes ratification of any changes that the Board of Directors has made to the Constitution in the past year, ratification of the Society&rsquo;s audited financial statements for the previous fiscal year, and appointment of auditors for the current fiscal year. General Meetings are overseen by the VP Communications unless they are for the purpose of recall, in which case they are overseen by the Chief Returning Officer.
 </div> <br>
 <div>
     <h3>Board of Directors</h3>
-    <p>Board of Directors Meetings are where representatives from several constituencies discuss and vote on issues which impact students. Decisions of the Board of Directors can change the structure or direction on EngSoc with few limitations.</p>
+    
+Board of Directors Meetings are where representatives from several constituencies discuss and vote on issues which impact students. Decisions of the Board of Directors can change the structure or direction on EngSoc with few limitations.
 </div>

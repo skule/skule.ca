@@ -27,11 +27,11 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 > 
 > **At-Large Representative** [Ana Vukojevic](mailto:ana.vukojevic@mail.utoronto.ca) 
 > 
-> **First Year Representative** <i> Vacant <i> 
+> **First Year Representative** * Vacant * 
 > 
-> **First Year Representative** <i> Vacant </i> 
+> **First Year Representative** * Vacant * 
 > 
-> **First Year Representative** <i> Vacant </i> 
+> **First Year Representative** * Vacant * 
 > 
 > **ChemicalEngineering Representative** [William Krestow](mailto:liam.krestow@mail.utoronto.ca) 
 > 
@@ -39,17 +39,17 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 > 
 > **Electrical and Computer Engineering Representative** [Parker Johnston](mailto:parkerjohnston@mail.utoronto.ca) 
 > 
-> **Electrical and Computer Engineering Representative** <i>Vacant</i> 
+> **Electrical and Computer Engineering Representative** *Vacant* 
 > 
 > **Engineering Science Representative** [Sean Huang](mailto:seanhuang@mail.utoronto.ca) 
 > 
 > **Industrial Engineering Representative** [Aisha Gurses](mailto:aisha.gurses@mail.utoronto.ca) 
 > 
-> **Mechanical Engineering Representative** <i>Vacant</i> 
+> **Mechanical Engineering Representative** *Vacant* 
 > 
 > **Materials Science and Engineering Representative** [Tobin Zheng](mailto:tobin.zheng@mail.utoronto.ca) 
 > 
-> **Mineral Engineering Representative** <i>Vacant</i> 
+> **Mineral Engineering Representative** *Vacant* 
 > 
 > **Speaker**  [Erika Narimatsu ](mailto:speaker@skule.ca) 
 

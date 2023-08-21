@@ -44,7 +44,7 @@ layout: page
                     <div class="content">
                         <p><strong class="has-text-primary">Lady Godiva Memorial Bnad**</p>
                         <p><strong class="has-text-primary">Seenyur Bnad Leedur** Ewan Wai <small class="has-text-primary">Works with VP Student Life</small></p>
-                        <p>Leading the LGMB along with their Drum Majur and Joonyur Bnad Leedur, the Bnad Leedur spreads Skule spirit through open events that anyone can join in. Including you! These events are held regularly throughout the year and are a great way to blow off some steam, make new friends or just show your Skule spirit loud and proud. <i>Will play and sing for food and BEvERages!</i></p> <a class="button is-small is-primary" href="mailto:lgmb@skule.ca">Email</a> <a class="button is-small is-primary" href="http://lgmb.skule.ca">Website</a> <a class="button is-small is-primary" href="http://skulepedia.ca/wiki/Lady_Godiva_Memorial_Bnad">Skulepedia Entry</a>
+                        <p>Leading the LGMB along with their Drum Majur and Joonyur Bnad Leedur, the Bnad Leedur spreads Skule spirit through open events that anyone can join in. Including you! These events are held regularly throughout the year and are a great way to blow off some steam, make new friends or just show your Skule spirit loud and proud. *Will play and sing for food and BEvERages!*</p> <a class="button is-small is-primary" href="mailto:lgmb@skule.ca">Email</a> <a class="button is-small is-primary" href="http://lgmb.skule.ca">Website</a> <a class="button is-small is-primary" href="http://skulepedia.ca/wiki/Lady_Godiva_Memorial_Bnad">Skulepedia Entry</a>
                     </div>
                 </div>
             </article>
@@ -54,7 +54,7 @@ layout: page
                 <div class="media-content">
                     <div class="content">
                         <p><strong class="has-text-success">Ye Olde Mighty Skule Cannon**</p>
-                        <p><strong class="has-text-success">Chief Attiliator** <i>thou wisheth!</i> <small class="has-text-success">Works with the President</small></p> <a class="button is-small is-success" href="mailto:kaboom@skule.ca">Email</a> <a class="button is-small is-success" href="http://smokeandthunder.ca">Website</a>
+                        <p><strong class="has-text-success">Chief Attiliator** *thou wisheth!* <small class="has-text-success">Works with the President</small></p> <a class="button is-small is-success" href="mailto:kaboom@skule.ca">Email</a> <a class="button is-small is-success" href="http://smokeandthunder.ca">Website</a>
                     </div>
                 </div>
             </article>
@@ -63,7 +63,7 @@ layout: page
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <p><strong class="has-text-primary">First Year Chair** <i>Vacant</i> <small class="has-text-primary">Works with VP Student Life</small></p> <a class="button is-small is-primary" href="mailto:firstyearchair@skule.ca">Email</a>
+                        <p><strong class="has-text-primary">First Year Chair** *Vacant* <small class="has-text-primary">Works with VP Student Life</small></p> <a class="button is-small is-primary" href="mailto:firstyearchair@skule.ca">Email</a>
                     </div>
                 </div>
             </article>
@@ -72,7 +72,7 @@ layout: page
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <p><strong class="has-text-primary">Fourth Year Chair** <i>Vacant</i> <small class="has-text-primary">Works with VP Student Life</small></p> <a class="button is-small is-primary" href="mailto:fourthyearchair@skule.ca">Email</a>
+                        <p><strong class="has-text-primary">Fourth Year Chair** *Vacant* <small class="has-text-primary">Works with VP Student Life</small></p> <a class="button is-small is-primary" href="mailto:fourthyearchair@skule.ca">Email</a>
                     </div>
                 </div>
             </article>
@@ -121,7 +121,7 @@ layout: page
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <p><strong class="has-text-danger">Mature Students' Chair** <i>Vacant</i> <small class="has-text-danger">Works with VP Academic</small></p> <a class="button is-small is-danger" href="mailto:maturestudentschair@skule.ca">Email</a>
+                        <p><strong class="has-text-danger">Mature Students' Chair** *Vacant* <small class="has-text-danger">Works with VP Academic</small></p> <a class="button is-small is-danger" href="mailto:maturestudentschair@skule.ca">Email</a>
                     </div>
                 </div>
             </article>
@@ -130,7 +130,7 @@ layout: page
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <p><strong class="has-text-danger">Part-Time Students' Chair** <i>Vacant</i> <small class="has-text-danger">Works with VP Academic</small></p> <a class="button is-small is-danger" href="mailto:parttimechair@skule.ca">Email</a>
+                        <p><strong class="has-text-danger">Part-Time Students' Chair** *Vacant* <small class="has-text-danger">Works with VP Academic</small></p> <a class="button is-small is-danger" href="mailto:parttimechair@skule.ca">Email</a>
                     </div>
                 </div>
             </article>

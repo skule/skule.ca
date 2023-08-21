@@ -130,7 +130,7 @@ layout: page
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <p><b class="has-text-info">Engineering Stores Managers</b> Ashlyn Abdelmaseeh and Aidan Maunder <small class="has-text-info">Overseen by VP Finance</small></p>
+                        <p><b class="has-text-info">Engineering Stores Managers** Ashlyn Abdelmaseeh and Aidan Maunder <small class="has-text-info">Overseen by VP Finance</small></p>
                         <p>The Stores Managers operate the store where many students will pick up their first year textbooks, coveralls, or leather jackets. They work with their staff throughout the year to coordinate with student groups on campus, providing a central location for academic materials and other Skule™ necessities.</p> <a class="button is-small is-info" href="mailto:stores@skule.ca">Email</a> <a class="button is-small is-info" href="http://stores.skule.ca">Website</a>
                     </div>
                 </div>
@@ -191,7 +191,7 @@ layout: page
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <p><b class="has-text-info">Hard Hat Café Managers</b> Edlyn Li and Kelvin Lo <small class="has-text-info">Overseen by VP Finance</small></p>
+                        <p><b class="has-text-info">Hard Hat Café Managers** Edlyn Li and Kelvin Lo <small class="has-text-info">Overseen by VP Finance</small></p>
                         <p>The Café Managers operate the café where students can pick up something to eat between classes. They work with their team to provide a central location for meals and snacks on campus and coordinate with a variety of suppliers to ensure that food is delivered and stored in a safe and timely manner.</p> <a class="button is-small is-info" href="mailto:cafeteria@skule.ca">Email</a> <a class="button is-small is-info" href="https://cafe.skule.ca/">Website</a>
                     </div>
                 </div>
@@ -301,7 +301,7 @@ layout: page
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <p><b class="has-text-info">Sponsorship Director</b>Harvi Karatha <small class="has-text-info">Overseen by VP Finance</small></p>
+                        <p><b class="has-text-info">Sponsorship Director**Harvi Karatha <small class="has-text-info">Overseen by VP Finance</small></p>
                         <p>The Sponsorship Director builds relationships with sponsors in order to provide financial relief for EngSoc initiatives. They maintain a sponsorship package for events such as Cannonball, Gradball, Orientation, and they arrange the sale of advertisements in the Society publications.</p> <a class="button is-small is-info" href="mailto:sponsorship@skule.ca">Email</a>
                     </div>
                 </div>
@@ -311,7 +311,7 @@ layout: page
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <p><b class="has-text-info">SUDS Managers</b> Mila Markovski and Rebecca Ing <small class="has-text-info">Overseen by VP Finance</small></p>
+                        <p><b class="has-text-info">SUDS Managers** Mila Markovski and Rebecca Ing <small class="has-text-info">Overseen by VP Finance</small></p>
                         <p>The SUDS Managers operate Skule™ very own bar every Friday night in the Sandford Fleming basement. They work with a team of volunteer servers to provide a safe and stress-free environment for students to unwind and socialize.</p> <a class="button is-small is-info" href="mailto:suds@skule.ca">Email</a> <a class="button is-small is-info" href="http://suds.skule.ca">Website</a>
                     </div>
                 </div>

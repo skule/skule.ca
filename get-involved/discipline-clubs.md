@@ -33,7 +33,7 @@ layout: page
         <tr>
             <td>Electrical and Computer</td>
             <td>[Website](http://ece.skule.ca/)</td>
-            <td><i>Vacant</i></td>
+            <td>*Vacant*</td>
             <td>ece@skule.ca</td>
             <td>[Link](https://drive.google.com/file/d/10yWvOPO4XsL1hRAr3wRIMAWf5mWwTM2n/view?usp=sharing)</td><!-- this is cooler /content/discipline_clubs/ece/2T0-2T1//REVISED Computer Club Constitution 2T0.pdf-->
             <td>[ecementorship@skule.ca](mailto:ecementorship@skule.ca)</td>
@@ -65,7 +65,7 @@ layout: page
         <tr>
             <td>Mechanical</td>
             <td>[Website](http://mech.skule.ca/)</td>
-            <td><i>Vacant</i></td>
+            <td>*Vacant*</td>
             <td>mechclub@skule.ca</td>
             <td>[Link](https://drive.google.com/file/d/0B3agLOf0dQ6FLVVqZUt1TUczZnc/view?usp=sharing)</td>
             <td><a hef="mailto:miementorship@skule.ca">miementorship@skule.ca</td>

@@ -19,7 +19,7 @@ layout: page
                 <article class="media">
                     <div class="media-content">
                         <div class="content">
-                            <p>**Chief Returning Officer** <i>Katherine Jia</i> <small>Overseen by the Speaker</small></p>
+                            <p>**Chief Returning Officer** *Katherine Jia* <small>Overseen by the Speaker</small></p>
                             <p>The CRO is a neutral body who conducts EngSoc elections, ensuring that they are run fairly and democratically. Along with their Deputy Returning Officers (or DROs) as part of the Office of Returning Officers (or ORO), they spend much of the year refining the election policies and scheduling the elections for the year.</p> <a class="button is-small is-dark" href="mailto:cro@skule.ca">Email</a>
                         </div>
                     </div>

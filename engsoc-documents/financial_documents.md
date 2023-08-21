@@ -3,7 +3,8 @@ title: Financial Documents
 layout: page
 ---
 
-<p>The Engineering Society Operating Budgets highlight expected spending and revenue targets set by the Vice-President Finance, Finance Committee, and the Board of Directors. The Engineering Society Audits are a review of the Society's assets and financial standing prepared by an;independent accounting firm. The statements are approved by our members at the Annual General Meeting.</p>
+
+The Engineering Society Operating Budgets highlight expected spending and revenue targets set by the Vice-President Finance, Finance Committee, and the Board of Directors. The Engineering Society Audits are a review of the Society's assets and financial standing prepared by an;independent accounting firm. The statements are approved by our members at the Annual General Meeting.
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <colgroup span="5" width="20%"> </colgroup>
@@ -24,7 +25,7 @@ layout: page
             <td style="text-align: center;">**2T1-2T2**</td>
             <td style="text-align: center;">[July](https://docs.google.com/spreadsheets/d/12tP5Nn4Z4wbRXgik5C1m5HAh4MjPdLT1/edit?usp=sharing&ouid=111631590450340878953&rtpof=true&sd=true)</td>
             <td style="text-align: center;">[Sept](https://docs.google.com/spreadsheets/d/1dPqMuSf9cRIYP6Hp0dJnsxmbw8VoG-kt/edit?usp=sharing&ouid=111631590450340878953&rtpof=true&sd=true)</td>
-            <td style="text-align: center;"><em>Not Created</em></td>
+            <td style="text-align: center;">*Not Created*</td>
             <td style="text-align: center;">[BDO](https://drive.google.com/file/d/1msmMP083HQ7FtqDudAogS8eTPRM_R3HL/view?usp=sharing)</td>
         </tr>
         <tr>
@@ -85,14 +86,14 @@ layout: page
         </tr>
         <tr>
             <td style="text-align: center;">**1T2-1T3**</td>
-            <td style="text-align: center;"><em>Not Created</em></td>
+            <td style="text-align: center;">*Not Created*</td>
             <td style="text-align: center;">[October AGM](../wp-content/uploads/2013/01/1T2-1T3-AGM-Operating-Budget.pdf)</td>
             <td style="text-align: center;">[January](../wp-content/uploads/2013/01/1T2-1T3-Winter-Operating-Budget-Tables-February-28-20131.pdf)</td>
             <td style="text-align: center;">[BDO](../wp-content/uploads/2013/01/2012-2013-Audit-BDO.pdf)</td>
         </tr>
         <tr>
             <td style="text-align: center;">**1T1-1T2**</td>
-            <td style="text-align: center;"><em>Not Created</em></td>
+            <td style="text-align: center;">*Not Created*</td>
             <td style="text-align: center;">[October](../wp-content/uploads/2013/01/October-Operating-Budget-2011-2012.pdf)</td>
             <td style="text-align: center;">[December Amendment](../wp-content/uploads/2013/01/December-Budget-Amendments-2011-2012.pdf)</td>
             <td style="text-align: center;">[BDO Draft](../wp-content/uploads/2013/01/University-of-Toronto-Engineering-Society-2012-Final-Audit.pdf)</td>
@@ -101,16 +102,17 @@ layout: page
             <td style="text-align: center;">**1T0-1T1**</td>
             <td style="text-align: center;">[Unofficial](../wp-content/uploads/2013/01/Unofficial-July-Budget-2010-2011.pdf)</td>
             <td style="text-align: center;">[October AGM](../wp-content/uploads/2013/01/October-AGM-Operating-Budget-2010-2011.pdf)</td>
-            <td style="text-align: center;"><em>Not Created</em></td>
+            <td style="text-align: center;">*Not Created*</td>
             <td style="text-align: center;">[Collins-Barrow](../wp-content/uploads/2013/01/1T0-1T1-Engineering-Society-Financial-Statements.pdf)</td>
         </tr>
         <tr>
             <td style="text-align: center;">**0T9-1T0**</td>
             <td style="text-align: center;">[June](../wp-content/uploads/2013/01/Operating-Budget-2009-2010-June-7.pdf)</td>
             <td style="text-align: center;">[October AGM](../wp-content/uploads/2013/01/October-AGM-Budget-2009-2010.pdf)</td>
-            <td style="text-align: center;"><em>Not Created</em></td>
+            <td style="text-align: center;">*Not Created*</td>
             <td style="text-align: center;">[Collins-Barrow](../wp-content/uploads/2013/01/0T9-1T0-Engineering-Society-Financial-Statements.pdf)</td>
         </tr>
     </tbody>
 </table>
-<p>&nbsp; If you have any questions about these financial documents, please contact the Vice-President Finance at vpfinance@skule.ca.</p>
+
+&nbsp; If you have any questions about these financial documents, please contact the Vice-President Finance at vpfinance@skule.ca.
