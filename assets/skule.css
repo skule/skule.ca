@@ -58,6 +58,10 @@ html {
     opacity: .6;
 }
 
+.has-text-primary{
+    color: #3b739e !important;
+}
+
 .megaicon i {
     font-size: 64px;
     padding: 16px;
@@ -125,21 +129,5 @@ html {
         background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95), rgba(239, 239, 239, 0.95)), url('/assets/bookings.jpg') center no-repeat;
         background-size: cover;
         padding: 0;
-    }
-}
-
-/* .footer {
-    background: #ffffff
-} */
-
-.footer-box {
-    background: #ffffff !important;
-    border-radius: 0 !important;
-    box-shadow: 0 0 0 !important;
-}
-
-@media (max-width: 768px) {
-    .footer-box {
-        border-bottom: 0;
     }
 }

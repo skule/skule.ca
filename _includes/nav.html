@@ -1,3 +1,7 @@
+<div class="has-text-centered" style="font-weight:bold; padding:8px; background-color: firebrick; color:white">
+    This site is currently being migrated. Please excuse the errors! 
+</div>
+
 <nav class="navbar is-info" style="background-color: #274d6b" role="navigation" aria-label="main navigation">
     <div class="navbar-brand ">
         <!-- LOGO -->
@@ -16,7 +20,6 @@
     <div class="navbar-menu" id="navMenu">
         <div class="navbar-start"></div>
         <div class="navbar-end ">
-
             {% assign mydocs = site.pages | group_by: 'dir' %}
             {% for cat in mydocs %}
             {% if cat.name != "/"%}
@@ -36,7 +39,6 @@
             </div>
             {% endif %}
             {% endfor %}
-
         </div>
     </div>
 </nav>
