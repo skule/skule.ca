@@ -11,15 +11,15 @@ The committee reviews applications in various rounds throughout the school year 
 
 ## Comittee Members
 
-|Name                       |Role                       |   
-|---------------------------|---------------------------| 
-|Noah Guerin                |VP Student Life            |    
-|Aidan Grenville            |Acting VP Finance          |    
-|Lincoln Macdonald          |DTA Director               |    
-|Natalia Espinosa-Merlano   |Board Member               |    
-|Basil Abu Sara             |Secretary (General Member) |    
-|Zainab Farooqi             |Clerk (General Member)     |    
-|Minahil Bakhtawar          |General Member             |    
-|Karen Ng                   |General Member             |    
-|Harrison Chan              |General Member             |    
-|Ana Vukojevic              |General Member             |    
+| Name                     | Role                       |
+| ------------------------ | -------------------------- |
+| Noah Guerin              | VP Student Life            |
+| Aidan Grenville          | Acting VP Finance          |
+| Lincoln Macdonald        | DTA Director               |
+| Natalia Espinosa-Merlano | Board Member               |
+| Basil Abu Sara           | Secretary (General Member) |
+| Zainab Farooqi           | Clerk (General Member)     |
+| Minahil Bakhtawar        | General Member             |
+| Karen Ng                 | General Member             |
+| Harrison Chan            | General Member             |
+| Ana Vukojevic            | General Member             |
