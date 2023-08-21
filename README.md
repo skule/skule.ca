@@ -62,5 +62,7 @@ The layouts available are:
 Here are some things to note:
 - Page titles are automatically added, so don't write a title in the content, or you'll have a duplicate.
 - First-level headings are used for page titles only. Start from second-level headings, especially if you are using a `page-with-menu`.
+- Use second-level headings if you want them to show up on page menus!
+- Avoid using anything except alphanumeric characters when using page menus.
 
 Page content uses Markdown for formatting, and HTML can interlaced within. [Here's a Markdown guide](https://www.markdownguide.org/basic-syntax/).

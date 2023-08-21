@@ -8,12 +8,15 @@ layout: page
         <aside class="menu">
             <p class="menu-label"> Menu </p>
             <ul class="menu-list">
-                {% assign lines = page.content | replace:"##","> ##" | split:">" %}
+                {% assign lines = page.content | newline_to_br | split:"<br />" %}
                 {% for line in lines %}
-                {% if line contains " ## " %}
-                <li><a href="#{{ line | remove:"##" | slugify}}">{{ line | remove:"##" }}</a></li>
+                {% if line contains "##" %}
+                {% unless line contains "###" %}
+                <li><a href="#{{ line | replace:" ##","" | slugify }}">{{ line | replace:"##",""}}</a></li>
+                {% endunless %}
                 {% endif %}
                 {% endfor %}
+                <br><br>
             </ul>
         </aside>
     </div>
