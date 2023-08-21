@@ -79,11 +79,13 @@ html {
     background-color: #3b739e;
     color: white;
     border-radius: 16px;
+    margin-bottom: 16px;
 }
 
 .megaicon {
     color: #3b739e;
     font-weight: 700;
+    font-size: 18px;
 }
 
 #about {
