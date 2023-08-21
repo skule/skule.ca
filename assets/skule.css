@@ -58,9 +58,17 @@ html {
     opacity: .6;
 }
 
-.megaicon{
-    font-size: 48px;
+.megaicon i {
+    font-size: 64px;
+    padding: 16px;
+    background-color: #3b739e;
+    color:white;
+    border-radius: 16px;
+}
+
+.megaicon {
     color: #3b739e;
+    font-weight: 700;
 }
 
 #about {
