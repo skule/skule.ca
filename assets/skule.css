@@ -58,6 +58,11 @@ html {
     opacity: .6;
 }
 
+.megaicon{
+    font-size: 48px;
+    color: #3b739e;
+}
+
 #about {
     background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('/assets/about.jpg') center no-repeat;
     background-size: cover;
