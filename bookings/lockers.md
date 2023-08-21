@@ -1,7 +1,6 @@
 ---
 title: Locker Rentals
 layout: default
-order: 200
 ---
 
 <p>Please read the below instructions carefully if you are thinking of renting or are a current renter. For urgent requests regarding an existing locker rental please contact the VP Student Life at <a href="mailto:vpstudentlife@skule.ca" target=_blank>vpstudentlife@skule.ca</a>.</p>

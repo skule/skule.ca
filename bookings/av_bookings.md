@@ -1,7 +1,6 @@
 ---
 title: Audiovisual Equipment Rentals
 layout: default
-order: 100
 ---
 
 <p>If you are an EngSoc-affiliated Club, Associated Entity, Project Directorship, or Discipline Club, and affiliated with Ulife/SOP, you can book projectors, speakers, and microphones through EngSoc. Instructions for booking non-EngSoc spaces can be found <a href="https://drive.google.com/file/d/1-dLtknTFG0V99_lt0c71CH72E35bExgs/view" target=_blank>in this document</a>, and more information about SOP affiliation can be found <a href="https://sop.utoronto.ca/" target=_blank>in this site</a>.</p>
