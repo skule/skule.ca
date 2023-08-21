@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+#crest {
+    background-image: url("/assets/engsoc-crest-w.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.tab.is-active a {
+    background-color: #eeeeee !important;
+    color: #3b739e !important;
+}
+
+.tab.is-active a:hover {
+    background-color: #eeeeee !important;
+    color: #3b739e !important;
+}
+
+
+.is-primary {
+    background-color: #3b739e !important;
+}
+
+.menu {
+    position: sticky;
+    top: 20px;
+}
+
+.box {
+    box-shadow: 0 0 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300 !important;
+}
+
+html {
+    font-family: 'Quicksand', sans-serif !important;
+    background-color: #eeeeee;
+}
+
+/* INDEX PAGE SUBSECTIONS STYLING */
+.index:before {
+    content: '';
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
+    opacity: .6;
+}
+
+#about {
+    background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('/assets/about.jpg') center no-repeat;
+    background-size: cover;
+}
+
+#get-involved {
+    background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('/assets/get-involved.jpg') center no-repeat;
+    background-size: cover;
+}
+
+#finances {
+    background: linear-gradient(to right, rgba(239, 239, 239, 0.98), rgba(239, 239, 239, 0.98)), url('/assets/finances.jpg') center no-repeat;
+    background-size: cover;
+}
+
+#club-resources {
+    background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('/assets/club-resources.jpg') center no-repeat;
+    background-size: cover;
+}
+
+#bookings {
+    background: linear-gradient(to right, rgba(239, 239, 239, 0.95), rgba(239, 239, 239, 0.95)), url('/assets/bookings.jpg') center no-repeat;
+    background-size: cover;
+}
+
+@media (max-width: 768px) {
+    #about {
+        background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 60%, rgba(239, 239, 239, 0) 90%), url('/assets/about.jpg') center no-repeat;
+        background-size: cover;
+        padding: 0 0 25%;
+    }
+
+    #get-involved {
+        background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 60%, rgba(239, 239, 239, 0) 90%), url('/assets/get-involved.jpg') center no-repeat;
+        background-size: cover;
+        padding: 0 0 25%;
+    }
+
+    #finances {
+        background: linear-gradient(to right, rgba(239, 239, 239, 0.98) 0%, rgba(239, 239, 239, 0.98) 75%, rgba(239, 239, 239, 0) 100%), url('/assets/finances.jpg') center no-repeat;
+        background-size: cover;
+        padding: 0;
+    }
+
+    #club-resources {
+        background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 60%, rgba(239, 239, 239, 0) 90%), url('/assets/club-resources.jpg') center no-repeat;
+        background-size: cover;
+        padding: 0 0 25%;
+    }
+
+    #bookings {
+        background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95), rgba(239, 239, 239, 0.95)), url('/assets/bookings.jpg') center no-repeat;
+        background-size: cover;
+        padding: 0;
+    }
+}
+
+/* .footer {
+    background: #ffffff
+} */
+
+.footer-box {
+    background: #ffffff !important;
+    border-radius: 0 !important;
+    box-shadow: 0 0 0 !important;
+}
+
+@media (max-width: 768px) {
+    .footer-box {
+        border-bottom: 0;
+    }
+}
