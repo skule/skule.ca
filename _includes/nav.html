@@ -6,19 +6,19 @@
         </a>
 
         <!-- navbar burger for mobile -->
-        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
         </a>
     </div>
 
-    <div class="navbar-menu ">
+    <div class="navbar-menu" id="navMenu">
         <div class="navbar-start">
             {% assign mydocs = site.pages | group_by: 'dir' %}
             {% for cat in mydocs %}
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link" href="e">{{ cat.name | remove: "/" | replace: "-", " " | capitalize }}</a>
+                <a class="navbar-link">{{ cat.name | remove: "/" | replace: "-", " " | capitalize }}</a>
                 <div class="navbar-dropdown">
                     {% assign items = cat.items | sort: 'order' %}
                     {% for item in items %}
@@ -41,7 +41,7 @@
             {% endfor %}
         </h1>
     </div>
-    <div class="hero-foot container">
+    <div class="hero-foot container is-hidden-touch">
         <nav class="tabs is-boxed">
             <ul class="major">
                 {% assign items = site.pages | sort: "order" %}
@@ -53,3 +53,22 @@
             </ul>
     </div>
 </section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Get all "navbar-burger" elements
+        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+        // Add a click event on each of them
+        $navbarBurgers.forEach(el => {
+            el.addEventListener('click', () => {
+                // Get the target from the "data-target" attribute
+                const target = el.dataset.target;
+                const $target = document.getElementById(target);
+                // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+                el.classList.toggle('is-active');
+                $target.classList.toggle('is-active');
+            });
+        });
+
+    });
+</script>
