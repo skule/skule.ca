@@ -1,5 +1,10 @@
-<h2 class="title">Financial Documents</h2>
-<p>The Engineering Society <em>Operating Budgets</em>&nbsp;highlight expected spending and&nbsp;revenue&nbsp;targets set by the Vice-President Finance, Finance Committee, and the Board of Directors. The Engineering Society <em>Audits</em> are a review of the Society's assets and financial standing prepared by an&nbsp;independent&nbsp;accounting firm. The statements are approved by our members at the Annual General Meeting.</p>
+---
+title: Financial Documents
+layout: default
+---
+
+<p>The Engineering Society Operating Budgets highlight expected spending and revenue targets set by the Vice-President Finance, Finance Committee, and the Board of Directors. The Engineering Society Audits are a review of the Society's assets and financial standing prepared by an;independent accounting firm. The statements are approved by our members at the Annual General Meeting.</p>
+
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <colgroup span="5" width="20%"> </colgroup>
     <tbody>

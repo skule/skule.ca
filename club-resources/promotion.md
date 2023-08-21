@@ -1,4 +1,8 @@
-<h1 class="title">Promotion</h1>
+---
+title: Promotion
+layout: default
+---
+
 <p>EngSoc offers several outlets for affiliated and unaffiliated clubs to promote themselves. <b>The use of the Skule<sup>TM</sup> trademark (either in name or image) is a privilege reserved solely for affiliated clubs</b>. Unaffiliated clubs/groups may not use the Skule<sup>TM</sup> trademark in any manner, including, but not limited to, the club name, products, and promotional materials. No advertisements may claim to represent Skule<sup>TM</sup> as a whole nor indicate that the group is endorsed by the Engineering Society, unless told otherwise by the Vice-President Communications.
 <h3>Guide for Best Practices <i>(Coming Soon)</i></h3>
 <p>A guidebook for best practices when marketing to students is currently under construction. In the meantime, if you'd like some advise or guidance, please reach out to the VP Communications at vpcomm@skule.ca.</p>

@@ -1,4 +1,7 @@
-<h1 class="title">Club Affiliation Process</h1>
+---
+title: Club Affiliation Process
+layout: default
+---
 
 <p>Affiliating a club with the Engineering Society makes it eligible for EngSoc funding and allows it to book resources such as rooms, AV equipment, or a barbecue. Clubs which have been affiliated in the past must apply for re-affiliation each year, while clubs which have not affiliated recently must apply for trial affiliation before transitioning to full affiliation after at least four months. Please read <a href="https://drive.google.com/file/d/131fr_DDU6sE7p2DKIQtcqVucrNmtL5Ne">the policy on club affiliation</a> before submitting an application. Applications are always open! <!--Please note that in order to participate in the clubs fair hosted by the Engineering Society on September 4th, 2019 you will need to have your affiliation application submitted by July 30th 11:59 PM.--> </p> <br>
 <h3>Guide</h3>

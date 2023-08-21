@@ -1,3 +1,0 @@
-<h1 class="title">Food Discounts</h1>
-<p>There are no food sponsorships yet. We will announce it when we have new information - thank you for your patience!</p><!--      <a class="button is-primary" href="https://drive.google.com/file/d/0B89eE6k71A1lTXVoU1NFOG5iZ0JYeV9ZZmVWeWo0c3NmZjNJ/view?usp=sharing">Food Sponsorship Information</a><h1 class="title">Domino's Sponsorship Form</h1><p>If you would like Domino's to sponsor your events for pizza, please fill out the following application form and send an email to vpfinance@skule.ca with the subject: <i>Domino's Pizza Sponsorship - (Name of Club)</i>. </p>      <a class="button is-primary" href="https://skule.ca/wp-content/uploads/DominosForm.pdf">Domino's Sponsorship Form</a>   </div>-->
-</div>
