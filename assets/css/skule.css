@@ -7,6 +7,18 @@
     background-position: center;
 }
 
+
+.tab.is-active a{
+    background-color: #eeeeee !important;
+    color: #3b739e !important;
+}
+
+.tab.is-active a:hover{
+    background-color: #eeeeee !important;
+    color: #3b739e !important;
+}
+
+
 .is-primary {
     background-color: #3b739e !important;
 }

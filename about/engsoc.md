@@ -21,11 +21,11 @@ The Board of Directors is the highest level of governance and oversees all of th
 
 ## Project Directors
             
-Project Directors each manage a particular service or initiative, from managing a cafe to teaching high school students about engineering. Many of them form committees or teams open to anyone at Skuleâ„¢ to achieve their goals for the year. They are elected by the outgoing EngSoc Council members near the end of their terms. [See the Project Directors page](/get_involved/directorships/) for more details.
+Project Directors each manage a particular service or initiative, from managing a cafe to teaching high school students about engineering. Many of them form committees or teams open to anyone at Skule™ to achieve their goals for the year. They are elected by the outgoing EngSoc Council members near the end of their terms. [See the Project Directors page](/get_involved/directorships/) for more details.
 
 ## Associated Entities
             
-Associated Entities are non-EngSoc organizations who are considered part of Council because of their contributions to the Skuleâ„¢ community. The method by which they are elected or appointed varies based on their position. For mor information, please [visit the Associated Entities page](/get_involved/associated/).
+Associated Entities are non-EngSoc organizations who are considered part of Council because of their contributions to the Skule™ community. The method by which they are elected or appointed varies based on their position. For mor information, please [visit the Associated Entities page](/get_involved/associated/).
 
 ## Class Representatives
             
