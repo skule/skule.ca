@@ -7,17 +7,17 @@ layout: page
 <table>
     <tbody>
         <tr>
-            <td><strong>Year</strong></td>
-            <td><strong>General Meetings</a></strong></td>
-            <td><strong>Board of Directors</a></strong></td>
-            <td><strong>Finance Committee</strong></td>
-            <td><strong>Academic Advocacy Committee</strong></td>
-            <td><strong>Club Affiliations Committee</strong></td>
-            <td><strong>Policy & Structures Committee</strong></td>
-            <td><strong>Skule Endowment Fund Committee</strong></td>
+            <td>**Year**</td>
+            <td>**General Meetings</a>**</td>
+            <td>**Board of Directors</a>**</td>
+            <td>**Finance Committee**</td>
+            <td>**Academic Advocacy Committee**</td>
+            <td>**Club Affiliations Committee**</td>
+            <td>**Policy & Structures Committee**</td>
+            <td>**Skule Endowment Fund Committee**</td>
         </tr>
         <tr>
-            <td><strong>2T3-2T4</strong></td>
+            <td>**2T3-2T4**</td>
             <td>TBA</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1tUAWier4zMczgIPjxFRkwH_rzctihfYl)</td>
             <td>TBA</td>
@@ -27,7 +27,7 @@ layout: page
             <td>TBA</td>
         </tr>
         <tr>
-            <td><strong>2T2-2T3</strong></td>
+            <td>**2T2-2T3**</td>
             <td>[Drive Folder]( https://drive.google.com/drive/folders/1BUEKCjtoGzEv8qzTQiX84Ms_qdN73kUK)</td>
             <td>[Drive Folder](https://drive.google.com/drive/u/0/folders/1jWCVMh6RI_aNsA9aRgRXKa0AfEHNdQ9B)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1o_lP8ivyW5BwrWMrAbvhauuOdXAWj-GV)</td>
@@ -37,7 +37,7 @@ layout: page
             <td><i>TBA</i><!--<a href="https://drive.google.com/drive/folders/1CmJ18I1N17uX1dB4D-lWDCXJl0kjZ5RH?usp=sharing">Drive Folder<a>--></td>
         </tr>
         <tr>
-            <td><strong>2T1-2T2</strong></td>
+            <td>**2T1-2T2**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1RZABF8dymOpEq_HgzYvoZTtAiclpGw8I?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1Z3G4_3e-wz6OtG4Kz91MlYc7U82AOrrb?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1hO8JTZxt6zFcb-wac6RVsD8qDs2c-vtD?usp=sharing)</td>
@@ -47,7 +47,7 @@ layout: page
             <td><a href="https://drive.google.com/drive/folders/1CmJ18I1N17uX1dB4D-lWDCXJl0kjZ5RH?usp=sharing">Drive Folder<a></td>
         </tr>
         <tr>
-            <td><strong>2T0-2T1</strong></td>
+            <td>**2T0-2T1**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1dj29W2Lo8bkUPeYbV2fA1TG4N575lByD)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1lAoOujiQ8drW5sosEvJvmZWPQPeg2dML?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1wHBwbot3lUjXsQQ8JR0OeQvYdYzJeBf5?usp=sharing)</td>
@@ -57,7 +57,7 @@ layout: page
             <td><a href="https://drive.google.com/drive/folders/1KQ9lTTn53qT_RzON8L8IyZe-uiTljjF2?usp=sharing">Drive Folder<a></td>
         </tr>
         <tr>
-            <td><strong>1T9-2T0</strong></td>
+            <td>**1T9-2T0**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1CaPxxstG3WvXl1J8VVHL7k4kc-bKz4E-?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1uGDdrDnz0uTPhU0zbv9aS0cutQ1SjPBg?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/19zONKII5w0n3qfzqwd6oneqWRq-lo5AQ?usp=sharing)</td>
@@ -67,7 +67,7 @@ layout: page
             <td><em>Not available</em></td>
         </tr>
         <tr>
-            <td><strong>1T8-1T9</strong></td>
+            <td>**1T8-1T9**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1qG-ktuJBSghBAsED3ajla7SXMYjgr900?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1OUy2yLfn4wY1Kz0N3Hi9FQmjMALslKtW?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/182bP6gA-iO5fJAuHoRwybQDwHprW_9AG)</td>
@@ -77,7 +77,7 @@ layout: page
             <td><a href="https://drive.google.com/drive/folders/1bY0ZK1DxuoJqpS3PhDD5jSwOJanqR6zO?usp=sharing">Drive Folder</td>
         </tr>
         <tr>
-            <td><strong>1T7-1T8</strong></td>
+            <td>**1T7-1T8**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1Tvb_v7uYo-rm9dBqFfA7s1mZTF3felhS?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/15JDkOjaL_erVadwE-SPoSEl0XXxD9kCE?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/17H9SikX_U_u9gaw0MaHC0kZqkpbSCaIQ?usp=sharing)</td>
@@ -87,7 +87,7 @@ layout: page
             <td>[Drive Folder](https://drive.google.com/drive/folders/1iGn0jd7RT3WS5PxAckhIA7QUPqo5B-OC?usp=sharing)</td>
         </tr>
         <tr>
-            <td><strong>1T6-1T7</strong></td>
+            <td>**1T6-1T7**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/0B3agLOf0dQ6FMVpUMzdadmJkcUE?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/0B3agLOf0dQ6FTHFXMzVsQzUzQmc?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1FJTqZm6UrhCskcgcfSshJAeFS1qTEDzc?usp=sharing)</td>
@@ -97,7 +97,7 @@ layout: page
             <td>[Drive Folder](https://drive.google.com/drive/folders/1pvNtqAD1zQQa4lao4B1m0eghroxNqFx8?usp=sharing)</td>
         </tr>
         <tr>
-            <td><strong>1T5-1T6</strong></td>
+            <td>**1T5-1T6**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/0B3agLOf0dQ6FcnFaWmV2eHplNDA?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/0B4NAsswStjIXQUl2NTRwT3FzMmM?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1lGka8h3KWTYAahc-f1vC21ifeWZcLVce?usp=sharing)</td>
@@ -107,7 +107,7 @@ layout: page
             <td>[Drive Folder](https://drive.google.com/drive/folders/1CopmtsLMmWwKpOS1wcsnYN2ujLNf_R09?usp=sharing)</td>
         </tr>
         <tr>
-            <td><strong>1T4-1T5</strong></td>
+            <td>**1T4-1T5**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1558njode9GlKOBJ_sOiogzwZ4sKKkBQg?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1OZuB0IVxhewzaYcZGh1wPhiP7Mn2KKGO?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1e326AzVZ28SUIE9vodXu03Q50hl3EvxY?usp=sharing)</td>
@@ -117,7 +117,7 @@ layout: page
             <td><em>Not Available</em></td>
         </tr>
         <tr>
-            <td><strong>1T3-1T4</strong></td>
+            <td>**1T3-1T4**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/0B2SUZIh_6iOgamJyQkFteExYX2s?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/0B2SUZIh_6iOgQ2cyTHBWNEw4dVE?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/14WRBFFAHIGx9MTwApDCOL8mnNaSCN5Te?usp=sharing)</td>
@@ -127,7 +127,7 @@ layout: page
             <td><em>Not Available</em></td>
         </tr>
         <tr>
-            <td><strong>1T2-1T3</strong></td>
+            <td>**1T2-1T3**</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/1LqZDhjlXMMtVgdCepc_Uv43oRsPHD4JI?usp=sharing)</td>
             <td>[Drive Folder](https://drive.google.com/drive/folders/10rot_jmH5LqtweKeCJczkhAAT-AjzCnh?usp=sharing)</td>
             <td><em>Not available</em></td>

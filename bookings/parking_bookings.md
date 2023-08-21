@@ -5,7 +5,7 @@ layout: page
 
 <p><b>We have a temporary parking space at the moment due to the ongoing construction at the Cumberland House. Please use Lot O, which is directly behind the Pratt building. There are no assigned parking spaces and no reserve signs, so you may park in whichever space is available in the lot." </b></p>
 <p>EngSoc-affiliated Clubs and Project Directorships can book the EngSoc Parking spot through EngSoc. The Engineering Society Parkings spot is #382, located between the Annex and the Center for the International Experience.</p>
-<p>To book a parking spot, please send an email to Rhonda at <a href="mailto:rhonda@skule.ca" target=_blank>rhonda@skule.ca</a> and the VP Student Life at <a href="mailto:vpstudentlife@skule.ca" target=_blank>vpstudentlife@skule.ca</a> with the following information:
+<p>To book a parking spot, please send an email to Rhonda at <a href="mailto:rhonda@skule.ca">rhonda@skule.ca</a> and the VP Student Life at <a href="mailto:vpstudentlife@skule.ca">vpstudentlife@skule.ca</a> with the following information:
 <ul>
     <li>Contact name and email</li>
     <li>Organization name</li>

@@ -7,7 +7,7 @@ layout: page
     <article class="media">
         <div class="media-content">
             <div class="content">
-                <p><strong>No major updates as of May 16th, 2021.</strong></p>
+                <p>**No major updates as of May 16th, 2021.**</p>
             </div>
         </div>
     </article>

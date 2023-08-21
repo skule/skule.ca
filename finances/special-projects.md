@@ -17,13 +17,13 @@ layout: page
     <li>Hosting the 2012 Ontario Engineering Competitions at the University of Toronto</li>
     <li>A rocket test stand for University of Toronto Aerospace Team</li>
 </ul>
-<p><strong>Note:</strong> Affiliated Clubs are also eligible to receive funding from EngSoc, see [Club Funding](../club_funding) for more details.</p>
+<p>**Note:** Affiliated Clubs are also eligible to receive funding from EngSoc, see [Club Funding](../club_funding) for more details.</p>
 <h5> Total Funding Available for 2T3-2T4: $50,000 <br>Funding Remaining as of August 2021: TBD</h5>
 <p> Please note that funding is approved on a first come, first serve basis.</p>
 <h3>Application Process</h3> <a class="button is-primary" href="../content/finance/2T1-2T2/Special-Projects-Application-2T1-2T2.xlsx" download> Application Download </a> <a class="button is-danger" href="https://docs.google.com/forms/d/e/1FAIpQLSfwNSAK8fXTA_NpJDPme0jj8PRZZviyFTfwgqLcAWLmAGPsdg/viewform "> Application Form</a>
 <ol>
-    <li>Fill in the <strong>written application</strong>. Please only use the space provided.</li>
-    <li>Fill in the <strong>excel template</strong> to detail any budgeting revenue and expenses.</li>
+    <li>Fill in the **written application**. Please only use the space provided.</li>
+    <li>Fill in the **excel template** to detail any budgeting revenue and expenses.</li>
     <li>Email both the application and the budget to [vpfinance@skule.ca](mailto:vpfinance@skule.ca) and [finance.secretary@skule.ca](mailto:finance.secretary@skule.ca) with the subject/name:<br> <em>(Name of Organization/Project)_Special Projects Funding</em> </li>
     <li>The application will be discussed by the Finance Committee to reach a recommendation. Once the recommendation is approved by the Board, the finance secretary will let you know if your project has been approved or rejected.</li>
 </ol>

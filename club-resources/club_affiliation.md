@@ -9,14 +9,14 @@ layout: page
 <p></p>
 <div>
     <h3>Trial-Status Affiliation Application</h3>
-    <p> If your club is not affiliated with EngSoc, you can for trial status affiliation with this form. The trial status affiliation will provide your club with all the same benefits as other affiliated clubs, except you will be subject to a lower maximum amount of funding. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqFgPQ3vC_FNfJZBJN2LBJSfQoilr-W82-z5wNw4aaEjEeiQ/viewform" target="_blank">Apply here</a> </p>
+    <p> If your club is not affiliated with EngSoc, you can for trial status affiliation with this form. The trial status affiliation will provide your club with all the same benefits as other affiliated clubs, except you will be subject to a lower maximum amount of funding. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqFgPQ3vC_FNfJZBJN2LBJSfQoilr-W82-z5wNw4aaEjEeiQ/viewform">Apply here</a> </p>
 </div>
 <div>
     <h3>Trial-Status to Full-Status Affiliation Application</h3>
-    <p> If your club has held trial status affiliation for at least four months, you can apply for full status affiliation with this form. <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7BiDly8Jg5F4iy-RmVEaFZFg92FBB2Ft4d4yOs-bpp9nVvg/viewform" target="_blank">Apply here</a> </p>
+    <p> If your club has held trial status affiliation for at least four months, you can apply for full status affiliation with this form. <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7BiDly8Jg5F4iy-RmVEaFZFg92FBB2Ft4d4yOs-bpp9nVvg/viewform">Apply here</a> </p>
 </div>
 <div>
-    <h3>Full-Status Re-affiliation Application</h3> If your club has held full status affiliation previously, you can apply for full status affiliation with this form. <p> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-oOEtFk2uQsgA3nj9wq1AaI5vAbtUOOYtbpWQcyGG628fxQ/viewform" target="_blank">Apply here</a> </p>
+    <h3>Full-Status Re-affiliation Application</h3> If your club has held full status affiliation previously, you can apply for full status affiliation with this form. <p> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-oOEtFk2uQsgA3nj9wq1AaI5vAbtUOOYtbpWQcyGG628fxQ/viewform">Apply here</a> </p>
 </div>
 <div>
     <h3>UTSU Affiliation</h3>

@@ -23,12 +23,12 @@ layout: page
 </ol>
 <h3>Application Process</h3> <a class="button is-primary" href="https://new.skule.ca/upload/finance/Conference-Funding-Application-2T3-2T4-Group.xlsx" download> Group Application Download </a><a class="button is-primary" href="https://new.skule.ca/upload/finance/Conference-Funding-Application-2T3-2T4-Individual.xlsx" download> Individual Application Download </a><a class="button is-danger" href="https://docs.google.com/forms/u/2/d/e/1FAIpQLSc-rONEqG6p9s-P5y7LsPGavkY9m00JPIh_ktQBzTZ3OpNcLw/viewform"> Winter Special Project Funding Application </a>
 <ol>
-    <li>Fill in the <strong>written application</strong>. Please only use the space provided.</li>
-    <li>Fill in the <strong>excel template</strong> to detail the expenses. Detail the total expenses across the all members. The file will calculate the total amount of funding you should receive.</li>
+    <li>Fill in the **written application**. Please only use the space provided.</li>
+    <li>Fill in the **excel template** to detail the expenses. Detail the total expenses across the all members. The file will calculate the total amount of funding you should receive.</li>
     <li>Email both the application and the excel file to [vpfinance@skule.ca](mailto:vpfinance@skule.ca) and [finance.secretary@skule.ca](mailto:finance.secretary@skule.ca) with the subject:<br> <em>(Name of Organization/Conference)_Conference Funding</em> </li>
     <li>The application will be discussed by the Finance Committee to reach a recommendation. Once the recommendation is approved by the Board, the finance secretary will let you know if your conference funding has been approved or rejected.</li>
 </ol>
-<p><strong>Note:</strong> The written application consists of two parts conference details <b>and a conference review</b>. If you submit the first part of the application before the conference has occurred, the Finance Committee may confirm your funding amount beforehand. This funding will be reimbursed once the second part of application and a cheque requisition has been submitted.</p>
+<p>**Note:** The written application consists of two parts conference details <b>and a conference review</b>. If you submit the first part of the application before the conference has occurred, the Finance Committee may confirm your funding amount beforehand. This funding will be reimbursed once the second part of application and a cheque requisition has been submitted.</p>
 <h3>Funding Review</h3>
 <p>Applications to this fund are accepted on a rolling basis. Once the application is received, it will be reviewed in the subsequent Finance Committee meeting. The turnaround time for applications is approximately one month. If we are requesting more information from you, we recommend you send it as soon as possible so we can process it at the next meeting, and minimize any delays in the process. You may also be requested to meet with the Finance Committee during this process.</p>
 <h3>Funding Release</h3>

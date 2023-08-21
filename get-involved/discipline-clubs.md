@@ -7,12 +7,12 @@ layout: page
 <table>
     <tbody>
         <tr>
-            <td><strong>Discipline Club</strong></td>
-            <td><strong>Website or Page</strong></td>
-            <td><strong>Chair</strong></td>
-            <td><strong>Contact</strong></td>
-            <td><strong>Constitution</strong></td>
-            <td><strong>Mentorship</strong></td>
+            <td>**Discipline Club**</td>
+            <td>**Website or Page**</td>
+            <td>**Chair**</td>
+            <td>**Contact**</td>
+            <td>**Constitution**</td>
+            <td>**Mentorship**</td>
         </tr>
         <tr>
             <td>Chemical</td>
