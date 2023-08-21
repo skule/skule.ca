@@ -1,4 +1,8 @@
-<h1 class="title">Student Levies</h1>
+---
+title: Student Levies
+layout: default
+---
+
 <p>Certain student groups on campus have their own levy that comes from students in addition to other ancillary fees. The purpose of these levies is to provide some of the larger clubs with a regular source of income that fund complex design projects, long distance competitions, and various other activities that students can become involved in.</p>
 <p>Levies are determined by holding a referendum among the entire Engineering Undergraduate student body, and must be renewed every 2 years to ensure that there is still a desire to continue funding each group. The current levies in place are listed below:</p>
 <ul>

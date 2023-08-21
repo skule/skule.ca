@@ -1,4 +1,8 @@
-<h1 class="title">Club Funding 2T2-2T3</h1>
+---
+title: Club Funding
+layout: default
+---
+
 <p>The Engineering Society participates in the Centralized Process for Student Initiative Funding (CPSIF). CPSIF allows student groups to apply to various funding resources from within the Faculty of Applied Science & Engineering in a single application. Departments and affiliates of this program will all receive the same application and budget. The funding process will occur once this academic year during the fall.</p>
 <p>For more information about CPSIF and to begin your application, please visit the <a href="http://alumni.engineering.utoronto.ca/future-alumni/club-funding/form/">Engineering Alumni Association website</a>. A thorough review of the eligibility criteria presented on the Alumni Association website is highly recommended. Especially important is to fill out an Impact Report by the end of the year highlighting how the funds were used. Without this report an organization will not be able to apply for funding the following year.</p>
 <p>In addition to the CPSIF, EngSoc will have an additional round of Club Funding in the Winter. Information regarding Winter round club funding applications and deadlines will be released in the second semester. Clubs that have not received funding from EngSoc will have funding priority. However, groups that have applied to CPSIF in the fall semester may be considered again based on need (i.e. you were a trial club and now have been fully affiliated). Please ensure that your proposed budget reflects activities and programs for the entire academic year. You will be asked to provide past financial records along with projected expenses and all sources of income.</p> <!--<p><a class="button is-primary" href="https://utoronto.sharepoint.com/:x:/r/sites/fase-vdu-setd/_layouts/15/guestaccess.aspx?e=Xf0PXd&share=ETvyA7gAtUVPtOpq7BncV7sBeMJs-Lr41B68PSjmlAX8tQ" download>2021-2022 CPSIF Budget Template</a></p>-->

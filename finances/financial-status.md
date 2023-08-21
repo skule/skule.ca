@@ -1,4 +1,8 @@
-<h1 class="title">Financial Status</h1>
+---
+title: Financial Status
+layout: default
+---
+
 <p>Shown below is the high-level overview of the major funding streams available from EngSoc. For a detailed breakdown of how the funds are used, visit the <a href="http://skule.ca/financial_documents">Financial Documents</a> section.</p>
 <p>If you have any questions about EngSoc's financial information, please contact the VP Finance at <a href="mailto:vpfinance@skule.ca" class="has-text-warning">vpfinance@skule.ca</a>.</p>
 <div id="infographic" style="display: flex; flex-flow: column nowrap; width: 100%; background-image: url(../content/finance/2T0-2T1/funding-bg.png); background-size: contain; background-repeat: no-repeat; font-weight: 400; line-height: 1; padding: 1%; font-size: 1.5vw;">

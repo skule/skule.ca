@@ -1,4 +1,8 @@
-<h1 class="title">Finance Committee</h1>
+---
+title: Finance Committee
+layout: default
+---
+
 <p>Founded in 2008, following a call for increased accountability and help with a high volume of funding applications and allocations, the University of Toronto Engineering Society Finance Committee is a standing committee of the Engineering Society Board of Directors. As a standing committee, whose term lasts 1 year, members of the FC reserve no particular authority but are tasked with helping shape the Society's financial future. Basically, they exist to provide the Board with funding recommendations and assist clubs who seek financial help or guidance.</p>
 <p>For the 2023-2024 year, it will be comprised of 2 Officers (VP Student Life and VP Finance), 4 members-at-large and 1 members of the Board of Directors. The following document provides a short introduction to the Engineering Society Finance Committee for those unfamiliar with their work. For more information, <a href="https://drive.google.com/file/d/1khGt4_ZQWeGjuT2MAzsKbrDdMMvhRkjw/view?usp=sharing">please refer to this</a>.</p>
 <h3>Application Process</h3>
