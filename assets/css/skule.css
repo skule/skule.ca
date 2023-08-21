@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
-.is-primary {
-    background-color: #3b739e !important;
+#crest {
+    background-image: url("/assets/img/engsoc-crest-w.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
-.darkskuleblue {
-    background-color: #274d6b !important;
+.is-primary {
+    background-color: #3b739e !important;
 }
 
 .menu {
@@ -17,12 +20,13 @@
     box-shadow: 0 0 0;
 }
 
-h1, h2, h3, h4, h5, h6, p {
-    font-weight: 350 !important;
-}
-
-.vp-comms-green {
-    background-color: #3b739e !important;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300 !important;
 }
 
 html {
