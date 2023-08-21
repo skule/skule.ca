@@ -1,4 +1,4 @@
-<nav class="navbar darkskuleblue is-info" role="navigation" aria-label="main navigation">
+<nav class="navbar is-info" style="background-color: #274d6b" role="navigation" aria-label="main navigation">
     <div class="navbar-brand ">
         <!-- LOGO -->
         <a class="navbar-item" id="logo" href="/">
@@ -18,7 +18,12 @@
             {% assign mydocs = site.pages | group_by: 'dir' %}
             {% for cat in mydocs %}
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link">{{ cat.name | remove: "/" | replace: "-", " " | capitalize }}</a>
+                <a class="navbar-link">
+                    {% assign titlewords = cat.name | remove: "/" | split: "-" %}
+                    {% for titleword in titlewords %}
+                    {{ titleword | capitalize | replace: "The","the" }}
+                    {% endfor %}
+                </a>
                 <div class="navbar-dropdown">
                     {% assign items = cat.items | sort: 'order' %}
                     {% for item in items %}
@@ -31,28 +36,6 @@
         <div class="navbar-end "></div>
     </div>
 </nav>
-
-<section class="hero is-primary is-small">
-    <div class="hero-body container">
-        <h1 class="title">
-            {% assign titlewords = page.dir | remove: "/" | split: "-" %}
-            {% for titleword in titlewords %}
-            {{ titleword | capitalize | replace: "The","the" }}
-            {% endfor %}
-        </h1>
-    </div>
-    <div class="hero-foot container is-hidden-touch">
-        <nav class="tabs is-boxed">
-            <ul class="major">
-                {% assign items = site.pages | sort: "order" %}
-                {% for item in items %}
-                {% if page.dir == item.dir %}
-                <li class="tab"><a href="{{ item.url }}">{{ item.title }}</a></li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-    </div>
-</section>
 
 <script>
     document.addEventListener('DOMContentLoaded', () => {

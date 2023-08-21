@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<section class="hero is-primary is-small">
+    <div class="hero-body container">
+        <h1 class="title">
+            {% assign titlewords = page.dir | remove: "/" | split: "-" %}
+            {% for titleword in titlewords %}
+            {{ titleword | capitalize | replace: "The","the" }}
+            {% endfor %}
+        </h1>
+    </div>
+    <div class="hero-foot container is-hidden-touch">
+        <nav class="tabs is-boxed">
+            <ul class="major">
+                {% assign items = site.pages | sort: "order" %}
+                {% for item in items %}
+                {% if page.dir == item.dir %}
+                <li class="tab"><a href="{{ item.url }}">{{ item.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+    </div>
+</section>
+
+<section class="section">
+
+    <div class="content container">
+
+        <h1>{{ page.title }}</h1>
+
+        {{ content }}
+        
+    </div>
+
+</section>
