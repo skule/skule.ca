@@ -3,137 +3,56 @@ title: Associated Entities
 layout: page
 ---
 
-<div class="columns is-multiline">
-    <div class="column is-12">
-        <h1 class="title">Associated Entities</h1>
-        <p>These organization and positions are non-EngSoc organizations that are closely tied to EngSoc because of their contributions to the Skule community. Each Associated Entity has at least one point of contact with EngSoc, who is part of the EngSoc Council. The method by which they are elected or appointed varies based on their position.</p>
-    </div>
-    <div class="column is-2 is-hidden-touch">
-        <aside class="menu">
-            <p class="menu-label"> Menu </p>
-            <ul class="menu-list">
-                <li>[Engineering Athletics Association](#eaa)</li>
-                <li>[Lady Godiva Memorial Bnad](#bnad)</li>
-                <li>[Ye Olde Mighty Skule Cannon](#cannon)</li>
-                <li>[First Year Chair](#fyc)</li>
-                <li>[Fourth year Chair](#4yc)</li>
-                <li>[Blue & Gold Committee](#bg)</li>
-                <li>[Skule Nite](#skule-nite)</li>
-                <li>[University of Toronto Governing Council](#gov)</li>
-                <li>[You're Next Career Network](#yncn)</li>
-                <li>[Mature Students' Chair](#msc)</li>
-                <li>[Part-Time Students' Chair](#ptsc)</li>
-            </ul>
-        </aside>
-    </div>
-    <div class="column"> <!-- EAA -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-primary">Engineering Athletics Association**</p>
-                        <p><strong class="has-text-primary">EAA President** Okyu Ugur <small class="has-text-primary">Works with VP Student Life</small></p>
-                        <p>The Engineering Athletics Association runs intramural sports for engineering students at the University of Toronto. Their sports teams compete against other colleges and faculties. EAA also runs leagues for sports between disciplines, as well as sports-focused events.</p> <a class="button is-small is-primary" href="mailto:president@eaa.skule.ca">Email</a> <a class="button is-small is-primary" href="http://eaa.skule.ca">Website</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- Bnad -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-primary">Lady Godiva Memorial Bnad**</p>
-                        <p><strong class="has-text-primary">Seenyur Bnad Leedur** Ewan Wai <small class="has-text-primary">Works with VP Student Life</small></p>
-                        <p>Leading the LGMB along with their Drum Majur and Joonyur Bnad Leedur, the Bnad Leedur spreads Skule spirit through open events that anyone can join in. Including you! These events are held regularly throughout the year and are a great way to blow off some steam, make new friends or just show your Skule spirit loud and proud. *Will play and sing for food and BEvERages!*</p> <a class="button is-small is-primary" href="mailto:lgmb@skule.ca">Email</a> <a class="button is-small is-primary" href="http://lgmb.skule.ca">Website</a> <a class="button is-small is-primary" href="http://skulepedia.ca/wiki/Lady_Godiva_Memorial_Bnad">Skulepedia Entry</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- Cannon -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-success">Ye Olde Mighty Skule Cannon**</p>
-                        <p><strong class="has-text-success">Chief Attiliator** *thou wisheth!* <small class="has-text-success">Works with the President</small></p> <a class="button is-small is-success" href="mailto:kaboom@skule.ca">Email</a> <a class="button is-small is-success" href="http://smokeandthunder.ca">Website</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- FYC -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-primary">First Year Chair** *Vacant* <small class="has-text-primary">Works with VP Student Life</small></p> <a class="button is-small is-primary" href="mailto:firstyearchair@skule.ca">Email</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- 4YC -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-primary">Fourth Year Chair** *Vacant* <small class="has-text-primary">Works with VP Student Life</small></p> <a class="button is-small is-primary" href="mailto:fourthyearchair@skule.ca">Email</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- B&G -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-primary">Blue & Gold Committee**</p>
-                        <p><strong class="has-text-primary">Blue & Gold Committee Chairs**Aidan Castanheiro & Kaija Mikes <small class="has-text-primary">Works with VP Student Life</small></p> <a class="button is-small is-primary" href="mailto:blueandgold@skule.ca">Email</a> <a class="button is-small is-primary" href="http://blueandgold.skule.ca">Website</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- Skule Nite -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-primary">Skule Nite**</p>
-                        <p><strong class="has-text-primary">Skule Nite Director** Thomas Dell <small class="has-text-primary">Works with VP Student Life</small></p> <a class="button is-small is-primary" href="http://skulenite.skule.ca/">Website</a> <a class="button is-small is-primary" href="mailto:skulenite@skule.ca">Email</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- Student Governor -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-success">University of Toronto Governing Council**</p>
-                        <p><strong class="has-text-success">Full-Time Undergraduate Student Governor** Nelson Lee<small class="has-text-success">Works with the President</small></p> <a class="button is-small is-success" href="http://www.governingcouncil.utoronto.ca/">Website</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- YNCN -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-success">You're Next Career Network**</p>
-                        <p><strong class="has-text-success">YNCN President** Hannah Kot <small class="has-text-success">Works with the President</small></p> <a class="button is-small is-success" href="mailto:contact@yourenext.ca">Email</a> <a class="button is-small is-success" href="http://yourenext.ca/">Website</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- MSC -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-danger">Mature Students' Chair** *Vacant* <small class="has-text-danger">Works with VP Academic</small></p> <a class="button is-small is-danger" href="mailto:maturestudentschair@skule.ca">Email</a>
-                    </div>
-                </div>
-            </article>
-        </div> <!-- PTSC -->
-        <div class="box">
-            <article class="media">
-                <div class="media-content">
-                    <div class="content">
-                        <p><strong class="has-text-danger">Part-Time Students' Chair** *Vacant* <small class="has-text-danger">Works with VP Academic</small></p> <a class="button is-small is-danger" href="mailto:parttimechair@skule.ca">Email</a>
-                    </div>
-                </div>
-            </article>
-        </div>
-    </div>
-</div>
+These organization and positions are non-EngSoc organizations that are closely tied to EngSoc because of their contributions to the Skule community. Each Associated Entity has at least one point of contact with EngSoc, who is part of the EngSoc Council. The method by which they are elected or appointed varies based on their position.
+
+
+> ## Engineering Athletics Association
+> <p><b class="vp-student-life-text">EAA President</b> Okyu Ugur 
+> <small class="vp-student-life-text">Works with VP Student Life</small></p>
+> The Engineering Athletics Association runs intramural sports for engineering students at the University of Toronto.Their sports teams compete against other colleges and faculties. EAA also runs leagues for sports between disciplines,as well as sports-focused events.
+> 
+> <a class="button is-small vp-student-life" href="mailto:president@eaa.skuleca">Email</a> 
+> <a class="button is-small vp-student-life" href="http://eaa.skule.ca">Website</a>
+
+> ## Lady Godiva Memorial Bnad
+> <p><b class="vp-student-life-text">Seenyur Bnad Leedur</b> Ewan Wai 
+> <small class="vp-student-life-text">Works with VP Student Life</small> </p>
+> Leading the LGMB along with their Drum Majur and Joonyur Bnad Leedur, the Bnad Leedur spreads Skule spirit through open events that anyone can join in. Including you! These events are held regularly throughout the year and are a great way to blow off some steam, make new friends or just show your Skule spirit loud and proud. *Will play and sing for food and BEvERages!*
+> 
+> <a class="button is-small vp-student-life" href="mailto:lgmb@skule.ca">Email</a> 
+> <a class="button is-small vp-student-life" href="http://lgmb.skule.ca">Website</a> 
+> <a class="button is-small vp-student-life" href="http://skulepedia.ca/wiki/Lady_Godiva_Memorial_Bnad">Skulepedia Entry</a>
+
+> ## Ye Olde Mighty Skule Cannon
+> <p><b class="president-text">Chief Attiliator</b> *thou wisheth!*
+> <small class="president-text">Works with the President</small></p> 
+> 
+> <a class="button is-small president" href="mailto:kaboom@skule.ca">Email</a> 
+> <a class="button is-small president" href="http://smokeandthunder.ca">Website</a>
+
+> ## Blue & Gold Committee
+> <p><b class="vp-student-life-text">Blue & Gold Committee Chairs</b> Aidan Castanheiro & Kaija Mikes
+> <small class="vp-student-life-text">Works with VP Student Life</small></p> 
+> 
+> <a class="button is-small vp-student-life" href="mailto:blueandgold@skule.ca">Email</a> 
+> <a class="button is-small vp-student-life" href="http://blueandgold.skuleca">Website</a>
+
+> ## Skule Nite
+> <p><b class="vp-student-life-text">Skule Nite Director</b> Thomas Dell
+> <small class="vp-student-life-text">Works with VP Student Life</small></p> 
+> 
+> <a class="button is-small vp-student-life" href="http://skulenite.skule.ca/">Website</a> 
+> <a class="button is-small vp-student-life" href="mailto:skulenite@skule.ca">Email</a>
+
+> ## University of Toronto Governing Council
+> <p><b class="president-text">Full-Time Undergraduate Student Governor</b> Nelson Lee
+> <small class="president-text">Works with the President</small></p> 
+> 
+> <a class="button is-small president" href="http://wwwgoverningcouncil.utoronto.ca/">Website</a>
+
+> ## You're Next Career Network
+> <p><b class="president-text">YNCN President</b> Hannah Kot
+> <small class="president-text">Works with the President</small></p> 
+> 
+> <a class="button is-small president" href="mailto:contact@yourenext.ca">Email</a> 
+> <a class="button is-small president" href="http://yourenext.ca/">Website</a>
