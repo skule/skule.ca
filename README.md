@@ -21,13 +21,11 @@ _layouts/
 
 about/, academics/, bookings/, ...
     ├─> ... .md         << pages - edit these !
-    └─> assets/          << add assets folders for page-specific assets
+    └─> assets/         << add assets folders for page-specific assets
 
-assets/                  << sitewide assets only!
-    └─> css/
-    │   └─> skule.css   << modifications to Bulma for skule.ca
-    └─> img/
-        └─> ...         << various *sitewide* icons 
+assets/                 << sitewide assets only!
+    └─> skule.css       << modifications to Bulma for skule.ca
+    └─> imgs            << various *sitewide* icons 
 
 index.html              << homepage, fully self-contained
 
@@ -54,10 +52,15 @@ order: 100
 
 --> Page Content Begins Here <--
 ```
-`title` and `layout` are mandatory. Always enter `default` as the layout. `order` allows manual ordering of the pages within their categories. This informs the order of the pages in the dropdowns. If order is not provided, the pages are instead arranged alphabetically.
+`title` and `layout` are mandatory. `order` allows manual ordering of the pages within their categories. This informs the order of the pages in the dropdowns. If order is not provided, the pages are instead arranged alphabetically.
+
+The layouts available are:
+- `default`, which provides only a top-level navbar and footer
+- `page`, which adds the page title and lower navbar
+- `page-with-menu`, which adds an in-page menu that links to second-level headings
 
 Here are some things to note:
 - Page titles are automatically added, so don't write a title in the content, or you'll have a duplicate.
-- Level one headings are used for page titles only. Start from level two.
+- First-level headings are used for page titles only. Start from second-level headings, especially if you are using a `page-with-menu`.
 
 Page content uses Markdown for formatting, and HTML can interlaced within. [Here's a Markdown guide](https://www.markdownguide.org/basic-syntax/).
