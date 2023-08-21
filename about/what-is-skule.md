@@ -22,7 +22,7 @@ layout: page
     <div class="hero-body">
         <div class="container">
             <h1 class="title"> Lady Godiva Memorial Bnad </h1>
-            <h2 class="subtitle"> The Lady Godiva Memorial Bnad, or "LGMB" for short, is Skule™'s most infamous musical group. Armed with instruments ranging from saxophones and drums to maracas and stop signs, the LGMB welcomes anyone who wishes to join; musical experience is not required. The LGMB is known for appearing unexpectedly at events throughout the year and serenading students, University staff, and innocent bystanders with its well-known melodies. Find out more or sign up at <a href="http://lgmb.skule.ca/">the LGMB website</a>. </h2>
+            <h2 class="subtitle"> The Lady Godiva Memorial Bnad, or "LGMB" for short, is Skule™'s most infamous musical group. Armed with instruments ranging from saxophones and drums to maracas and stop signs, the LGMB welcomes anyone who wishes to join; musical experience is not required. The LGMB is known for appearing unexpectedly at events throughout the year and serenading students, University staff, and innocent bystanders with its well-known melodies. Find out more or sign up at [the LGMB website](http://lgmb.skule.ca/). </h2>
         </div>
     </div>
 </section>
@@ -30,7 +30,7 @@ layout: page
     <div class="hero-body">
         <div class="container">
             <h1 class="title"> Orientation Week </h1>
-            <h2 class="subtitle"> Orientation Week, more commonly known as F!rosh Week, is a week-long event at the beginning of September that introduces new students to the Skule™ community. Incoming students and the upper-year "leedurs" tour St. George campus, participate in a city-wide scavenger hunt, watch the college bed races, compete in the F!rosh Olympics, and more. Find out more or register at <a href="https://www.orientation.skule.ca/">the Orientation website</a>. </h2>
+            <h2 class="subtitle"> Orientation Week, more commonly known as F!rosh Week, is a week-long event at the beginning of September that introduces new students to the Skule™ community. Incoming students and the upper-year "leedurs" tour St. George campus, participate in a city-wide scavenger hunt, watch the college bed races, compete in the F!rosh Olympics, and more. Find out more or register at [the Orientation website](https://www.orientation.skule.ca/). </h2>
         </div>
     </div>
 </section>
@@ -54,7 +54,7 @@ layout: page
     <div class="hero-body">
         <div class="container">
             <h1 class="title"> Skule Nite </h1>
-            <h2 class="subtitle"> Skule Nite is a musical variety show run by students every year. It pokes fun at engineering life with dozens of sketches and songs which the cast and crew prepare for throughout the year, filling Hart House Theatre with laughter. Find out more at <a href="http://skulenite.skule.ca/about">the Skule Nite website</a>. </h2>
+            <h2 class="subtitle"> Skule Nite is a musical variety show run by students every year. It pokes fun at engineering life with dozens of sketches and songs which the cast and crew prepare for throughout the year, filling Hart House Theatre with laughter. Find out more at [the Skule Nite website](http://skulenite.skule.ca/about). </h2>
         </div>
     </div>
 </section>

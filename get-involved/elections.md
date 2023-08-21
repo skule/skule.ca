@@ -14,7 +14,7 @@ layout: page
             <h2>Rules and Procedures</h2>
             <p>The elections process varies depending on the position. Elections are run by the CRO with the help of DROs (Deputy Returning officers) to ensure a fair and unbiased election. As such, EngSoc has put in place rules regarding nominations, campaigning, re-elections etc..
             <p>
-            <p style="font-size: larger;">For more information about the election process, refer to <strong><a href="../governing_documents">Bylaw 3</a></strong>.</p> <!-- CRO -->
+            <p style="font-size: larger;">For more information about the election process, refer to <strong>[Bylaw 3](../governing_documents)</strong>.</p> <!-- CRO -->
             <div class="box">
                 <article class="media">
                     <div class="media-content">

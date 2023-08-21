@@ -12,35 +12,35 @@ layout: page
         <aside class="menu">
             <p class="menu-label"> Menu </p>
             <ul class="menu-list">
-                <li><a href="#alumni">Alumni Outreach Director</a></li>
-                <li><a href="#archivist">Archivist</a></li>
-                <li><a href="#cannon">Cannon Editor-in-Chief</a></li>
-                <li><a href="#cannonball">Cannonball Director</a></li> <!-- <li><a href="#cro">Chief Returning Officer</a></li> -->
-                <li><a href="#community-outreach">Community Outreach Director</a></li>
-                <li><a href="#commuter">Commuter Student Director</a></li>
-                <li><a href="#sysadmin">Computer Systems Administrator</a></li>
-                <li><a href="#dta">Design Team Association Director</a></li>
-                <li><a href="#stores">Engineering Stores Managers</a></li>
-                <li><a href="#sustainability">Environmental Sustainability Director</a></li>
-                <li><a href="#equity">Equity and Inclusivity Director</a></li>
-                <li><a href="#external">External Relations Director</a></li>
-                <li><a href="#handbook">F!rosh Handbook Editor</a></li>
-                <li><a href="#gradball">Gradball Director</a></li>
-                <li><a href="#cafe">Hard Hat Café Managers</a></li>
-                <li><a href="#hiskule">Hi-Skule™ Liaison</a></li>
-                <li><a href="#international">International Transition Director</a></li>
-                <li><a href="#mental-wellness">Mental Wellness Director</a></li>
-                <li><a href="#ombudsperson">Ombudsperson</a></li>
-                <li><a href="#orientation">Orientation Chair</a></li>
-                <li><a href="#kup">Skule™ Kup Director</a></li>
-                <li><a href="#photography">Skule™ Photography Director</a></li>
-                <li><a href="#skulebook">Skule™ Director</a></li>
-                <li><a href="#social-media">Social Media Coordinator</a></li>
-                <li><a href="#sponsorship">Sponsorship Director</a></li>
-                <li><a href="#suds">SUDS Managers</a></li>
-                <li><a href="#toike">Toike Oike Editor-in-Chief</a></li>
-                <li><a href="#utek">UTEK Director</a></li>
-                <li><a href="#webmaster">Webmaster</a></li>
+                <li>[Alumni Outreach Director](#alumni)</li>
+                <li>[Archivist](#archivist)</li>
+                <li>[Cannon Editor-in-Chief](#cannon)</li>
+                <li>[Cannonball Director](#cannonball)</li> <!-- <li>[Chief Returning Officer](#cro)</li> -->
+                <li>[Community Outreach Director](#community-outreach)</li>
+                <li>[Commuter Student Director](#commuter)</li>
+                <li>[Computer Systems Administrator](#sysadmin)</li>
+                <li>[Design Team Association Director](#dta)</li>
+                <li>[Engineering Stores Managers](#stores)</li>
+                <li>[Environmental Sustainability Director](#sustainability)</li>
+                <li>[Equity and Inclusivity Director](#equity)</li>
+                <li>[External Relations Director](#external)</li>
+                <li>[F!rosh Handbook Editor](#handbook)</li>
+                <li>[Gradball Director](#gradball)</li>
+                <li>[Hard Hat Café Managers](#cafe)</li>
+                <li>[Hi-Skule™ Liaison](#hiskule)</li>
+                <li>[International Transition Director](#international)</li>
+                <li>[Mental Wellness Director](#mental-wellness)</li>
+                <li>[Ombudsperson](#ombudsperson)</li>
+                <li>[Orientation Chair](#orientation)</li>
+                <li>[Skule™ Kup Director](#kup)</li>
+                <li>[Skule™ Photography Director](#photography)</li>
+                <li>[Skule™ Director](#skulebook)</li>
+                <li>[Social Media Coordinator](#social-media)</li>
+                <li>[Sponsorship Director](#sponsorship)</li>
+                <li>[SUDS Managers](#suds)</li>
+                <li>[Toike Oike Editor-in-Chief](#toike)</li>
+                <li>[UTEK Director](#utek)</li>
+                <li>[Webmaster](#webmaster)</li>
             </ul>
         </aside>
     </div>

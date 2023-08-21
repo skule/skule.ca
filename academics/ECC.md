@@ -12,4 +12,4 @@ layout: page
         </div>
     </article>
 </div>
-<p> If you have questions, comments, or concerns, please reach out to the <a href="mailto:president@skule.ca">President</a> or <a href="mailto:vpacademic@skule.ca">VP Academic</a>.</p>
+<p> If you have questions, comments, or concerns, please reach out to the [President](mailto:president@skule.ca) or [VP Academic](mailto:vpacademic@skule.ca).</p>

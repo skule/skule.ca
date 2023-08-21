@@ -12,17 +12,17 @@ layout: page
         <aside class="menu">
             <p class="menu-label"> Menu </p>
             <ul class="menu-list">
-                <li><a href="#eaa">Engineering Athletics Association</a></li>
-                <li><a href="#bnad">Lady Godiva Memorial Bnad</a></li>
-                <li><a href="#cannon">Ye Olde Mighty Skule Cannon</a></li>
-                <li><a href="#fyc">First Year Chair</a></li>
-                <li><a href="#4yc">Fourth year Chair</a></li>
-                <li><a href="#bg">Blue & Gold Committee</a></li>
-                <li><a href="#skule-nite">Skule Nite</a></li>
-                <li><a href="#gov">University of Toronto Governing Council</a></li>
-                <li><a href="#yncn">You're Next Career Network</a></li>
-                <li><a href="#msc">Mature Students' Chair</a></li>
-                <li><a href="#ptsc">Part-Time Students' Chair</a></li>
+                <li>[Engineering Athletics Association](#eaa)</li>
+                <li>[Lady Godiva Memorial Bnad](#bnad)</li>
+                <li>[Ye Olde Mighty Skule Cannon](#cannon)</li>
+                <li>[First Year Chair](#fyc)</li>
+                <li>[Fourth year Chair](#4yc)</li>
+                <li>[Blue & Gold Committee](#bg)</li>
+                <li>[Skule Nite](#skule-nite)</li>
+                <li>[University of Toronto Governing Council](#gov)</li>
+                <li>[You're Next Career Network](#yncn)</li>
+                <li>[Mature Students' Chair](#msc)</li>
+                <li>[Part-Time Students' Chair](#ptsc)</li>
             </ul>
         </aside>
     </div>

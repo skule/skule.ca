@@ -8,103 +8,103 @@ layout: page
         <aside class="menu">
             <p class="menu-label">Athletics</p>
             <ul class="menu-list">
-                <li><a href="#club0">University of Toronto Outing Club</a></li>
-                <li><a href="#club1">Skule Badminton Club</a></li>
-                <li><a href="#club2">Iron Dragons</a></li>
-                <li><a href="#club3">Skule Ski Club</a></li>
-                <li><a href="#club4">Skule Tennis Club</a></li>
+                <li>[University of Toronto Outing Club](#club0)</li>
+                <li>[Skule Badminton Club](#club1)</li>
+                <li>[Iron Dragons](#club2)</li>
+                <li>[Skule Ski Club](#club3)</li>
+                <li>[Skule Tennis Club](#club4)</li>
             </ul>
             <p class="menu-label">Cultural</p>
             <ul class="menu-list">
-                <li><a href="#club5">Association of Chinese Engineers</a></li>
-                <li><a href="#club6">Indian Students' Society</a></li>
-                <li><a href="#club7">Power to Change- Engineers</a></li>
-                <li><a href="#club8">Bangladeshi Students' Association</a></li>
-                <li><a href="#University_of_Toronto_-_Association_of_Chinese_Engineers">University of Toronto - Association of Chinese Engineers</a></li>
-                <li><a href="#Power_to_Change_-_Engineers">Power to Change - Engineers</a></li>
-                <li><a href="#Jewish_Engineering_Society">Jewish Engineering Society</a></li>
-                <li><a href="#National_Society_of_Black_Engineers">National Society of Black Engineers</a></li>
+                <li>[Association of Chinese Engineers](#club5)</li>
+                <li>[Indian Students' Society](#club6)</li>
+                <li>[Power to Change- Engineers](#club7)</li>
+                <li>[Bangladeshi Students' Association](#club8)</li>
+                <li>[University of Toronto - Association of Chinese Engineers](#University_of_Toronto_-_Association_of_Chinese_Engineers)</li>
+                <li>[Power to Change - Engineers](#Power_to_Change_-_Engineers)</li>
+                <li>[Jewish Engineering Society](#Jewish_Engineering_Society)</li>
+                <li>[National Society of Black Engineers](#National_Society_of_Black_Engineers)</li>
             </ul>
             <p class="menu-label">Fine Arts</p>
             <ul class="menu-list">
-                <li><a href="#club10">Fly with Origami, Learn to Dream</a></li>
-                <li><a href="#club11">Skule Orchestra</a></li>
-                <li><a href="#club12">Skule Arts Festival</a></li>
+                <li>[Fly with Origami, Learn to Dream](#club10)</li>
+                <li>[Skule Orchestra](#club11)</li>
+                <li>[Skule Arts Festival](#club12)</li>
             </ul>
             <p class="menu-label">Health, First Response</p>
             <ul class="menu-list">
-                <li><a href="#club13">University of Toronto Emergency First Responders</a></li>
+                <li>[University of Toronto Emergency First Responders](#club13)</li>
             </ul>
             <p class="menu-label">Hobby and Interest</p>
             <ul class="menu-list">
-                <li><a href="#club14">Astronomy and Space Exploration Society</a></li>
-                <li><a href="#club15">Skule Dance Club</a></li>
-                <li><a href="#club17">Skule D&D Club</a></li>
-                <li><a href="#club19">University of Toronto Sky Association </a></li>
-                <li><a href="#club21">Skule™ Lettuce Club</a></li>
-                <li><a href="#club22">Humans Of Skule</a></li>
-                <li><a href="#University_of_Toronto_Outing_Club">University of Toronto Outing Club</a></li>
-                <li><a href="#Skule_Strategy_Game_Club">Skule Strategy Game Club</a></li>
-                <li><a href="#Skule_Smash_Club">Skule Smash Club</a></li>
-                <li><a href="#Skule_Financial_Literacy_Club">Skule Financial Literacy Club</a></li>
-                <li><a href="#SkuleCraft">SkuleCraft</a></li>
-                <li><a href="#UofTHacks">UofTHacks</a></li>
-                <li><a href="#Hide_and_Seek">Hide and Seek</a></li>
+                <li>[Astronomy and Space Exploration Society](#club14)</li>
+                <li>[Skule Dance Club](#club15)</li>
+                <li>[Skule D&D Club](#club17)</li>
+                <li>[University of Toronto Sky Association ](#club19)</li>
+                <li>[Skule™ Lettuce Club](#club21)</li>
+                <li>[Humans Of Skule](#club22)</li>
+                <li>[University of Toronto Outing Club](#University_of_Toronto_Outing_Club)</li>
+                <li>[Skule Strategy Game Club](#Skule_Strategy_Game_Club)</li>
+                <li>[Skule Smash Club](#Skule_Smash_Club)</li>
+                <li>[Skule Financial Literacy Club](#Skule_Financial_Literacy_Club)</li>
+                <li>[SkuleCraft](#SkuleCraft)</li>
+                <li>[UofTHacks](#UofTHacks)</li>
+                <li>[Hide and Seek](#Hide_and_Seek)</li>
             </ul>
             <p class="menu-label">Musical</p>
             <ul class="menu-list">
-                <li><a href="#club24">Skule Stage Band</a></li>
-                <li><a href="#club25">Skule™ Choir</a></li>
-                <li><a href="#Skule™_Orchestra">Skule™ Orchestra</a></li>
+                <li>[Skule Stage Band](#club24)</li>
+                <li>[Skule™ Choir](#club25)</li>
+                <li>[Skule™ Orchestra](#Skule™_Orchestra)</li>
             </ul>
             <p class="menu-label">Professional Development</p>
             <ul class="menu-list">
-                <li><a href="#Canadian_Society_for_Chemical_Engineers-_University_of_Toronto_Student_Chapter">Canadian Society for Chemical Engineers- University of Toronto Student Chapter</a></li>
-                <li><a href="#Materials_Industry_Club">Materials Industry Club</a></li>
-                <li><a href="#University_of_Toronto_Business_Association">University of Toronto Business Association</a></li>
-                <li><a href="#Volunteer_Engineering_Experience_Program">Volunteer Engineering Experience Program</a></li>
-                <li><a href="#University_of_Toronto_Sports_Analytics_Student_Group">University of Toronto Sports Analytics Student Group</a></li>
-                <li><a href="#University_of_Toronto_Ontario_Water_Works_Association-Student_Chapter">University of Toronto Ontario Water Works Association-Student Chapter</a></li>
-                <li><a href="#Institute_of_Electrical_and_Electronics_Engineers,_University_of_Toronto_Branch">Institute of Electrical and Electronics Engineers, University of Toronto Branch</a></li>
-                <li><a href="#Canadian_Association_of_Food_Engineers">Canadian Association of Food Engineers</a></li>
-                <li><a href="#University_of_Toronto_Machine_Intelligence_Student_Team">University of Toronto Machine Intelligence Student Team</a></li>
-                <li><a href="#Club_for_Undergraduate_Biomedical_Engineering">Club for Undergraduate Biomedical Engineering</a></li>
-                <li><a href="#University_of_Toronto_Women_in_Finance">University of Toronto Women in Finance</a></li>
-                <li><a href="#University_of_Toronto_Emergency_First_Responders">University of Toronto Emergency First Responders</a></li>
-                <li><a href="#University_of_Toronto_Toastmasters">University of Toronto Toastmasters</a></li>
-                <li><a href="#Canadian_Society_for_Civil_Engineering_-_University_of_Toronto_Chapter">Canadian Society for Civil Engineering - University of Toronto Chapter</a></li>
-                <li><a href="#Ethical_Principles_in_AI">Ethical Principles in AI</a></li>
-                <li><a href="#University_of_Toronto_Cybersecurity_Student_Association">University of Toronto Cybersecurity Student Association</a></li>
-                <li><a href="#club26">University of Toronto Ontario Water Works Association-Student Chapter</a></li>
-                <li><a href="#club27">Univeristy of Toronto Engineering Finance Association</a></li>
-                <li><a href="#club28">University of Toronto Business Association</a></li>
-                <li><a href="#club29">University of Toronto Sports Analytics Student Group</a></li>
-                <li><a href="#club30">University of Toronto Machine Intelligence Student Team</a></li>
-                <li><a href="#club31">TechXplore</a></li>
-                <li><a href="#club32">Club for Undergraduate Biomedical Engineering </a></li>
-                <li><a href="#club33">Canadian Society for Civil Engineering - University of Toronto Chapter </a></li>
-                <li><a href="#club34">University of Toronto Women in Finance</a></li>
-                <li><a href="#club35">Canadian Association of Food Engineers</a></li>
-                <li><a href="#club36">Women in Science and Engineering - University of Toronto Chapter</a></li>
-                <li><a href="#club37">University of Toronto Toastmasters</a></li>
-                <li><a href="#club38">Canadian Society for Chemical Engineering - U of T Student Chapter</a></li>
-                <li><a href="#club39">Institute of Electrical and Electronics Engineers University of Toronto Student Branch</a></li>
-                <li><a href="#club40">National Society of Black Engineers</a></li>
-                <li><a href="#club41">Global Spark - University of Toronto</a></li>
-                <li><a href="#club42">Bioengineering Student Association</a></li>
-                <li><a href="#club43">SprintUofT</a></li>
-                <li><a href="#club44">University of Toronto Consulting Association</a></li>
-                <li><a href="#club45">University of Toronto Quantum Computing</a></li>
-                <li><a href="#club46">Volunteer Engineering Experience Program</a></li>
+                <li>[Canadian Society for Chemical Engineers- University of Toronto Student Chapter](#Canadian_Society_for_Chemical_Engineers-_University_of_Toronto_Student_Chapter)</li>
+                <li>[Materials Industry Club](#Materials_Industry_Club)</li>
+                <li>[University of Toronto Business Association](#University_of_Toronto_Business_Association)</li>
+                <li>[Volunteer Engineering Experience Program](#Volunteer_Engineering_Experience_Program)</li>
+                <li>[University of Toronto Sports Analytics Student Group](#University_of_Toronto_Sports_Analytics_Student_Group)</li>
+                <li>[University of Toronto Ontario Water Works Association-Student Chapter](#University_of_Toronto_Ontario_Water_Works_Association-Student_Chapter)</li>
+                <li>[Institute of Electrical and Electronics Engineers, University of Toronto Branch](#Institute_of_Electrical_and_Electronics_Engineers,_University_of_Toronto_Branch)</li>
+                <li>[Canadian Association of Food Engineers](#Canadian_Association_of_Food_Engineers)</li>
+                <li>[University of Toronto Machine Intelligence Student Team](#University_of_Toronto_Machine_Intelligence_Student_Team)</li>
+                <li>[Club for Undergraduate Biomedical Engineering](#Club_for_Undergraduate_Biomedical_Engineering)</li>
+                <li>[University of Toronto Women in Finance](#University_of_Toronto_Women_in_Finance)</li>
+                <li>[University of Toronto Emergency First Responders](#University_of_Toronto_Emergency_First_Responders)</li>
+                <li>[University of Toronto Toastmasters](#University_of_Toronto_Toastmasters)</li>
+                <li>[Canadian Society for Civil Engineering - University of Toronto Chapter](#Canadian_Society_for_Civil_Engineering_-_University_of_Toronto_Chapter)</li>
+                <li>[Ethical Principles in AI](#Ethical_Principles_in_AI)</li>
+                <li>[University of Toronto Cybersecurity Student Association](#University_of_Toronto_Cybersecurity_Student_Association)</li>
+                <li>[University of Toronto Ontario Water Works Association-Student Chapter](#club26)</li>
+                <li>[Univeristy of Toronto Engineering Finance Association](#club27)</li>
+                <li>[University of Toronto Business Association](#club28)</li>
+                <li>[University of Toronto Sports Analytics Student Group](#club29)</li>
+                <li>[University of Toronto Machine Intelligence Student Team](#club30)</li>
+                <li>[TechXplore](#club31)</li>
+                <li>[Club for Undergraduate Biomedical Engineering ](#club32)</li>
+                <li>[Canadian Society for Civil Engineering - University of Toronto Chapter ](#club33)</li>
+                <li>[University of Toronto Women in Finance](#club34)</li>
+                <li>[Canadian Association of Food Engineers](#club35)</li>
+                <li>[Women in Science and Engineering - University of Toronto Chapter](#club36)</li>
+                <li>[University of Toronto Toastmasters](#club37)</li>
+                <li>[Canadian Society for Chemical Engineering - U of T Student Chapter](#club38)</li>
+                <li>[Institute of Electrical and Electronics Engineers University of Toronto Student Branch](#club39)</li>
+                <li>[National Society of Black Engineers](#club40)</li>
+                <li>[Global Spark - University of Toronto](#club41)</li>
+                <li>[Bioengineering Student Association](#club42)</li>
+                <li>[SprintUofT](#club43)</li>
+                <li>[University of Toronto Consulting Association](#club44)</li>
+                <li>[University of Toronto Quantum Computing](#club45)</li>
+                <li>[Volunteer Engineering Experience Program](#club46)</li>
             </ul>
             <p class="menu-label">Societal, Community, and Charity</p>
             <ul class="menu-list">
-                <li><a href="#club47">QueerSphere</a></li>
-                <li><a href="#club48">Engineers Without Borders</a></li>
+                <li>[QueerSphere](#club47)</li>
+                <li>[Engineers Without Borders](#club48)</li>
             </ul>
             <p class="menu-label">Sustainability</p>
             <ul class="menu-list">
-                <li><a href="#club49">Sustainable Engineers Association</a></li>
+                <li>[Sustainable Engineers Association](#club49)</li>
             </ul>
         </aside>
     </div>

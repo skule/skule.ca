@@ -8,55 +8,55 @@ layout: page
         <aside class="menu">
             <p class="menu-label">Menu</p>
             <ul class="menu-list">
-                <li><a href="#club0">NeurotechUofT</a></li>
-                <li><a href="#club1">University of Toronto Formula Racing Team</a></li>
-                <li><a href="#club2">U of T Baja Team</a></li>
-                <li><a href="#club3">University of Toronto Project Holodeck (UTOPH)</a></li>
-                <li><a href="#club4">aUToronto</a></li>
-                <li><a href="#club5">Robotics for Space Exploration</a></li>
-                <li><a href="#club6">University of Toronto Chemical Vehicles (UTCV)</a></li>
-                <li><a href="#club7">University of Toronto Seismic Design Team</a></li>
-                <li><a href="#club8">International Genetically Engineering Machines Toronto (iGEM Toronto)</a></li>
-                <li><a href="#club9">University of Toronto Aerospace Team</a></li>
-                <li><a href="#club10">Spark Design Club</a></li>
-                <li><a href="#club11">University of Toronto Concrete Canoe Team</a></li>
-                <li><a href="#club12">Human Powered Vehicles Design Team</a></li>
-                <li><a href="#club13">CECA UofT Student Chapter (Canadian Electrical Contrators Association)</a></li>
-                <li><a href="#club14">University of Toronto Supermileage</a></li>
-                <li><a href="#club15">University of Toronto Concrete Toboggan Team</a></li>
-                <li><a href="#club16">Blue Sky Solar Racing</a></li>
-                <li><a href="#club17">UT BIOME</a></li>
-                <li><a href="#club18">Interplanetary Space Exploration Team (ISET)</a></li>
-                <li><a href="#club19">WearTech U of T</a></li>
-                <li><a href="#club20">UTRA</a></li>
-                <li><a href="#club21">Troitsky Bridge Building</a></li>
-                <li><a href="#club22">University of Toronto Microgravity Experiment Design Team </a></li>
-                <li><a href="#club23">Future-Living Lab</a></li>
-                <li><a href="#club24">Cain's Quest</a></li>
-                <li><a href="#Robotics_for_Space_Exploration">Robotics for Space Exploration</a></li>
-                <li><a href="#Troitsky_Bridge_Building_Team">Troitsky Bridge Building Team</a></li>
-                <li><a href="#University_of_Toronto_Formula_Racing_Team">University of Toronto Formula Racing Team</a></li>
-                <li><a href="#University_of_Toronto_Biomedical_Engineering_Design_Team">University of Toronto Biomedical Engineering Design Team</a></li>
-                <li><a href="#University_of_Toronto_Chemical_Vehicles">University of Toronto Chemical Vehicles</a></li>
-                <li><a href="#University_of_Toronto_Seismic_Design_Team">University of Toronto Seismic Design Team</a></li>
-                <li><a href="#CloudClub">CloudClub</a></li>
-                <li><a href="#University_of_Toronto_Hyperloop_Team">University of Toronto Hyperloop Team</a></li>
-                <li><a href="#Blue_Sky_Solar_Racing">Blue Sky Solar Racing</a></li>
-                <li><a href="#University_of_Toronto_Concrete_Canoe_Team">University of Toronto Concrete Canoe Team</a></li>
-                <li><a href="#International_Genetically_Engineering_Machines_Toronto">International Genetically Engineering Machines Toronto</a></li>
-                <li><a href="#Future-Living_Lab">Future-Living Lab</a></li>
-                <li><a href="#Interplanetary_Space_Exploration_Team">Interplanetary Space Exploration Team</a></li>
-                <li><a href="#University_of_Toronto_Aerospace_Team">University of Toronto Aerospace Team</a></li>
-                <li><a href="#University_of_Toronto's_Project_Holodeck">University of Toronto's Project Holodeck</a></li>
-                <li><a href="#Spark_Design_Club">Spark Design Club</a></li>
-                <li><a href="#UTWind">UTWind</a></li>
-                <li><a href="#University_of_Toronto_Robotics_Association">University of Toronto Robotics Association</a></li>
-                <li><a href="#Engineers_in_Action_-_University_of_Toronto_Chapter">Engineers in Action - University of Toronto Chapter</a></li>
-                <li><a href="#Human_Powered_Vehicles_Design_Team">Human Powered Vehicles Design Team</a></li>
-                <li><a href="#University_of_Toronto_Supermileage">University of Toronto Supermileage</a></li>
-                <li><a href="#Canadian_Electrical_Contractors_Association_-_University_of_Toronto_Chapter">Canadian Electrical Contractors Association - University of Toronto Chapter</a></li>
-                <li><a href="#University_of_Toronto_Concrete_Toboggan">University of Toronto Concrete Toboggan</a></li>
-                <li><a href="#University_of_Toronto_Design_League">University of Toronto Design League</a></li>
+                <li>[NeurotechUofT](#club0)</li>
+                <li>[University of Toronto Formula Racing Team](#club1)</li>
+                <li>[U of T Baja Team](#club2)</li>
+                <li>[University of Toronto Project Holodeck (UTOPH)](#club3)</li>
+                <li>[aUToronto](#club4)</li>
+                <li>[Robotics for Space Exploration](#club5)</li>
+                <li>[University of Toronto Chemical Vehicles (UTCV)](#club6)</li>
+                <li>[University of Toronto Seismic Design Team](#club7)</li>
+                <li>[International Genetically Engineering Machines Toronto (iGEM Toronto)](#club8)</li>
+                <li>[University of Toronto Aerospace Team](#club9)</li>
+                <li>[Spark Design Club](#club10)</li>
+                <li>[University of Toronto Concrete Canoe Team](#club11)</li>
+                <li>[Human Powered Vehicles Design Team](#club12)</li>
+                <li>[CECA UofT Student Chapter (Canadian Electrical Contrators Association)](#club13)</li>
+                <li>[University of Toronto Supermileage](#club14)</li>
+                <li>[University of Toronto Concrete Toboggan Team](#club15)</li>
+                <li>[Blue Sky Solar Racing](#club16)</li>
+                <li>[UT BIOME](#club17)</li>
+                <li>[Interplanetary Space Exploration Team (ISET)](#club18)</li>
+                <li>[WearTech U of T](#club19)</li>
+                <li>[UTRA](#club20)</li>
+                <li>[Troitsky Bridge Building](#club21)</li>
+                <li>[University of Toronto Microgravity Experiment Design Team ](#club22)</li>
+                <li>[Future-Living Lab](#club23)</li>
+                <li>[Cain's Quest](#club24)</li>
+                <li>[Robotics for Space Exploration](#Robotics_for_Space_Exploration)</li>
+                <li>[Troitsky Bridge Building Team](#Troitsky_Bridge_Building_Team)</li>
+                <li>[University of Toronto Formula Racing Team](#University_of_Toronto_Formula_Racing_Team)</li>
+                <li>[University of Toronto Biomedical Engineering Design Team](#University_of_Toronto_Biomedical_Engineering_Design_Team)</li>
+                <li>[University of Toronto Chemical Vehicles](#University_of_Toronto_Chemical_Vehicles)</li>
+                <li>[University of Toronto Seismic Design Team](#University_of_Toronto_Seismic_Design_Team)</li>
+                <li>[CloudClub](#CloudClub)</li>
+                <li>[University of Toronto Hyperloop Team](#University_of_Toronto_Hyperloop_Team)</li>
+                <li>[Blue Sky Solar Racing](#Blue_Sky_Solar_Racing)</li>
+                <li>[University of Toronto Concrete Canoe Team](#University_of_Toronto_Concrete_Canoe_Team)</li>
+                <li>[International Genetically Engineering Machines Toronto](#International_Genetically_Engineering_Machines_Toronto)</li>
+                <li>[Future-Living Lab](#Future-Living_Lab)</li>
+                <li>[Interplanetary Space Exploration Team](#Interplanetary_Space_Exploration_Team)</li>
+                <li>[University of Toronto Aerospace Team](#University_of_Toronto_Aerospace_Team)</li>
+                <li>[University of Toronto's Project Holodeck](#University_of_Toronto's_Project_Holodeck)</li>
+                <li>[Spark Design Club](#Spark_Design_Club)</li>
+                <li>[UTWind](#UTWind)</li>
+                <li>[University of Toronto Robotics Association](#University_of_Toronto_Robotics_Association)</li>
+                <li>[Engineers in Action - University of Toronto Chapter](#Engineers_in_Action_-_University_of_Toronto_Chapter)</li>
+                <li>[Human Powered Vehicles Design Team](#Human_Powered_Vehicles_Design_Team)</li>
+                <li>[University of Toronto Supermileage](#University_of_Toronto_Supermileage)</li>
+                <li>[Canadian Electrical Contractors Association - University of Toronto Chapter](#Canadian_Electrical_Contractors_Association_-_University_of_Toronto_Chapter)</li>
+                <li>[University of Toronto Concrete Toboggan](#University_of_Toronto_Concrete_Toboggan)</li>
+                <li>[University of Toronto Design League](#University_of_Toronto_Design_League)</li>
             </ul>
         </aside>
     </div>

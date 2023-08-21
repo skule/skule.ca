@@ -4,7 +4,7 @@ layout: page
 ---
 
 <p>Founded in 2008, following a call for increased accountability and help with a high volume of funding applications and allocations, the University of Toronto Engineering Society Finance Committee is a standing committee of the Engineering Society Board of Directors. As a standing committee, whose term lasts 1 year, members of the FC reserve no particular authority but are tasked with helping shape the Society's financial future. Basically, they exist to provide the Board with funding recommendations and assist clubs who seek financial help or guidance.</p>
-<p>For the 2023-2024 year, it will be comprised of 2 Officers (VP Student Life and VP Finance), 4 members-at-large and 1 members of the Board of Directors. The following document provides a short introduction to the Engineering Society Finance Committee for those unfamiliar with their work. For more information, <a href="https://drive.google.com/file/d/1khGt4_ZQWeGjuT2MAzsKbrDdMMvhRkjw/view?usp=sharing">please refer to this</a>.</p>
+<p>For the 2023-2024 year, it will be comprised of 2 Officers (VP Student Life and VP Finance), 4 members-at-large and 1 members of the Board of Directors. The following document provides a short introduction to the Engineering Society Finance Committee for those unfamiliar with their work. For more information, [please refer to this](https://drive.google.com/file/d/1khGt4_ZQWeGjuT2MAzsKbrDdMMvhRkjw/view?usp=sharing).</p>
 <h3>Application Process</h3>
 <p>The Finance Committee for the 2T3-2T4 year has been struck.</p>
 <p>Generally, the application process starts every month. Check back here for the applications in 2023!</p>
@@ -60,6 +60,6 @@ layout: page
 </ul>
 <p>How to complete a budget:</p>
 <p>On a high level, reasonable and complete applications during the summer months of a year can be comprised of quotes easily pulled from the internet, previous quotes with an inflation factor, or average/previous actual numbers.</p>
-<p>Reasonable and complete applications during the fall/winter semesters can be easily pulled from the internet and hard quotes from suppliers/producers. Applications may also be submited as a tracker of total expenses/revenues up to date of application.</p> <a href="https://www.youtube.com/watch?v=R9ToPRikZw8">For more information watch this video.</a>
+<p>Reasonable and complete applications during the fall/winter semesters can be easily pulled from the internet and hard quotes from suppliers/producers. Applications may also be submited as a tracker of total expenses/revenues up to date of application.</p> [For more information watch this video.](https://www.youtube.com/watch?v=R9ToPRikZw8)
 <h3>Contact</h3>
 <p>If you have any questions about the Finance Committee, please contact the VP Finance at <a href="mailto:vpfinance@skule.ca" class="has-text-warning">vpfinance@skule.ca</a>.</p>
