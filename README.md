@@ -48,7 +48,7 @@ Every page has a "front matter", which informs Jekyll of the page title, layout,
 ```yml
 ---
 title: My Page
-layout: default
+layout: page
 order: 100
 ---
 
