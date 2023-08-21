@@ -1,10 +1,9 @@
 ---
-title: Engineering Society Awards
-layout: page
+title: EngSoc Awards
+layout: page-with-menu
 ---
 
-Awards are given annually to deserving students by the University of Toronto Engineering Society. These awards generally recognize contributions by students to the Engineering Society, either through their position as a representative, or through a project they have managed over the course of the Skule™ year. Details regarding awards can be found in the Policy on Awarding Society Awards, found under [Governing Documents](/documents/governing_documents).
-
+Awards are given annually to deserving students by the University of Toronto Engineering Society. These awards generally recognize contributions by students to the Engineering Society, either through their position as a representative, or through a project they have managed over the course of the Skule™ year. Details regarding awards can be found in the Policy on Awarding Society Awards, found under [Governing Documents](/engsoc-documents/governing_documents).
 
 ## Engineering Society Centennial Award
 

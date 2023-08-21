@@ -1,5 +1,5 @@
 ---
-title: Engineering Society Officers
+title: Officers
 layout: page
 ---
 
@@ -18,9 +18,8 @@ layout: page
     </div>
     <div class="column">
         <div class="content">
-            <h2>Engineering Society Officers</h2>
             <p>Officers handle EngSoc's day-to-day operations and external relations at a high level. Each of them also oversee a group of Project Directors related to their portfolios. They are elected directly by all full-time and part-time engineering students. See below for information about them.</p>
-            <div class="box" id="president">
+            <div class="box" >
                 <article class="media">
                     <div class="media-content">
                         <div class="content">
@@ -41,7 +40,7 @@ layout: page
                     </div>
                 </article>
             </div>
-            <div class="box" id="vpf">
+            <div class="box">
                 <article class="media">
                     <div class="media-content">
                         <div class="content">
@@ -65,7 +64,7 @@ layout: page
                     </div>
                 </article>
             </div>
-            <div class="box" id="vpcomm">
+            <div class="box">
                 <article class="media">
                     <div class="media-content">
                         <div class="content">
@@ -86,7 +85,7 @@ layout: page
                     </div>
                 </article>
             </div>
-            <div class="box" id="vpa">
+            <div class="box">
                 <article class="media">
                     <div class="media-content">
                         <div class="content">
@@ -109,7 +108,7 @@ layout: page
                     </div>
                 </article>
             </div>
-            <div class="box" id="vpsl">
+            <div class="box">
                 <article class="media">
                     <div class="media-content">
                         <div class="content">

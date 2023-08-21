@@ -19,7 +19,7 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
     <div class="column">
         <div class="content">
             <h2> Governing Members Names and Contact Information</h2>
-            <h3 id="officers"> Officers</h3>
+            <h3> Officers</h3>
             <div class="box">
                 <article class="media">
                     <div class="media-content">
@@ -29,7 +29,7 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
                     </div>
                 </article>
             </div>
-            <h3 id="bod"> Board of Directors</h3>
+            <h3> Board of Directors</h3>
             <div class="box">
                 <article class="media">
                     <div class="media-content">
@@ -39,7 +39,7 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
                     </div>
                 </article>
             </div>
-            <h3 id="reps"> Class Representatives</h3>
+            <h3> Class Representatives</h3>
             <div class="box">
                 <article class="media">
                     <div class="media-content">

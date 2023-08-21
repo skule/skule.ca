@@ -45,7 +45,7 @@ layout: page
         </aside>
     </div>
     <div class="column"> <!-- Alumni Outreach -->
-        <div class="box" id="alumni">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -55,7 +55,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Archivist -->
-        <div class="box" id="archivist">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -65,7 +65,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Cannon -->
-        <div class="box" id="cannon">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -75,7 +75,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Cannonball Director -->
-        <div class="box" id="cannonball">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -84,8 +84,8 @@ layout: page
                     </div>
                 </div>
             </article>
-        </div> <!-- CRO --> <!-- <div class="box" id="cro">                    <article class="media">                        <div class="media-content">                            <div class="content">                                <p><strong>Chief Returning Officer</strong>                                   Katherine Jia                                  <small>Overseen by the Speaker</small></p>                                <p>The CRO is a neutral body who conducts EngSoc elections, ensuring that they are run fairly and democratically. Along with their Deputy Returning Officers (or DROs) as part of the Office of Returning Officers (or ORO), they spend much of the year refining the election policies and scheduling the elections for the year.</p>                                <a class="button is-small is-dark" href="mailto:cro@skule.ca">Email</a>                                <a class="button is-small is-dark" href="http://skule.ca/elections">Elections Info</a>                            </div>                        </div>                    </article>                </div> --> <!-- Community Outreach Director -->
-        <div class="box" id="community-outreach">
+        </div> <!-- CRO --> <!-- <div class="box">Elections Info</a>                            </div>                        </div>                    </article>                </div> --> <!-- Community Outreach Director -->
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -95,7 +95,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Commuter Student Director -->
-        <div class="box" id="commuter">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -105,7 +105,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Computer Systems Administrator -->
-        <div class="box" id="sysadmin">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -115,7 +115,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- DTAPM -->
-        <div class="box" id="dta">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -126,7 +126,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Engineering Stores Managers -->
-        <div class="box" id="stores">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -136,7 +136,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Environmental Sustainability Director -->
-        <div class="box" id="sustainability">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -146,7 +146,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Equity and Inclusivity Director -->
-        <div class="box" id="equity">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -156,7 +156,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- External Relations Director -->
-        <div class="box" id="external">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -166,7 +166,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- F!rosh Handbook Editor -->
-        <div class="box" id="handbook">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -177,7 +177,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Gradball Director -->
-        <div class="box" id="gradball">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -187,7 +187,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Hard Hat Café Managers -->
-        <div class="box" id="cafe">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -197,7 +197,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Hi-Skule™ Liaison -->
-        <div class="box" id="hiskule">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -207,7 +207,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- International Transition Director -->
-        <div class="box" id="international">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -217,7 +217,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Mental Wellness Director -->
-        <div class="box" id="mental-wellness">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -227,7 +227,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Ombudsperson -->
-        <div class="box" id="ombudsperson">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -237,7 +237,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Orientation Director -->
-        <div class="box" id="orientation">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -247,7 +247,7 @@ layout: page
                 </div>
             </article>
         </div><!-- SKULE 150 -->
-        <div class="box" id="orientation">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -257,7 +257,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Skule™ Kup Director -->
-        <div class="box" id="kup">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -267,7 +267,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Skule™ Photography Director -->
-        <div class="box" id="photography">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -277,7 +277,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Skule™ -->
-        <div class="box" id="skulebook">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -287,7 +287,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Social Media Coordinator -->
-        <div class="box" id="social-media">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -297,7 +297,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Sponsorship Director -->
-        <div class="box" id="sponsorship">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -307,7 +307,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- SUDS -->
-        <div class="box" id="suds">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -317,7 +317,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Toike Oike -->
-        <div class="box" id="toike">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -327,7 +327,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- UTEK Director -->
-        <div class="box" id="utek">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -337,7 +337,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Webmaster -->
-        <div class="box" id="webmaster">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">

@@ -3,7 +3,7 @@ title: ECC Advocacy
 layout: page
 ---
 
-<div class="box" id="major">
+<div class="box">
     <article class="media">
         <div class="media-content">
             <div class="content">

@@ -62,7 +62,7 @@ layout: page
     </div>
     <div class="column">
         <p> Don't know which design team to join? Fret not -the Design Team Association has created a quiz for you to figure out just that. Try it out below!<br /> For information about each design team, click on its name in the menu to the left of the page. <br /><br /> <iframe src="https://www.tryinteract.com/share/quiz/5f32acbf5f92f00014c8c804" style="width: 80%; height: 530px; margin: 0 auto; display: block;"></iframe> <br /> </p>
-        <div class="box" id="club0">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -72,7 +72,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club1">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -82,7 +82,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club2">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -92,7 +92,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club3">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -102,7 +102,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club4">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -112,7 +112,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club5">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -122,7 +122,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club6">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -132,7 +132,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club7">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -142,7 +142,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club8">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -152,7 +152,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club9">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -162,7 +162,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club10">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -172,7 +172,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club11">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -182,7 +182,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club12">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -192,7 +192,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club13">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -202,7 +202,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club14">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -212,7 +212,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club15">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -222,7 +222,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club16">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -232,7 +232,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club17">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -242,7 +242,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club18">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -252,7 +252,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club19">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -262,7 +262,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club20">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -272,7 +272,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club21">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -282,7 +282,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club22">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -292,7 +292,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club23">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -302,7 +302,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club24">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -312,7 +312,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club24">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -321,7 +321,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Robotics_for_Space_Exploration">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -331,7 +331,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Troitsky_Bridge_Building_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -341,7 +341,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Formula_Racing_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -351,7 +351,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Biomedical_Engineering_Design_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -361,7 +361,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Chemical_Vehicles">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -371,7 +371,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Seismic_Design_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -381,7 +381,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="CloudClub">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -391,7 +391,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Hyperloop_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -401,7 +401,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Blue_Sky_Solar_Racing">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -411,7 +411,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Concrete_Canoe_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -421,7 +421,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="International_Genetically_Engineering_Machines_Toronto">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -431,7 +431,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Future-Living_Lab">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -441,7 +441,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Interplanetary_Space_Exploration_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -451,7 +451,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Aerospace_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -461,7 +461,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto's_Project_Holodeck">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -471,7 +471,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Spark_Design_Club">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -481,7 +481,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="UTWind">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -491,7 +491,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Robotics_Association">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -501,7 +501,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Engineers_in_Action_-_University_of_Toronto_Chapter">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -511,7 +511,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Human_Powered_Vehicles_Design_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -521,7 +521,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Supermileage">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -531,7 +531,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Canadian_Electrical_Contractors_Association_-_University_of_Toronto_Chapter">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -541,7 +541,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Concrete_Toboggan">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -551,7 +551,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Design_League">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">

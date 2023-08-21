@@ -139,10 +139,10 @@ layout: page
     </tbody>
 </table> <br>
 <div>
-    <h3 id="Council & General Meetings">Council and General Meetings</h3>
+    <h3>Council and General Meetings</h3>
     <p>General Meetings are where all undergraduate engineering students can vote on a focused set of topics. In particular, The Annual General Meeting (or "AGM") includes ratification of any changes that the Board of Directors has made to the Constitution in the past year, ratification of the Society&rsquo;s audited financial statements for the previous fiscal year, and appointment of auditors for the current fiscal year. General Meetings are overseen by the VP Communications unless they are for the purpose of recall, in which case they are overseen by the Chief Returning Officer.</p>
 </div> <br>
 <div>
-    <h3 id="Board of Directors">Board of Directors</h3>
+    <h3>Board of Directors</h3>
     <p>Board of Directors Meetings are where representatives from several constituencies discuss and vote on issues which impact students. Decisions of the Board of Directors can change the structure or direction on EngSoc with few limitations.</p>
 </div>

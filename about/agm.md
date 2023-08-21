@@ -3,8 +3,6 @@ title: Annual General Meeting
 layout: page
 ---
 
-# Engineering Society Annual General Meeting
-
 The Engineering Society Annual General Meeting (AGM) is an open meeting where every EngSoc member is entitled to a vote; the Meeting serves to ratify changes to the Constitution over the past year, present the state of EngSoc finances, and appoint an Auditor for the next year, among other things.
 
 The 2019 EngSoc AGM will occur on Monday, October 28th, at 6:00pm in SF1101. More info on the meeting can be found in the following [drive folder]([index.md](https://drive.google.com/drive/u/0/folders/1uxDQIcjJNh8KgUXeOSMfcw3BC0Bffyp4)).

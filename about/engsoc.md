@@ -1,5 +1,5 @@
 ---
-title: Engineering Society
+title: EngSoc
 layout: page
 ---
 

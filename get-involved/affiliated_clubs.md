@@ -111,7 +111,7 @@ layout: page
     <div class="column">
         <h1 class="title">Athletics</h1>
         <hr>
-        <div class="box" id="club0">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -121,7 +121,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club1">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -131,7 +131,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club2">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -141,7 +141,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club3">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -151,7 +151,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club4">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -161,7 +161,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Outing_Club">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -171,7 +171,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Skule_Strategy_Game_Club">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -181,7 +181,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Skule_Smash_Club">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -191,7 +191,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Skule_Financial_Literacy_Club">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -201,7 +201,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="SkuleCraft">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -213,7 +213,7 @@ layout: page
         </div>
         <h1 class="title">Cultural</h1>
         <hr>
-        <div class="box" id="club5">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -223,7 +223,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club6">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -233,7 +233,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club7">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -243,7 +243,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club8">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -253,7 +253,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_-_Association_of_Chinese_Engineers">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -263,7 +263,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Power_to_Change_-_Engineers">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -273,7 +273,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Jewish_Engineering_Society">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -283,7 +283,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="National_Society_of_Black_Engineers">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -295,7 +295,7 @@ layout: page
         </div>
         <h1 class="title">Fine Arts</h1>
         <hr>
-        <div class="box" id="club10">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -305,7 +305,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club11">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -315,7 +315,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club12">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -327,7 +327,7 @@ layout: page
         </div>
         <h1 class="title">Health, First Response </h1>
         <hr>
-        <div class="box" id="club13">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -339,7 +339,7 @@ layout: page
         </div>
         <h1 class="title">Hobby and Interest</h1>
         <hr>
-        <div class="box" id="club14">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -349,7 +349,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club15">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -359,7 +359,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club16">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -369,7 +369,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club17">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -379,7 +379,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club18">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -389,7 +389,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club19">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -399,7 +399,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club20">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -409,7 +409,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club21">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -419,7 +419,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club22">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -429,7 +429,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club23">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -439,7 +439,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="UofTHacks">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -449,7 +449,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Hide_and_Seek">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -461,7 +461,7 @@ layout: page
         </div>
         <h1 class="title">Musical</h1>
         <hr>
-        <div class="box" id="club24">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -471,7 +471,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club25">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -481,7 +481,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Skule™_Orchestra">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -493,7 +493,7 @@ layout: page
         </div>
         <h1 class="title">Professional Development</h1>
         <hr>
-        <div class="box" id="Canadian_Society_for_Chemical_Engineers-_University_of_Toronto_Student_Chapter">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -503,7 +503,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Materials_Industry_Club">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -513,7 +513,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Business_Association">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -523,7 +523,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Volunteer_Engineering_Experience_Program">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -533,7 +533,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Sports_Analytics_Student_Group">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -543,7 +543,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Ontario_Water_Works_Association-Student_Chapter">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -553,7 +553,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Institute_of_Electrical_and_Electronics_Engineers,_University_of_Toronto_Branch">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -563,7 +563,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Canadian_Association_of_Food_Engineers">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -573,7 +573,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Machine_Intelligence_Student_Team">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -583,7 +583,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Club_for_Undergraduate_Biomedical_Engineering">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -593,7 +593,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Women_in_Finance">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -603,7 +603,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Emergency_First_Responders">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -613,7 +613,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Toastmasters">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -623,7 +623,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Canadian_Society_for_Civil_Engineering_-_University_of_Toronto_Chapter">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -633,7 +633,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="Ethical_Principles_in_AI">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -643,7 +643,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="University_of_Toronto_Cybersecurity_Student_Association">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -653,7 +653,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club26">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -663,7 +663,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club27">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -673,7 +673,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club28">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -683,7 +683,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club29">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -693,7 +693,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club30">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -703,7 +703,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club31">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -713,7 +713,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club32">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -723,7 +723,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club33">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -733,7 +733,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club34">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -743,7 +743,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club35">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -753,7 +753,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club36">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -763,7 +763,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club37">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -773,7 +773,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club38">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -783,7 +783,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club39">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -793,7 +793,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club40">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -803,7 +803,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club41">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -813,7 +813,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club42">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -823,7 +823,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club43">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -833,7 +833,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club44">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -843,7 +843,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club45">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -853,7 +853,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club46">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -865,7 +865,7 @@ layout: page
         </div>
         <h1 class="title">Societal, Community, and Charity</h1>
         <hr>
-        <div class="box" id="club47">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -875,7 +875,7 @@ layout: page
                 </div>
             </article>
         </div>
-        <div class="box" id="club48">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -887,7 +887,7 @@ layout: page
         </div>
         <h1 class="title">Sustainability</h1>
         <hr>
-        <div class="box" id="club49">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">

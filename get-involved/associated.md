@@ -27,7 +27,7 @@ layout: page
         </aside>
     </div>
     <div class="column"> <!-- EAA -->
-        <div class="box" id="eaa">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -38,7 +38,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Bnad -->
-        <div class="box" id="bnad">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -49,7 +49,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Cannon -->
-        <div class="box" id="cannon">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -59,7 +59,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- FYC -->
-        <div class="box" id="fyc">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -68,7 +68,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- 4YC -->
-        <div class="box" id="4yc">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -77,7 +77,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- B&G -->
-        <div class="box" id="bg">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -87,7 +87,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Skule Nite -->
-        <div class="box" id="skule-nite">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -97,7 +97,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- Student Governor -->
-        <div class="box" id="gov">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -107,7 +107,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- YNCN -->
-        <div class="box" id="yncn">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -117,7 +117,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- MSC -->
-        <div class="box" id="msc">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
@@ -126,7 +126,7 @@ layout: page
                 </div>
             </article>
         </div> <!-- PTSC -->
-        <div class="box" id="ptsc">
+        <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">

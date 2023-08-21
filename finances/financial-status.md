@@ -5,7 +5,7 @@ layout: page
 
 <p>Shown below is the high-level overview of the major funding streams available from EngSoc. For a detailed breakdown of how the funds are used, visit the <a href="http://skule.ca/financial_documents">Financial Documents</a> section.</p>
 <p>If you have any questions about EngSoc's financial information, please contact the VP Finance at <a href="mailto:vpfinance@skule.ca" class="has-text-warning">vpfinance@skule.ca</a>.</p>
-<div id="infographic" style="display: flex; flex-flow: column nowrap; width: 100%; background-image: url(../content/finance/2T0-2T1/funding-bg.png); background-size: contain; background-repeat: no-repeat; font-weight: 400; line-height: 1; padding: 1%; font-size: 1.5vw;">
+<div style="display: flex; flex-flow: column nowrap; width: 100%; background-image: url(../content/finance/2T0-2T1/funding-bg.png); background-size: contain; background-repeat: no-repeat; font-weight: 400; line-height: 1; padding: 1%; font-size: 1.5vw;">
     <div class="infographic-section" style="padding-right: 40%; text-align: left;">
         <h1 style="font-size: 5vw"><span style="font-size: 1.5vw;"><i style="line-height: 1.5;">Quick Guide to:</i></span><br />EngSoc Funding Sources</h1>
         <p> Visit the links in each section for further application details. </p>
