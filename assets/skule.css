@@ -28,11 +28,11 @@
 }
 
 .hero {
-    background-image: url("/assets/engsoc-crest-w.svg");
+    background-image: url("/assets/engsoc-crest-bg.svg");
     background-repeat: no-repeat;
     background-position: right;
-    background-blend-mode: soft-light;
 }
+
 
 .box {
     box-shadow: 0 0 0;
