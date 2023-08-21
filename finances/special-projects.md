@@ -1,6 +1,6 @@
 ---
 title: Special Projects Funding
-layout: default
+layout: page
 ---
 
 <p>Students can apply for Special Projects funding from the Engineering Society for one-time purchases which benefit their organization or the Skule community as a whole. Purchases that are typically eligible for Special Projects Funding are:</p>

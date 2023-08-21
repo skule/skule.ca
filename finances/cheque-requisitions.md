@@ -1,6 +1,6 @@
 ---
 title: Cheque Requisitions
-layout: default
+layout: page
 ---
 <h3>What is a Cheque Requisition?</h3>
 <p>A cheque requisition is a form that is filed to receive reimbursement for expenses paid on behalf of your affiliated group (i.e. Engineering Society associated entity, directorship or affiliated club). You must attach original receipts with your cheque requisition. You can attach multiple receipts to your form because each line item on the form is for a different receipt. An example form is <a href="../../wp-content/uploads/2016/02/ExampleChequeReq.pdf" target="_blank" rel="noopener noreferrer">here</a>. Please note each line item would have a corresponding receipt submitted with the form.</p>

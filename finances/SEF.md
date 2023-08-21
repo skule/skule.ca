@@ -1,6 +1,6 @@
 ---
 title: Skule™ Endowment Fund
-layout: default
+layout: page
 ---
 
 <p>The Skule™ Endowment Fund (SEF) is a fund that is added to every year through a special Student Levy. The interest earned on this fund is used each year on various student projects and initiatives. It establishes a perpetual source of funds dedicated exclusively to the improvement of the student experience of undergraduate engineering students at the University of Toronto.</p>

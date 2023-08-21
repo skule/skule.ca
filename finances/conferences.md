@@ -1,6 +1,6 @@
 ---
 title: Conference Funding
-layout: default
+layout: page
 ---
 
 <p>It is in the interest of the Engineering Society that all undergraduate engineering students who wish to attend an academic conference or design competition to represent Skule, EngSoc and the University of Toronto to the engineering community have the opportunity to do so, without being restricted by financial needs. All undergraduate engineering students may thus apply for a subsidy from the Engineering Society to attend an academic conference or design competition that clearly demonstrates these points.</p>

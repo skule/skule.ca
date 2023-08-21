@@ -1,7 +1,11 @@
+---
+title: Elections
+layout: page
+---
+
 <div class="columns">
     <div class="column">
         <div class="content">
-            <h1 class="title">Elections</h1>
             <p>If you would like to be further involved in the Engineering Society, you can apply to run for a position in EngSoc. Many positions in EngSoc are elected, including all of our Officers, Class Reps, and Board of Directors Reps, whereas our Project Directors are appointed via interview. In addition, there are many positions in Discipline Clubs and Ex-Officio groups that are also elected through EngSoc's elections process.</p>
             <p>Of course, all members of EngSoc can vote in our elections, as well as their respective discipline clubs.</p> <a class="button is-primary" href="http://vote.skule.ca">Vote!</a>
             <h2>Apply</h2>

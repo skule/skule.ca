@@ -1,6 +1,6 @@
 ---
 title: Financial Status
-layout: default
+layout: page
 ---
 
 <p>Shown below is the high-level overview of the major funding streams available from EngSoc. For a detailed breakdown of how the funds are used, visit the <a href="http://skule.ca/financial_documents">Financial Documents</a> section.</p>

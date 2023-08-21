@@ -1,6 +1,6 @@
 ---
 title: Club Funding
-layout: default
+layout: page
 ---
 
 <p>The Engineering Society participates in the Centralized Process for Student Initiative Funding (CPSIF). CPSIF allows student groups to apply to various funding resources from within the Faculty of Applied Science & Engineering in a single application. Departments and affiliates of this program will all receive the same application and budget. The funding process will occur once this academic year during the fall.</p>

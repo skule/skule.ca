@@ -1,6 +1,6 @@
 ---
 title: Finance Committee
-layout: default
+layout: page
 ---
 
 <p>Founded in 2008, following a call for increased accountability and help with a high volume of funding applications and allocations, the University of Toronto Engineering Society Finance Committee is a standing committee of the Engineering Society Board of Directors. As a standing committee, whose term lasts 1 year, members of the FC reserve no particular authority but are tasked with helping shape the Society's financial future. Basically, they exist to provide the Board with funding recommendations and assist clubs who seek financial help or guidance.</p>

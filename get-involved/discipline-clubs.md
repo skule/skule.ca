@@ -1,4 +1,8 @@
-<h1 class="title">Discipline Clubs</h1>
+---
+title: Discipline Clubs
+layout: page
+---
+
 <p>Discipline Clubs represent each discipline to the Faculty of Applied Science and Engineering and provide services to the members of their disciplines, such as social events and academic advocacy. Discipline Club Chairs are elected directly by all full-time and part-time engineering students in each of their constituencies. If you have concerns about your courses or want to meet more of your classmates, feel free to reach out to your Discipline Club!</p>
 <table>
     <tbody>

@@ -1,4 +1,8 @@
-<h2 class="title">University of Toronto Students' Union</h2>
+---
+title: University of Toronto Student's Union
+layout: page
+---
+
 <p>One of the UTSU's most recognized services is the <strong>Health and Dental Plan, click <a href="http://studentcare.ca/rte/en/IHaveAPlan_UTSU_Home">here</a> </strong>to find out more about it, including how to submit a claim and opt-out. The UTSU <strong>also offers discounts and other services; visit <a href="https://www.utsu.ca/services/">UTSU's Services</a></strong> to learn more. If you're interested in <strong>getting involved with the UTSU, check out the <a href="https://www.utsu.ca/commissions/">Commissions Section</a></strong> on their website.</p>
 <h3>Contact Points</h3>
 <p><strong>UTSU Engineering Representatives:</strong> Andrew Chen (<a href="mailto:andrew.chen@utsu.ca">andrew.chen@utsu.ca</a>) <br /> <strong>VP Professional Faculties:</strong> Paul Kaita (<a href="mailto:vpprofac@utsu.ca">vpprofac@utsu.ca</a>)</p>

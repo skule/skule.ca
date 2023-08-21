@@ -1,3 +1,8 @@
+---
+title: Associated Entities
+layout: page
+---
+
 <div class="columns is-multiline">
     <div class="column is-12">
         <h1 class="title">Associated Entities</h1>

@@ -1,6 +1,6 @@
 ---
 title: Student Levies
-layout: default
+layout: page
 ---
 
 <p>Certain student groups on campus have their own levy that comes from students in addition to other ancillary fees. The purpose of these levies is to provide some of the larger clubs with a regular source of income that fund complex design projects, long distance competitions, and various other activities that students can become involved in.</p>

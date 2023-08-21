@@ -1,4 +1,8 @@
-<h3>Student Life Office</h3>
+---
+title: Campus Resources
+layout: page
+---
+
 <p>The <a href="http://www.studentlife.utoronto.ca">Student Life office</a> at the University of Toronto has a lot of great resources on campus, some of which are as follows:
 <ul>
     <li><a href="http://www.studentlife.utoronto.ca/asc">Academic Success</a></li>
