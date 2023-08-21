@@ -1,6 +1,6 @@
 ---
 title: Engineering Society Officers
-layout: default
+layout: page
 ---
 
 <div class="columns is-multiline">

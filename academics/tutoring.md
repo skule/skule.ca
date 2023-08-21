@@ -1,6 +1,6 @@
 ---
 title: Tutoring
-layout: default
+layout: page
 ---
 
 <p>If you need a bit of extra help with a particular course or concept, take a look at the Skuleâ„¢ tutor database at <a href="http://tutors.skule.ca/">tutors.skule.ca</a>. There you can search by course code to see a variety of tutors with pricing information, tutor backgrounds and qualifications, and contact information so that you can find someone who is a good fit for you. If you are or know a graduate student interested in tutoring others, you can also apply to be a tutor.</p>

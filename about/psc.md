@@ -1,6 +1,6 @@
 ---
 title: Policies and Structures Committee
-layout: default
+layout: page
 ---
 
 <h2>What is the Policies and Structures Committee?</h2>

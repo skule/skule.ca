@@ -1,6 +1,6 @@
 ---
 title: Governing Members
-layout: default
+layout: page
 ---
 
 The Engineering Society is run by volunteers in a wide variety of positions. It would be impossible to list everyone who contributes to its operation, but this page includes information about many of those volunteers. You can find all of their names and contact information below

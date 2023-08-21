@@ -1,6 +1,6 @@
 ---
 title: Room Bookings
-layout: default
+layout: page
 ---
 
 <p>If you are an EngSoc-affiliated Club, Associated Entity, Project Directorship, or Discipline Club, you can book a room through EngSoc. A variety of University of Toronto rooms and the Engineering Communications room (or "EngCom") are available for booking. </p>

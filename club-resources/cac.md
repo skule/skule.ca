@@ -1,6 +1,6 @@
 ---
 title: Club Affiliation Committee
-layout: default
+layout: page
 ---
 
 The Club Affiliation Committee (CAC) is responsible for reviewing applications from student groups who want to be affiliated with the Engineering Society (EngSoc). Affiliation allows clubs to receive EngSoc funding and use EngSoc resources like marketing channels and lockers.

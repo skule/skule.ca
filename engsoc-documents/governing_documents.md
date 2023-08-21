@@ -1,6 +1,6 @@
 ---
 title: Constitution and Bylaws
-layout: default
+layout: page
 ---
 
 <p>The EngSoc bylaws regulate how EngSoc functions. They can only be changed by a resolution of the Board of Directors, and any change to the Constitution must be approved at an Annual General Meeting in which any full-time or part-time undergraduate engineering student is able to vote.</p>

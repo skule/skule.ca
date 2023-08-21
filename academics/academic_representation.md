@@ -1,6 +1,6 @@
 ---
 title: Academic Representation
-layout: default
+layout: page
 ---
 
 <div class="columns">

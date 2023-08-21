@@ -1,6 +1,6 @@
 ---
 title: Parking Spot Bookings
-layout: default
+layout: page
 ---
 
 <p><b>We have a temporary parking space at the moment due to the ongoing construction at the Cumberland House. Please use Lot O, which is directly behind the Pratt building. There are no assigned parking spaces and no reserve signs, so you may park in whichever space is available in the lot." </b></p>

@@ -1,6 +1,6 @@
 ---
 title: Meeting Minutes
-layout: default
+layout: page
 ---
 
 <p>The following are records of past meetings. If you have any questions about the format of meetings or why a meeting may be unavailable, please contact <a href="mailto:vpcomm@skule.ca">vpcomm@skule.ca</a>.</p>

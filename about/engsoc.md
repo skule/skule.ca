@@ -1,6 +1,6 @@
 ---
 title: Engineering Society
-layout: default
+layout: page
 ---
 
 The Engineering Society, or EngSoc, is the student government for undergraduate engineering students at the University of Toronto. It represents all full-time and part-time undergraduate engineers and is made up of elected student volunteers. EngSoc engages in academic advocacy, allocates funding to groups and initiatives in the community, and provides a wide variety of services and events to students. If there is anything you want to know about the Engineering Society that you can't find on this website, please email us or visit our office.

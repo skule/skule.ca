@@ -1,6 +1,6 @@
 ---
 title: Statement on Anti-Black Racism
-layout: default
+layout: page
 ---
 
 Please find the EngSoc Officers' statement on anti-black racism below.

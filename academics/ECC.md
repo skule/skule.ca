@@ -1,6 +1,6 @@
 ---
 title: ECC Advocacy
-layout: default
+layout: page
 ---
 
 <div class="box" id="major">

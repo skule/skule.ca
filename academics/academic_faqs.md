@@ -1,6 +1,6 @@
 ---
 title: Academic FAQs
-layout: default
+layout: page
 ---
 
 <p><em>Disclaimer: the information on this page is a summarized version of the University of Toronto Undergraduate Faculty of Engineering's online available resources. Use this page as a starting point and place to find more information. Visit all of the appropriate official Faculty Pages (many of them linked below), and see the appropriate Faculty Staff before taking academic action. If you find any outdated or inaccurate information on this page, or have any questions, please e-mail <a href="mailto:vpacademic@skule.ca">vpacademic@skule.ca</a>.</em>

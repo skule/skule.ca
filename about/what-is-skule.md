@@ -1,6 +1,6 @@
 ---
 title: What is Skule?
-layout: default
+layout: page
 ---
 
 <p>Skule™ is the name of the University of Toronto's engineering community at the St. George campus. It is made up of about 5000 undergraduate students, hundreds of graduate students, and a range of dedicated alumni. It is also home to hundreds of engineering clubs, athletics teams, design teams, and traditions (see below). The Skule™ name was first used almost a century ago when students discovered something that they had in common: engineers don't know how to spell. As something that the community created together, the Engineering Society trademarked the name in 1984.</p>

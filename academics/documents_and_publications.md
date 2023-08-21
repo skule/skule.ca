@@ -1,6 +1,6 @@
 ---
 title: Documents and Publications
-layout: default
+layout: page
 ---
 
 <div class="columns">

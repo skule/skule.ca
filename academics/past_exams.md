@@ -1,6 +1,6 @@
 ---
 title: Past Midterms and Exams
-layout: default
+layout: page
 ---
 
 <p>Exams and midterms from previous terms can be a helpful study aid, and there are several repositories of them available to undergraduate students.</p>

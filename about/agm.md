@@ -1,6 +1,6 @@
 ---
 title: Annual General Meeting
-layout: default
+layout: page
 ---
 
 # Engineering Society Annual General Meeting

@@ -1,6 +1,6 @@
 ---
 title: Financial Documents
-layout: default
+layout: page
 ---
 
 <p>The Engineering Society Operating Budgets highlight expected spending and revenue targets set by the Vice-President Finance, Finance Committee, and the Board of Directors. The Engineering Society Audits are a review of the Society's assets and financial standing prepared by an;independent accounting firm. The statements are approved by our members at the Annual General Meeting.</p>

@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-layout: default
+layout: page
 ---
 
 <p>Please contact <a href="mailto:engsoc@skule.ca">engsoc@skule.ca</a> for general inquiries. For a speedier response regarding a specific initiative under <a href="../engsoc">EngSoc's Governance Structure</a>, please contact the person in charge directly. For business matters related to the functions of the EngSoc Office, please contact our Business Manager at <a href="mailto:rhonda@skule.ca">rhonda@skule.ca</a>.</p>
