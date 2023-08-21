@@ -7,7 +7,6 @@
     background-position: center;
 }
 
-
 .tab.is-active a {
     background-color: #eeeeee !important;
     color: #3b739e !important;
@@ -26,6 +25,13 @@
 .menu {
     position: sticky;
     top: 20px;
+}
+
+.hero {
+    background-image: url("/assets/engsoc-crest-w.svg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-blend-mode: soft-light;
 }
 
 .box {
@@ -58,7 +64,7 @@ html {
     opacity: .6;
 }
 
-.has-text-primary{
+.has-text-primary {
     color: #3b739e !important;
 }
 
@@ -66,7 +72,7 @@ html {
     font-size: 64px;
     padding: 16px;
     background-color: #3b739e;
-    color:white;
+    color: white;
     border-radius: 16px;
 }
 
@@ -102,32 +108,22 @@ html {
 
 @media (max-width: 768px) {
     #about {
-        background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 60%, rgba(239, 239, 239, 0) 90%), url('/assets/about.jpg') center no-repeat;
-        background-size: cover;
-        padding: 0 0 25%;
+        background: #eeeeee;
     }
 
     #get-involved {
-        background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 60%, rgba(239, 239, 239, 0) 90%), url('/assets/get-involved.jpg') center no-repeat;
-        background-size: cover;
-        padding: 0 0 25%;
+        background: #eeeeee;
     }
 
     #finances {
-        background: linear-gradient(to right, rgba(239, 239, 239, 0.98) 0%, rgba(239, 239, 239, 0.98) 75%, rgba(239, 239, 239, 0) 100%), url('/assets/finances.jpg') center no-repeat;
-        background-size: cover;
-        padding: 0;
+        background: #eeeeee;
     }
 
     #club-resources {
-        background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 60%, rgba(239, 239, 239, 0) 90%), url('/assets/club-resources.jpg') center no-repeat;
-        background-size: cover;
-        padding: 0 0 25%;
+        background: #eeeeee;
     }
 
     #bookings {
-        background: linear-gradient(to bottom, rgba(239, 239, 239, 0.95), rgba(239, 239, 239, 0.95)), url('/assets/bookings.jpg') center no-repeat;
-        background-size: cover;
-        padding: 0;
+        background: #eeeeee;
     }
 }
