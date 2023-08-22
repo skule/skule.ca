@@ -17,7 +17,7 @@ Discipline Club Chairs manage each discipline club, which provide each disciplin
             
 The VP Academic and the Academic Advocacy Committee (AAC) are elected student positions that address issues facing members of all disciplines. The committee is composed of the VP Academic, 3 Engineering Society board of directors members, undergraduate student representatives that sit on Faculty Council Standing Committees, and academic directors from each discipline club. They discuss matters ranging from the mid-course feedback project, developing the f!rosh anticalendar, creating advocacy strategies based on discussion points at Faculty Council Standing Committee meetings, and developing action plans to resolve student issues that have escalated through the above hierarchy.
             
- In 2016-2017, the Academic Advocacy Committee put together a recommendation report for the Engineering Career Centre to aid in their restructuring. [The full report can be found here](http://skule.ca/content/final-engineering-career-centre-reccomenation-report.pdf).
+ In 2016-2017, the Academic Advocacy Committee put together a recommendation report for the Engineering Career Centre to aid in their restructuring. [The full report can be found here](/academics/files/final-engineering-career-centre-reccomenation-report.pdf).
             
 ## Faculty Council
             

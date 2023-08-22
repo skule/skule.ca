@@ -80,7 +80,6 @@ Project Directors each manage a particular service or initiative, from managing 
 > The Environmental Sustainability Director assesses the environmental impact of EngSoc's operations, with the goal of improving EngSoc's environmental sustainability, in collaboration with students and other groups on campus. 
 >
 > <a class="button is-small president" href="mailto:sustainability@g.skule.ca">Email</a> 
-> <a class="button is-small president" href="https://skule.ca/wp-content/uploads/2022/EnvironmentalSustainabilityAssessment2022-Final.pdf">Report</a>
  
 > <b class="president-text">Equity and Inclusivity Director</b>
 > Boran Ocak <small class="president-text">Overseen by the President</small>
