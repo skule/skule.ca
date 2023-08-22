@@ -43,7 +43,7 @@ Applications to this fund are accepted on a rolling basis. Once the application 
 
 ## Funding Release
 
-Once the funding is approved and all parts of the application have been submitted, please submit a cheque requisition to claim any expenses. Visit [Cheque Requisitions](../cheque_requisitions) for more information.
+Once the funding is approved and all parts of the application have been submitted, please submit a cheque requisition to claim any expenses. Visit [Cheque Requisitions](/finances/cheque_requisitions) for more information.
 
 ## Contact
 
