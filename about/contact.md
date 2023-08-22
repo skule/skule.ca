@@ -3,7 +3,7 @@ title: Contact Us
 layout: page
 ---
 
-Please contact [engsoc@skule.ca](mailto:engsoc@skule.ca) for general inquiries. For a speedier response regarding a specific initiative under [EngSoc's Governance Structure](../engsoc), please contact the person in charge directly. For business matters related to the functions of the EngSoc Office, please contact our Business Manager at [rhonda@skule.ca](mailto:rhonda@skule.ca).
+Please contact [engsoc@skule.ca](mailto:engsoc@skule.ca) for general inquiries. For a speedier response regarding a specific initiative under [EngSoc's Governance Structure](/about/engsoc), please contact the person in charge directly. For business matters related to the functions of the EngSoc Office, please contact our Business Manager at [rhonda@skule.ca](mailto:rhonda@skule.ca).
 
 If you have thoughts about how the Engineering Society can be improved, the best person to contact is the EngSoc Ombudsperson, at [ombudsperson@skule.ca](mailto:ombudsperson@skule.ca). The Ombudsperson can pass along your message anonymously (if desired) and help mediate conflicts between members of EngSoc. They also gather feedback throughout the year, which is summarized and presented in an annual report.
 

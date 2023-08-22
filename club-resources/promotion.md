@@ -27,4 +27,4 @@ The ECF login screens rotate through a variety of promotions for campus events t
 
 ## Website Hosting and Domain Names
 
-Affiliated clubs can request free website hosting or a skule.ca domain such as [lgmb.skule.ca](http://lgmb.skule.ca). Please contact the EngSoc Computer Systems Administrator at [sysadmin@skule.ca](mailto:sysadmin@skule.ca) and CC the Vice-President Communications at [vpcomm@skule.ca](mailto:vpcomm@skule.ca) in order to request this service. Users of either of these services must follow the [Subdomain Use Agreement](../../wp-content/uploads/2016/09/SkuleSubdomainUseAgreement.pdf).
+Affiliated clubs can request free website hosting or a skule.ca domain such as [lgmb.skule.ca](http://lgmb.skule.ca). Please contact the EngSoc Computer Systems Administrator at [sysadmin@skule.ca](mailto:sysadmin@skule.ca) and CC the Vice-President Communications at [vpcomm@skule.ca](mailto:vpcomm@skule.ca) in order to request this service. Users of either of these services must follow the [Subdomain Use Agreement](/club-resources/files/SkuleSubdomainUseAgreement.pdf).

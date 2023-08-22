@@ -9,7 +9,7 @@ Affiliating a club with the Engineering Society makes it eligible for EngSoc fun
 
 You can find a more detailed guide regarding affiliation and club budgeting and funding below: 
 
-<a class="button is-primary" href="../content/finance/Clubs-Guide-to-EngSoc.pdf">Guide</a>
+<a class="button is-primary" href="/club-resources/files/Clubs-Guide-to-EngSoc.pdf">Guide</a>
 
 ## Trial-Status Affiliation Application
     
@@ -31,4 +31,4 @@ If your club has held full status affiliation previously, you can apply for full
 
 ## UTSU Affiliation
 
-If you are interested in being affiliated with the UTSU, check out our [UTSU Section](../utsu#utsuClubs) or the UTSU website! 
+If you are interested in being affiliated with the UTSU, check out our [UTSU Section](/external-resources/utsu) or the UTSU website! 
