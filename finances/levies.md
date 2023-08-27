@@ -6,19 +6,19 @@ layout: page
 Certain student groups on campus have their own levy that comes from students in addition to other ancillary fees. The purpose of these levies is to provide some of the larger clubs with a regular source of income that fund complex design projects, long distance competitions, and various other activities that students can become involved in.
 
 Levies are determined by holding a referendum among the entire Engineering Undergraduate student body, and must be renewed every 2 years to ensure that there is still a desire to continue funding each group. The current levies in place are listed below:
-- University of Toronto Robotics Association ($2.50 per semester)
-- University of Toronto Aerospace Team ($3.25 per semester)
+- University of Toronto Aerospace Team ($3.55 per semester)
 - Engineers Without Borders ($1.50 per semester)
-- University of Toronto Concrete Canoe Team ($1.38 per semester)
-- University of Toronto Formula SAE Racing Team ($2.75 per semester)
-- University of Toronto Blue Sky Solar Racing Team ($3.20 per semester)
+- University of Toronto Concrete Canoe Team ($1.75 per semester)
+- University of Toronto Formula SAE Racing Team ($3.95 per semester)
 - University of Toronto Human Powered Design Vehicle Team ($2.00 per semester)
-- University of Toronto Robotics for Space Exploration Team ($1.85 per semester)
+- University of Toronto Robotics for Space Exploration Team ($2.10 per semester)
 - University of Toronto Concrete Toboggan Team ($1.50 per semester)
-- Skule Nite ($1.95 per semester)
-- Engineering Student Society Council of Ontario (ESSCO) ($0.08/fall, $0.09/winter)
-- University of Toronto Hyperloop Team ($1.35 per semester)
+- University of Toronto Supermileage Team ($1.75 per semester)
+- UTWind ($1.55 per semester)
+- Skule Nite ($2.10 per semester)
+- Engineering Student Society Council of Ontario (ESSCO) ($0.10 per semester)
 - Engineers In Action ($1.00 per semester)
+- Institute of Electrical and Electronics Engineers (IEEE) University of Toronto Student Chapter ($1.00 per semester)
 
 ## Application Process
 
