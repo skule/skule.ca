@@ -11,16 +11,15 @@ The SEF will be governed in an open and transparent fashion, for the benefit of 
 - Laboratory equipment for extracurricular use;
 - Engineering Society activities and operations.
 
-A compiled list of some past projects financed by the SEF is available [here](https://drive.google.com/drive/u/3/folders/1xL_3wjVRcKnFvMFn17pkqiriw4kwnaNl).
+A compiled list of some past projects financed by the SEF is available [here](https://drive.google.com/drive/u/2/folders/1d_L69qd6ONqqOa3IboxEnPpZVMcuQzif).
 
 ## Application Process
 
 <a class="button is-primary" href="/finances/applications/Special-Projects-Application-2T3-2T4.xlsx"> Application Package </a> 
-<a class="button is-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdI9GVk59q4MyMYtCIylsDHgOeS-dHTfYJwkmGX5NJyimloXw/viewform"> Application Form </a> 
+<a class="button is-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdUJZRCMAJYkaggm6fWwp9AF_kf0wpAtUrmrgarDZcRopo06g/viewform?pli=1&pli=1"> Application Form </a> 
 
 - Please download a copy of the application and Terms of Reference documents linked above. 
 - Read the Terms of Reference document for this funding round and ensure that your project fits within the scope. 
-- Submit the application to [this google form ](https://forms.gle/Eh8M7aQBQWho3PdN9) by midnight of **February 7 **! 
 - The application will be discussed by the SEF Subcommittee to reach a recommendation.
 - The SEF Committee will review and approve individual allocations. Funds will the distributed after this stage. 
 
@@ -28,19 +27,15 @@ A compiled list of some past projects financed by the SEF is available [here](ht
 
 ### Fall 2023
 
-- October 2023 - Call for proposals
-- End of October 2023 - Deadline for submissions
-- Mid November 2023 - Recommendation report delivered to Endowment Fund Committee
-- Late November 2023 - Final approval granted
-- Early December 2023 - Funding released
+- Late Aug 2023 – Call for proposals
+- Late Sept 2023 – Deadline for proposals
+- Early Oct 2023 – Recommendation Delivered to Skule Endowment Fund Committee
+- Late Oct 2023 – Final Approval granted
+- Early Nov 2023 – Funding Released
 
 ### Spring 2024
 
-- January 2024 - Call for proposals
-- Mid February 2024 - Deadline for submissions
-- Early March 2024 - Recommendation report delivered to Endowment Fund Committee
-- Mid March 2024 - Final approval granted
-- Late March 2024 - Funding released
+To be determined.
 
 ## Contact
 
