@@ -9,7 +9,7 @@ For more information about CPSIF and to begin your application, [please visit uo
 
 In addition to the CPSIF, EngSoc will have an additional round of Club Funding in the Winter. Information regarding Winter round club funding applications and deadlines will be released in the second semester. Clubs that have not received funding from EngSoc will have funding priority. However, groups that have applied to CPSIF in the fall semester may be considered again based on need (i.e. you were a trial club and now have been fully affiliated). Please ensure that your proposed budget reflects activities and programs for the entire academic year. You will be asked to provide past financial records along with projected expenses and all sources of income. 
 
-<a class="button is-primary" href="https://utoronto.sharepoint.com/:x:/s/fase-VDU/setd/ET_pS7HVxwJAlB6vzRSzbwoBnJvJtZsAzflJangkHuH-_g?e=GNi1H6">2021-2022 CPSIF Budget Template</a>
+<a class="button is-primary" href="https://utoronto.sharepoint.com/:x:/s/fase-VDU/setd/ET_pS7HVxwJAlB6vzRSzbwoBnJvJtZsAzflJangkHuH-_g?e=GNi1H6">2022-2023 CPSIF Budget Template</a>
 
 ## CPSIF Application Process
 
