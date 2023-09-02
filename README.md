@@ -24,7 +24,7 @@ about/, academics/, bookings/, ...
     └─> assets/         << add assets folders for page-specific assets
 
 assets/                 << sitewide assets only!
-    └─> skule.css       << modifications to Bulma for skule.ca
+    ├─> skule.css       << modifications to Bulma for skule.ca
     └─> imgs            << various *sitewide* icons 
 
 index.html              << homepage, fully self-contained

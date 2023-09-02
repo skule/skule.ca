@@ -16,7 +16,7 @@ Expenses eligible for reimbursement include any travel, accommodation, and regis
 
 ## Finances and Logistics
 
-While previous conference funding was limited, the Faculty of Applied Sciences and Engineering and associated Alumni Fund have generously donated $50,000 for the 2T3-2T4 schoolyear to sponsor students to use conference funding and attend conferences/events for their own personal development or community achievement. We thank the Faculty and alumnus for their support!
+While previous conference funding was limited, the Faculty of Applied Sciences and Engineering and associated Alumni Fund have generously donated $50,000 for the 2T3 - 2T4 schoolyear to sponsor students to use conference funding and attend conferences/events for their own personal development or community achievement. We thank the Faculty and alumnus for their support!
 
 - The maximum amount that may be received is up to $500 of the expenses or 50% of total costs per person of the expenses associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, whichever is lesser.
 - A maximum amount of $5000 may be allocated towards each conference/competition.
@@ -28,7 +28,7 @@ While previous conference funding was limited, the Faculty of Applied Sciences a
 
 <a class="button is-primary" href="/finances/applications/Conference-Funding-Application-2T3-2T4-Group.xlsx" download> Group Application Download </a>
 <a class="button is-primary" href="/finances/applications/Conference-Funding-Application-2T3-2T4-Individual.xlsx" download> Individual Application Download </a>
-<a class="button is-danger" href="https://docs.google.com/forms/u/2/d/e/1FAIpQLSc-rONEqG6p9s-P5y7LsPGavkY9m00JPIh_ktQBzTZ3OpNcLw/viewform"> Winter Special Project Funding Application </a>
+<a class="button is-danger" href="https://docs.google.com/forms/u/2/d/e/1FAIpQLSc-rONEqG6p9s-P5y7LsPGavkY9m00JPIh_ktQBzTZ3OpNcLw/viewform"> Conference Funding Application </a>
 
 - Fill in the **written application**. Please only use the space provided.
 - Fill in the **excel template** to detail the expenses. Detail the total expenses across the all members. The file will calculate the total amount of funding you should receive.
