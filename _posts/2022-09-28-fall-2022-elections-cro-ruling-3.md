@@ -1,0 +1,7 @@
+---
+title: "Fall 2022 Elections - CRO Ruling #3"
+author: CRO
+layout: post
+---
+
+Hey everyone<br> <br> The official CRO Ruling #3 may be found <a href="https://drive.google.com/file/d/1t13ltXKUsAYXlJ2VwzvU5dtOGjvpwIpK/view?usp=sharing">here</a>. It concerns violation of section 8.7.1 and 8.7.2 of Bylaw 3, wherein the candidate in question posted campaign materials outside of the campaign period. As always, the decision may be appealed as per the process outlined in section 10 of Bylaw 3.

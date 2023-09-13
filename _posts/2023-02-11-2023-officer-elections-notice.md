@@ -1,0 +1,7 @@
+---
+title: "2023 Officer Elections Notice"
+author: CRO
+layout: post
+---
+
+Hey everyone<br> <br> It is almost the week of reading and that means it is time for the 2T3 Officer Elections, the nomination period for which will be open between 9:00 am on Monday, February 13th, 2023 till 5:00 pm on Friday, February 24th, 2023. If you?ï¿½ï¿½re interested in applying to become an officer, the election notice and nomination form can be found <a href="https://drive.google.com/file/d/1vWUiO-2aQEdR3x4L-n3jVjcSXVFwlwGc/view?usp=sharing">here</a>. Please note, 25 signatures are required for each officer nomination and a 50$ refundable deposit is also required for nomination (details are explained further in the election notice).<br> <br> If you are at all interested in becoming an officer, feel free to reach out to our lovely officers at the following emails:<br> 1. President - president@g.skule.ca<br> 2. VP Communications - vpcomm@g.skule.ca<br> 3. VP Student Life - vpstudentlife@g.skule.ca<br> 4. VP Academic - vpacademic@g.skule.ca<br> 5. VP Finance - vpfinance@g.skule.ca<br> <br> Further role descriptions can be found in Bylaw 1, Chapter 3 and Bylaw 4.<br> <br> IMPORTANT NOTE - The election campaign rules for this election and all future elections have undergone a major change recently (around two weeks ago). As such, I request everyone to go through Bylaw 3 thoroughly before the All Candidates Meeting to ensure a smooth campaign process.<br> <br> Looking forward to your nominations and have a great rest of your week.
