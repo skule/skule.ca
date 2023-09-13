@@ -25,9 +25,9 @@ layout: default
             <div class="column is-2-desktop is-one-third-tablet is-half-mobile has-text-centered"> <a class="megaicon" href="http://digest.skule.ca"> <i class="fa fa-bullhorn" aria-hidden="true"></i><br> Announcements </a> </div>
         </div>
         <hr>
-        <h1>Announcements</h1>
+        <h1>Recent Announcements</h1>
         <ul>
-            {% for post in site.posts %}
+            {% for post in site.posts limit:5 %}
             <li>
                 <a href="{{ post.url }}">{{ post.title }}</a>
             </li>
