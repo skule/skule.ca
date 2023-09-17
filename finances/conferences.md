@@ -18,8 +18,9 @@ Expenses eligible for reimbursement include any travel, accommodation, and regis
 
 While previous conference funding was limited, the Faculty of Applied Sciences and Engineering and associated Alumni Fund have generously donated $50,000 for the 2T3 - 2T4 schoolyear to sponsor students to use conference funding and attend conferences/events for their own personal development or community achievement. We thank the Faculty and alumnus for their support!
 
-- The maximum amount that may be received is up to $500 of the expenses or 50% of total costs per person of the expenses associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, whichever is lesser.
-- A maximum amount of $5000 may be allocated towards each conference/competition.
+- **For academic/technical/design conferences**: the maximum amount that may be received is up to **$500** of the expenses or **50% of total costs per person** of the expenses associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
+- **For recreational/hobby conferences**: the maximum amount that may be received is up to **$200** of the expenses or **50% of total costs per person of the expenses** associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
+- A maximum amount of $5000 may be allocated towards each conference/competition **for academic/technical/design conferences**, and a maximum amount of $2000 **for recreational/hobby conferences**.
 - The conference/competition costs must occur in the current fiscal year, that starts June 1 and ends May 31 of the next calendar year. If the expenses occur in the next fiscal year, you will need to submit an application after May 31.
 - The funding pool is limited - it may be possible that the funding pool be exhausted before you apply. Applying early with cost estimates is encouraged.
 - Please indicate the urgency of the funding in your email. This will help us prioritize applications. Appropriate reasons could include if the conference is coming up soon, or a deposit needs to be paid immediately etc.
