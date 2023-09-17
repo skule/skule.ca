@@ -36,7 +36,7 @@ While previous conference funding was limited, the Faculty of Applied Sciences a
 - Email both the application and the excel file to [vpfinance@skule.ca](mailto:vpfinance@skule.ca) and [finance.secretary@skule.ca](mailto:finance.secretary@skule.ca) with the subject: `(Name of Organization/Conference)_Conference Funding`
 - The application will be discussed by the Finance Committee to reach a recommendation. Once the recommendation is approved by the Board, the finance secretary will let you know if your conference funding has been approved or rejected.
 
-**Note:** The written application consists of two parts conference details **and a conference review**. If you submit the first part of the application before the conference has occurred, the Finance Committee may confirm your funding amount beforehand. This funding will be reimbursed once the second part of application and a cheque requisition has been submitted.
+**Note:** The written application consists of two parts conference details **and a conference review**. If you submit the first part of the application before the conference has occurred, the Finance Committee may confirm your funding amount beforehand. This funding will be reimbursed once the second part of application and a cheque requisition has been submitted. A member of the Finance Committee will contact you with impact report submission details after the conference.
 
 ## Funding Review
 
