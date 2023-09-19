@@ -1,0 +1,64 @@
+---
+layout: post
+title: Announcements
+---
+
+<!-- Pagination links -->
+<div class="field has-addons">
+  <p class="control" style="margin-left:auto">
+    <a class="button is-secondary" 
+    href="{{ paginator.previous_page_path }}" 
+    {% unless paginator.previous_page %} disabled {% endunless %}>
+      Previous
+    </a>
+  </p>
+  <p class="control">
+    <a class="button is-secondary" disabled>
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </a>
+  </p>
+  <p class="control" style="margin-right:auto">
+    <a href="{{ paginator.next_page_path }}" 
+    class="button is-secondary"
+    {% unless paginator.next_page %} disabled {% endunless %}>
+      Next
+    </a>
+  </p>
+</div>
+
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+<div class="box">
+  <h4>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <i style="float:right"><small>{{ post.date | date_to_string: "ordinal", "US" }}</small></i>
+  </h4>
+  <p>
+    {{ post.excerpt | truncatewords:1000 }}
+  </p>
+</div>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="field has-addons">
+  <p class="control" style="margin-left:auto">
+    <a class="button is-secondary" 
+    href="{{ paginator.previous_page_path }}" 
+    {% unless paginator.previous_page %} disabled {% endunless %}>
+      Previous
+    </a>
+  </p>
+  <p class="control">
+    <a class="button is-secondary ">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </a>
+  </p>
+  <p class="control" style="margin-right:auto">
+    <a href="{{ paginator.next_page_path }}" 
+    class="button is-secondary"
+    {% unless paginator.next_page %} disabled {% endunless %}>
+      Next
+    </a>
+  </p>
+</div>

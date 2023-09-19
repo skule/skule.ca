@@ -18,7 +18,7 @@
         <div class="navbar-end ">
             {% assign mydocs = site.html_pages | group_by: 'dir' %}
             {% for cat in mydocs %}
-            {% if cat.name != "/"%}
+            {% unless cat.name == "/" or cat.name contains "announcements"%}
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">
                     {% assign titlewords = cat.name | remove: "/" | split: "-" %}
@@ -33,7 +33,7 @@
                     {% endfor %}
                 </div>
             </div>
-            {% endif %}
+            {% endunless %}
             {% endfor %}
         </div>
     </div>
