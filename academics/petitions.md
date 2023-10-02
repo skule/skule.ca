@@ -32,7 +32,8 @@ TWPs can be used to get accommodation for **any deliverable or assessment** apar
 Other
 
 **Approval Process of TWP**
-Your academic advisor usually decides on the validity of the TWP, however the Professor of the course for which the TWP is filed decides what the accommodation looks like (ie. if you get an extension, the assignment is omitted from your final grade etc.)
+- Your academic advisor usually decides on the validity of the TWP, however the Professor of the course for which the TWP is filed decides what the accommodation looks like (ie. if you get an extension, the assignment is omitted from your final grade etc.)
+- You are granted **one “free” TWP per semester** where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.
 
 **Potential Outcomes of TWP:**
 - A deadline extension for TWP applicant
@@ -44,7 +45,7 @@ Your academic advisor usually decides on the validity of the TWP, however the Pr
 
 - Depending on the circumstances, you may want to **ask your professor for accommodations directly** by emailing them, rather than going through the TWP process. This can often save you the hassle of a lot of paperwork. If that does not work out you can still file a TWP, as long as you file the TWP within the 7 days following the assignment deadline
 - If you are requesting an extension or change in quiz/test date, how may your the new deadline/date conflict **with future commitments** both those that are academic and non-academic in nature
-- **Can you provide proper documentation?** Note that U of T has temporarily suspended the need for verification of illness, however non-medical 
+- **Can you provide proper documentation?** Note that you are granted one “free” TWP per semester where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.
 
 ### 2. Final Exam Petitions (FEP)
 
@@ -116,6 +117,14 @@ In general a WDR looks better on your transcript than a LWD, as it indicates the
 
 ## Providing Documentation
 When filing a petition you will be asked to provide documentation, this section should help you figure out what kind of documentation you need.
+
+### Exceptions to Providing Documentation
+**Once per spemester** you many file a **work term petition without documentation** if:
+1. The assessment is worth less than 15%;
+2. You are requisition an exception/extension for no longer than 3 days in a row.
+
+If you are using your exception for the semester you will declare so in the [The Engineering Portal](https://portal.engineering.utoronto.ca/weblogin/sites/Student/#/home) directly. 
+
 
 ### For Medical Reasons
 For medical reasons or mental health crises you must file a [verification of illness form](https://glse.utoronto.ca/sites/default/files/verification_of_student_illness_voi.pdf). This must be completed by a medical professional who has/is treating you such as your family doctor, a surgeon, a clinical psychiatrist, a dentist etc.
