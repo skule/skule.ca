@@ -44,6 +44,3 @@ P.A.S.S. (Peer Assisted Study Sessions) - These study sessions are hosted by ~2 
 
 ## Other Academic Resources Offered by EngSoc 
 - [F!rosh Anticalendar](http://www.http://courses.skule.ca/docs/Anticalendar_2016.pdf) - found on courses.skule.ca. A resource that gives a description, tips and important skills for all first year courses.
-- Bring forward larger issues to VP Academic at [vpacademic@skule.ca](mailto:vpacademic@skule.ca). Issues can be brought to the Academic Advocacy Committee as a project to take on or dealt with through EngSoc.
-- The Academic Advocacy Committee has monthly meetings that all students are welcome to attend where academic advocacy projects are tracked throughout the year (check out the Skule Calendar on this site for the next meeting date)!
-- Stop by the [EngSoc Office](/about/contact) (accessed from the Pit) Monday-Friday 9-5pm to use office tools like staplers, hole punchers, tape, etc. or to talk to one of the Officers.
