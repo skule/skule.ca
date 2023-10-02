@@ -10,10 +10,10 @@ This section will outline **(1) types of petitions**, **(2) how to file a petiti
 3. Read the **Providing Documentation** section
 4. File your petition
 
-## <u>**Types of Petitions**<u>
+## **Types of Petitions**
 There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.
 
-### **1. Term Work Petitions (TWP)**
+### 1. Term Work Petitions (TWP)
 TWPs can be used to get accommodation for **any deliverable or assessment** apart from the final exam that is a part of the student’s coursework for non-medical reasons. This includes but is not limited to midterms, quizzes, labs, homework assignments and projects.
 
 **When to Apply:**
@@ -47,12 +47,12 @@ Other
 - If you are requesting an extension or change in quiz/test date, how may your the new deadline/date conflict **with future commitments** both those that are academic and non-academic in nature
 - **Can you provide proper documentation?** Note that you are granted one “free” TWP per semester where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.
 
-### **2. Final Exam Petitions (FEP)**
+### 2. Final Exam Petitions (FEP)
 
 This type of petition can be used to get accommodations for **final examinations**, as the name suggests.
 
 **When to Apply:**
-- It is highly recommended to apply as soon as possible. If possible this should be before the time that the exam is scheduled. The UAC, which makes decisions on petitions, does take the timelines of the petitio into account sometimes. 
+- It is highly recommended to apply as soon as possible. If possible this should be before the time that the exam is scheduled. The UAC, which makes decisions on petitions, does take the timelines of the petitio into account sometimes. F
 - If applying before the deadline is not possible, you can file a petition up to **seven days after your last final exam**.
 - You also have the right to apply for a petition if you have written an exam under duress. This means that you wrote the exam in unpreventable circumstances that significantly negatively impacted your performance. An example of this would be writing an exam while so ill that you were unable to sit the entire duration of the exam.
 
@@ -77,7 +77,7 @@ Closely supervised term work is generally considered to be work such as quizzes,
 
 For further details on deferred exams see [this link](https://undergrad.engineering.utoronto.ca/wp-content/uploads/2020/06/R_3516_SDF.pdf).
 
-### **3. Special Consideration Petitions (SCPs)**
+### 3. Special Consideration Petitions (SCPs)
 This type of petition is used to get **an exemption to an academic regulation**.
 
 **When to Apply:**
@@ -115,10 +115,10 @@ In general a WDR looks better on your transcript than a LWD, as it indicates the
 
 - Probation relief is rarely requested on its own and is usually an alternate accommodation granted instead of a term WDR, when the performance in the term alone doesn’t show the impact of the condition.
 
-## <u>**Providing Documentation**<u>
+## **Providing Documentation**
 When filing a petition you will be asked to provide documentation, this section should help you figure out what kind of documentation you need.
 
-### **Exceptions to Providing Documentation**
+### Exceptions to Providing Documentation
 **Once per spemester** you many file a **work term petition without documentation** if:
 1. The assessment is worth less than 15%;
 2. You are requisition an exception/extension for no longer than 3 days in a row.
@@ -126,12 +126,12 @@ When filing a petition you will be asked to provide documentation, this section 
 If you are using your exception for the semester you will declare so in the [The Engineering Portal](https://portal.engineering.utoronto.ca/weblogin/sites/Student/#/home) directly. 
 
 
-### **For Medical Reasons**
+### For Medical Reasons
 For medical reasons or mental health crises you must file a [verification of illness form](https://glse.utoronto.ca/sites/default/files/verification_of_student_illness_voi.pdf). This must be completed by a medical professional who has/is treating you such as your family doctor, a surgeon, a clinical psychiatrist, a dentist etc.
 
 *Note that you qualify for one undocumented Term Work Petition (TWP) for medical reasons per semester for up to 3 days at a time. However, you may only use this for work worth 15% or less of the final course grade.*
 
-### **For Non-Medical Reasons**
+### For Non-Medical Reasons
 All documentation in the form of letters for non-medical reasons must include:
 - The writer’s official letterhead
 - The writer’s official stamp (if possible)
@@ -145,7 +145,7 @@ Some examples of other types of documentation for non-medical reasons include:
 - A police accident report in the case of a traffic accident
 - A death certificate or funeral notice in the event of the death of a family member
 
-### **If All Else Fails**
+### If All Else Fails
 If you cannot get documentation in time to meet the deadline for your petition (e.g. one week after an assignment deadline for a TWP petition), don’t panic. Follow the following steps:
 1. File the petition without documentation.
 2. Get documentation within the next month (you have 30 days to acquire documentation after getting your petition denied).  
@@ -153,7 +153,7 @@ If you cannot get documentation in time to meet the deadline for your petition (
 
 *NOTE we recommend sending your advisor an email asking them to delay processing the petition if possible, especially in the case of FEP and SCP petitions which have longer deadlines*
 
-### <u>**How to File a Petition**<u>
+## **How to File a Petition**
 1. Consult with your academic advisor beforehand if possible
 2. Prepare all the documentation if necessary/possible (see **Providing Documentation**)
 3. Go to [The Engineering Portal](https://portal.engineering.utoronto.ca/weblogin/sites/Student/#/home)
@@ -162,8 +162,8 @@ If you cannot get documentation in time to meet the deadline for your petition (
 ## **How Petitions are Processed**
 Your petition is reviewed by your academic advisor first, in more standard/clear-cut petitions, they will approve the petition. If their is ambiguity associated with your petition, or your academic advisor does not have authority in this particular circumstance, then your petition will be reviewed by the Undergraduate Assessment Committee (UAC). This committee meets five times per month on average and consists of both staff and students.
 
-## <u>**Appealing the decision of a Petition**<u>
-### **First Level of Appeal**
+## **Appealing the decision of a Petition**
+### First Level of Appeal
 If you are unsatisfied with the result of your petition, you have the right to appeal it to the **Academic Appeals Board (AAB)**. 
 
 If you are considering appealing your petition decision you should speak to your academic advisor before doing so. To file the appeal you must submit [this form](https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/01/2022-AAB-Intention-to-Appeal-PDF.pdf) to registrar@engineering.utoronto.ca. You may provide additional documentation to support your petition request such as proof of illness or a family emergency at this stage. An appeal must be made **within thirty days** of the date of notification of the original petition decision from the Undergraduate Assessment Committee and accompanied by an Intention to Appeal form. 
