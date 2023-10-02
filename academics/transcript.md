@@ -1,5 +1,5 @@
 ---
-title: Documents and Publications
+title: Transcript 
 layout: page
 ---
 Below is a table of common transcript terms and what they mean:
