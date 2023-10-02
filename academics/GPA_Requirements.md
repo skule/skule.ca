@@ -45,7 +45,7 @@ Your probationary status is determined based on your average each semester. This
 
 Info tables coming soon... see page 11 of [this Document](https://docs.google.com/document/d/1ecw9AjvM7KGwVslqmHdOcbIqTChuPhGHtS_TQcscR-I/edit?usp=sharing) in the meantime
 
-### Honours Upon Graduation
+## Honours Upon Graduation
 There are two types of honours you can be awarded upon graduation: **high honours** and **honours upon graduation**.
 
 1. To achieve **high honours upon graduation** you must:
