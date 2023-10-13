@@ -7,7 +7,7 @@ A cheque requisition is a form that is filed to receive reimbursement for expens
 
 ## Where Can I Get a Form?
 
-You can pick up a copy of the form in the Engineering Society office or [print one here](/finances/applications/ChequeRequisitionForm.pdf").
+You can pick up a copy of the form in the Engineering Society office or [print one here](/finances/applications/ChequeRequisitionForm.pdf).
 
 ## Where Do I Submit My Form?
 
