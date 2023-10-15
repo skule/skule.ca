@@ -21,6 +21,7 @@ CPSIF is a centralized student funding process. This means that the same applica
 - Discipline clubs
 - Levy groups
 - Student groups NOT affiliated with EngSoc
+
 If your student group falls into one of the above categories, please put "0" under expected funds received from EngSoc in your CPSIF application budget, as you are guaranteed to not receive any.
 
 Trial status clubs are only eligible for a maximum of $200 in CPSIF funding. All student groups are expected to include a contingency in their budgets, as EngSoc will not approve funding for a student group more than what that group requested in their application.
