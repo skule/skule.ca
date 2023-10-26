@@ -36,16 +36,6 @@ By the University of Toronto Engineering Faculty definition, a petition is: "you
 
 For information on **reasons to file a petition**, and the **3 types of petitions (term work, final exam, special consideration)**, visit the [UofT Engineering Undergrad Petitions webpage](http://undergrad.engineering.utoronto.ca/petitions/). Ensure to click on the link for each type of petition. You will need to know the petition deadlines and required documentations for each specific type of petition. These sections will also outline how soon you can expect a decision on your petition after submitting (your Academic Advisor can also provide more information).
 
-### Process of filing a petition
-
-- (Recommended) visit your Academic Advisor (see section 3) as soon as possible. If you are ill before a midterm/exam/lab, see your advisor before the evaluation if possible.
-- Determine whether your circumstance is appropriate for a petition (your Academic Advisor can help with this), and what type of petition you need to submit.
-- Ensure that you are meeting the petition deadlines, and that you have the documentation required.
-- Log into the [Engineering Portal](https://portal.engineering.utoronto.ca/sites/portal/portal.asp) with your UTORid (for more information about the Engineering Portal, click [here](http://undergrad.engineering.utoronto.ca/skule-            life/the-engineering-portal/)). Once logged in, click the link under â€œOnline Requestsâ€ and then â€œRequest for Petition / View Petition Resultsâ€. Choose the type of petition that you are looking to submit and complete the appropriate form.
-- Your petition should be approved within the time period stated on the information page for that petition.
-- If your petition is granted, ensure to be aware and follow through with the conditions and next steps (ie. re-writing a midterm, or grade weight re-distribution).
-- If your petition is not approved, you have the option of submitting an appeal within 30 days of the decision being made (See Section 5).
-
 ## Academic Appeals
 
 Academic appeals can be filed if the outcome of a petition is not satisfactory, and the student wants the decision to be reevaluated by a different body. An appeal also often contains information that was not provided during the initial petition (such as supporting medical or professional documentation). The appeal must be made within 30 days of the petition's decision. 

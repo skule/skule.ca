@@ -41,9 +41,52 @@ There are three standings on probation:
 
 Your probationary status is determined based on your average each semester. This is a weighted average, where the weight of each grade corresponds to the number of credits associated with that course. Full year courses are not counted in your fall semester average, however, when calculating your winter semester average they are usually weighted twice as much as one-semester-courses (depending on the number of allocated credits).
 
-### Grade Thresholds Tables
+### Grade Threshold Tables
+The following are grade thresholds for first-year students.
 
-Info tables coming soon... see page 11 of [this Document](https://docs.google.com/document/d/1ecw9AjvM7KGwVslqmHdOcbIqTChuPhGHtS_TQcscR-I/edit?usp=sharing) in the meantime
+#### For the Fall Semester of First Year (1F):
+<table>
+    <tr>
+        <th> Semester Average </th>
+        <th> <45% </th>
+        <th> 45%-50% </th>
+        <th> 50%-55% </th>
+        <th> 55%-60% </th>
+        <th> 60%-79.5% </th>
+        <th> >79.5 </th>
+    </tr>
+    <tr style="vertical-align:top">
+        <td> <b> Core8 + TrackOne </b> </td>
+        <td> You must withdraw from the program, you may apply again next year </td>
+        <td> You must withdraw and are eligible to retake the semester next year on probation </td>
+        <td> If 3 or fewer courses are less than 50%, enroll in T-Program and repeat courses with marks less than 60%
+            <br> <em> OR </em> <br> 
+            Withdraw with the right to repeat next the semester next year on probation </td>
+        <td> If all marks are greater than 50%, proceed to next semester on probation
+            <br> <em> OR </em> <br>
+            If 3 or fewer courses are less than 50%, enroll in the T-Program and repeat courses with marks less than 50%
+            <br> <em> OR </em> <br>
+            Withdraw with the right to repeat the semester next year on probation </td> 
+        <td> Doing good 🙂You have a clear academic record </td> 
+        <td> You made the dean’s honours list 🙂 </td> 
+    </tr>
+    <tr style="vertical-align:top">
+        <td> <b> EngSci </b> </td>
+        <td>You must withdraw from the program. You may apply again next year for a different engineering program</td>
+        <td colspan="2"> You are placed on probation and required to transfer to a different program. You can either: <br>
+            i.  Enroll in the T-Program and retake courses with marks less than 60%.
+            <br> <em> OR </em> <br>
+            ii. Withdraw from the Faculty with the right to return to a subsequent fall semester in a non-EngSci program with space. </td>
+        <td> You are NOT placed on probation but must either: <br>
+            i. Conditionally transfer to another Engineering program of choice
+            <br> <em> OR </em> <br>
+            ii. Transfer to another Engineering program with space </td>
+        <td> Doing good 🙂You have a clear academic record </td>
+        <td> You made the dean’s honours list 🙂 </td>
+    </tr>
+</table>
+
+More info tables coming soon... see page 11 of [this Document](https://docs.google.com/document/d/1ecw9AjvM7KGwVslqmHdOcbIqTChuPhGHtS_TQcscR-I/edit?usp=sharing) in the meantime
 
 ## Honours Upon Graduation
 There are two types of honours you can be awarded upon graduation: **high honours** and **honours upon graduation**.
