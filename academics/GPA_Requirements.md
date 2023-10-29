@@ -42,7 +42,7 @@ There are three standings on probation:
 
 Your probationary status is determined based on your average each semester. This is a weighted average, where the weight of each grade corresponds to the number of credits associated with that course. Full year courses are not counted in your fall semester average, however, when calculating your winter semester average they are usually weighted twice as much as one-semester-courses (depending on the number of allocated credits).
 
-### Grade Threshold Tables
+### Grade Thresholds for First Year Students
 The following are grade thresholds for first-year students.
 
 #### For the Fall Semester of First Year (1F):
@@ -58,17 +58,17 @@ The following are grade thresholds for first-year students.
     </tr>
     <tr style="vertical-align:top">
         <td> <b> Core8 + TrackOne </b> </td>
-        <td> You must withdraw from the program, you may apply again next year </td>
+        <td> You must withdraw from the program, you may apply again next year <a href="#footnote-1">[1]</a> </td>
         <td> You must withdraw and are eligible to retake the semester next year on probation </td>
-        <td> If 3 or fewer courses are less than 50%, enroll in T-Program and repeat courses with marks less than 60%
+        <td> If 3 or fewer courses are less than 50%, enroll in T-Program and repeat courses with marks less than 60% <a href="#footnote-2">[2]</a> 
             <br> <em> OR </em> <br> 
             Withdraw with the right to repeat next the semester next year on probation </td>
         <td> If all marks are greater than 50%, proceed to next semester on probation
             <br> <em> OR </em> <br>
-            If 3 or fewer courses are less than 50%, enroll in the T-Program and repeat courses with marks less than 50%
+            If 3 or fewer courses are less than 50%, enroll in the T-Program and repeat courses with marks less than 50% <a href="#footnote-3">[3]</a> 
             <br> <em> OR </em> <br>
             Withdraw with the right to repeat the semester next year on probation </td> 
-        <td> Doing good 🙂You have a clear academic record </td> 
+        <td> Doing good 🙂 You have a clear academic record </td> 
         <td> You made the dean’s honours list 🙂 </td> 
     </tr>
     <tr style="vertical-align:top">
@@ -82,10 +82,54 @@ The following are grade thresholds for first-year students.
             i. Conditionally transfer to another Engineering program of choice
             <br> <em> OR </em> <br>
             ii. Transfer to another Engineering program with space </td>
-        <td> Doing good 🙂You have a clear academic record </td>
+        <td> Doing good 🙂 You have a clear academic record </td>
         <td> You made the dean’s honours list 🙂 </td>
     </tr>
 </table>
+
+<p id="footnote-1">[1] Upon readmission you will be placed on repeat probation </p>
+<p id="footnote-2">[2] You will be placed on probation and may retake up to three courses. If more than three courses have marks less than 60%, you normally repeat the three courses with the lowest grades.You are not eligible if you must repeat more than three courses or are a part-time student. </p>
+<p id="footnote-3">[3] You must repeat specific courses (up to three courses) including all courses with an average below 50%. You may elect to retake a course between 50% and 59%. Repeated courses may be chosen by the First-Year Chair and T-Program Coordinator. </p>
+
+#### For the Winter Semester of First Year (1W):
+<table>
+    <tr>
+        <th> Semester Average </th>
+        <th> <45% </th>
+        <th> 45%-50% </th>
+        <th> 50%-55% </th>
+        <th> 55%-60% </th>
+        <th> 60%-79.5% </th>
+        <th> >79.5 </th>
+    </tr>
+    <tr>
+        <td><b> Core8 + TrackOne </b></td>
+        <td colspan="2"> Repeat the semester immediately when next offered on repeat probation </td>
+        <td> Proceed to next semester on probation </td>
+        <td colspan="2"> Doing good 🙂 You have a clear academic record </td>
+        <td> You made the dean’s honours list 🙂 </td>
+    </tr>
+    <tr>
+        <td><b>EngSci</b></td>
+        <td> You must repeat the semester immediately when next offered in a Core8 program with space, on repeat probation.</td>
+        <td> You may proceed to next semester in any Core8 program on probation </td>
+        <td colspan="2"> Proceed to next semester in any Core8 program (no probation) </td>
+        <td> Doing good 🙂 You have a clear academic record </td>
+        <td> You made the dean’s honours list 🙂 </td>
+    </tr>
+    <tr>
+        <td><b>T-Program</b></td>
+        <td colspan="3"> You may apply for re-admission, if granted it will be on repeat probation. 
+            <br><br>
+            <b>This is also true if you have a mark of <50% in a repeated course.</b></td>
+        <td colspan="3"> Doing good 🙂 You may proceed to the summer semester on probation in the T-program  </td>
+    </tr>
+</table>
+
+#### What is the T-Program?
+The T-program is a program in the Engineering Faculty intended to help students struggling in first-year get back on their feet. The program allows you to retake three courses in 1W and defer three courses to the summer semester after first year. For more details see [this link](https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/11/2022-2023-T-Program-Information-Sheet.pdf)
+
+## Grade Thresholds for Students in Second Year and Above
 
 More info tables coming soon... see page 11 of [this Document](https://docs.google.com/document/d/1ecw9AjvM7KGwVslqmHdOcbIqTChuPhGHtS_TQcscR-I/edit?usp=sharing) in the meantime
 
