@@ -14,6 +14,7 @@ There are three main types of GPA:
 Generally, when referring to GPA, we are talking about your CGPA.
 
 ### GPA vs. Percentages
+
 | **Grade as a Percentage** | **Letter Grade** | **Corresponding GPA** |
 |---------------------------|------------------|-----------------------|
 | 90-100                    | A+               | 4.0                   |
