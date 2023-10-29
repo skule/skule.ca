@@ -2,6 +2,7 @@
 title: GPA Requirements and Thresholds
 layout: page-with-menu
 ---
+<link rel="stylesheet" href="acdemics.css">
 
 ## Understanding GPAs
 ### GPA Terminology
@@ -58,14 +59,14 @@ The following are grade thresholds for first-year students.
     </tr>
     <tr style="vertical-align:top">
         <td> <b> Core8 + TrackOne </b> </td>
-        <td> You must withdraw from the program, you may apply again next year <a href="#footnote-1">[1]</a> </td>
+        <td> You must withdraw from the program, you may apply again next year. Upon readmission you will be placed on repeat probation. </td>
         <td> You must withdraw and are eligible to retake the semester next year on probation </td>
-        <td> If 3 or fewer courses are less than 50%, enroll in T-Program and repeat courses with marks less than 60% <a href="#footnote-2">[2]</a> 
+        <td> If 3 or fewer courses are less than 50%, enroll in T-Program and repeat courses with marks less than 60% <a href="#footnote-1">[1]</a> 
             <br> <em> OR </em> <br> 
             Withdraw with the right to repeat next the semester next year on probation </td>
         <td> If all marks are greater than 50%, proceed to next semester on probation
             <br> <em> OR </em> <br>
-            If 3 or fewer courses are less than 50%, enroll in the T-Program and repeat courses with marks less than 50% <a href="#footnote-3">[3]</a> 
+            If 3 or fewer courses are less than 50%, enroll in the T-Program and repeat courses with marks less than 50% <a href="#footnote-2">[2]</a> 
             <br> <em> OR </em> <br>
             Withdraw with the right to repeat the semester next year on probation </td> 
         <td> Doing good 🙂 You have a clear academic record </td> 
@@ -73,13 +74,13 @@ The following are grade thresholds for first-year students.
     </tr>
     <tr style="vertical-align:top">
         <td> <b> EngSci </b> </td>
-        <td>You must withdraw from the program. You may apply again next year for a different engineering program</td>
+        <td>You must withdraw from the program. You may apply again next year for a different engineering program. Upon Readmission you will be placed on repeat probation</td>
         <td colspan="2"> You are placed on probation and required to transfer to a different program. You can either: <br>
             i.  Enroll in the T-Program and retake courses with marks less than 60%.
             <br> <em> OR </em> <br>
             ii. Withdraw from the Faculty with the right to return to a subsequent fall semester in a non-EngSci program with space. </td>
         <td> You are NOT placed on probation but must either: <br>
-            i. Conditionally transfer to another Engineering program of choice
+            i. Conditionally transfer to another Engineering program of choice <a href="#footnote-3">[3]</a> 
             <br> <em> OR </em> <br>
             ii. Transfer to another Engineering program with space </td>
         <td> Doing good 🙂 You have a clear academic record </td>
@@ -87,9 +88,9 @@ The following are grade thresholds for first-year students.
     </tr>
 </table>
 
-<p id="footnote-1">[1] Upon readmission you will be placed on repeat probation </p>
-<p id="footnote-2">[2] You will be placed on probation and may retake up to three courses. If more than three courses have marks less than 60%, you normally repeat the three courses with the lowest grades.You are not eligible if you must repeat more than three courses or are a part-time student. </p>
-<p id="footnote-3">[3] You must repeat specific courses (up to three courses) including all courses with an average below 50%. You may elect to retake a course between 50% and 59%. Repeated courses may be chosen by the First-Year Chair and T-Program Coordinator. </p>
+<p id="footnote-1">[1] You will be placed on probation and may retake up to three courses. If more than three courses have marks less than 60%, you normally repeat the three courses with the lowest grades.You are not eligible if you must repeat more than three courses or are a part-time student. </p>
+<p id="footnote-2">[2] You must repeat specific courses (up to three courses) including all courses with an average below 50%. You may elect to retake a course between 50% and 59%. Repeated courses may be chosen by the First-Year Chair and T-Program Coordinator. </p>
+<p id="footnote-3">[3] If you transfer to another program without space, you must get an average of 60% or greater in the winter semester in that program to remain in that program for the rest of your undergraduate degree. </p>
 
 #### For the Winter Semester of First Year (1W):
 <table>
@@ -145,3 +146,12 @@ There are two types of honours you can be awarded upon graduation: **high honour
 - Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year
 
 *Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.*
+
+<table>
+  <th class="background">
+    <div><span class="bottom">First</span>
+      <span class="top">Second</span>
+      <div class="line"></div>
+    </div>
+  </th>
+</table>
