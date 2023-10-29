@@ -130,9 +130,41 @@ The following are grade thresholds for first-year students.
 #### What is the T-Program?
 The T-program is a program in the Engineering Faculty intended to help students struggling in first-year get back on their feet. The program allows you to retake three courses in 1W and defer three courses to the summer semester after first year. For more details see [this link](https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/11/2022-2023-T-Program-Information-Sheet.pdf)
 
-## Grade Thresholds for Students in Second Year and Above
+### Grade Thresholds for Students in Second Year and Above
+The following are grade thresholds for all non-first year engineering students.
 
-More info tables coming soon... see page 11 of [this Document](https://docs.google.com/document/d/1ecw9AjvM7KGwVslqmHdOcbIqTChuPhGHtS_TQcscR-I/edit?usp=sharing) in the meantime
+<table>
+    <tr>
+        <th> Semester Average &rarr;
+            <br> <br> Current Academic Standing &darr; </th>
+        <th> <55% </th>
+        <th> 55%-60% </th>
+        <th> 60%-79.5% </th>
+        <th> >79.5% </th>
+    </tr>
+    <tr>
+        <td><b> Clear academic standing (not on probation) </b></td>
+        <td> You are placed on repeat probation, repeat this semester immediately when next offered </td>
+        <td> You may proceed to the next semester on probation </td>
+        <td> Doing good 🙂 You have a clear academic record </td>
+        <td> You made the dean’s honours list 🙂 </td>
+    </tr>
+    <tr>
+        <td><b> Proceeding on Probation </b></td>
+        <td colspan="2"> You are placed on repeat probation, repeat this semester immediately when next offered </td>
+        <td>Doing good 🙂You may proceed to the next semester with a clear standing</td>
+        <td>You made the dean’s honours list 🙂You may proceed to the next semester with a clear standing</td>
+    </tr>
+    <tr>
+        <td><b> Proceeding on Repeat Probation and/or repeating a semester </b></td>
+        <td colspan="2"> You will be refused further registration. You are not eligible for re-admission </td>
+        <td colspan="2"> Doing good 🙂You may proceed to the next semester on probation</td>
+    </tr>
+</table>
+
+*Notes:* 
+- *Grade thresholds for EngSci students are the same as those for Core8 students after first-year*
+- *Proceeding with a clear standing does **not** mean your transcript will be wiped of all records of your prbationary status.*
 
 ## Honours Upon Graduation
 There are two types of honours you can be awarded upon graduation: **high honours** and **honours upon graduation**.
@@ -146,12 +178,3 @@ There are two types of honours you can be awarded upon graduation: **high honour
 - Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year
 
 *Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.*
-
-<table>
-  <th class="background">
-    <div><span class="bottom">First</span>
-      <span class="top">Second</span>
-      <div class="line"></div>
-    </div>
-  </th>
-</table>
