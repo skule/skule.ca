@@ -196,7 +196,7 @@ html {
   .line {
     width: 112px;
     height: 47px;
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid black;
     transform: translateY(-20px) translateX(5px) rotate(27deg);
     position: absolute;
     z-index: -1;

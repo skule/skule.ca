@@ -1,8 +1,7 @@
 ---
 title: GPA Requirements and Thresholds
-layout: page
+layout: page-with-menu
 ---
-<link rel="stylesheet" href="acdemics.css">
 
 ## Understanding GPAs
 ### GPA Terminology
@@ -134,9 +133,21 @@ The T-program is a program in the Engineering Faculty intended to help students 
 The following are grade thresholds for all non-first year engineering students.
 
 <table>
+  <th class="background">
+    <div><span class="bottom">top</span>
+      <span class="top">bot</span>
+      <div class="line"></div>
+    </div>
+  </th>
+</table>
+
+<table>
     <tr>
-        <th> Semester Average &rarr;
-            <br> <br> Current Academic Standing &darr; </th>
+        <th class="background">
+            <div><span class="bottom">Semester Average</span>
+            <span class="top">Current Academic Standing</span>
+            <div class="line"></div>
+        </div> </th>
         <th> <55% </th>
         <th> 55%-60% </th>
         <th> 60%-79.5% </th>
@@ -178,12 +189,3 @@ There are two types of honours you can be awarded upon graduation: **high honour
 - Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year
 
 *Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.*
-
-<table>
-  <th class="background">
-    <div><span class="bottom">top</span>
-      <span class="top">bot</span>
-      <div class="line"></div>
-    </div>
-  </th>
-</table>
