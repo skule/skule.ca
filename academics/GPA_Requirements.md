@@ -1,6 +1,6 @@
 ---
 title: GPA Requirements and Thresholds
-layout: page-with-menu
+layout: page
 ---
 <link rel="stylesheet" href="acdemics.css">
 
@@ -181,8 +181,8 @@ There are two types of honours you can be awarded upon graduation: **high honour
 
 <table>
   <th class="background">
-    <div><span class="bottom">First</span>
-      <span class="top">Second</span>
+    <div><span class="bottom">top</span>
+      <span class="top">bot</span>
       <div class="line"></div>
     </div>
   </th>
