@@ -178,3 +178,12 @@ There are two types of honours you can be awarded upon graduation: **high honour
 - Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year
 
 *Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.*
+
+<table>
+  <th class="background">
+    <div><span class="bottom">First</span>
+      <span class="top">Second</span>
+      <div class="line"></div>
+    </div>
+  </th>
+</table>
