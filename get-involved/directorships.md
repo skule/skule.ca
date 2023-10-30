@@ -8,9 +8,9 @@ Project Directors each manage a particular service or initiative, from managing 
 > <b class="vp-academic-text">Academic Policies Director</b>
 > Clara Fleisig <small class="vp-academic-text">Overseen by the President</small>
 > 
-> The Academic Policies Director is a temporary directorship addressing the lack of awareness in the student body about policies that affect and/or may be helpful to students. They document both official and unoffical academic information on subjects such as petitions, course enrollement and probationary regulations. They maintain the academics poriton of skule.ca and are also happy to answer any questions students have on the subject academic policies within UofT engineering.
+> The Academic Policies Director is a temporary directorship addressing the lack of awareness in the student body about policies that affect and/or may be helpful to students. They document both official and unoffical academic information on subjects such as petitions, course enrollement and probationary regulations. They maintain the academics portion of skule.ca and are also happy to answer any questions students have on the subject academic policies within UofT engineering.
 >
-> <a class="button is-small vp-academic" href="mailto:alumnioutreach@skule.ca">Email</a>
+> <a class="button is-small vp-academic" href="mailto:academicpolicies@skule.ca">Email</a>
 
 > <b class="president-text">Alumni Outreach Director</b>
 > Charu Tyagi <small class="president-text">Overseen by the President</small>
