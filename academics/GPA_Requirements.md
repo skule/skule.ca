@@ -133,25 +133,15 @@ The T-program is a program in the Engineering Faculty intended to help students 
 The following are grade thresholds for all non-first year engineering students.
 
 <table>
-  <th class="background">
-    <div><span class="bottom">top</span>
-      <span class="top">bot</span>
-      <div class="line"></div>
-    </div>
-  </th>
-</table>
-
-<table>
     <tr>
         <th class="background">
             <div><span class="bottom">Semester Average</span>
             <span class="top">Current Academic Standing</span>
-            <div class="line"></div>
-        </div> </th>
-        <th> <55% </th>
-        <th> 55%-60% </th>
-        <th> 60%-79.5% </th>
-        <th> >79.5% </th>
+            <div class="line"></div></div></th>
+        <th class="background"> <55% </th>
+        <th class="background"> 55%-60% </th>
+        <th class="background"> 60%-79.5% </th>
+        <th class="background"> >79.5% </th>
     </tr>
     <tr>
         <td><b> Clear academic standing (not on probation) </b></td>
