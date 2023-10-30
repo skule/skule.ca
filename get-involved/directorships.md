@@ -6,7 +6,7 @@ layout: page
 Project Directors each manage a particular service or initiative, from managing a café to teaching high school students about engineering. Many of them form committees or teams open to anyone at Skule™ to achieve their goals for the year. They are elected by the outgoing EngSoc Council members near the end of their terms.
 
 > <b class="vp-academic-text">Academic Policies Director</b>
-> Clara Fleisig <small class="vp-academic-text">Overseen by the President</small>
+> Clara Fleisig <small class="vp-academic-text">Overseen by VP Academic</small>
 > 
 > The Academic Policies Director is a temporary directorship addressing the lack of awareness in the student body about policies that affect and/or may be helpful to students. They document both official and unoffical academic information on subjects such as petitions, course enrollement and probationary regulations. They maintain the academics portion of skule.ca and are also happy to answer any questions students have on the subject academic policies within UofT engineering.
 >
