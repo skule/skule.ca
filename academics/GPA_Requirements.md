@@ -15,13 +15,14 @@ layout: page-with-menu
     table td#PURPLE_COL {background-color:#7d66ca9c; color:white;}
 </style>
 
-## Understanding GPAs
-### GPA Terminology
-There are three main types of GPA:
-
-- The Sessional GPA (SGPA) is based on courses taken in a single session (Fall, Winter or Summer).
-- The Annual GPA (AGPA) is based on courses taken in the Fall-Winter Sessions.
-- The Cumulative GPA (CGPA) takes into account all courses taken for degree credit in the Faculty.
+<h2>Understanding GPAs</h2>
+<h3>GPA Terminology</h3>
+<p>There are three main types of GPA:</p>
+<ul>
+<li>The Sessional GPA (SGPA) is based on courses taken in a single session (Fall, Winter or Summer).</li>
+<li>The Annual GPA (AGPA) is based on courses taken in the Fall-Winter Sessions.</li>
+<li>The Cumulative GPA (CGPA) takes into account all courses taken for degree credit in the Faculty.</li>
+</ul>
 
 Generally, when referring to GPA, we are talking about your CGPA.
 

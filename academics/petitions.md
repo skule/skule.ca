@@ -2,48 +2,47 @@
 title: Petitions
 layout: page-with-menu
 ---
-A **petition** is a formal **request for an exception** to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition. 
+A <b>petition</b> is a formal <b>request for an exception</b> to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition. 
 
-This section will outline **(1) types of petitions**, **(2) how to file a petition**, **(3) How the petition process works** and **(4) the petition appeal process**. If you are looking at filing a petition, it is recommended to: 
-1. Read the start of each section on each petition type to determine which type of petition you need (ie. TWP, FEP or SCP) 
-2. Read the full section on your petition type
-3. Read the **Providing Documentation** section
-4. File your petition
+<p>This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a petition</b>, <b>(3) How the petition process works</b> and <b>(4) the petition appeal process</b>. If you are looking at filing a petition, it is recommended to:</p><ol>
+<li>Read the start of each section on each petition type to determine which type of petition you need (ie. TWP, FEP or SCP) 
+</li><li>Read the full section on your petition type
+</li><li>Read the <b>Providing Documentation</b> section
+</li><li>File your petition</li></ol>
 
-## **Types of Petitions**
-There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.
+<h2><b>Types of Petitions<b></h2>
+<p>There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.</p>
 
 <section class="hero is-warning">
     <div class="hero-body">
         <div class="container">
             <h3><b> 1. Term Work Petitions (TWP) <b></h1>
             <body>TWPs can be used to get accommodation for <b>any deliverable or assessment</b> apart from the final exam that is a part of the student’s coursework for non-medical reasons. This includes but is not limited to midterms, quizzes, labs, homework assignments and projects.
-            <b>When to Apply:</b><br>
-            - It is highly recommended to apply as soon as possible. In certain cases, this might allow you to even get a decision before your deadline so you can work accordingly.
-            - If applying before the deadline is not possible, you can file a petition up to seven days after the date of the affected or missed term work.
-            - In the case of assessments like quizzes and midterms, it is generally recommended to file a petition before the assessment date, and not writing the assessment.
-            <b>Potential Reasons to use TWP:</b><br>
-            - Illness
-            - Mental health crises
-            - Non-medical or personal emergencies
-            - Family emergencies
-            - Co-curricular activities
-            - Unforeseen academic scheduling conflict
-            - Significant student commitment to a UofT or recognized athletic association
-            - Other
-            <b>Approval Process of TWP</b><br>
-            - Your academic advisor usually decides on the validity of the TWP, however the Professor of the course for which the TWP is filed decides what the accommodation looks like (ie. if you get an extension, the assignment is omitted from your final grade etc.)
-            - You are granted **one “free” TWP per semester** where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.
+            <b>When to Apply:</b><br><ul>
+            <li>It is highly recommended to apply as soon as possible. In certain cases, this might allow you to even get a decision before your deadline so you can work accordingly.
+            </li><li>If applying before the deadline is not possible, you can file a petition up to seven days after the date of the affected or missed term work.
+            </li><li> In the case of assessments like quizzes and midterms, it is generally recommended to file a petition before the assessment date, and not writing the assessment.</li></ul>
+            <b>Potential Reasons to use TWP:</b><br><ul>
+            <li> Illness
+            </li><li>Mental health crises
+            </li><li>Non<li>medical or personal emergencies
+            </li><li>Family emergencies
+            </li><li>Co-curricular activities
+            </li><li>Unforeseen academic scheduling conflict
+            </li><li>Significant student commitment to a UofT or recognized athletic association
+            </li><li>Other</li></ul>
+            <b>Approval Process of TWP</b><br><ul>
+            <li>Your academic advisor usually decides on the validity of the TWP, however the Professor of the course for which the TWP is filed decides what the accommodation looks like (ie. if you get an extension, the assignment is omitted from your final grade etc.)
+            </li><li>You are granted **one “free” TWP per semester** where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.
             <b>Potential Outcomes of TWP:<b><br>
-            - A deadline extension for TWP applicant
-            - An adjusted test or quiz writing date for TWP applicant
-            - Forgiveness for missed assignment
-            - Very rarely, Professors may estimate an assigned mark for an assignment or test
-            <b>Things to Consider if you are Considering Filing a TWP:</b><br>
-            - Depending on the circumstances, you may want to **ask your professor for accommodations directly** by emailing them, rather than going through the TWP process. This can often save you the hassle of a lot of paperwork. If that does not work out you can still file a TWP, as long as you file the TWP within the 7 days following the assignment deadline
-            - If you are requesting an extension or change in quiz/test date, how may your the new deadline/date conflict **with future commitments** both those that are academic and non-academic in nature
-            - <b>Can you provide proper documentation?</b> Note that you are granted one “free” TWP per semester where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.
-            </body>
+            </li><li>A deadline extension for TWP applicant
+            </li><li>An adjusted test or quiz writing date for TWP applicant
+            </li><li>Forgiveness for missed assignment
+            </li><li>Very rarely, Professors may estimate an assigned mark for an assignment or test</li></ul>
+            <b>Things to Consider if you are Considering Filing a TWP:</b><br><ul>
+            <li>Depending on the circumstances, you may want to **ask your professor for accommodations directly** by emailing them, rather than going through the TWP process. This can often save you the hassle of a lot of paperwork. If that does not work out you can still file a TWP, as long as you file the TWP within the 7 days following the assignment deadline
+            </li><li>If you are requesting an extension or change in quiz/test date, how may your the new deadline/date conflict **with future commitments** both those that are academic and non<li>academic in nature
+            </li><li><b>Can you provide proper documentation?</b> Note that you are granted one “free” TWP per semester where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.</li></ul></body>
         </div>
     </div>
 </section>
@@ -54,22 +53,22 @@ There are three types of petitions, as a student it is important to understand t
             <h3> <b> 2. Final Exam Petitions (FEP) </b> </h1>
             <body> This type of petition can be used to get accommodations for <b>final examinations</b>, as the name suggests. 
             <b>When to Apply:</b><br>
-            - It is highly recommended to apply as soon as possible. If possible this should be before the time that the exam is scheduled. The UAC, which makes decisions on petitions, does take the timelines of the petitio into account sometimes. F
-            - If applying before the deadline is not possible, you can file a petition up to **seven days after your last final exam**.
-            - You also have the right to apply for a petition if you have written an exam under duress. This means that you wrote the exam in unpreventable circumstances that significantly negatively impacted your performance. An example of this would be writing an exam while so ill that you were unable to sit the entire duration of the exam.
+            <li> It is highly recommended to apply as soon as possible. If possible this should be before the time that the exam is scheduled. The UAC, which makes decisions on petitions, does take the timelines of the petitio into account sometimes. F
+            <li> If applying before the deadline is not possible, you can file a petition up to **seven days after your last final exam**.
+            <li> You also have the right to apply for a petition if you have written an exam under duress. This means that you wrote the exam in unpreventable circumstances that significantly negatively impacted your performance. An example of this would be writing an exam while so ill that you were unable to sit the entire duration of the exam.
             <b>Potential Reasons to use FEP:</b><br>
-            - Medical
-            - Non-medical or personal emergencies
-            - Family emergencies such as illness or death of close family member
-            - Other
+            <li> Medical
+            <li> Non-medical or personal emergencies
+            <li> Family emergencies such as illness or death of close family member
+            <li> Other
             <b>Potential Outcomes of FEP:</b><br>
             For courses <b>in the engineering faculty only</b>, the default outcome is an assessed mark. An assessed mark is calculated by the following formula:
-            <p style="text-align: center;"> Assessed Final Exam Mark = Your closely Supervised Term Work Mark ➗ Class Average Closely Supervised Term Work Mark ✖ Class Average Final Exam Mark </p>
+            <p style="text<li>align: center;"> Assessed Final Exam Mark = Your closely Supervised Term Work Mark ➗ Class Average Closely Supervised Term Work Mark ✖ Class Average Final Exam Mark </p>
             </body>
             Closely supervised term work is generally considered to be work such as quizzes, midterms and in-class assessments, however this is at the judgment of the Professor. What is considered supervised/unsupervised work should be decided by the professor before the date of the exam.
-            - You may also be offered a deferred exam. This means that you will be asked to write an exam at a later date. This outcome could occur for other reasons, but most commonly occurs if:
-            - Receiving an assessed mark would result in a failing course mark or probation
-            - You have not completed enough closely supervised work to reasonably determine an assessed mark <br><br>
+            <li> You may also be offered a deferred exam. This means that you will be asked to write an exam at a later date. This outcome could occur for other reasons, but most commonly occurs if:
+            <li> Receiving an assessed mark would result in a failing course mark or probation
+            <li> You have not completed enough closely supervised work to reasonably determine an assessed mark <br><br>
             For further details on deferred exams see [this link](https://undergrad.engineering.utoronto.ca/wp-content/uploads/2020/06/R_3516_SDF.pdf).
         </div>
     </div>
@@ -81,23 +80,23 @@ There are three types of petitions, as a student it is important to understand t
             <h3><b> 3. Special Consideration Petitions (SCPs) </b></h3>
             <body> This type of petition is used to get <b>an exemption to an academic regulation</b>. 
             <b>When to Apply:</b><br>
-            - Apply as soon as possible.
-            - It is recommended you speak to your **academic advisor** before filing a SCP.
+            <li> Apply as soon as possible.
+            <li> It is recommended you speak to your **academic advisor** before filing a SCP.
             <b>Reasons you may want to use an SCP:</b><br>
-            - You would like to <b>drop a course(s) after the drop deadline</b> without penalty due to unforeseen circumstances such as serious physical, mental illness or a traumatic event.
-            - You believe you merit **probation relief** (ie. be taken off of probation) due to circumstances such as a clerical error when you were put on probation or because there was an accessibility related condition affecting you throughout the term that put you on probation.
-            - Due to special circumstances you would benefit from taking <b>more than nine years to complete your degree</b> (violating the nine-year-rule in section VI of UofT Engineering’s Academic Regulations policy).
-            - You would benefit from an exception to any other academic regulation, due to extenuating circumstances. 
-            - Other possible extenuating circumstances not mentionned above.
+            <li> You would like to <b>drop a course(s) after the drop deadline</b> without penalty due to unforeseen circumstances such as serious physical, mental illness or a traumatic event.
+            <li> You believe you merit **probation relief** (ie. be taken off of probation) due to circumstances such as a clerical error when you were put on probation or because there was an accessibility related condition affecting you throughout the term that put you on probation.
+            <li> Due to special circumstances you would benefit from taking <b>more than nine years to complete your degree</b> (violating the nine-year-rule in section VI of UofT Engineering’s Academic Regulations policy).
+            <li> You would benefit from an exception to any other academic regulation, due to extenuating circumstances. 
+            <li> Other possible extenuating circumstances not mentionned above.
             <b>Potential Extenuating Circumstances allowing for an SCP:</b><br>
-            - Medical (including mental health issues)
-            - Clerical error
-            - Family emergencies such as illness or death of close family member
-            - Other
+            <li> Medical (including mental health issues)
+            <li> Clerical error
+            <li> Family emergencies such as illness or death of close family member
+            <li> Other
             <b>Additional Notes on Late Withdrawals:</b><br>
-            There are two main types of late withdrawals:
-            1. Late Withdrawal Without Academic Penalty (WDR). This is shown on your transcript if you choose to withdraw after the drop-deadline and are able to demonstrate in an SCP that there were extenuating circumstances that lead to your late withdrawal.
-            2. Late WIthdrawal Without Documentation (LWD). This is what is automatically shown on your transcript if you choose to withdraw after the drop-deadline. Within UofT engineering, you are granted a certain number of LWDs depending on your year, the type of course, and your program of study. See the table below for details.
+            There are two main types of late withdrawals:<ol>
+            <li>Late Withdrawal Without Academic Penalty (WDR). This is shown on your transcript if you choose to withdraw after the drop-deadline and are able to demonstrate in an SCP that there were extenuating circumstances that lead to your late withdrawal.
+            </li><li>Late WIthdrawal Without Documentation (LWD). This is what is automatically shown on your transcript if you choose to withdraw after the drop-deadline. Within UofT engineering, you are granted a certain number of LWDs depending on your year, the type of course, and your program of study. See the table below for details.<li></ol>
             <table>
                 <tr>
                     <th><b>Year/Program</b></th>
