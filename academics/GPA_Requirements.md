@@ -26,6 +26,7 @@ There are three main types of GPA:
 Generally, when referring to GPA, we are talking about your CGPA.
 
 ### GPA vs. Percentages
+
 <table>
     <tr id="GREEN_HEADER">
         <th><b>Grade as a Percentage<b></th>
@@ -99,21 +100,23 @@ Generally, when referring to GPA, we are talking about your CGPA.
     </tr>
 </table>
 
-### How Important is your GPA?
-The importance of your GPA is very dependent on your goals. When applying for internships in industry, some companies may not even ask for a GPA or transcript, while a few use it to help determine who gets an interview. However, once in an interview, it is generally your skills and experience that are most important. In general, GPA tends to be more important if you are applying for graduate school, scholarships or research positions.
+<h3> How Important is your GPA? </h3>
+<p> The importance of your GPA is very dependent on your goals. When applying for internships in industry, some companies may not even ask for a GPA or transcript, while a few use it to help determine who gets an interview. However, once in an interview, it is generally your skills and experience that are most important. In general, GPA tends to be more important if you are applying for graduate school, scholarships or research positions. </p>
 
-## Grade Thresholds and Probation
+<h2> Grade Thresholds and Probation </h2>
 There are three standings on probation:
-1. **Clear.** This means that you may proceed to the subsequent semester.
-2. **Proceeding on probation.** This is a warning that academic performance is not satisfactory.
-3. **On repeat probation.** You are suspended for a year (ie. if you fail during semester 2S you, you must wait until next spring to re enroll in semester 2F). If you have a second instance of repeat probation you will be refused further registration, which means you are not eligible to continue studying engineering at UofT.
+<ol>
+<li><b>Clear.</b> This means that you may proceed to the subsequent semester. </li> 
+<li><b>Proceeding on probation.</b> This is a warning that academic performance is not satisfactory. </li> 
+<li> <b>On repeat probation.</b> You are suspended for a year (ie. if you fail during semester 2S you, you must wait until next spring to re enroll in semester 2F). If you have a second instance of repeat probation you will be refused further registration, which means you are not eligible to continue studying engineering at UofT. </li>
+</ol>
 
-Your probationary status is determined based on your average each semester. This is a weighted average, where the weight of each grade corresponds to the number of credits associated with that course. Full year courses are not counted in your fall semester average, however, when calculating your winter semester average they are usually weighted twice as much as one-semester-courses (depending on the number of allocated credits).
+<p>Your probationary status is determined based on your average each semester. This is a weighted average, where the weight of each grade corresponds to the number of credits associated with that course. Full year courses are not counted in your fall semester average, however, when calculating your winter semester average they are usually weighted twice as much as one-semester-courses (depending on the number of allocated credits).</p>
 
-### Grade Thresholds for First Year Students
-The following are grade thresholds for first-year students.
+<h3>Grade Thresholds for First Year Students</h3>
+<p>The following are grade thresholds for first-year students.</p>
 
-#### For the Fall Semester of First Year (1F):
+<h4> For the Fall Semester of First Year (1F):</h4>
 <table>
     <tr id="YELLOW_HEADER">
         <th> Semester Average </th>
@@ -194,11 +197,11 @@ The following are grade thresholds for first-year students.
     </tr>
 </table>
 
-#### What is the T-Program?
-The T-program is a program in the Engineering Faculty intended to help students struggling in first-year get back on their feet. The program allows you to retake three courses in 1W and defer three courses to the summer semester after first year. For more details see [this link](https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/11/2022-2023-T-Program-Information-Sheet.pdf)
+<h4>What is the T-Program?</h4>
+<p>The T-program is a program in the Engineering Faculty intended to help students struggling in first-year get back on their feet. The program allows you to retake three courses in 1W and defer three courses to the summer semester after first year. For more details see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/11/2022-2023-T-Program-Information-Sheet.pdf">this link</a>.</p>
 
-### Grade Thresholds for Students in Second Year and Above
-The following are grade thresholds for all non-first year engineering students.
+<h3>Grade Thresholds for Students in Second Year and Above</h3>
+<p>The following are grade thresholds for all non-first year engineering students.</p>
 
 <table>
     <tr id=PURPLE_HEADER>
@@ -231,19 +234,22 @@ The following are grade thresholds for all non-first year engineering students.
     </tr>
 </table>
 
-*Notes:* 
-- *Grade thresholds for EngSci students are the same as those for Core8 students after first-year*
-- *Proceeding with a clear standing does **not** mean your transcript will be wiped of all records of your prbationary status.*
+<i>Notes:</i>
+<ul> 
+<li><i> Grade thresholds for EngSci students are the same as those for Core8 students after first-year</i> </li>
+<li><i>Proceeding with a clear standing does **not** mean your transcript will be wiped of all records of your prbationary status.</i></li>
+</ul> 
 
-## Honours Upon Graduation
-There are two types of honours you can be awarded upon graduation: **high honours** and **honours upon graduation**.
+<h2>Honours Upon Graduation</h2>
+<p>There are two types of honours you can be awarded upon graduation: <b>high honours</b> and <b>honours upon graduation</b>.</p>
 
-1. To achieve **high honours upon graduation** you must:
-- Achieve a cumulative weighted average of 87.5% or higher across courses taken in second, third and fourth year
-- Achieve a cumulative weighted average of 82.5% or higher across courses taken in fourth year
+<ol>
+<li> To achieve <b>high honours upon graduation</b> you must:
+<ul><li>Achieve a cumulative weighted average of 87.5% or higher across courses taken in second, third and fourth year </li>
+<li>Achieve a cumulative weighted average of 82.5% or higher across courses taken in fourth year </li></ul></li>
 
-2. To achieve **honours upon graduation** you must:
-- Achieve a cumulative weighted average of 79.5% or higher across courses taken in second, third and fourth year
-- Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year
-
-*Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.*
+<li> To achieve **honours upon graduation** you must:
+<ul><li>Achieve a cumulative weighted average of 79.5% or higher across courses taken in second, third and fourth year</li>
+<li>Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year</li></ul></li>
+<br>
+<p><i>Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.</i></p>
