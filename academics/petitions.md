@@ -101,7 +101,7 @@ layout: page-with-menu
             </li><li>Late WIthdrawal Without Documentation (LWD). This is what is automatically shown on your transcript if you choose to withdraw after the drop-deadline. Within UofT engineering, you are granted a certain number of LWDs depending on your year, the type of course, and your program of study. See the table below for details.
 
 <table>
-                <tr>
+                <tr id=PURPLE_HEADER>
                     <th><b>Year/Program</b></th>
                     <th><b>LWD Policy</b></th>
                 </tr>
