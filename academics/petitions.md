@@ -79,8 +79,7 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
             </li><li>Receiving an assessed mark would result in a failing course mark or probation
             </li><li>You have not completed enough closely supervised work to reasonably determine an assessed mark</li></ul>
 
-<p>For further details on deferred exams see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2020/06/R_3516_SDF.pdf">this link</a>.</p>
-<p>updated</p></body>
+<p>For further details on deferred exams see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2020/06/R_3516_SDF.pdf">this link</a>.</p></body>
 </div></div></section>
 
 
