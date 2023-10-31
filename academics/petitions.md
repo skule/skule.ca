@@ -70,16 +70,16 @@ A **petition** is a formal **request for an exception** to deadlines, degree req
             </li><li>Family emergencies such as illness or death of close family member
             </li><li>Other</li></ul>
 <b>Potential Outcomes of FEP:</b><br>
-<body><p>For courses <b>in the engineering faculty only</b>, the default outcome is an assessed mark. An assessed mark is calculated by the following formula:</p>
+<p>For courses <b>in the engineering faculty only</b>, the default outcome is an assessed mark. An assessed mark is calculated by the following formula:</p>
 
 <p><center> Assessed Final Exam Mark = Your closely Supervised Term Work Mark ➗ Class Average Closely Supervised Term Work Mark ✖ Class Average Final Exam Mark </center></p>
 
-<p>Closely supervised term work is generally considered to be work such as quizzes, midterms and in-class assessments, however this is at the judgment of the Professor. What is considered supervised/unsupervised work should be decided by the professor before the date of the exam.</p></body><ul>
+<p>Closely supervised term work is generally considered to be work such as quizzes, midterms and in-class assessments, however this is at the judgment of the Professor. What is considered supervised/unsupervised work should be decided by the professor before the date of the exam.</p><ul>
             <li>You may also be offered a deferred exam. This means that you will be asked to write an exam at a later date. This outcome could occur for other reasons, but most commonly occurs if:
             </li><li>Receiving an assessed mark would result in a failing course mark or probation
             </li><li>You have not completed enough closely supervised work to reasonably determine an assessed mark</li></ul>
 
-<body><p>For further details on deferred exams see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2020/06/R_3516_SDF.pdf">this link</a>.</p></body>
+<p>For further details on deferred exams see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2020/06/R_3516_SDF.pdf">this link</a>.</p></body>
 </div></div></section>
 
 
