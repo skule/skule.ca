@@ -36,8 +36,8 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
 <b>Approval Process of TWP</b><br><ul>
             <li>Your academic advisor usually decides on the validity of the TWP, however the Professor of the course for which the TWP is filed decides what the accommodation looks like (ie. if you get an extension, the assignment is omitted from your final grade etc.)
             </li><li>You are granted <b>one “free” TWP per semester</b> where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.</li></ul>
-<b>Potential Outcomes of TWP:</b>
-            </li><li>A deadline extension for TWP applicant
+<b>Potential Outcomes of TWP:</b><ul>
+            <li>A deadline extension for TWP applicant
             </li><li>An adjusted test or quiz writing date for TWP applicant
             </li><li>Forgiveness for missed assignment
             </li><li>Very rarely, Professors may estimate an assigned mark for an assignment or test</li></ul>
