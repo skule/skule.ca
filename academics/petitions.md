@@ -2,7 +2,7 @@
 title: Petitions
 layout: page-with-menu
 ---
-<body><p>A <b>petition</b> is a formal <b>request for an exception</b> to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition.</p>
+A **petition** is a formal **request for an exception** to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition.
 
 <p>This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a petition</b>, <b>(3) How the petition process works</b> and <b>(4) the petition appeal process</b>. If you are looking at filing a petition, it is recommended to:</p><ol>
 <li>Read the start of each section on each petition type to determine which type of petition you need (ie. TWP, FEP or SCP) 
@@ -52,6 +52,12 @@ layout: page-with-menu
             </li><li><b>Can you provide proper documentation?</b> Note that you are granted one “free” TWP per semester where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.</li></ul></body>
 </div></div></section>
 
+
+
+
+<section class="hero is-danger">
+<div class="hero-body">
+<div class="container">
 <h3> <b> 2. Final Exam Petitions (FEP) </b></h3>
 <body><p>This type of petition can be used to get accommodations for <b>final examinations</b>, as the name suggests.</p>
 <b>When to Apply:</b><ul>
@@ -63,10 +69,10 @@ layout: page-with-menu
             </li><li>Non-medical or personal emergencies
             </li><li>Family emergencies such as illness or death of close family member
             </li><li>Other</li></ul>
-<b>Potential Outcomes of FEP:</b><br>add
+<b>Potential Outcomes of FEP:</b><br>
 <body><p>For courses <b>in the engineering faculty only</b>, the default outcome is an assessed mark. An assessed mark is calculated by the following formula:</p>
 
-<p><center>Assessed Final Exam Mark = Your closely Supervised Term Work Mark ➗ Class Average Closely Supervised Term Work Mark ✖ Class Average Final Exam Mark </center></p>
+<p><center> Assessed Final Exam Mark = Your closely Supervised Term Work Mark ➗ Class Average Closely Supervised Term Work Mark ✖ Class Average Final Exam Mark </center></p>
 
 <p>Closely supervised term work is generally considered to be work such as quizzes, midterms and in-class assessments, however this is at the judgment of the Professor. What is considered supervised/unsupervised work should be decided by the professor before the date of the exam.</p></body><ul>
             <li>You may also be offered a deferred exam. This means that you will be asked to write an exam at a later date. This outcome could occur for other reasons, but most commonly occurs if:
@@ -74,6 +80,9 @@ layout: page-with-menu
             </li><li>You have not completed enough closely supervised work to reasonably determine an assessed mark</li></ul>
 
 <body><p>For further details on deferred exams see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2020/06/R_3516_SDF.pdf">this link</a>.</p></body>
+</div></div></section>
+
+
 
 
 <section class="hero is-success">
