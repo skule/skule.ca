@@ -15,7 +15,9 @@ layout: page-with-menu
 
 
 
-
+<section class="hero is-warning">
+<div class="hero-body">
+<div class="container">
 <h3><b> 1. Term Work Petitions (TWP)</b></h3>
 <body><p>TWPs can be used to get accommodation for <b>any deliverable or assessment</b> apart from the final exam that is a part of the student’s coursework for non-medical reasons. This includes but is not limited to midterms, quizzes, labs, homework assignments and projects.</p>
 
@@ -48,6 +50,7 @@ layout: page-with-menu
             <li>Depending on the circumstances, you may want to <b>ask your professor for accommodations directely</b> by emailing them, rather than going through the TWP process. This can often save you the hassle of a lot of paperwork. If that does not work out you can still file a TWP, as long as you file the TWP within the 7 days following the assignment deadline
             </li><li>If you are requesting an extension or change in quiz/test date, how may your the new deadline/date conflict <b>with future commitments</b> both those that are academic and non-academic in nature
             </li><li><b>Can you provide proper documentation?</b> Note that you are granted one “free” TWP per semester where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.</li></ul></body>
+</div></div></section>
 
 
 
