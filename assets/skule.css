@@ -193,31 +193,42 @@ html {
     margin: 0;
   }
   
-  .line {
+.line {
     width: 112px;
     height: 47px;
     border-bottom: 1px solid black;
     transform: translateY(-20px) translateX(5px) rotate(27deg);
     position: absolute;
     z-index: -1;
-  }
+}
   
-  .background>div {
+.background>div {
     position: relative;
     height: 100%;
     width: 100%;
     top: 0;
     left: 0;
-  }
+}
   
-  .bottom {
+.bottom {
     position: absolute;
     bottom: 1px;
     left: 1px;
-  }
+}
   
-  .top {
+.top {
     position: absolute;
     top: 1px;
     right: 1px;
-  }
+}
+
+table tr#GREEN_HEADER  {background-color:#38a87a; color:white;}
+
+table tr#YELLOW_HEADER  {background-color:#c49300; color:white;}
+table td#YELLOW_COL  {background-color:#ddba51a9; color:white;}
+
+table tr#BLUE_HEADER  {background-color:#2b6482; color:white;}
+table td#BLUE_COL  {background-color:#508baaa2; color:white;}
+
+table tr#PURPLE_HEADER  {background-color:#5d45a9; color:white;}
+table td#PURPLE_COL {background-color:#7d66ca9c; color:white;}

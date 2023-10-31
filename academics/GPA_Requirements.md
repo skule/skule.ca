@@ -2,18 +2,6 @@
 title: GPA Requirements and Thresholds
 layout: page-with-menu
 ---
-<style type="text/css">
-    table tr#GREEN_HEADER  {background-color:#38a87a; color:white;}
-
-    table tr#YELLOW_HEADER  {background-color:#c49300; color:white;}
-    table td#YELLOW_COL  {background-color:#ddba51a9; color:white;}
-
-    table tr#BLUE_HEADER  {background-color:#2b6482; color:white;}
-    table td#BLUE_COL  {background-color:#508baaa2; color:white;}
-
-    table tr#PURPLE_HEADER  {background-color:#5d45a9; color:white;}
-    table td#PURPLE_COL {background-color:#7d66ca9c; color:white;}
-</style>
 
 <h2>Understanding GPAs</h2>
 <h3>GPA Terminology</h3>
@@ -24,9 +12,9 @@ layout: page-with-menu
 <li>The Cumulative GPA (CGPA) takes into account all courses taken for degree credit in the Faculty.</li>
 </ul>
 
-Generally, when referring to GPA, we are talking about your CGPA.
+<p>Generally, when referring to GPA, we are talking about your CGPA.</p>
 
-### GPA vs. Percentages
+<h3>GPA vs. Percentages</h3>
 
 <table>
     <tr id="GREEN_HEADER">
@@ -107,7 +95,7 @@ Generally, when referring to GPA, we are talking about your CGPA.
 <h2> Grade Thresholds and Probation </h2>
 There are three standings on probation:
 <ol>
-<li><b>Clear.</b> This means that you may proceed to the subsequent semester. </li> 
+<li><b>Clear.</b> This means that you may proceed to the subsequent semester.</li> 
 <li><b>Proceeding on probation.</b> This is a warning that academic performance is not satisfactory. </li> 
 <li> <b>On repeat probation.</b> You are suspended for a year (ie. if you fail during semester 2S you, you must wait until next spring to re enroll in semester 2F). If you have a second instance of repeat probation you will be refused further registration, which means you are not eligible to continue studying engineering at UofT. </li>
 </ol>
@@ -118,6 +106,7 @@ There are three standings on probation:
 <p>The following are grade thresholds for first-year students.</p>
 
 <h4> For the Fall Semester of First Year (1F):</h4>
+
 <table>
     <tr id="YELLOW_HEADER">
         <th> Semester Average </th>
@@ -163,7 +152,8 @@ There are three standings on probation:
 <p id="footnote-2">[2] You must repeat specific courses (up to three courses) including all courses with an average below 50%. You may elect to retake a course between 50% and 59%. Repeated courses may be chosen by the First-Year Chair and T-Program Coordinator. </p>
 <p id="footnote-3">[3] If you transfer to another program without space, you must get an average of 60% or greater in the winter semester in that program to remain in that program for the rest of your undergraduate degree. </p>
 
-#### For the Winter Semester of First Year (1W):
+<h4>For the Winter Semester of First Year (1W):</h4>
+
 <table>
     <tr id=BLUE_HEADER>
         <th> Semester Average </th>
