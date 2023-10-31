@@ -52,10 +52,6 @@ layout: page-with-menu
             </li><li><b>Can you provide proper documentation?</b> Note that you are granted one “free” TWP per semester where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.</li></ul></body>
 </div></div></section>
 
-
-<section class="hero is-warning">
-<div class="hero-body">
-<div class="container">
 <h3> <b> 2. Final Exam Petitions (FEP) </b></h3>
 <body><p>This type of petition can be used to get accommodations for <b>final examinations</b>, as the name suggests.</p>
 <b>When to Apply:</b><ul>
@@ -78,7 +74,6 @@ layout: page-with-menu
             </li><li>You have not completed enough closely supervised work to reasonably determine an assessed mark</li></ul>
 
 <body><p>For further details on deferred exams see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2020/06/R_3516_SDF.pdf">this link</a>.</p></body>
-</div></div></section>
 
 
 <section class="hero is-success">
