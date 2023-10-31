@@ -10,7 +10,7 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
 </li><li>Read the <b>Providing Documentation</b> section
 </li><li>File your petition</li></ol></body>
 
-## **Types of Petitions**
+## Types of Petitions
 <body><p>There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.</p></body>
 
 
@@ -142,7 +142,7 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
 
 
 
-<h2><b>Providing Documentation</b></h2>
+## Providing Documentation
 <body><p>When filing a petition you will be asked to provide documentation, this section should help you figure out what kind of documentation you need.</p></body>
 
 <h3>Exceptions to Providing Documentation</h3>
@@ -186,10 +186,10 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
 </li><li>Go to <a href="https://portal.engineering.utoronto.ca/weblogin/sites/Student/#/home">The Engineering Portal</a>
 </li><li>Select the appropriate petition type</li></ol></body>
 
-<h2><b>How Petitions are Processed</b></h2><body>
-<p>Your petition is reviewed by your academic advisor first, in more standard/clear-cut petitions, they will approve the petition. If their is ambiguity associated with your petition, or your academic advisor does not have authority in this particular circumstance, then your petition will be reviewed by the Undergraduate Assessment Committee (UAC). This committee meets five times per month on average and consists of both staff and students.</p></body>
+## How Petitions are Processed
+<body> <p>Your petition is reviewed by your academic advisor first, in more standard/clear-cut petitions, they will approve the petition. If their is ambiguity associated with your petition, or your academic advisor does not have authority in this particular circumstance, then your petition will be reviewed by the Undergraduate Assessment Committee (UAC). This committee meets five times per month on average and consists of both staff and students.</p></body>
 
-<h2><b>Appealing the decision of a Petition</b></h2>
+## Appealing the decision of a Petition
 <h3>First Level of Appeal</h3>
 <body><p>If you are unsatisfied with the result of your petition, you have the right to appeal it to the <b>Academic Appeals Board (AAB)</b>.</p>
 
