@@ -3,7 +3,7 @@ title: GPA Requirements and Thresholds
 layout: page-with-menu
 ---
 
-<h2>Understanding GPAs</h2>
+## Understanding GPAs
 <h3>GPA Terminology</h3><body>
 <p>There are three main types of GPA:</p>
 <ul>
@@ -14,10 +14,11 @@ layout: page-with-menu
 
 <p>Generally, when referring to GPA, we are talking about your CGPA.</p></body>
 
-<h3> How Important is your GPA? </h3>
+### How Important is your GPA?
 <body><p> The importance of your GPA is very dependent on your goals. When applying for internships in industry, some companies may not even ask for a GPA or transcript, while a few use it to help determine who gets an interview. However, once in an interview, it is generally your skills and experience that are most important. In general, GPA tends to be more important if you are applying for graduate school, scholarships or research positions. </p></body>
 
-<h2> Grade Thresholds and Probation </h2><body>
+## Grade Thresholds and Probation
+<body>
 <p>There are three standings on probation:</p>
 <ol>
 <li><b>Clear.</b> This means that you may proceed to the subsequent semester.</li> 
@@ -27,13 +28,11 @@ layout: page-with-menu
 
 <p>Your probationary status is determined based on your average each semester. This is a weighted average, where the weight of each grade corresponds to the number of credits associated with that course. Full year courses are not counted in your fall semester average, however, when calculating your winter semester average they are usually weighted twice as much as one-semester-courses (depending on the number of allocated credits).</p>
 
-<h3>Grade Thresholds for First Year Students</h3>
+### Grade Thresholds for First Year Students
 <p>The following are grade thresholds for first-year students.</p>
 
-<p>UPDATE</p></body>
-
-<h4> For the Fall Semester of First Year (1F):</h4><body>
-
+#### For the Fall Semester of First Year (1F):
+<body>
 <table>
     <tr id="YELLOW_HEADER">
         <th> Semester Average </th>
@@ -79,7 +78,7 @@ layout: page-with-menu
 <p id="footnote-2">[2] You must repeat specific courses (up to three courses) including all courses with an average below 50%. You may elect to retake a course between 50% and 59%. Repeated courses may be chosen by the First-Year Chair and T-Program Coordinator. </p>
 <p id="footnote-3">[3] If you transfer to another program without space, you must get an average of 60% or greater in the winter semester in that program to remain in that program for the rest of your undergraduate degree. </p></body>
 
-<h4>For the Winter Semester of First Year (1W):</h4>
+### For the Winter Semester of First Year (1W):
 <body>
 <table>
     <tr id=BLUE_HEADER>
@@ -115,10 +114,10 @@ layout: page-with-menu
     </tr>
 </table></body>
 
-<h4>What is the T-Program?</h4>
+#### What is the T-Program?
 <body><p>The T-program is a program in the Engineering Faculty intended to help students struggling in first-year get back on their feet. The program allows you to retake three courses in 1W and defer three courses to the summer semester after first year. For more details see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/11/2022-2023-T-Program-Information-Sheet.pdf">this link</a>.</p></body>
 
-<h3>Grade Thresholds for Students in Second Year and Above</h3>
+### Grade Thresholds for Students in Second Year and Above
 <body><p>The following are grade thresholds for all non-first year engineering students.</p>
 
 <table>
@@ -157,7 +156,8 @@ layout: page-with-menu
 <li><i>Proceeding with a clear standing does <b>not</b> mean your transcript will be wiped of all records of your prbationary status.</i></li>
 </ul> 
 </body>
-<h2>Honours Upon Graduation</h2>
+
+## Honours Upon Graduation
 <body><p>There are two types of honours you can be awarded upon graduation: <b>high honours</b> and <b>honours upon graduation</b>.</p>
 
 <ol>
@@ -166,7 +166,7 @@ layout: page-with-menu
 <li>Achieve a cumulative weighted average of 82.5% or higher across courses taken in fourth year </li></ul></li>
 
 <li> To achieve <b>honours upon graduation</b> you must:
-<ul><li>Achieve a cumulative weighted average of 79.5% or higher across courses taken in second, third and fourth year</li>
+<ul><li>Achieve a cumulative weighted average of 79.5% or higher across courses taken in second, third and fourth year<SS/li>
 <li>Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year</li></ul></li>
 <br>
 <p><i>Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.</i></p></body>
