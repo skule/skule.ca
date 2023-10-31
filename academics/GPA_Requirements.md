@@ -120,7 +120,7 @@ The following are grade thresholds for first-year students.
     <tr>
         <td><b>T-Program</b></td>
         <td colspan="3"> You may apply for re-admission, if granted it will be on repeat probation. 
-            <br><br>
+            <br>
             <b>This is also true if you have a mark of <50% in a repeated course.</b></td>
         <td colspan="3"> Doing good 🙂 You may proceed to the summer semester on probation in the T-program  </td>
     </tr>
