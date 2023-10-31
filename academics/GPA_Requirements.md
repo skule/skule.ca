@@ -4,7 +4,7 @@ layout: page-with-menu
 ---
 
 <h2>Understanding GPAs</h2>
-<h3>GPA Terminology</h3>
+<h3>GPA Terminology</h3><body>
 <p>There are three main types of GPA:</p>
 <ul>
 <li>The Sessional GPA (SGPA) is based on courses taken in a single session (Fall, Winter or Summer).</li>
@@ -12,9 +12,9 @@ layout: page-with-menu
 <li>The Cumulative GPA (CGPA) takes into account all courses taken for degree credit in the Faculty.</li>
 </ul>
 
-<p>Generally, when referring to GPA, we are talking about your CGPA.</p>
+<p>Generally, when referring to GPA, we are talking about your CGPA.</p></body>
 
-<h3>GPA vs. Percentages</h3>
+<h3>GPA vs. Percentages</h3><body>
 
 <table>
     <tr id="GREEN_HEADER">
@@ -88,12 +88,13 @@ layout: page-with-menu
         <td>0.0</td>
     </tr>
 </table>
+</body>
 
 <h3> How Important is your GPA? </h3>
-<p> The importance of your GPA is very dependent on your goals. When applying for internships in industry, some companies may not even ask for a GPA or transcript, while a few use it to help determine who gets an interview. However, once in an interview, it is generally your skills and experience that are most important. In general, GPA tends to be more important if you are applying for graduate school, scholarships or research positions. </p>
+<body><p> The importance of your GPA is very dependent on your goals. When applying for internships in industry, some companies may not even ask for a GPA or transcript, while a few use it to help determine who gets an interview. However, once in an interview, it is generally your skills and experience that are most important. In general, GPA tends to be more important if you are applying for graduate school, scholarships or research positions. </p></body>
 
-<h2> Grade Thresholds and Probation </h2>
-There are three standings on probation:
+<h2> Grade Thresholds and Probation </h2><body>
+<p>There are three standings on probation:</p>
 <ol>
 <li><b>Clear.</b> This means that you may proceed to the subsequent semester.</li> 
 <li><b>Proceeding on probation.</b> This is a warning that academic performance is not satisfactory. </li> 
@@ -104,6 +105,8 @@ There are three standings on probation:
 
 <h3>Grade Thresholds for First Year Students</h3>
 <p>The following are grade thresholds for first-year students.</p>
+
+<p>UPDATE</p></body>
 
 <h4> For the Fall Semester of First Year (1F):</h4>
 
