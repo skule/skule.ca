@@ -42,8 +42,6 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
             </li><li>Forgiveness for missed assignment
             </li><li>Very rarely, Professors may estimate an assigned mark for an assignment or test</li></ul>
 
-<p>UPDATE</p>
-
 <b>Things to Consider if you are Considering Filing a TWP:</b><ul>
             <li>Depending on the circumstances, you may want to <b>ask your professor for accommodations directely</b> by emailing them, rather than going through the TWP process. This can often save you the hassle of a lot of paperwork. If that does not work out you can still file a TWP, as long as you file the TWP within the 7 days following the assignment deadline
             </li><li>If you are requesting an extension or change in quiz/test date, how may your the new deadline/date conflict <b>with future commitments</b> both those that are academic and non-academic in nature
