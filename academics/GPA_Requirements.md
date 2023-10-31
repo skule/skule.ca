@@ -138,10 +138,10 @@ The following are grade thresholds for all non-first year engineering students.
             <div><span class="bottom">Semester Average</span>
             <span class="top">Current Academic Standing</span>
             <div class="line"></div></div></th>
-        <th class="background"> <55% </th>
-        <th class="background"> 55%-60% </th>
-        <th class="background"> 60%-79.5% </th>
-        <th class="background"> >79.5% </th>
+        <th class="background"> <br> <br> <br> <br>  <55% <br> <br>  <br> <br> </th>
+        <th class="background"><br> <br> <br> <br>  55%-60% <br> <br> <br> <br></th>
+        <th class="background"> <br> <br> <br> <br>60%-79.5%<br> <br> <br> <br> </th>
+        <th class="background"> <br> <br>  <br> <br>>79.5%<br> <br> <br> <br> </th>
     </tr>
     <tr>
         <td><b> Clear academic standing (not on probation) </b></td>
