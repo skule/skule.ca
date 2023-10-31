@@ -2,16 +2,16 @@
 title: Petitions
 layout: page-with-menu
 ---
-A <b>petition</b> is a formal <b>request for an exception</b> to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition. 
+<body><p>A <b>petition</b> is a formal <b>request for an exception</b> to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition.</p>
 
 <p>This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a petition</b>, <b>(3) How the petition process works</b> and <b>(4) the petition appeal process</b>. If you are looking at filing a petition, it is recommended to:</p><ol>
 <li>Read the start of each section on each petition type to determine which type of petition you need (ie. TWP, FEP or SCP) 
 </li><li>Read the full section on your petition type
 </li><li>Read the <b>Providing Documentation</b> section
-</li><li>File your petition</li></ol>
+</li><li>File your petition</li></ol></body>
 
 <h2><b>Types of Petitions<b></h2>
-<p>There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.</p>
+<body><p>There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.</p></body>
 
 <section class="hero is-warning">
     <div class="hero-body">
