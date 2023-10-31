@@ -167,6 +167,6 @@ layout: page-with-menu
 
 <li> To achieve <b>honours upon graduation</b> you must:
 <ul><li>Achieve a cumulative weighted average of 79.5% or higher across courses taken in second, third and fourth year</li>
-<li>Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year</li></ul></li>
+<li>Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year</li></ul>
 <br>
 <p><i>Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.</i></p></body>
