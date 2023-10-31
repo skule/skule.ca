@@ -14,7 +14,6 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
 <body><p>There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.</p></body>
 
 
-
 <section class="hero is-warning">
 <div class="hero-body">
 <div class="container">
@@ -25,7 +24,6 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
             <li>It is highly recommended to apply as soon as possible. In certain cases, this might allow you to even get a decision before your deadline so you can work accordingly.
             </li><li>If applying before the deadline is not possible, you can file a petition up to seven days after the date of the affected or missed term work.
             </li><li> In the case of assessments like quizzes and midterms, it is generally recommended to file a petition before the assessment date, and not writing the assessment.</li></ul>
-
 <b>Potential Reasons to use TWP:</b><br><ul>
             <li> Illness
             </li><li>Mental health crises
@@ -35,11 +33,9 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
             </li><li>Unforeseen academic scheduling conflict
             </li><li>Significant student commitment to a UofT or recognized athletic association
             </li><li>Other</li></ul>
-
 <b>Approval Process of TWP</b><br><ul>
             <li>Your academic advisor usually decides on the validity of the TWP, however the Professor of the course for which the TWP is filed decides what the accommodation looks like (ie. if you get an extension, the assignment is omitted from your final grade etc.)
             </li><li>You are granted <b>one “free” TWP per semester</b> where you do not need to submit documentation so long as the assessment is worth less than 15% and/or your request is for no longer than three days in a row.</li></ul>
-
 <b>Potential Outcomes of TWP:</b>
             </li><li>A deadline extension for TWP applicant
             </li><li>An adjusted test or quiz writing date for TWP applicant
@@ -60,15 +56,18 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
 <div class="container">
 <h3> <b> 2. Final Exam Petitions (FEP) </b></h3>
 <body><p>This type of petition can be used to get accommodations for <b>final examinations</b>, as the name suggests.</p>
+
 <b>When to Apply:</b><ul>
             <li>It is highly recommended to apply as soon as possible. If possible this should be before the time that the exam is scheduled. The UAC, which makes decisions on petitions, does take the timelines of the petitio into account sometimes.
             </li><li>If applying before the deadline is not possible, you can file a petition up to <b>seven days after your last final exam</b>.
             </li><li>You also have the right to apply for a petition if you have written an exam under duress. This means that you wrote the exam in unpreventable circumstances that significantly negatively impacted your performance. An example of this would be writing an exam while so ill that you were unable to sit the entire duration of the exam.</li></ul>
+
 <b>Potential Reasons to use FEP:</b><ul>
             <li>Medical
             </li><li>Non-medical or personal emergencies
             </li><li>Family emergencies such as illness or death of close family member
             </li><li>Other</li></ul>
+
 <b>Potential Outcomes of FEP:</b><br>
 <p>For courses <b>in the engineering faculty only</b>, the default outcome is an assessed mark. An assessed mark is calculated by the following formula:</p>
 
