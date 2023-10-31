@@ -27,7 +27,7 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
 <b>Potential Reasons to use TWP:</b><br><ul>
             <li> Illness
             </li><li>Mental health crises
-            </li><li>Non<li>medical or personal emergencies
+            </li><li>Non-medical or personal emergencies
             </li><li>Family emergencies
             </li><li>Co-curricular activities
             </li><li>Unforeseen academic scheduling conflict
