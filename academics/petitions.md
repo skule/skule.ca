@@ -2,9 +2,9 @@
 title: Petitions
 layout: page-with-menu
 ---
-<body>A <b>petition</b> is a formal <b>request for an exception</b> to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition.
+<body><p>A <b>petition</b> is a formal <b>request for an exception</b> to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition.</p>
 
-This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a petition</b>, <b>(3) How the petition process works</b> and <b>(4) the petition appeal process</b>. If you are looking at filing a petition, it is recommended to:</p><ol>
+<p>This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a petition</b>, <b>(3) How the petition process works</b> and <b>(4) the petition appeal process</b>. If you are looking at filing a petition, it is recommended to:</p><ol>
 <li>Read the start of each section on each petition type to determine which type of petition you need (ie. TWP, FEP or SCP) 
 </li><li>Read the full section on your petition type
 </li><li>Read the <b>Providing Documentation</b> section
