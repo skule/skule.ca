@@ -2,6 +2,18 @@
 title: GPA Requirements and Thresholds
 layout: page-with-menu
 ---
+<style type="text/css">
+    table tr#GREEN_HEADER  {background-color:#38a87a; color:white;}
+
+    table tr#YELLOW_HEADER  {background-color:#c49300; color:white;}
+    table td#YELLOW_COL  {background-color:#ddba51a9; color:white;}
+
+    table tr#BLUE_HEADER  {background-color:#2b6482; color:white;}
+    table td#BLUE_COL  {background-color:#508baaa2; color:white;}
+
+    table tr#PURPLE_HEADER  {background-color:#5d45a9; color:white;}
+    table td#PURPLE_COL {background-color:#7d66ca9c; color:white;}
+</style>
 
 ## Understanding GPAs
 ### GPA Terminology
@@ -14,22 +26,78 @@ There are three main types of GPA:
 Generally, when referring to GPA, we are talking about your CGPA.
 
 ### GPA vs. Percentages
-
-| **Grade as a Percentage** | **Letter Grade** | **Corresponding GPA** |
-|---------------------------|------------------|-----------------------|
-| 90-100                    | A+               | 4.0                   |
-| 85-89                     | A                | 4.0                   |
-| 80-84                     | A-               | 3.7                   |
-| 77-79                     | B+               | 3.3                   |
-| 73-76                     | B                | 3.0                   |
-| 70-72                     | B-               | 2.7                   |
-| 67-69                     | C+               | 2.3                   |
-| 63-66                     | C                | 2.0                   |
-| 60-62                     | C-               | 1.7                   |
-| 57-59                     | D+               | 1.3                   |
-| 53-56                     | D                | 1.0                   |
-| 50-52                     | D-               | 0.7                   |
-| 0-49                      | F                | 0.0                   |
+<table>
+    <tr id="GREEN_HEADER">
+        <th><b>Grade as a Percentage<b></th>
+        <th><b>Letter Grade<b></th>
+        <th><b>Corresponding GPA<b></th>
+    </tr>
+    <tr>
+        <td>90-100</td>
+        <td>A+</td>
+        <td>4.0</td>
+    </tr>
+    <tr>
+        <td>85-89</td>
+        <td>A</td>
+        <td>4.0</td>
+    </tr>
+    <tr>
+        <td>80-84</td>
+        <td>A-</td>
+        <td>3.7</td>
+    </tr>
+    <tr>
+        <td>77-79</td>
+        <td>B+</td>
+        <td>3.3</td>
+    </tr>
+    <tr>
+        <td>73-76</td>
+        <td>B</td>
+        <td>3.0</td>
+    </tr>
+    <tr>
+        <td>70-72</td>
+        <td>B-</td>
+        <td>2.7</td>
+    </tr>
+    <tr>
+        <td>67-69</td>
+        <td>C+</td>
+        <td>2.3</td>
+    </tr>
+    <tr>
+        <td>63-66</td>
+        <td>C</td>
+        <td>2.0</td>
+    </tr>
+    <tr>
+        <td>60-62</td>
+        <td>C-</td>
+        <td>1.7</td>
+    </tr>
+    <tr>
+        <td>57-59</td>
+        <td>D+</td>
+        <td>1.3</td>
+    </tr>
+    <tr>
+        <td>53-56</td>
+        <td>D</td>
+        <td>1.0</td>
+    </tr>
+    <tr>
+        <td>50-52</td>
+        <td>D-</td>
+        <td>0.7</td>
+    </tr>
+    <tr>
+        <td>0-49</td>
+        <td>F</td>
+        <td>0.0</td>
+    </tr>
+</table>
 
 ### How Important is your GPA?
 The importance of your GPA is very dependent on your goals. When applying for internships in industry, some companies may not even ask for a GPA or transcript, while a few use it to help determine who gets an interview. However, once in an interview, it is generally your skills and experience that are most important. In general, GPA tends to be more important if you are applying for graduate school, scholarships or research positions.
@@ -47,7 +115,7 @@ The following are grade thresholds for first-year students.
 
 #### For the Fall Semester of First Year (1F):
 <table>
-    <tr>
+    <tr id="YELLOW_HEADER">
         <th> Semester Average </th>
         <th> <45% </th>
         <th> 45%-50% </th>
@@ -57,7 +125,7 @@ The following are grade thresholds for first-year students.
         <th> >79.5 </th>
     </tr>
     <tr style="vertical-align:top">
-        <td> <b> Core8 + TrackOne </b> </td>
+        <td id="YELLOW_COL"> <b> Core8 + TrackOne </b> </td>
         <td> You must withdraw from the program, you may apply again next year. Upon readmission you will be placed on repeat probation. </td>
         <td> You must withdraw and are eligible to retake the semester next year on probation </td>
         <td> If 3 or fewer courses are less than 50%, enroll in T-Program and repeat courses with marks less than 60% <a href="#footnote-1">[1]</a> 
@@ -72,7 +140,7 @@ The following are grade thresholds for first-year students.
         <td> You made the dean’s honours list 🙂 </td> 
     </tr>
     <tr style="vertical-align:top">
-        <td> <b> EngSci </b> </td>
+        <td id="YELLOW_COL"> <b> EngSci </b> </td>
         <td>You must withdraw from the program. You may apply again next year for a different engineering program. Upon Readmission you will be placed on repeat probation</td>
         <td colspan="2"> You are placed on probation and required to transfer to a different program. You can either: <br>
             i.  Enroll in the T-Program and retake courses with marks less than 60%.
@@ -93,7 +161,7 @@ The following are grade thresholds for first-year students.
 
 #### For the Winter Semester of First Year (1W):
 <table>
-    <tr>
+    <tr id=BLUE_HEADER>
         <th> Semester Average </th>
         <th> <45% </th>
         <th> 45%-50% </th>
@@ -103,14 +171,14 @@ The following are grade thresholds for first-year students.
         <th> >79.5 </th>
     </tr>
     <tr>
-        <td><b> Core8 + TrackOne </b></td>
+        <td id="BLUE_COL"><b> Core8 + TrackOne </b></td>
         <td colspan="2"> Repeat the semester immediately when next offered on repeat probation </td>
         <td> Proceed to next semester on probation </td>
         <td colspan="2"> Doing good 🙂 You have a clear academic record </td>
         <td> You made the dean’s honours list 🙂 </td>
     </tr>
     <tr>
-        <td><b>EngSci</b></td>
+        <td id="BLUE_COL"><b>EngSci</b></td>
         <td> You must repeat the semester immediately when next offered in a Core8 program with space, on repeat probation.</td>
         <td> You may proceed to next semester in any Core8 program on probation </td>
         <td colspan="2"> Proceed to next semester in any Core8 program (no probation) </td>
@@ -118,7 +186,7 @@ The following are grade thresholds for first-year students.
         <td> You made the dean’s honours list 🙂 </td>
     </tr>
     <tr>
-        <td><b>T-Program</b></td>
+        <td id="BLUE_COL"><b>T-Program</b></td>
         <td colspan="3"> You may apply for re-admission, if granted it will be on repeat probation. 
             <br>
             <b>This is also true if you have a mark of <50% in a repeated course.</b></td>
@@ -133,7 +201,7 @@ The T-program is a program in the Engineering Faculty intended to help students 
 The following are grade thresholds for all non-first year engineering students.
 
 <table>
-    <tr>
+    <tr id=PURPLE_HEADER>
         <th class="background">
             <div><span class="bottom">Semester Average</span>
             <span class="top">Current Academic Standing</span>
@@ -144,20 +212,20 @@ The following are grade thresholds for all non-first year engineering students.
         <th class="background"> <br> <br>  <br> <br>>79.5%<br> <br> <br> <br> </th>
     </tr>
     <tr>
-        <td><b> Clear academic standing (not on probation) </b></td>
+        <td id="PURPLE_COL"><b> Clear academic standing (not on probation) </b></td>
         <td> You are placed on repeat probation, repeat this semester immediately when next offered </td>
         <td> You may proceed to the next semester on probation </td>
         <td> Doing good 🙂 You have a clear academic record </td>
         <td> You made the dean’s honours list 🙂 </td>
     </tr>
     <tr>
-        <td><b> Proceeding on Probation </b></td>
+        <td id="PURPLE_COL"><b> Proceeding on Probation </b></td>
         <td colspan="2"> You are placed on repeat probation, repeat this semester immediately when next offered </td>
         <td>Doing good 🙂You may proceed to the next semester with a clear standing</td>
         <td>You made the dean’s honours list 🙂You may proceed to the next semester with a clear standing</td>
     </tr>
     <tr>
-        <td><b> Proceeding on Repeat Probation and/or repeating a semester </b></td>
+        <td id="PURPLE_COL"><b> Proceeding on Repeat Probation and/or repeating a semester </b></td>
         <td colspan="2"> You will be refused further registration. You are not eligible for re-admission </td>
         <td colspan="2"> Doing good 🙂You may proceed to the next semester on probation</td>
     </tr>

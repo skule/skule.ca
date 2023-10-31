@@ -1,6 +1,6 @@
 ---
 title: Petitions
-layout: page
+layout: page-with-menu
 ---
 A **petition** is a formal **request for an exception** to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition. 
 

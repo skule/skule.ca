@@ -1,6 +1,6 @@
 ---
 title: Course Fees
-layout: page-with-menu
+layout: page
 ---
 ## Ancillary Fees
 
@@ -25,3 +25,4 @@ Ancillary fees are defined as fees mandatory to successfully complete a course o
 - For the Official Policy on Ancillary Fees: [University of Toronto Governing Council Policy on Ancillary Fees](http://www.governingcouncil.utoronto.ca/Assets/Governing+Council+Digital+Assets/Policies/PDF/ppapr171995.pdf)
 - Find this Year's approved fees: [Publication of Approved Ancillary Fees](http://www.planningandbudget.utoronto.ca/tuition/Ancillary_Fees.htm)
 - [2017-2018 Approved Ancillary Fees](http://www.planningandbudget.utoronto.ca/Assets/Academic+Operations+Digital+Assets/Planning+$!26+Budget/lyanne/Category+5+Ancillary+Fees+2017-18.pdf)
+    
