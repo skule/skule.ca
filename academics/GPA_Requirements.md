@@ -197,16 +197,15 @@ There are three standings on probation:
 <table>
     <tr id=PURPLE_HEADER>
         <th class="background">
-            <div><span class="bottom">Semester Average</span>
-            <span class="top">Current Academic Standing</span>
-            <div class="line"></div></div></th>
-        <th class="background"> <br> <br> <br> <br>  <55% <br> <br>  <br> <br> </th>
-        <th class="background"><br> <br> <br> <br>  55%-60% <br> <br> <br> <br></th>
-        <th class="background"> <br> <br> <br> <br>60%-79.5%<br> <br> <br> <br> </th>
-        <th class="background"> <br> <br>  <br> <br>>79.5%<br> <br> <br> <br> </th>
+            Semester Average &rarr;<br><br>
+            Current Academic Standing &darr;</th>
+        <th><55%</th>
+        <th>55%-60%</th>
+        <th>60%-79.5%<br></th>
+        <th>>79.5%</th>
     </tr>
     <tr>
-        <td id="PURPLE_COL"><b> Clear academic standing (not on probation) </b></td>
+        <td id="PURPLE_COL"><b>Clear academic standing (not on probation) </b></td>
         <td> You are placed on repeat probation, repeat this semester immediately when next offered </td>
         <td> You may proceed to the next semester on probation </td>
         <td> Doing good 🙂 You have a clear academic record </td>
@@ -228,7 +227,7 @@ There are three standings on probation:
 <i>Notes:</i>
 <ul> 
 <li><i> Grade thresholds for EngSci students are the same as those for Core8 students after first-year</i> </li>
-<li><i>Proceeding with a clear standing does **not** mean your transcript will be wiped of all records of your prbationary status.</i></li>
+<li><i>Proceeding with a clear standing does <b>not</b> mean your transcript will be wiped of all records of your prbationary status.</i></li>
 </ul> 
 
 <h2>Honours Upon Graduation</h2>
