@@ -10,7 +10,7 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
 </li><li>Read the <b>Providing Documentation</b> section
 </li><li>File your petition</li></ol></body>
 
-<h2><b>Types of Petitions</b></h2>
+## **Types of Petitions**
 <body><p>There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.</p></body>
 
 
@@ -41,6 +41,8 @@ This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a pe
             </li><li>An adjusted test or quiz writing date for TWP applicant
             </li><li>Forgiveness for missed assignment
             </li><li>Very rarely, Professors may estimate an assigned mark for an assignment or test</li></ul>
+
+<p>UPDATE</p>
 
 <b>Things to Consider if you are Considering Filing a TWP:</b><ul>
             <li>Depending on the circumstances, you may want to <b>ask your professor for accommodations directely</b> by emailing them, rather than going through the TWP process. This can often save you the hassle of a lot of paperwork. If that does not work out you can still file a TWP, as long as you file the TWP within the 7 days following the assignment deadline
