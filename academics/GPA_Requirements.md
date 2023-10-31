@@ -108,7 +108,7 @@ layout: page-with-menu
 
 <p>UPDATE</p></body>
 
-<h4> For the Fall Semester of First Year (1F):</h4>
+<h4> For the Fall Semester of First Year (1F):</h4><body>
 
 <table>
     <tr id="YELLOW_HEADER">
@@ -153,10 +153,10 @@ layout: page-with-menu
 
 <p id="footnote-1">[1] You will be placed on probation and may retake up to three courses. If more than three courses have marks less than 60%, you normally repeat the three courses with the lowest grades.You are not eligible if you must repeat more than three courses or are a part-time student. </p>
 <p id="footnote-2">[2] You must repeat specific courses (up to three courses) including all courses with an average below 50%. You may elect to retake a course between 50% and 59%. Repeated courses may be chosen by the First-Year Chair and T-Program Coordinator. </p>
-<p id="footnote-3">[3] If you transfer to another program without space, you must get an average of 60% or greater in the winter semester in that program to remain in that program for the rest of your undergraduate degree. </p>
+<p id="footnote-3">[3] If you transfer to another program without space, you must get an average of 60% or greater in the winter semester in that program to remain in that program for the rest of your undergraduate degree. </p></body>
 
 <h4>For the Winter Semester of First Year (1W):</h4>
-
+<body>
 <table>
     <tr id=BLUE_HEADER>
         <th> Semester Average </th>
@@ -189,13 +189,13 @@ layout: page-with-menu
             <b>This is also true if you have a mark of <50% in a repeated course.</b></td>
         <td colspan="3"> Doing good 🙂 You may proceed to the summer semester on probation in the T-program  </td>
     </tr>
-</table>
+</table></body>
 
 <h4>What is the T-Program?</h4>
-<p>The T-program is a program in the Engineering Faculty intended to help students struggling in first-year get back on their feet. The program allows you to retake three courses in 1W and defer three courses to the summer semester after first year. For more details see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/11/2022-2023-T-Program-Information-Sheet.pdf">this link</a>.</p>
+<body><p>The T-program is a program in the Engineering Faculty intended to help students struggling in first-year get back on their feet. The program allows you to retake three courses in 1W and defer three courses to the summer semester after first year. For more details see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/11/2022-2023-T-Program-Information-Sheet.pdf">this link</a>.</p></body>
 
 <h3>Grade Thresholds for Students in Second Year and Above</h3>
-<p>The following are grade thresholds for all non-first year engineering students.</p>
+<body><p>The following are grade thresholds for all non-first year engineering students.</p>
 
 <table>
     <tr id=PURPLE_HEADER>
@@ -232,17 +232,17 @@ layout: page-with-menu
 <li><i> Grade thresholds for EngSci students are the same as those for Core8 students after first-year</i> </li>
 <li><i>Proceeding with a clear standing does <b>not</b> mean your transcript will be wiped of all records of your prbationary status.</i></li>
 </ul> 
-
+</body>
 <h2>Honours Upon Graduation</h2>
-<p>There are two types of honours you can be awarded upon graduation: <b>high honours</b> and <b>honours upon graduation</b>.</p>
+<body><p>There are two types of honours you can be awarded upon graduation: <b>high honours</b> and <b>honours upon graduation</b>.</p>
 
 <ol>
 <li> To achieve <b>high honours upon graduation</b> you must:
 <ul><li>Achieve a cumulative weighted average of 87.5% or higher across courses taken in second, third and fourth year </li>
 <li>Achieve a cumulative weighted average of 82.5% or higher across courses taken in fourth year </li></ul></li>
 
-<li> To achieve **honours upon graduation** you must:
+<li> To achieve <b>honours upon graduation</b> you must:
 <ul><li>Achieve a cumulative weighted average of 79.5% or higher across courses taken in second, third and fourth year</li>
 <li>Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year</li></ul></li>
 <br>
-<p><i>Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.</i></p>
+<p><i>Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.</i></p></body>
