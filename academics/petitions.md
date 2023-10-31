@@ -15,7 +15,7 @@ layout: page-with-menu
 
 
 
-<section class="hero is-warning">
+<section class="hero is-primary">
 <div class="hero-body">
 <div class="container">
 <h3><b> 1. Term Work Petitions (TWP)</b></h3>
@@ -53,7 +53,9 @@ layout: page-with-menu
 </div></div></section>
 
 
-
+<section class="hero is-warning">
+<div class="hero-body">
+<div class="container">
 <h3> <b> 2. Final Exam Petitions (FEP) </b></h3>
 <body><p>This type of petition can be used to get accommodations for <b>final examinations</b>, as the name suggests.</p>
 <b>When to Apply:</b><ul>
@@ -76,8 +78,12 @@ layout: page-with-menu
             </li><li>You have not completed enough closely supervised work to reasonably determine an assessed mark</li></ul>
 
 <body><p>For further details on deferred exams see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2020/06/R_3516_SDF.pdf">this link</a>.</p></body>
+</div></div></section>
 
 
+<section class="hero is-success">
+<div class="hero-body">
+<div class="container">
 <h3><b>3. Special Consideration Petitions (SCPs)</b></h3>
 <body><p>This type of petition is used to get <b>an exemption to an academic regulation</b>.</p>
 
@@ -104,7 +110,7 @@ layout: page-with-menu
             </li><li>Late WIthdrawal Without Documentation (LWD). This is what is automatically shown on your transcript if you choose to withdraw after the drop-deadline. Within UofT engineering, you are granted a certain number of LWDs depending on your year, the type of course, and your program of study. See the table below for details.
 
 <table>
-                <tr id=YELLOW_HEADER>
+                <tr>
                     <th><b>Year/Program</b></th>
                     <th><b>LWD Policy</b></th>
                 </tr>
@@ -127,7 +133,7 @@ layout: page-with-menu
 
 <b>Additional Notes on Probation Relief:</b><ul>
 <li>Probation relief is rarely requested on its own and is usually an alternate accommodation granted instead of a term WDR, when the performance in the term alone doesn’t show the impact of the condition.</li></ul></body>
-
+</div></div></section>
 
 
 
