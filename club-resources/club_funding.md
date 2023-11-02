@@ -11,11 +11,28 @@ In addition to the CPSIF, EngSoc will have an additional round of Club Funding i
 
 <a class="button is-primary" href="https://utoronto.sharepoint.com/:x:/s/fase-VDU/setd/ET_pS7HVxwJAlB6vzRSzbwoBnJvJtZsAzflJangkHuH-_g?e=GNi1H6">2023-2024 CPSIF Budget Template</a>
 
+## CPSIF Details
+
+<b>Please read this section before applying to CPSIF. This section contains important information which your application should include.<b>
+
+CPSIF is a centralized student funding process. This means that the same application is sent to different recipients, whether it be the various Faculty of Applied Science and Engineering departments, or the Engineering Society. This section addresses only applications received by the Engineering Society. Please refer to individual departments' websites if you would like to know more about how they judge CPSIF applications they receive.
+
+<b>The following student groups are NOT eligible for CPSIF funding from EngSoc:<b>
+- Discipline clubs
+- Levy groups
+- Student groups NOT affiliated with EngSoc
+
+If your student group falls into one of the above categories, please put "0" under expected funds received from EngSoc in your CPSIF application budget, as you are guaranteed to not receive any.
+
+Trial status clubs are only eligible for a maximum of $200 in CPSIF funding. All student groups are expected to include a contingency in their budgets, as EngSoc will not approve funding for a student group more than what that group requested in their application.
+
+EngSoc will not approve funding for expense items already or potentially covered under EngSoc's other recourses to funding. In particular, past or future conference expenses and expense items approved in the past will not be (re-)approved under CPSIF. Please apply to the conference funding application for conference-related expenses. Student groups should distinguish between holding (organizing) and attending conferences; expenses related to organizing a conference are admissible under CPSIF, while attending conferences are not.
+
 ## CPSIF Application Process
 
 There are two rounds of funding for trial and fully affiliated EngSoc clubs. The first is the Fall round through CPSIF, the timeline of which can be found below.
 
-- Monday, August 28, 2023 (12PM ET) –  Wednesday October 4, 2023 (12PM ET): 2023-24 CPSIF application period
+- Monday, August 28, 2023 (12PM ET) –  Wednesday October 4, 2023 (12PM ET): 2023-24 CPSIF application period [CONCLUDED, decisions being finalised]
 - Wednesday, November 1, 2023: Student initiatives notified of funding decisions
 - Monday November 20, 2023 – Wednesday January 31, 2024: Cheque pick up period
 - Wednesday May 22, 2024 (12PM ET): Successful applicants submit Impact Statement
