@@ -159,7 +159,6 @@ layout: page-with-menu
 
 ## Honours Upon Graduation
 <body><p>There are two types of honours you can be awarded upon graduation: <b>high honours</b> and <b>honours upon graduation</b>.</p>
-
 <ol>
 <li> To achieve <b>high honours upon graduation</b> you must:
 <ul><li>Achieve a cumulative weighted average of 87.5% or higher across courses taken in second, third and fourth year </li>

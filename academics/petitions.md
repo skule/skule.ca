@@ -2,16 +2,16 @@
 title: Petitions
 layout: page-with-menu
 ---
-<body><p>A <b>petition</b> is a formal <b>request for an exception</b> to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition.</p>
+A **petition** is a formal **request for an exception** to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition.
 
-<p>This section will outline <b>(1) types of petitions</b>, <b>(2) how to file a petition</b>, <b>(3) How the petition process works</b> and <b>(4) the petition appeal process</b>. If you are looking at filing a petition, it is recommended to:</p><ol>
-<li>Read the start of each section on each petition type to determine which type of petition you need (ie. TWP, FEP or SCP) 
-</li><li>Read the full section on your petition type
-</li><li>Read the <b>Providing Documentation</b> section
-</li><li>File your petition</li></ol></body>
+This section will outline **(1) types of petitions**, **(2) how to file a petition**, **(3) How the petition process works** and **(4) the petition appeal process**. If you are looking at filing a petition, it is recommended to:
+1. Read the start of each section on each petition type to determine which type of petition you need (ie. TWP, FEP or SCP) 
+2. Read the full section on your petition type
+3. Read the **Providing Documentation** section
+4. File your petition
 
 ## Types of Petitions
-<body><p>There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.</p></body>
+There are three types of petitions, as a student it is important to understand the differences between these petitions so you can file the appropriate one. The following section outlines each of the three types of petitions.
 
 
 <section class="hero is-warning">
@@ -141,63 +141,63 @@ layout: page-with-menu
 
 
 ## Providing Documentation
-<body><p>When filing a petition you will be asked to provide documentation, this section should help you figure out what kind of documentation you need.</p></body>
+When filing a petition you will be asked to provide documentation, this section should help you figure out what kind of documentation you need.
 
-<h3>Exceptions to Providing Documentation</h3>
-<body><p><b>Once per spemester</b> you many file a <b>work term petition without documentation</b> if:</p><ol>
-<li>The assessment is worth less than 15%;
-</li><li>You are requisition an exception/extension for no longer than 3 days in a row.</li></ol>
+### Exceptions to Providing Documentation
+**Once per spemester** you many file a **work term petition without documentation** if:
+1. The assessment is worth less than 15%;
+2. You are requisition an exception/extension for no longer than 3 days in a row.
 
-<p>If you are using your exception for the semester you will declare so in the <a href="https://portal.engineering.utoronto.ca/weblogin/sites/Student/#/home">The Engineering Portal</a> directly.</p></body> 
+If you are using your exception for the semester you will declare so in the [The Engineering Portal](https://portal.engineering.utoronto.ca/weblogin/sites/Student/#/home) directly.
 
 
-<h3>For Medical Reasons</h3>
-<body><p>For medical reasons or mental health crises you must file a <a href="https://glse.utoronto.ca/sites/default/files/verification_of_student_illness_voi.pdf">verification of illness form</a>. This must be completed by a medical professional who has/is treating you such as your family doctor, a surgeon, a clinical psychiatrist, a dentist etc.</p>
+### For Medical Reasons<
+For medical reasons or mental health crises you must file a [verification of illness form]("https://glse.utoronto.ca/sites/default/files/verification_of_student_illness_voi.pdf"). This must be completed by a medical professional who has/is treating you such as your family doctor, a surgeon, a clinical psychiatrist, a dentist etc.
 
-<p><i>Note: you qualify for one undocumented Term Work Petition (TWP) for medical reasons per semester for up to 3 days at a time. However, you may only use this for work worth 15% or less of the final course grade.</i></p></body>
+*Note: you qualify for one undocumented Term Work Petition (TWP) for medical reasons per semester for up to 3 days at a time. However, you may only use this for work worth 15% or less of the final course grade.*
 
-<h3>For Non-Medical Reasons</h3>
-<body><p>All documentation in the form of letters for non-medical reasons must include:</p><ul>
-<li>The writer’s official letterhead
-</li><li>The writer’s official stamp (if possible)
-</li><li>Your name
-</li><li>The writer’s relationship to the student
-</li><li>The relevant circumstances or events, severity and how they interfered with the student’s capacity to attend to academic work (e.g. mild, moderate, serious, severe).
-</li><li>That the writer has direct first-hand knowledge of the circumstances, rather than second-hand knowledge reported by the student.
-</li><li>The student’s signature to indicate they gave the writer permission to share the information in the document with the Faculty and permission to allow the Faculty to verify the information with the writer.</li></ul>
+### For Non-Medical Reasons
+All documentation in the form of letters for non-medical reasons must include:
+- The writer’s official letterhead
+- The writer’s official stamp (if possible)
+- Your name
+- The writer’s relationship to the student
+- The relevant circumstances or events, severity and how they interfered with the student’s capacity to attend to academic work (e.g. mild, moderate, serious, severe).
+- That the writer has direct first-hand knowledge of the circumstances, rather than second-hand knowledge reported by the student.
+- The student’s signature to indicate they gave the writer permission to share the information in the document with the Faculty and permission to allow the Faculty to verify the information with the writer.
 
-<p>Some examples of other types of documentation for non-medical reasons include:</p><ul>
-<li>A police accident report in the case of a traffic accident
-</li><li>A death certificate or funeral notice in the event of the death of a family member</li></ul></body>
+Some examples of other types of documentation for non-medical reasons include:
+- A police accident report in the case of a traffic accident
+- A death certificate or funeral notice in the event of the death of a family member
 
-<h3>If All Else Fails</h3>
-<body><p>If you cannot get documentation in time to meet the deadline for your petition (e.g. one week after an assignment deadline for a TWP petition), don’t panic. Follow the following steps:</p><ol>
-<li>File the petition without documentation.
-</li><li>Get documentation within the next month (you have 30 days to acquire documentation after getting your petition denied).  
-</li><li>If/when your petition is denied, appeal the decision. When you appeal the decision you can add the documentation. See <b>First Level of Appeal</b> on how to appeal the petition decision.</li></ol>
+### If All Else Fails
+If you cannot get documentation in time to meet the deadline for your petition (e.g. one week after an assignment deadline for a TWP petition), don’t panic. Follow the following steps:
+1. File the petition without documentation.
+2. Get documentation within the next month (you have 30 days to acquire documentation after getting your petition denied).  
+3. If/when your petition is denied, appeal the decision. When you appeal the decision you can add the documentation. See **First Level of Appeal** on how to appeal the petition decision.
 
-<p><i>NOTE we recommend sending your advisor an email asking them to delay processing the petition if possible, especially in the case of FEP and SCP petitions which have longer deadlines</i></p></body>
+*NOTE we recommend sending your advisor an email asking them to delay processing the petition if possible, especially in the case of FEP and SCP petitions which have longer deadlines*
 
-<p2><b>How to File a Petition</b></p2><ol>
-<li>Consult with your academic advisor beforehand if possible
-</li><li>Prepare all the documentation if necessary/possible (see <b>Providing Documentation</b>)
-</li><li>Go to <a href="https://portal.engineering.utoronto.ca/weblogin/sites/Student/#/home">The Engineering Portal</a>
-</li><li>Select the appropriate petition type</li></ol></body>
+## How to File a Petition
+1. Consult with your academic advisor beforehand if possible
+2. Prepare all the documentation if necessary/possible (see **Providing Documentation**)
+3. Go to [The Engineering Portal]("https://portal.engineering.utoronto.ca/weblogin/sites/Student/#/home")
+4. Select the appropriate petition type
 
 ## How Petitions are Processed
-<body> <p>Your petition is reviewed by your academic advisor first, in more standard/clear-cut petitions, they will approve the petition. If their is ambiguity associated with your petition, or your academic advisor does not have authority in this particular circumstance, then your petition will be reviewed by the Undergraduate Assessment Committee (UAC). This committee meets five times per month on average and consists of both staff and students.</p></body>
+Your petition is reviewed by your academic advisor first, in more standard/clear-cut petitions, they will approve the petition. If their is ambiguity associated with your petition, or your academic advisor does not have authority in this particular circumstance, then your petition will be reviewed by the Undergraduate Assessment Committee (UAC). This committee meets five times per month on average and consists of both staff and students.
 
 ## Appealing the decision of a Petition
-<h3>First Level of Appeal</h3>
-<body><p>If you are unsatisfied with the result of your petition, you have the right to appeal it to the <b>Academic Appeals Board (AAB)</b>.</p>
+### First Level of Appeal
+If you are unsatisfied with the result of your petition, you have the right to appeal it to the **Academic Appeals Board (AAB)**.
 
-<p>If you are considering appealing your petition decision you should speak to your academic advisor before doing so. To file the appeal you must submit <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/01/2022-AAB-Intention-to-Appeal-PDF.pdf">the form</a> to registrar@engineering.utoronto.ca. You may provide additional documentation to support your petition request such as proof of illness or a family emergency at this stage. An appeal must be made <b>within thirty days</b> of the date of notification of the original petition decision from the Undergraduate Assessment Committee and accompanied by an Intention to Appeal form.</p>
+If you are considering appealing your petition decision you should speak to your academic advisor before doing so. To file the appeal you must submit [the form]("https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/01/2022-AAB-Intention-to-Appeal-PDF.pdf) to registrar@engineering.utoronto.ca. You may provide additional documentation to support your petition request such as proof of illness or a family emergency at this stage. An appeal must be made **within thirty days** of the date of notification of the original petition decision from the Undergraduate Assessment Committee and accompanied by an Intention to Appeal form.
 
-<p>During the appeal process, you may be asked to sit before the AAB which will consist of two faculty members and at least one student member. You can expect to be notified of the decision regarding your appeal within approximately <b>30 days</b> of submitting your appeal via the email you have listed in ACORN.</p>
+During the appeal process, you may be asked to sit before the AAB which will consist of two faculty members and at least one student member. You can expect to be notified of the decision regarding your appeal within approximately **30 days** of submitting your appeal via the email you have listed in ACORN.
 
-<h3>Second Level of Appeal</h3>
-<body><p>The <b>Academic Appeals Committee (AAC)</b> is the final petition appeal level within the University of Toronto. Your appeal will be seen by the AAC under either of the following circumstances:</p><ul>
-<li>If you are unsatisfied with the decision regarding your appeal made by the AAB, you request an appeal. To do this you must submit the <a href="https://governingcouncil.utoronto.ca/system/files/2022-08/Notice%20of%20Academic%20Appeal.pdf">notice of appeal form</a> and supporting documentation to adfg.admin@utoronto.ca within 90 days of any decision made by the AAB. 
-</li><li>You did not submit any new documentation when appealing the UAC decision (decision on the original petition filing) to the AAB.</li></ul>
+### Second Level of Appeal
+The **Academic Appeals Committee (AAC)** is the final petition appeal level within the University of Toronto. Your appeal will be seen by the AAC under either of the following circumstances:
+- If you are unsatisfied with the decision regarding your appeal made by the AAB, you request an appeal. To do this you must submit the [notice of appeal form]("https://governingcouncil.utoronto.ca/system/files/2022-08/Notice%20of%20Academic%20Appeal.pdf") and supporting documentation to adfg.admin@utoronto.ca within 90 days of any decision made by the AAB. 
+- You did not submit any new documentation when appealing the UAC decision (decision on the original petition filing) to the AAB.
 
-<p>Unlike the AAB which is within the Faculty of Engineering, the AAC sees students from across all faculties at the University of Toronto. The AAC is chaired by someone with legal expertise, and it is strongly recommended that you <b>seek legal assistance</b> if you wish to make an appeal to the AAC. This committee meets infrequently, so it may extend months to almost a year before a decision is made regarding your appeal to the AAC.</p></body>
+Unlike the AAB which is within the Faculty of Engineering, the AAC sees students from across all faculties at the University of Toronto. The AAC is chaired by someone with legal expertise, and it is strongly recommended that you **seek legal assistance** if you wish to make an appeal to the AAC. This committee meets infrequently, so it may extend months to almost a year before a decision is made regarding your appeal to the AAC.
