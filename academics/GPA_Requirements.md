@@ -24,7 +24,7 @@ There are three standings on probation:
 Your probationary status is determined based on your average each semester. This is a weighted average, where the weight of each grade corresponds to the number of credits associated with that course. Full year courses are not counted in your fall semester average, however, when calculating your winter semester average they are usually weighted twice as much as one-semester-courses (depending on the number of allocated credits).
 
 ### Grade Thresholds for First Year Students
-The following are grade thresholds for first-year students.
+The following are grade thresholds for first-year students. UPDATED
 
 ### For the Fall Semester of First Year (1F):
 <table>
@@ -73,7 +73,6 @@ The following are grade thresholds for first-year students.
 <p id="footnote-3">[3] If you transfer to another program without space, you must get an average of 60% or greater in the winter semester in that program to remain in that program for the rest of your undergraduate degree. </p>
 
 ### For the Winter Semester of First Year (1W):
-<body>
 <table>
     <tr id=BLUE_HEADER>
         <th> Semester Average </th>
@@ -106,13 +105,13 @@ The following are grade thresholds for first-year students.
             <b>This is also true if you have a mark of <50% in a repeated course.</b></td>
         <td colspan="3"> Doing good 🙂 You may proceed to the summer semester on probation in the T-program  </td>
     </tr>
-</table></body>
+</table>
 
-<h4>What is the T-Program?</h4>
-<body><p>The T-program is a program in the Engineering Faculty intended to help students struggling in first-year get back on their feet. The program allows you to retake three courses in 1W and defer three courses to the summer semester after first year. For more details see <a href="https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/11/2022-2023-T-Program-Information-Sheet.pdf">this link</a>.</p></body>
+#### What is the T-Program?
+The T-program is a program in the Engineering Faculty intended to help students struggling in first-year get back on their feet. The program allows you to retake three courses in 1W and defer three courses to the summer semester after first year. For more details see [this link](https://undergrad.engineering.utoronto.ca/wp-content/uploads/2022/11/2022-2023-T-Program-Information-Sheet.pdf").
 
-<h3>Grade Thresholds for Students in Second Year and Above</h3>
-<body><p>The following are grade thresholds for all non-first year engineering students.</p>
+### Grade Thresholds for Students in Second Year and Above
+The following are grade thresholds for all non-first year engineering students.
 
 <table>
     <tr id=PURPLE_HEADER>
@@ -144,7 +143,7 @@ The following are grade thresholds for first-year students.
     </tr>
 </table>
 
-<i>Notes:</i>
+*Notes:*
 <ul> 
 <li><i> Grade thresholds for EngSci students are the same as those for Core8 students after first-year</i> </li>
 <li><i>Proceeding with a clear standing does <b>not</b> mean your transcript will be wiped of all records of your prbationary status.</i></li>
