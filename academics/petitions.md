@@ -54,7 +54,7 @@ There are three types of petitions, as a student it is important to understand t
 <section class="hero is-primary">
 <div class="hero-body">
 <div class="container">
-<h3> <b> 2. Final Exam Petitions (FEP) </b></h3>
+<h3 style="color:white;"> <b> 2. Final Exam Petitions (FEP) </b></h3>
 <body><p>This type of petition can be used to get accommodations for <b>final examinations</b>, as the name suggests.</p>
 
 <b>When to Apply:</b><ul>
@@ -87,7 +87,7 @@ There are three types of petitions, as a student it is important to understand t
 <section class="hero is-danger">
 <div class="hero-body">
 <div class="container">
-<h3><b>3. Special Consideration Petitions (SCPs)</b></h3>
+<h3 style="color:white;"><b>3. Special Consideration Petitions (SCPs)</b></h3>
 <body><p>This type of petition is used to get <b>an exemption to an academic regulation</b>.</p>
 
 <b>When to Apply:</b><ul>
@@ -151,7 +151,7 @@ When filing a petition you will be asked to provide documentation, this section 
 If you are using your exception for the semester you will declare so in the [The Engineering Portal](https://portal.engineering.utoronto.ca/weblogin/sites/Student/#/home) directly.
 
 
-### For Medical Reasons<
+### For Medical Reasons
 For medical reasons or mental health crises you must file a [verification of illness form]("https://glse.utoronto.ca/sites/default/files/verification_of_student_illness_voi.pdf"). This must be completed by a medical professional who has/is treating you such as your family doctor, a surgeon, a clinical psychiatrist, a dentist etc.
 
 *Note: you qualify for one undocumented Term Work Petition (TWP) for medical reasons per semester for up to 3 days at a time. However, you may only use this for work worth 15% or less of the final course grade.*
