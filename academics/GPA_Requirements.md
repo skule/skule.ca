@@ -4,38 +4,32 @@ layout: page-with-menu
 ---
 
 ## Understanding GPAs
-<h3>GPA Terminology</h3><body>
-<p>There are three main types of GPA:</p>
-<ul>
-<li>The Sessional GPA (SGPA) is based on courses taken in a single session (Fall, Winter or Summer).</li>
-<li>The Annual GPA (AGPA) is based on courses taken in the Fall-Winter Sessions.</li>
-<li>The Cumulative GPA (CGPA) takes into account all courses taken for degree credit in the Faculty.</li>
-</ul>
+### GPA Terminology
+There are three main types of GPA:
+- The Sessional GPA (SGPA) is based on courses taken in a single session (Fall, Winter or Summer)
+- The Annual GPA (AGPA) is based on courses taken in the Fall-Winter Sessions.
+- The Cumulative GPA (CGPA) takes into account all courses taken for degree credit in the Faculty.
 
-<p>Generally, when referring to GPA, we are talking about your CGPA.</p></body>
+Generally, when referring to GPA, we are talking about your CGPA.
 
-<h3> How Important is your GPA?</h3>
-<body><p> The importance of your GPA is very dependent on your goals. When applying for internships in industry, some companies may not even ask for a GPA or transcript, while a few use it to help determine who gets an interview. However, once in an interview, it is generally your skills and experience that are most important. In general, GPA tends to be more important if you are applying for graduate school, scholarships or research positions. </p></body>
+### How Important is your GPA?
+The importance of your GPA is very dependent on your goals. When applying for internships in industry, some companies may not even ask for a GPA or transcript, while a few use it to help determine who gets an interview. However, once in an interview, it is generally your skills and experience that are most important. In general, GPA tends to be more important if you are applying for graduate school, scholarships or research positions.
 
 ## Grade Thresholds and Probation
-<body>
-<p>There are three standings on probation:</p>
-<ol>
-<li><b>Clear.</b> This means that you may proceed to the subsequent semester.</li> 
-<li><b>Proceeding on probation.</b> This is a warning that academic performance is not satisfactory. </li> 
-<li> <b>On repeat probation.</b> You are suspended for a year (ie. if you fail during semester 2S you, you must wait until next spring to re enroll in semester 2F). If you have a second instance of repeat probation you will be refused further registration, which means you are not eligible to continue studying engineering at UofT. </li>
-</ol>
+There are three standings on probation:
+1. **Clear.** This means that you may proceed to the subsequent semester.
+2. **Proceeding on probation.** This is a warning that academic performance is not satisfactory.
+3. **On repeat probation.** You are suspended for a year (ie. if you fail during semester 2S you, you must wait until next spring to re enroll in semester 2F). If you have a second instance of repeat probation you will be refused further registration, which means you are not eligible to continue studying engineering at UofT.
 
-<p>Your probationary status is determined based on your average each semester. This is a weighted average, where the weight of each grade corresponds to the number of credits associated with that course. Full year courses are not counted in your fall semester average, however, when calculating your winter semester average they are usually weighted twice as much as one-semester-courses (depending on the number of allocated credits).</p>
+Your probationary status is determined based on your average each semester. This is a weighted average, where the weight of each grade corresponds to the number of credits associated with that course. Full year courses are not counted in your fall semester average, however, when calculating your winter semester average they are usually weighted twice as much as one-semester-courses (depending on the number of allocated credits).
 
-<h3> Grade Thresholds for First Year Students</h3>
-<p>The following are grade thresholds for first-year students.</p>
+### Grade Thresholds for First Year Students
+The following are grade thresholds for first-year students.
 
-<h4>For the Fall Semester of First Year (1F):</h4>
-<body>
+### For the Fall Semester of First Year (1F):
 <table>
     <tr id="YELLOW_HEADER">
-        <th> Semester Average </th>
+        <th > Semester Average </th>
         <th> <45% </th>
         <th> 45%-50% </th>
         <th> 50%-55% </th>
@@ -76,9 +70,9 @@ layout: page-with-menu
 
 <p id="footnote-1">[1] You will be placed on probation and may retake up to three courses. If more than three courses have marks less than 60%, you normally repeat the three courses with the lowest grades.You are not eligible if you must repeat more than three courses or are a part-time student. </p>
 <p id="footnote-2">[2] You must repeat specific courses (up to three courses) including all courses with an average below 50%. You may elect to retake a course between 50% and 59%. Repeated courses may be chosen by the First-Year Chair and T-Program Coordinator. </p>
-<p id="footnote-3">[3] If you transfer to another program without space, you must get an average of 60% or greater in the winter semester in that program to remain in that program for the rest of your undergraduate degree. </p></body>
+<p id="footnote-3">[3] If you transfer to another program without space, you must get an average of 60% or greater in the winter semester in that program to remain in that program for the rest of your undergraduate degree. </p>
 
-<h3>For the Winter Semester of First Year (1W):</h3>
+### For the Winter Semester of First Year (1W):
 <body>
 <table>
     <tr id=BLUE_HEADER>
