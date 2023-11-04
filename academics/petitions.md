@@ -114,8 +114,8 @@ There are three types of petitions, as a student it is important to understand t
 
 <table>
                 <tr>
-                    <th><b>Year/Program</b></th>
-                    <th><b>LWD Policy</b></th>
+                    <th style="color:white;"><b>Year/Program</b></th>
+                    <th style="color:white;"><b>LWD Policy</b></th>
                 </tr>
                 <tr>
                     <td><b>First year TrackOne + Core8</b></td>
