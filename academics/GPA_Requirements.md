@@ -24,7 +24,7 @@ There are three standings on probation:
 Your probationary status is determined based on your average each semester. This is a weighted average, where the weight of each grade corresponds to the number of credits associated with that course. Full year courses are not counted in your fall semester average, however, when calculating your winter semester average they are usually weighted twice as much as one-semester-courses (depending on the number of allocated credits).
 
 ### Grade Thresholds for First Year Students
-The following are grade thresholds for first-year students. UPDATED
+The following are grade thresholds for first-year students.
 
 ### For the Fall Semester of First Year (1F):
 <table>
@@ -75,13 +75,13 @@ The following are grade thresholds for first-year students. UPDATED
 ### For the Winter Semester of First Year (1W):
 <table>
     <tr id=BLUE_HEADER>
-        <th> Semester Average </th>
-        <th> <45% </th>
-        <th> 45%-50% </th>
-        <th> 50%-55% </th>
-        <th> 55%-60% </th>
-        <th> 60%-79.5% </th>
-        <th> >79.5 </th>
+        <th style="color:white;"> Semester Average </th>
+        <th style="color:white;"> <45% </th>
+        <th style="color:white;"> 45%-50% </th>
+        <th style="color:white;"> 50%-55% </th>
+        <th style="color:white;"> 55%-60% </th>
+        <th style="color:white;"> 60%-79.5% </th>
+        <th style="color:white;"> >79.5 </th>
     </tr>
     <tr>
         <td id="BLUE_COL"><b> Core8 + TrackOne </b></td>
