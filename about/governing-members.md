@@ -7,51 +7,51 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 ## Officers
 
-> **President** [Archit Bhargava](mailto:president@skule.ca)
-> 
-> **Vice-President Finance** [Bo Zhao](mailto:vpfinance@skule.ca) 
-> 
-> **Vice-President Communiciations** [Renee Slen](mailto:vpcomm@skule.ca) 
-> 
+> **President** [Parker Johnston](mailto:president@skule.ca)
+>
+> **Vice-President Finance** [Bo Zhao](mailto:vpfinance@skule.ca)
+>
+> **Vice-President Communiciations** [Renee Slen](mailto:vpcomm@skule.ca)
+>
 > **Vice-President Academic** [Kenneth Lloyd Hilton](mailto:vpacademic@skule.ca)
-> 
+>
 > **Vice-President Student Life** [Joy Lai](mailto:vpstudentlife@skule.ca)
 
 ## Board of Directors
 
-> **At-Large Representative** [Natalia Espinosa-Merlano](mailto:natespinosamerlano@mail.utoronto.ca) 
-> 
-> **At-Large Representative** [Rebecca Ing](mailto:rebecca.ing@mail.utoronto.ca) 
-> 
-> **At-Large Representative** [Kaija Mikes](mailto:k.mikes@mail.utoronto) 
-> 
-> **At-Large Representative** [Ana Vukojevic](mailto:ana.vukojevic@mail.utoronto.ca) 
-> 
-> **First Year Representative** * Vacant * 
-> 
-> **First Year Representative** * Vacant * 
-> 
-> **First Year Representative** * Vacant * 
-> 
-> **ChemicalEngineering Representative** [William Krestow](mailto:liam.krestow@mail.utoronto.ca) 
-> 
-> **Civil Engineering Representative** [Baneen Kazmi](mailto:Baneen.kazmi@mail.utoronto.ca) 
-> 
-> **Electrical and Computer Engineering Representative** [Parker Johnston](mailto:parkerjohnston@mail.utoronto.ca) 
-> 
-> **Electrical and Computer Engineering Representative** *Vacant* 
-> 
-> **Engineering Science Representative** [Sean Huang](mailto:seanhuang@mail.utoronto.ca) 
-> 
-> **Industrial Engineering Representative** [Aisha Gurses](mailto:aisha.gurses@mail.utoronto.ca) 
-> 
-> **Mechanical Engineering Representative** *Vacant* 
-> 
-> **Materials Science and Engineering Representative** [Tobin Zheng](mailto:tobin.zheng@mail.utoronto.ca) 
-> 
-> **Mineral Engineering Representative** *Vacant* 
-> 
-> **Speaker**  [Erika Narimatsu ](mailto:speaker@skule.ca) 
+> **At-Large Representative** [Natalia Espinosa-Merlano](mailto:natespinosamerlano@mail.utoronto.ca)
+>
+> **At-Large Representative** [Rebecca Ing](mailto:rebecca.ing@mail.utoronto.ca)
+>
+> **At-Large Representative** [Kaija Mikes](mailto:k.mikes@mail.utoronto)
+>
+> **At-Large Representative** [Ana Vukojevic](mailto:ana.vukojevic@mail.utoronto.ca)
+>
+> **First Year Representative** [Lavneet Singh](mailto:lavneet.singh@mail.utoronto.ca)
+>
+> **First Year Representative** [Elias Barsa](mailto:elias.barsa@mail.utoronto.ca)
+>
+> **First Year Representative** [Boluwatife Asaba](mailto:boluwatife.asaba@mail.utoronto.ca)
+>
+> **ChemicalEngineering Representative** [William Krestow](mailto:liam.krestow@mail.utoronto.ca)
+>
+> **Civil Engineering Representative** [Baneen Kazmi](mailto:Baneen.kazmi@mail.utoronto.ca)
+>
+> **Electrical and Computer Engineering Representative** [Parker Johnston](mailto:parkerjohnston@mail.utoronto.ca)
+>
+> **Electrical and Computer Engineering Representative** *Vacant*
+>
+> **Engineering Science Representative** [Sean Huang](mailto:seanhuang@mail.utoronto.ca)
+>
+> **Industrial Engineering Representative** [Aisha Gurses](mailto:aisha.gurses@mail.utoronto.ca)
+>
+> **Mechanical Engineering Representative** [Aidan Maunder](mailto:aidan.maunder@mail.utoronto.ca)
+>
+> **Materials Science and Engineering Representative** [Tobin Zheng](mailto:tobin.zheng@mail.utoronto.ca)
+>
+> **Mineral Engineering Representative** [Evan Kiriakou](mailto:evan.kiriakou@mail.utoronto.ca)
+>
+> **Speaker**  [Erika Narimatsu](mailto:speaker@skule.ca)
 
 ## Class Representatives
 
