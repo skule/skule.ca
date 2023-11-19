@@ -5,6 +5,7 @@ layout: page-with-menu
 Your transcript is a document containing your academic record. 
 
 ## Obtainning your Transcript
+### Unofficial Transcripts
 If you can submit an **unofficial transcript** (most job, scholarship and grad school applications will accept this), this is your best option as it is **free**. To obtain an unofficial transcript:
 1. Login to [acorn](https://acorn.utoronto.ca/)
 2. Open the **Academic History** page using the menu-bar on the left-hand side of your screen
@@ -15,7 +16,8 @@ If you can submit an **unofficial transcript** (most job, scholarship and grad s
 ![print-academic-history-button](/assets/print-academic-history-button.jpg)
 5. Select **Save as pdf** and save the document to the desired folder on your device.
 ![save-to-pdf](/assets/save-to-pdf.jpg)
---
+
+### Official Transcripts
 If you are required to submit an **official transcript**, follow [these instructions](https://registrar.utoronto.ca/transcripts/ordering-my-transcript/). Note that there is a fee assocciated with ordering an official transcript
 
 ## Transcript Glossary
