@@ -1,9 +1,21 @@
 ---
-title: Transcript 
-layout: page
+title: Transcripts
+layout: page-with-menu
 ---
-Below is a table of common transcript terms and what they mean:
+Your transcript is a document containing your academic record. 
 
+## Obtainning your Transcript
+If you can submit an **unofficial transcript** (most job, scholarship and grad school applications will accept this), this is your best option as it is **free**. To obtain an unofficial transcript:
+1. Login to [acron](https://acorn.utoronto.ca/)
+2. Open the **Academic History** page using the menu-bar on the left-hand side of your screen
+![academic-history-menu](academic-history-menu.png)
+3. Click on the **Print Academic History** button
+![print-academic-history-button](print-academic-history-button.png)
+4. Select **Save as pdf** and save the document to the desired folder on your device.
+![save-to-pdf](save-to-pdf.png)
+
+## Transcript Glossary
+Below is a table of common transcript terms and what they mean:
 
 | **Status**                          | **Transcript Acronym** | **What it Means**                                                                                                                                                                                                                                                 | **Credit Granted** | **Included in CGPA** |
 |-------------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|----------------------|

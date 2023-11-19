@@ -1,5 +1,5 @@
 ---
-title: Course Fees
+title: Course Enrolment
 layout: page
 ---
 ## Ancillary Fees
