@@ -29,13 +29,13 @@ The following are grade thresholds for first-year students.
 ### For the Fall Semester of First Year (1F):
 <table>
     <tr id="YELLOW_HEADER">
-        <th > Semester Average </th>
-        <th> <45% </th>
-        <th> 45%-50% </th>
-        <th> 50%-55% </th>
-        <th> 55%-60% </th>
-        <th> 60%-79.5% </th>
-        <th> >79.5 </th>
+        <th style="color:white;"> Semester Average </th>
+        <th style="color:white;"> <45% </th>
+        <th style="color:white;"> 45%-50% </th>
+        <th style="color:white;"> 50%-55% </th>
+        <th style="color:white;"> 55%-60% </th>
+        <th style="color:white;"> 60%-79.5% </th>
+        <th style="color:white;"> >79.5 </th>
     </tr>
     <tr style="vertical-align:top">
         <td id="YELLOW_COL"> <b> Core8 + TrackOne </b> </td>
@@ -115,13 +115,13 @@ The following are grade thresholds for all non-first year engineering students.
 
 <table>
     <tr id=PURPLE_HEADER>
-        <th class="background">
+        <th style="color:white;">
             Semester Average &rarr;<br><br>
             Current Academic Standing &darr;</th>
-        <th><55%</th>
-        <th>55%-60%</th>
-        <th>60%-79.5%<br></th>
-        <th>>79.5%</th>
+        <th style="color:white;"><55%</th>
+        <th style="color:white;">55%-60%</th>
+        <th style="color:white;">60%-79.5%<br></th>
+        <th style="color:white;">>79.5%</th>
     </tr>
     <tr>
         <td id="PURPLE_COL"><b>Clear academic standing (not on probation) </b></td>
