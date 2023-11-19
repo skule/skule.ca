@@ -144,21 +144,18 @@ The following are grade thresholds for all non-first year engineering students.
 </table>
 
 *Notes:*
-<ul> 
-<li><i> Grade thresholds for EngSci students are the same as those for Core8 students after first-year</i> </li>
-<li><i>Proceeding with a clear standing does <b>not</b> mean your transcript will be wiped of all records of your prbationary status.</i></li>
-</ul> 
-</body>
+* *Grade thresholds for EngSci students are the same as those for Core8 students after first-year*
+* *Proceeding with a clear standing does **not** mean your transcript will be wiped of all records of your prbationary status.*
 
 ## Honours Upon Graduation
-<body><p>There are two types of honours you can be awarded upon graduation: <b>high honours</b> and <b>honours upon graduation</b>.</p>
-<ol>
-<li> To achieve <b>high honours upon graduation</b> you must:
-<ul><li>Achieve a cumulative weighted average of 87.5% or higher across courses taken in second, third and fourth year </li>
-<li>Achieve a cumulative weighted average of 82.5% or higher across courses taken in fourth year </li></ul></li>
+There are two types of honours you can be awarded upon graduation: **high honours** and **honours**
 
-<li> To achieve <b>honours upon graduation</b> you must:
-<ul><li>Achieve a cumulative weighted average of 79.5% or higher across courses taken in second, third and fourth year</li>
-<li>Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year</li></ul>
-<br>
-<p><i>Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.</i></p></body>
+To achieve **high honours upon graduation** you must:
+1. Achieve a cumulative weighted average of 87.5% or higher across courses taken in second, third and fourth year
+2. Achieve a cumulative weighted average of 82.5% or higher across courses taken in fourth year
+
+To achieve **honours upon graduation** you must:
+1. Achieve a cumulative weighted average of 79.5% or higher across courses taken in second, third and fourth year
+2. Achieve a cumulative weighted average of 74.5% or higher across courses taken in fourth year
+
+*Note: Summer courses are included when calculating cumulative weighted averages, however, “Extra” courses are not included.*
