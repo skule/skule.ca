@@ -10,7 +10,6 @@ If you can submit an **unofficial transcript** (most job, scholarship and grad s
 2. Open the **Academic History** page using the menu-bar on the left-hand side of your screen
 ![academic-history-menu](assets/academic-history-menu.jpg)
 3. Select **Complete Academic History**
-<img src="complete-academic-history.png" alt="complete-academic-history">
 ![complete-academic-history](assets/complete-academic-history.jpg)
 4. Click on the **Print Academic History** button
 ![print-academic-history-button](assets/print-academic-history-button.jpg)
