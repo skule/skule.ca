@@ -37,8 +37,9 @@ EngSoc's elections are conducted using a single transferrable voting system usin
 
 The process gets a little more complicated if there is more than one seat to fill. Here's the exact algorithm:
 
-
-![Count first preferences for each candidate. If any candidates have enough votes to be elected, elect them. Distribute the surplus of all newly elected candidates to remaining preferences, then start over if there are more seats to fill. If no candidate has enough votes to be elected, exclude the last placed candidate and distribute votes to remaining preferences, then start over.](./assets/stv-flowchart.drawio.png)
+<p align=center>
+<img src="./assets/stv-flowchart.drawio.png" alt="Count first preferences for each candidate. If any candidates have enough votes to be elected, elect them. Distribute the surplus of all newly elected candidates to remaining preferences, then start over if there are more seats to fill. If no candidate has enough votes to be elected, exclude the last placed candidate and distribute votes to remaining preferences, then start over."/>
+</p>
 
 #### Quota
 
