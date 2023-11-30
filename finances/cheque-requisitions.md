@@ -11,7 +11,9 @@ You can pick up a copy of the form in the Engineering Society office or [print 
 
 ## Where Do I Submit My Form?
 
-Forms can be submitted as a hard copy to the Engineering Society office. The VP Finance will review your form, and the business manager will email you once your cheque is ready.**You can also email a scanned or digital copy of your cheque requisition forms to [vpfinance@skule.ca](mailto:vpfinance@skule.ca) and CC [rhonda@skule.ca](mailto:rhonda@skule.ca). You must also scan and send copies of your receipts with the form AND save the original for collection at a later date. Your reimbursement can then be e-transferred to you at the email you provided on the form.
+Forms can be submitted as a hard copy to the Engineering Society office. The VP Finance will review your form, and the business manager will email you once your cheque is ready.**You can also email a scanned or digital copy of your cheque requisition forms to [vpfinance@skule.ca](mailto:vpfinance@skule.ca) and CC [rhonda@skule.ca](mailto:rhonda@skule.ca) WITH RECEIPTS. You must also scan and send copies of your receipts with the form AND save the original for collection at a later date. Your reimbursement can then be e-transferred to you at the email you provided on the form.
+
+**ANY CHEQUE REQUISITIONS SENT WITHOUT RECEIPTS WILL BE DECLINED.**
 
 ## Do's and Don'ts of a Cheque Requisition
 
