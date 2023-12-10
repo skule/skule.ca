@@ -20,7 +20,8 @@
             {% for cat in mydocs %}
             {% unless cat.name == "/" or cat.name contains "announcements"%}
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link">
+                {% assign firstItem = cat.items | first %}
+                <a class="navbar-link" href="{{ firstItem.url }}">
                     {% assign titlewords = cat.name | remove: "/" | split: "-" %}
                     {% for titleword in titlewords %}
                     {{ titleword | capitalize | replace: "The","the" }}

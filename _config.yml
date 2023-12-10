@@ -4,4 +4,3 @@ paginate: 5
 paginate_path: "/announcements/:num/"
 
 timezone: America/New_York
-
