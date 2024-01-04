@@ -124,22 +124,27 @@ The following are grade thresholds for all non-first year engineering students.
         <th style="color:white;">>79.5%</th>
     </tr>
     <tr>
-        <td id="PURPLE_COL"><b>Clear academic standing (not on probation) </b></td>
-        <td> You are placed on repeat probation, repeat this semester immediately when next offered </td>
+        <td id="PURPLE_COL"><b>Clear academic standing (not on probation or repeating a semester) </b></td>
+        <td> Repeat this semester immediately when next offered. If you successfully repeat the semseter, you will proceed on repeat probation </td>
         <td> You may proceed to the next semester on probation </td>
         <td> Doing good 🙂 You have a clear academic record </td>
         <td> You made the dean’s honours list 🙂 </td>
     </tr>
     <tr>
         <td id="PURPLE_COL"><b> Proceeding on Probation </b></td>
-        <td colspan="2"> You are placed on repeat probation, repeat this semester immediately when next offered </td>
-        <td>Doing good 🙂You may proceed to the next semester with a clear standing</td>
-        <td>You made the dean’s honours list 🙂You may proceed to the next semester with a clear standing</td>
+        <td colspan="2"> Repeat this semester immediately when next offered. If you successfully repeat the semseter, you will proceed on repeat probation  </td>
+        <td>Doing good 🙂. If you maintained a cGPA of 1.5 or greater, you may proceed to the next semester with a clear standing</td>
+        <td>You made the dean’s honours list 🙂 If you maintained a cGPA of 1.5 or greater, you may proceed to the next semester with a clear standing </td>
     </tr>
     <tr>
-        <td id="PURPLE_COL"><b> Proceeding on Repeat Probation and/or repeating a semester </b></td>
+        <td id="PURPLE_COL"><b> Proceeding on Repeat Probation </b></td>
         <td colspan="2"> You will be refused further registration. You are not eligible for re-admission </td>
-        <td colspan="2"> Doing good 🙂You may proceed to the next semester on probation</td>
+        <td colspan="2"> Doing good 🙂 If you maintained a cGPA of 1.5 or greater, you may proceed to the next semester on probation </td>
+    </tr>
+    <tr>
+        <td id="PURPLE_COL"><b> Repeating a Semester </b></td>
+        <td colspan="2"> You will be refused further registration. You are not eligible for re-admission </td>
+        <td colspan="2"> Proceed to the next cemester on repeat probation </td>
     </tr>
 </table>
 
