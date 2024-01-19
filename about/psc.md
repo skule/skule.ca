@@ -19,16 +19,15 @@ Whenever potential changes to the Bylaws and Policies are introduced, they are f
 
 If you are interested in the PSC or have any suggestions on how we can improve our Bylaws and Policies, feel free to contact the [PSC Chair](mailto:pscchair@skule.ca) or drop into a PSC meeting! The PSC meetings are always open to the public. If you would like to join the PSC as a member, nominations typically open in May and will be communicated to all students via the EngSoc Newsletter or email. 
 
-| Name            | Position             |
-|-----------------|----------------------|
-| Parker Johnston | PSC Chair            |
-| Archit Bhargava | President            |
-| Renee Slen      | VP Communications    |
-| Erika Narimatsu | Speaker              |
-| Katherine Jia   | CRO                  |
-| Tobin Zheng     | Board Representative |
-| Awale Omar      | At-large Member      |
-| Inho Kim        | At-large Member      |
+| Name            | Position              |
+|-----------------|-----------------------|
+| Parker Johnston | President & PSC Chair |
+| Renee Slen      | VP Communications     |
+| Erika Narimatsu | Speaker               |
+| Katherine Jia   | CRO                   |
+| Tobin Zheng     | Board Representative  |
+| Awale Omar      | At-large Member       |
+| Inho Kim        | At-large Member       |
 
 
 If you have any questions about the PSC, please email [pscchair@skule.ca](mailto:pscchair@skule.ca).

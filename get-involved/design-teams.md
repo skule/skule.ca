@@ -61,7 +61,7 @@ This page is under construction! [Please see a list here.](https://docs.google.c
 > 
 >iGEM Toronto is an undergraduate synthetic biology design team. We design anything related to synthetic biology from genetic circuits to biofilms to plastic-degrading enzymes to rapid DNA detection kits. We showcase our project in the iGEM Grand Jamboree every October where iGEM teams from over 300 universities around the globe also present their work. 
 >
-> <a class="button is-small vp-academic" href="mailto:igem@g.skule.ca">Email</a>
+> <a class="button is-small vp-academic" href="mailto:igem@skule.ca">Email</a>
 > <a class="button is-small vp-academic" href="https://www.instagram.com/igemtoronto/?hl=en">Instagram</a>
 
  
@@ -115,7 +115,7 @@ The purpose of this team is to offer students at the University of Toronto an op
 Having won the competition three out of the last four years, UofT aims to continue its winning culture. To achieve this, we organize various workshops focused on design, modeling, and other relevant skills. Additionally, we provide guidance, materials, tools, and access to facilities necessary for each team to build their bridge.
 The club welcomes all undergraduates and serves as an excellent platform to create connections while gaining experience in areas such as structural engineering, project management, and construction. 
 >
-> <a class="button is-small vp-academic" href="mailto:troitsky@g.skule.ca">Email</a> 
+> <a class="button is-small vp-academic" href="mailto:troitsky@skule.ca">Email</a> 
 > <a class="button is-small vp-academic" href="https://troitsky.skule.ca/">Website</a> 
 > <a class="button is-small vp-academic" href="https://www.instagram.com/troitskyuoft/">Instagram</a> 
  
@@ -147,7 +147,7 @@ If you are interested in experiencing hands-on chemical laboratory work, learnin
 > 
 > We are a multidisciplinary design team that designs and constructs a ‘floating’ concrete canoe every year! To compete in the Canadian National Concrete Canoe Competition (CNCC)
 >
-> <a class="button is-small vp-academic" href="mailto:canoe@g.skule.ca">Email</a> 
+> <a class="button is-small vp-academic" href="mailto:canoe@skule.ca">Email</a> 
 > <a class="button is-small vp-academic" href="https://canoe.skule.ca/">Website</a>
 > <a class="button is-small vp-academic" href="https://www.instagram.com/uoftconcretecanoe/">Instagram</a>
 > <a class="button is-small vp-academic" href="https://discord.gg/ujSHTwZX">Discord</a>
@@ -159,7 +159,7 @@ If you are interested in experiencing hands-on chemical laboratory work, learnin
 >  
 >UTOPH - University of Toronto Project Holodeck - is a Virtual Reality (VR) design team that focuses on building fun projects and using them to share VR and AR with the student body here at the University of Toronto. The club was founded in October, 2015, and was inspired by the Holodeck from the popular TV series, Star Trek.
 >
-> <a class="button is-small vp-academic" href="mailto:utoph@g.skule.ca">Email</a> 
+> <a class="button is-small vp-academic" href="mailto:utoph@skule.ca">Email</a> 
 > <a class="button is-small vp-academic" href="https://www.utoph.com">Website</a> 
 > <a class="button is-small vp-academic" href="https://discord.gg/dUnuPXHkAv">Discord</a>
  

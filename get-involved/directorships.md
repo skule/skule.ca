@@ -87,14 +87,14 @@ Project Directors each manage a particular service or initiative, from managing 
 > 
 > The Environmental Sustainability Director assesses the environmental impact of EngSoc's operations, with the goal of improving EngSoc's environmental sustainability, in collaboration with students and other groups on campus. 
 >
-> <a class="button is-small president" href="mailto:sustainability@g.skule.ca">Email</a> 
+> <a class="button is-small president" href="mailto:sustainability@skule.ca">Email</a> 
  
 > <b class="president-text">Equity and Inclusivity Director</b>
 > Boran Ocak <small class="president-text">Overseen by the President</small>
 > 
 > The Equity and Inclusivity Director promotes awareness of equity and inclusivity issues within the Skule™ community. They coordinate with clubs and university services to facilitate discussion and support, and work with the Ombudsperson to respond to the needs of students. 
 >
-> <a class="button is-small president" href="mailto:equity@g.skule.ca">Email</a>
+> <a class="button is-small president" href="mailto:equity@skule.ca">Email</a>
  
 > <b class="president-text">External Relations Director</b>
 > Tina Sokhanvar <small class="president-text">Overseen by the President</small>

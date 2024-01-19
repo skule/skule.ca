@@ -6,7 +6,7 @@ layout: page-with-menu
 Officers handle EngSoc's day-to-day operations and external relations at a high level. Each of them also oversee a group of Project Directors related to their portfolios. They are elected directly by all full-time and part-time engineering students. See below for information about them.
 
 > ## President 
-> Archit Bhargava
+> Parker Johnston
 > 
 >**Who am I?** *TBA*
 > 
