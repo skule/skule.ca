@@ -1,5 +1,5 @@
 ---
-title: Academic Ressources
+title: Academic Resources
 layout: page
 ---
 Whether you had a rough start to the term and need some help catching up, or are looking to refine your studies, there are many ways to get extra academic support. Here are some of them:
@@ -37,7 +37,7 @@ P.A.S.S. (Peer Assisted Study Sessions) - These study sessions are hosted by ~2 
     - Use the Engineering and Computer Science Library on the 2nd floor of the Sandford Fleming building. The upper level of the library has open desks often used for group-work.
     - Use a common room or discipline-specific study room if you have one available.
 
-## Ressources Offered by Professors
+## Resources Offered by Professors
 
 - Office Hours - I'm sure you've heard this many times, but that's because it works. Office hours give you the opportunity to sit down one-on-one (or bring a friend for a group session) and sort out all sources of misunderstanding. **Protip:**: many TAs are also willing to have office hours, or schedule meetings with you (or you and a friend) to review course material. If you learn well from a specific TA, approach or e-mail them and they will surely find a time to sit down with you.
 - Additionally, as a University of Toronto student you have access to tutorials and office hours for many of your courses. Check the syllabi and course descriptions of your courses to find more details about these services in the current term.
