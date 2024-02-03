@@ -2,6 +2,10 @@
 title: Petitions
 layout: page-with-menu
 ---
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;"> 
+Please note that the following is an interpretation of  <a href="https://engineering.calendar.utoronto.ca/academic-regulations">academic regulations</a>, which contain official policy on petitions.
+</div> 
+
 A **petition** is a formal **request for an exception** to deadlines, degree requirements, promotional requirements, and other rules and regulations. This is meant to be used if there were unavoidable factors leading up to extenuating circumstances. Were you sick? Did you have a family emergency? Did you experience a traumatic event? Was there some other unavoidable circumstance that affected your academics? If you said yes to any of these questions you may qualify for a petition.
 
 This section will outline **(1) types of petitions**, **(2) how to file a petition**, **(3) How the petition process works** and **(4) the petition appeal process**. If you are looking at filing a petition, it is recommended to:

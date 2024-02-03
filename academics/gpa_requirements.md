@@ -3,6 +3,10 @@ title: GPA Requirements and Thresholds
 layout: page-with-menu
 ---
 
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;"> 
+Please note that the following is an interpretation of  <a href="https://engineering.calendar.utoronto.ca/academic-regulations">academic regulations</a>, which contain official policy on GPA Requirements.
+</div> 
+
 ## Understanding GPAs
 ### GPA Terminology
 There are three main types of GPA:
@@ -150,7 +154,10 @@ The following are grade thresholds for all non-first year engineering students.
 
 *Notes:*
 * *Grade thresholds for EngSci students are the same as those for Core8 students after first-year*
-* *Proceeding with a clear standing does **not** mean your transcript will be wiped of all records of your prbationary status.*
+* *For the purposes of probation lifting, a non-repeated semester means four or more non-repeated half-course equivalents*
+* *Proceeding with a clear standing does **not** mean your transcript will be immediately wiped of all records of your probationary status. A record of your probationary status will remain on your transcript for the remainder of your undergrad.*
+* *An academic standing of "Proceeding on Probation," or "On Repeat Probation" will be removed and changed to "Pass" (or "Honours" if applicable) upon graduation.*
+
 
 ## Honours Upon Graduation
 There are two types of honours you can be awarded upon graduation: **high honours** and **honours**
