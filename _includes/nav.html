@@ -25,7 +25,7 @@
             {% for cat in mydocs %}
             {% unless cat.name == "/" or cat.name contains "announcements"%}
             <div class="navbar-item has-dropdown is-hoverable">
-                {% assign firstItem = cat.items | first %}
+                {% assign firstItem = cat.items | sort: 'order' | first %}
                 <a class="navbar-link" href="{{ firstItem.url }}">
                     {% assign titlewords = cat.name | remove: "/" | split: "-" %}
                     {% for titleword in titlewords %}
