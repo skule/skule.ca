@@ -2,6 +2,7 @@
 title: Petitions
 layout: page-with-menu
 ---
+
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;"> 
 Please note that the following is an interpretation of  <a href="https://engineering.calendar.utoronto.ca/academic-regulations">academic regulations</a>, which contain official policy on petitions.
 </div> 
