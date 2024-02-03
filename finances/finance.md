@@ -1,6 +1,7 @@
 ---
 title: Skule™ Finances
 layout: page
+order: 1
 ---
 
 This page is a work in progress. We apologize for any inconveniences.
