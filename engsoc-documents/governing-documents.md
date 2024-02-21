@@ -17,7 +17,7 @@ The EngSoc bylaws regulate how EngSoc functions. They can only be changed by a r
 The policies are a set of best practices for EngSoc. Engineering Society policies can be changed by a resolution of the Board of Directors or by a resolution of a meeting of the Officers.
 - [Accessibility Policy](https://drive.google.com/file/d/1NBE9OM5YWWnhQfcE_s9wIuO8LECV3vDO)
 - [Affiliated Clubs](https://drive.google.com/file/d/131fr_DDU6sE7p2DKIQtcqVucrNmtL5Ne)
-- [Awarding Society Awards](/engsoc-documents/governing-documents/Policy-Awarding-Society-Awards.pdf)
+- [Awarding Society Awards](/engsoc-documents/governing-documents/Policy-Awarding-Society-Awards-Feb2024.pdf)
 - [Branding](https://drive.google.com/file/d/0B89eE6k71A1lV2lYUldBcWhUUDg)
 - [Complaints](https://github.com/skule/bylaws/blob/master/policies/Policy-on-Complaints.pdf)
 - [Finances](/engsoc-documents/governing-documents/Policy-Finances.pdf)
@@ -25,7 +25,6 @@ The policies are a set of best practices for EngSoc. Engineering Society policie
 - [Orientation Governance](https://github.com/skule/bylaws/blob/master/policies/Orientation%20Governance%20Policy.pdf)
 - [Suds Operations](/engsoc-documents/governing-documents/Policy-Suds-Operations.pdf)
 - [Publications](/engsoc-documents/governing-documents/Policy-on-Publications.pdf)
-- [Student Choice Awards](https://drive.google.com/file/d/1uKeXUGLEi0D9PNJKOkl3DKP5j9r-kXpm)
 - [Digital Services](https://github.com/skule/bylaws/blob/master/policies/Digital%20Services%20Policy.pdf)
 - [Transition](https://github.com/skule/bylaws/blob/master/policies/Transition%20Policy.pdf)
 - [External Relations](https://github.com/skule/bylaws/blob/master/policies/) *(coming soon)*
