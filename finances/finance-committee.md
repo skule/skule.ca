@@ -13,7 +13,7 @@ The Finance Committee for the 2T3-2T4 year has been struck.
 
 Generally, the application process starts every May. Check back here for the applications in 2024!
 
-Note that all finance committee meetings are open to the public and their minutes are publically available. If you are interested in joining a meeting, you can check the Skule calendar, the regular governance newsletters emailed from the VPF (Ken Hilton), or email finance.secretary@skule.ca for the date and location.
+Note that all finance committee meetings are open to the public and their minutes are publically available. If you are interested in joining a meeting, check the Skule calendar or governance newsletters emailed from the Vice President Communications, or [email vpcomm@skule.ca](mailto:vpcomm@skule.ca) for the date and location.
 
 ## Finance Committee Internal Guidlines
 
