@@ -1,5 +1,5 @@
 ---
-title: "2024 Valedictorian All Candidates List"
+title: "2024 Officer Election All Candidates List"
 author: CRO
 layout: post
 ---
