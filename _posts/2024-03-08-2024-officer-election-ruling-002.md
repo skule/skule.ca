@@ -1,5 +1,5 @@
 ---
-title: "2024 Officer Election - CRO Ruling #1"
+title: "2024 Officer Election - CRO Ruling #2"
 author: CRO
 layout: post
 ---
