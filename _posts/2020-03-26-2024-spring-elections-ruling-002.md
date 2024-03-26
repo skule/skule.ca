@@ -1,5 +1,5 @@
 ---
-title: "Fall 2023 Elections - CRO Ruling #1"
+title: "Fall 2023 Elections - CRO Ruling #2"
 author: CRO
 layout: post
 ---
