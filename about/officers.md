@@ -5,7 +5,7 @@ layout: page-with-menu
 
 Officers handle EngSoc's day-to-day operations and external relations at a high level. Each of them also oversee a group of Project Directors related to their portfolios. They are elected directly by all full-time and part-time engineering students. See below for information about them.
 
-> ## President 
+## President 
 > Parker Johnston
 > 
 >**Who am I?** *TBA*
@@ -23,8 +23,7 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > 
 > <a class="button is-small president" href="mailto:president@skule.ca">Email</a> 
 
-> ## Vice-President Finance
-> 
+## Vice-President Finance
 > Bo Zhao
 > 
 > **Who am I?** *TBA* 
@@ -45,8 +44,7 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > 
 > <a class="button is-small vp-finance" href="mailto:vpfinance@skule.ca">Email</a>
 
-> ## Vice-President Communications
-> 
+## Vice-President Communications
 > Renee Slen
 > 
 > **Who am I?** *TBA* 
@@ -65,8 +63,7 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > 
 > <a class="button is-small vp-comms" href="mailto:vpcomm@skule.ca">Email</a>
 
-> ## Vice-President Academic
-> 
+## Vice-President Academic
 > Kenneth Lloyd Hilton
 > 
 > **Who am I?** *TBA* 
@@ -87,8 +84,7 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > 
 > <a class="button is-small vp-academic" href="mailto:vpacademic@skule.ca">Email</a>
 
-> ## Vice-President Student Life
-> 
+## Vice-President Student Life
 > Joy Lai
 > 
 > **Who am I?** *TBA* 

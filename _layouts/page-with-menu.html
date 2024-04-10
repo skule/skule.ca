@@ -7,12 +7,12 @@ layout: page
     <div class="column is-2 is-hidden-touch">
         <aside class="menu">
             <p class="menu-label"> Menu </p>
-            <ul class="menu-list">
+            <ul class="menu-list" style="margin-left:0px">
                 {% assign lines = page.content | newline_to_br | split:"<br />" %}
                 {% for line in lines %}
                 {% if line contains "##" %}
                 {% unless line contains "###" %}
-                <li><a href="#{{ line | replace:" ##","" | slugify }}">{{ line | replace:"##",""}}</a></li>
+                <a href="#{{ line | replace:" ##","" | slugify }}">{{ line | replace:"##",""}}</a>
                 {% endunless %}
                 {% endif %}
                 {% endfor %}
