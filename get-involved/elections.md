@@ -17,7 +17,7 @@ Elections will be announced by the CRO (Chief Returning Officer) via mass email,
 
 The elections process varies depending on the position. Elections are run by the CRO with the help of DROs (Deputy Returning officers) to ensure a fair and unbiased election. As such, EngSoc has put in place rules regarding nominations, campaigning, re-elections etc...
             
-For more information about the election process, refer to [Bylaw 3](/engsoc-documents/governing_documents)
+For more information about the election process, refer to [Bylaw 3](/about/governing_documents)
 
 > <b class="speakerpersono">Chief Returning Officer</b>
 > Katherine Jia <small class="speakpersono-text">Overseen by the Speaker</small>
