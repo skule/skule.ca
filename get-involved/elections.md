@@ -20,7 +20,7 @@ The elections process varies depending on the position. Elections are run by the
 For more information about the election process, refer to [Bylaw 3](/about/governing_documents)
 
 > <b class="speakerpersono">Chief Returning Officer</b>
-> Katherine Jia <small class="speakpersono-text">Overseen by the Speaker</small>
+> Lavneet Singh <small class="speakpersono-text">Overseen by the Speaker</small>
 > 
 > The CRO is a neutral body who conducts EngSoc elections, ensuring that they are run fairly and democratically. Along with their Deputy Returning Officers (or DROs) as part of the Office of Returning Officers (or ORO), they spend much of the year refining the election policies and scheduling the elections for the year.
 > 

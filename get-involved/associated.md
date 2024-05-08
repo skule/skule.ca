@@ -7,7 +7,7 @@ These organization and positions are non-EngSoc organizations that are closely t
 
 
 > ## Engineering Athletics Association
-> <p><b class="vp-student-life-text">EAA President</b> Okyu Ugur 
+> <p><b class="vp-student-life-text">EAA President</b> Meme Liu 
 > <small class="vp-student-life-text">Works with VP Student Life</small></p>
 > The Engineering Athletics Association runs intramural sports for engineering students at the University of Toronto.Their sports teams compete against other colleges and faculties. EAA also runs leagues for sports between disciplines,as well as sports-focused events.
 > 
