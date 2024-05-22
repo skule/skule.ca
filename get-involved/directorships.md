@@ -164,7 +164,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small speakerpersono" href="http://skule.ca/elections">Elections Info</a>
  
 > <b class="president-text">Orientation Chair</b>
-> Joanna Roy <small class="president-text">Overseen by the President </small>
+> Lily VanderWoude and Vedant Gupta <small class="president-text">Overseen by the President </small>
 > 
 > The Orientation Chair organizes F!rosh Week, Skule™ orientation for incoming students. They build an Orientation Committee of Vice-Chairs and appoint Subcommittee Chairs and Head Leedurs to provide a fun week introduction to incoming students. 
 >
