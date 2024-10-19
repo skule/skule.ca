@@ -14,50 +14,54 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |Vice-President Communiciations|[Jennifer Wu](mailto:vpcomm@skule.ca)|
 |Vice-President Academic|[Katherine Jia](mailto:vpacademic@skule.ca)|
 |Vice-President Student Life|[Sean Huang](mailto:vpstudentlife@skule.ca)|
+|Speaker|Kenneth Lloyd Hilton|
+|Business Manager|Rhonda Meek|
 
 ## Board of Directors
 
 |Position|Representative|
 |-|-|
 |At-Large Representative|Rebecca Ing|
-|At-Large Representative|Jim Xu|
+|At-Large Representative, T1 Chair|Jim Xu|
 |At-Large Representative|Shosh Lebo|
-|At-Large Representative|*Vacant*|
-|Chemical Engineering Representative|*Vacant*|
+|At-Large Representative|Valentina Lin Fang|
+|Chemical Engineering Representative|Yuhan Zhang|
 |Civil Engineering Representative|Michelle DeLoyde|
 |Electrical and Computer Engineering Representative|Ege Feyzioglu|
-|Electrical and Computer Engineering Representative|*Vacant*|
-|Engineering Science Representative|[Edith Fang|
+|Electrical and Computer Engineering Representative|Emilie Côté|
+|Engineering Science Representative|Edith Fang|
 |Industrial Engineering Representative|Kelvin Lo|
 |Mechanical Engineering Representative|Ashlyn Abdelmaseeh|
 |Materials Science and Engineering Representative|*Vacant*|
 |Mineral Engineering Representative|*Vacant*|
-|Speaker|*Vacant*|
+|First Year Representative|Ethan Mao|
+|First Year Representative|Hankun Lin|
+|First Year Representative|Jimmy Ji|
 
 ## Class Representatives
 
 |Position|Representative|
 |-|-|
 |**Chemical**||
-|First Year|*Vacant*|
-|Second Year|*Vacant*|
+|First Year|William Chen|
+|Second Year|Katy Mezei|
 |Third Year|Miko Samson|
 |PEY|Amogh Manivannan|
-|Fourth Year|*Vacant*|
+|Fourth Year|Isabella Petrocelli|
 |**Civil**||
-|First Year|*Vacant*|
-|Second Year|*Vacant*|
-|Third Year|*Vacant*|
-|PEY|*Vacant*|
+|First Year|Natalie El Taki|
+|Second Year|Elizabeth Menjivar|
+|Third Year|Dana Bou Saab|
+|PEY|Sophie Costantino|
 |Fourth Year|*Vacant*|
 |**ECE**||
-|First Year|*Vacant*|
-|First Year|*Vacant*|
-|First Year|*Vacant*|
-|First Year|*Vacant*|
-|Second Year|*Vacant*|
-|Second Year|*Vacant*|
-|Second Year|*Vacant*|
+|First Year|Ethan Mao|
+|First Year|Arnav Agarwal|
+|First Year|Antoine Tabet|
+|First Year|Abdullah Rashid|
+|Second Year|Vishwas Puri|
+|Second Year|Aarnav Chordia|
+|Second Year|Adam Abreha|
 |Second Year|*Vacant*|
 |Third Year|Samar Qureshi|
 |Third Year|Joe Dai|
@@ -70,38 +74,42 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |Fourth Year|Narender Kheder|
 |Fourth Year|Tudor Sigmund|
 |**EngSci**||
-|First Year|*Vacant*|
-|First Year|*Vacant*|
-|Second Year|*Vacant*|
-|Second Year|*Vacant*|
-|Third Year|*Vacant*|
+|First Year|Andy Wen|
+|First Year|Eric Xie|
+|Second Year|Oliver Lagerquist|
+|Second Year|Evelyn Fallah|
+|Third Year|Andy Gong|
+|PEY|*Vacant*|
 |Fourth Year|*Vacant*|
 |**Industrial**||
-|First Year|*Vacant*|
-|First Year|*Vacant*|
-|Second Year|*Vacant*|
+|First Year|Ivan Zhou|
+|First Year|Yann Naman|
+|Second Year|Renzo Ugarte Basurco|
 |Third Year|Sherry Zhang|
 |PEY|Hayden Groer|
 |Fourth Year|Anmol Mahajan|
 |**MSE**||
-|First Year|*Vacant*|
-|Second Year|*Vacant*|
+|First Year|Cathy Pang|
+|Second Year|Izwa Sahdi|
 |Third Year|Jasnoor Hazooria|
-|PEY|*Vacant*|
-|Fourth Year|*Vacant*|
+|PEY|Kyla Tan|
+|Fourth Year|CJ Conlin|
 |**Mechanical**||
+|First Year|Tulgar Ilhan|
 |First Year|*Vacant*|
-|Second Year|*Vacant*|
-|Second Year|*Vacant*|
-|Third Year|*Vacant*|
-|Third Year|*Vacant*|
+|Second Year|Rik Chatterjee|
+|Second Year|Sebastian Kiernan|
+|Third Year|Aidan Principe|
+|Third Year|Rachel Pittman|
 |PEY|Ashlyn Abdelmaseeh|
 |PEY|Celin Begeshev|
 |Fourth Year|*Vacant*|
+|Fourth Year|*Vacant*|
 |**Mineral**||
-|First Year|*Vacant*|
-|Second Year|*Vacant*|
+|First Year|Ahnaf Hawlader|
+|Second Year|Zach Zhang|
 |Third Year|*Vacant*|
+|PEY|*Vacant*|
 |Fourth Year|Raymond Bhushan|
 |**Track One**||
-|First Year|*Vacant*|
+|First Year|Sunny Liu|

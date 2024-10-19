@@ -5,16 +5,16 @@ layout: page
 
 Project Directors each manage a particular service or initiative, from managing a café to teaching high school students about engineering. Many of them form committees or teams open to anyone at Skule™ to achieve their goals for the year. They are elected by the outgoing EngSoc Council members near the end of their terms.
 
-> <b class="vp-academic-text">Academic Policies Director</b>
+<!-- > <b class="vp-academic-text">Academic Policies Director</b>
 > Clara Fleisig <small class="vp-academic-text">Overseen by VP Academic</small>
 > 
 > The Academic Policies Director is a temporary directorship addressing the lack of awareness in the student body about policies that affect and/or may be helpful to students. They document both official and unoffical academic information on subjects such as petitions, course enrollement and probationary regulations. They maintain the academics portion of skule.ca and are also happy to answer any questions students have on the subject academic policies within UofT engineering.
 >
 > <a class="button is-small vp-academic" href="mailto:academicpolicies@skule.ca">Email</a>
-> <a class="button is-small vp-academic" href="https://skule.ca/academics/gpa_requirements">Skule™ Academics</a> 
+> <a class="button is-small vp-academic" href="https://skule.ca/academics/gpa_requirements">Skule™ Academics</a>  -->
 
 > <b class="president-text">Alumni Outreach Director</b>
-> *Vacant* <small class="president-text">Overseen by the President</small>
+> Hannah Lila <small class="president-text">Overseen by the President</small>
 > 
 > The Alumni Outreach Director develops the relationship between engineering alumni and current engineering students. They promote Skule™ activities and development to former students and work with other student groups and with the faculty to increase alumni engagement. 
 >
@@ -54,7 +54,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-student-life" href="mailto:community@skule.ca">Email</a>
  
 > <b class="vp-academic-text">Commuter Student Director</b>
-> *Akshat Gandhi* <small class="vp-academic-text">Overseen by the VP Academic</small>
+> Akshat Gandhi <small class="vp-academic-text">Overseen by the VP Academic</small>
 > 
 > The Commuter Student Director promotes efforts and services within Skule™ towards the commuter student community. They coordinate with the faculty and other student groups to offer commuter students help and resources. Additionally, the project creates inclusivity and communication between engineering students. 
 >
@@ -75,7 +75,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-student-life" href="mailto:dta@skule.ca">Email</a>
  
 > <b class="vp-finance-text">Engineering Stores Managers</b>
-> Keira Foti and *Vacant* <small class="vp-finance-text">Overseen by VP Finance</small>
+> Keira Foti and Jenn Xu <small class="vp-finance-text">Overseen by VP Finance</small>
 > 
 > The Stores Managers operate the store where many students will pick up their first year textbooks, coveralls, or leather jackets. They work with their staff throughout the year to coordinate with student groups on campus, providing a central location for academic materials and other Skule™ necessities. 
 >
@@ -108,15 +108,15 @@ Project Directors each manage a particular service or initiative, from managing 
 > 
 > The Handbook Editor coordinates the production of the F!rosh Handbook which is mailed out to many F!rosh in the summer. They coordinate their team to introduce hundreds of incoming students to the Skule™ community and life at the University of Toronto. The summer after creating their F!rosh Handbook, they also create the Skule™ Agenda, a free daily agenda available to all engineering students, in the following summer. You can pick up a free Agenda at the EngSoc office.
 
-> <b class="vp-comms-text">Agenda Editor</b>
+<!-- > <b class="vp-comms-text">Agenda Editor</b>
 > Carl Joseph Ancheta <small class="vp-comms-text">Overseen by VP Communications</small>
 >  
 >
 > <a class="button is-small vp-comms" href="mailto:handbook@skule.ca">Handbook Editor Email</a> 
-> <a class="button is-small vp-comms" href="mailto:agenda@skule.ca">Agenda Editor Email</a>
+> <a class="button is-small vp-comms" href="mailto:agenda@skule.ca">Agenda Editor Email</a> -->
  
 > <b class="vp-finance-text">Gradball Director</b>
-> Simona Tenche<small class="vp-finance-text">Overseen by VP Finance</small>
+> Lisa Qian <small class="vp-finance-text">Overseen by VP Finance</small>
 > 
 > The Gradball Director organizes Gradball, the Skule™ formal dinner dance. They coordinate with a venue, caterers, and entertainment to provide a fun and memorable night for students. 
 >
@@ -140,7 +140,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-academic" href="http://hiskule.skule.ca">Website</a>
  
 > <b class="president-text">International Transition Director</b>
-> Riann Po<small class="president-text">Overseen by the President</small>
+> Riann Po <small class="president-text">Overseen by the President</small>
 > 
 > The International Transition Director focuses on supporting students coming from outside of Canada through their transition into university. This extends to taking initiatives that aim to increase the engagement of international students and provide a centralized platform for obtaining various resources. 
 >
@@ -148,7 +148,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small president" href="mailto:intltransition@skule.ca">Email</a>
  
 > <b class="vp-academic-text">Mental Wellness Director</b>
-> *Vacant* <small class="vp-academic-text">Overseen by VP Academic</small>
+> Khushi Patel <small class="vp-academic-text">Overseen by VP Academic</small>
 > 
 > The Mental Wellness Director promotes mental health awareness within the Skule™ community. They coordinate with professional services to direct students with mental health concerns to appropriate help and resources, and support stress relief activities for engineering students. 
 >
@@ -156,28 +156,28 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-academic" href="http://wellness.skule.ca">Website</a>
  
 > <b class="speakerpersono-text">Ombudsperson</b>
-> *Vacant* <small class="speakerpersono-text">Overseen by the Speaker</small>
+> Milena Gega <small class="speakerpersono-text">Overseen by the Speaker</small>
 > 
 > The Ombudsperson is a neutral body who gathers feedback about all aspects of Skule™ and mediates interpersonal conflicts within EngSoc. In addition to running the Skule™ census every year, they make themselves available at all times to hear comments or complaints about EngSoc's operations. The Ombudsperson ensures that feedback remains anonymous and is given to people who can attempt to address it. 
 >
 > <a class="button is-small speakerpersono" href="mailto:ombudsperson@skule.ca">Email</a> 
 > <a class="button is-small speakerpersono" href="http://skule.ca/elections">Elections Info</a>
  
-> <b class="president-text">Orientation Chair</b>
+<!-- > <b class="president-text">Orientation Chair</b>
 > Lily VanderWoude and Vedant Gupta <small class="president-text">Overseen by the President </small>
 > 
 > The Orientation Chair organizes F!rosh Week, Skule™ orientation for incoming students. They build an Orientation Committee of Vice-Chairs and appoint Subcommittee Chairs and Head Leedurs to provide a fun week introduction to incoming students. 
 >
 > <a class="button is-small president" href="mailto:orientation@skule.ca">Email</a> 
 > <a class="button is-small president" href="http://orientation.skule.ca">F!rosh Week Website</a> 
-> <a class="button is-small president" href="http://leedurs.skule.ca">Leedur Website</a>
+> <a class="button is-small president" href="http://leedurs.skule.ca">Leedur Website</a> -->
  
-> <b class="president-text">Skule™150 Director</b>
+<!-- > <b class="president-text">Skule™150 Director</b>
 > Richard Naso <small class="president-text">Overseen by the President </small>
 > 
 >  
 >
-> <a class="button is-small president" href="mailto: skule150@skule.ca">Email</a>
+> <a class="button is-small president" href="mailto: skule150@skule.ca">Email</a> -->
  
 > <b class="vp-student-life-text">Skule™ Kup Director</b>
 > Shoshana Lebo <small class="vp-student-life-text">Overseen by VP Student Life</small>
@@ -188,7 +188,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-student-life" href="http://kup.skule.ca">Website</a>
  
 > <b class="vp-student-life-text">Skule™ Photography Director</b>
-> *Vacant* <small class="vp-student-life-text">Overseen by VP Student Life</small>
+> Aiden Maunder <small class="vp-student-life-text">Overseen by VP Student Life</small>
 > 
 > The Skule™ Photography Director organizes a team of student photographers to provide logistical and technical photography support for the Skule™ community. They are also responsible for maintaining the official online photo archive of Skule™ and EngSoc's photography and videography equipment.  
 >
@@ -203,7 +203,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-comms" href="mailto:skulebook@skule.ca">Email</a>
  
 > <b class="vp-comms-text">Social Media Coordinator</b>
-> *Vacant* <small class="vp-comms-text">Overseen by VP Communications</small>
+> Edward Kim <small class="vp-comms-text">Overseen by VP Communications</small>
 > 
 > The Social Media Coordinator is responsible for creating, monitoring and curating engaging content across all EngSoc social media accounts. They create video and photo content to manage EngSoc marketing campaigns and deliver relevant information to the student body.  
 >
@@ -233,7 +233,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-comms" href="http://toike.skule.ca">Website</a>
  
 > <b class="vp-academic-text">UTEK Director</b>
-> *Vacant* <small class="vp-academic-text">Overseen by VP Academic</small>
+> Jason Zhou <small class="vp-academic-text">Overseen by VP Academic</small>
 > 
 > The UTEK Director organizes the University of Toronto Engineering Kompetition, a competition where students can develop their engineering skills, network with professional engineers, and qualify for the Ontario Engineering Competition. They coordinate with alumni and external companies and work with their team to develop a series of events throughout the year. 
 >
@@ -241,7 +241,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-academic" href="http://utek.skule.ca">Website</a>
  
 > <b class="vp-comms-text">Webmaster</b>
-> *Vacant* <small class="vp-comms-text">Overseen by VP Communications</small>
+> Tait Berlette <small class="vp-comms-text">Overseen by VP Communications</small>
 > 
 > The Webmaster maintains the frontend web services that EngSoc provides, from this site to courses.skule.ca. They often help clubs set up Skule™ websites, and they coordinate with the Computer Systems Administrator to resolve problems which interfere with access to online services or resources. 
 >
