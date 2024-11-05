@@ -14,8 +14,8 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |Vice-President Communiciations|[Jennifer Wu](mailto:vpcomm@skule.ca)|
 |Vice-President Academic|[Katherine Jia](mailto:vpacademic@skule.ca)|
 |Vice-President Student Life|[Sean Huang](mailto:vpstudentlife@skule.ca)|
-|Speaker|Kenneth Lloyd Hilton|
-|Business Manager|Rhonda Meek|
+|Speaker|[Kenneth Lloyd Hilton](mailto:speaker@g.skule.ca)|
+|Business Manager|[Rhonda Meek](mailto:rhonda@g.skule.ca)|
 
 ## Board of Directors
 
