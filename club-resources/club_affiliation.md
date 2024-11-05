@@ -15,19 +15,19 @@ You can find a more detailed guide regarding affiliation and club budgeting and 
     
 If your club is not affiliated with EngSoc, you can for trial status affiliation with this form. The trial status affiliation will provide your club with all the same benefits as other affiliated clubs, except you will be subject to a lower maximum amount of funding. 
 
-<a class="button is-primary" href="https://forms.gle/MVCQySGBLPGWnU8m9">Apply here</a> 
+<a class="button is-primary" href="https://docs.google.com/forms/d/1qvBPybLDmtAqDj7-LjADgDDqOLvKc3C4wnHc149kn3E/edit">Apply here</a> 
 
 ## Trial-Status to Full-Status Affiliation Application
     
 If your club has held trial status affiliation for at least four months, you can apply for full status affiliation with this form. 
  
-<a class="button is-primary" href="https://forms.gle/D131RUmxwEsHoBXR8">Apply here</a> 
+<a class="button is-primary" href="https://docs.google.com/forms/d/1hykuJEMlRukYn01Mkfwe-ecckqXpYJHpvGZzXMXA2XY/edit?usp=drive_web">Apply here</a> 
 
 ## Full-Status Re-affiliation Application
 
 If your club has held full status affiliation previously, you can apply for full status affiliation with this form. 
 
-<a class="button is-primary" href="https://forms.gle/BjnoMtUZjro8eDMp6">Apply here</a> 
+<a class="button is-primary" href="https://docs.google.com/forms/d/1ddoqdv6sIuZP5_XE1hWSqOQcTTPxuLhK4qQ25CDy-fE/viewform?edit_requested=true">Apply here</a> 
 
 ## UTSU Affiliation
 
