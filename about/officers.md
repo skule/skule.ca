@@ -33,6 +33,10 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 
 ## Speaker
 > Kenneth Lloyd Hilton
+> 
+> <a class="button is-small speaker" href="mailto:speaker@g.skule.ca">Email</a>
 
 ## Business Manager
 > Rhonda Meek
+> 
+> <a class="button is-small business-manager" href="mailto:rhonda@g.skule.ca">Email</a>
