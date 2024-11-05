@@ -21,13 +21,13 @@ If you are interested in the PSC or have any suggestions on how we can improve o
 
 | Name            | Position              |
 |-----------------|-----------------------|
-| Parker Johnston | President & PSC Chair |
-| Renee Slen      | VP Communications     |
-| Erika Narimatsu | Speaker               |
-| Katherine Jia   | CRO                   |
-| Tobin Zheng     | Board Representative  |
-| Awale Omar      | At-large Member       |
-| Inho Kim        | At-large Member       |
-
+| Milena Gega | PSC Chair/At-Large Member |
+| Inho Kim | President |
+| Jennifer Wu | VP Communications |
+| Ken Hilton | Speaker |
+| Lavneet Singh | CRO |
+| Ethan Mao | Board Representative |
+| Jim Xu | Board Representative |
+| Dhara Patel | At-Large Member |
 
 If you have any questions about the PSC, please email [pscchair@skule.ca](mailto:pscchair@skule.ca).
