@@ -163,14 +163,14 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small speakerpersono" href="mailto:ombudsperson@skule.ca">Email</a> 
 > <a class="button is-small speakerpersono" href="http://skule.ca/elections">Elections Info</a>
  
-<!-- > <b class="president-text">Orientation Chair</b>
+> <b class="president-text">Orientation Chair</b>
 > Lily VanderWoude and Vedant Gupta <small class="president-text">Overseen by the President </small>
 > 
 > The Orientation Chair organizes F!rosh Week, Skule™ orientation for incoming students. They build an Orientation Committee of Vice-Chairs and appoint Subcommittee Chairs and Head Leedurs to provide a fun week introduction to incoming students. 
 >
 > <a class="button is-small president" href="mailto:orientation@skule.ca">Email</a> 
 > <a class="button is-small president" href="http://orientation.skule.ca">F!rosh Week Website</a> 
-> <a class="button is-small president" href="http://leedurs.skule.ca">Leedur Website</a> -->
+> <a class="button is-small president" href="http://leedurs.skule.ca">Leedur Website</a>
  
 <!-- > <b class="president-text">Skule™150 Director</b>
 > Richard Naso <small class="president-text">Overseen by the President </small>
