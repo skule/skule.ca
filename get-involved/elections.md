@@ -27,6 +27,7 @@ For more information about the election process, refer to [Bylaw 3](/about/gover
 > <a class="button is-small speakpersono" href="mailto:cro@skule.ca">Email</a>
 
 > <b class="speakerpersono">Deputy Returning Officers</b>
+> 
 > As part of the Office of Returning Officers (ORO), the DRO collaborates with the CRO to ensure the entire elections process remains transparent, fair, and trustworthy for all candidates and voters. 
 >  
 > > <b class="speakerpersono">Abisha Kugathasan</b>
