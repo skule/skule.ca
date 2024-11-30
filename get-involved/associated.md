@@ -35,7 +35,7 @@ These organization and positions are non-EngSoc organizations that are closely t
 > <small class="vp-student-life-text">Works with VP Student Life</small></p> 
 > 
 > <a class="button is-small vp-student-life" href="mailto:blueandgold@skule.ca">Email</a> 
-> <a class="button is-small vp-student-life" href="http://blueandgold.skuleca">Website</a>
+> <a class="button is-small vp-student-life" href="http://blueandgold.skule.ca">Website</a>
 
 > ## Skule Nite
 > <p><b class="vp-student-life-text">Skule Nite Director</b> Thomas Dell
