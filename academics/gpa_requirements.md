@@ -150,7 +150,7 @@ The following are grade thresholds for all non-first year engineering students.
     <tr>
         <td id="PURPLE_COL"><b> Repeating a Semester </b></td>
         <td colspan="2"> You will be refused further registration. You are not eligible for re-admission </td>
-        <td colspan="2"> Proceed to the next cemester on repeat probation </td>
+        <td colspan="2"> Proceed to the next semester on repeat probation </td>
     </tr>
 </table>
 
