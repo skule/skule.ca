@@ -64,7 +64,8 @@ The following are grade thresholds for first-year students.
             <br> <em> OR </em> <br>
             ii. Withdraw from the Faculty with the right to return to a subsequent fall semester in a non-EngSci program with space. </td>
         <td> You are NOT placed on probation, you may either:
-            i. Proceed to the next session in Engineering Science. <br>
+            i. Proceed to the next session in Engineering Science.
+            <br> <em> OR </em> <br>
             ii. Conditionally transfer to another Engineering program of choice <a href="#footnote-3">[3]</a> 
             <br> <em> OR </em> <br>
             iii. Transfer to another Engineering program with space </td>
