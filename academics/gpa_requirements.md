@@ -63,10 +63,11 @@ The following are grade thresholds for first-year students.
             i.  Enroll in the T-Program and retake courses with marks less than 60%.
             <br> <em> OR </em> <br>
             ii. Withdraw from the Faculty with the right to return to a subsequent fall semester in a non-EngSci program with space. </td>
-        <td> You are NOT placed on probation, you may proceed to the next session in Engineering Science program or: <br>
-            i. Conditionally transfer to another Engineering program of choice <a href="#footnote-3">[3]</a> 
+        <td> You are NOT placed on probation, you may either:
+            i. Proceed to the next session in Engineering Science. <br>
+            ii. Conditionally transfer to another Engineering program of choice <a href="#footnote-3">[3]</a> 
             <br> <em> OR </em> <br>
-            ii. Transfer to another Engineering program with space </td>
+            iii. Transfer to another Engineering program with space </td>
         <td> Doing good 🙂 You have a clear academic record </td>
         <td> You made the dean’s honours list 🙂 </td>
     </tr>
