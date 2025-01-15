@@ -33,7 +33,7 @@ The policies are a set of best practices for EngSoc. Engineering Society policie
 
 - [Confidentiality Agreement - Information Sharing](/about/governing-documents/Confidentiality-Agreement-Information-Sharing.pdf)
 - [Standing Rules of Order](https://drive.google.com/file/d/1sM2DObFYXUmyGS7qEKLNuRu_yQl_ilMg/view?usp=sharing)
-- [UTSU x EngSoc Associate Membership Agreement](/about/governing-documents/UTSU-EngSoc_Contract.pdf)
+- [UTSU x EngSoc Associate Membership Agreement](https://drive.google.com/file/d/1D1puA1wLxvmKRVXHNhw_q293G_fgd7bX/view)
 - [Beginners' Guide to BoD Procedures](/about/governing-documents/Beginners-Guide-to-BoD-Procedures.pdf)
 - [Statement on Anti-Black Racism](https://drive.google.com/file/d/1UyNK9rd4yGtMXKcmKDaPTX40C9ZP_wnT/preview)
 
