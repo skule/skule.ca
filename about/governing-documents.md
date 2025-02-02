@@ -21,7 +21,7 @@ The policies are a set of best practices for EngSoc. Engineering Society policie
 - [Branding](https://drive.google.com/file/d/0B89eE6k71A1lV2lYUldBcWhUUDg)
 - [Complaints](https://github.com/skule/bylaws/blob/master/policies/Policy-on-Complaints.pdf)
 - [Finances](/about/governing-documents/Policy-Finances.pdf)
-- [Levy Groups](https://drive.google.com/file/d/1h9RiVSQF4GSwvYrRV6cqZ8V4njTNLB6e) 
+- [Levy Groups](https://drive.google.com/file/d/1J1VPsPSnyRHALoX6dEoIC1uGouhYpi0X/view) 
 - [Orientation Governance](https://github.com/skule/bylaws/blob/master/policies/Orientation%20Governance%20Policy.pdf)
 - [Suds Operations](/about/governing-documents/Policy-Suds-Operations.pdf)
 - [Publications](/about/governing-documents/Policy-on-Publications.pdf)
