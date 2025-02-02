@@ -17,7 +17,7 @@ A compiled list of some past projects financed by the SEF is available [here](ht
 
 <a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1roh-A0rojJgNjYK61mT4w-UMne5WTXp4"> Application Package </a> 
 <a class="button is-primary" href="https://drive.google.com/file/d/1IvK4zgGMR8ZL3cIJUK2VHWHKSl_mZDQu"> Terms of Reference </a> 
-<a class="button is-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdUJZRCMAJYkaggm6fWwp9AF_kf0wpAtUrmrgarDZcRopo06g/viewform?pli=1&pli=1"> Application Form </a> 
+<a class="button is-primary" href="https://forms.gle/wE6rAg7wcCubsNn87"> Application Form </a> 
 
 - Please download a copy of the application and Terms of Reference documents linked above. 
 - Read the Terms of Reference document for this funding round and ensure that your project fits within the scope. 
@@ -36,7 +36,11 @@ A compiled list of some past projects financed by the SEF is available [here](ht
 
 ### Spring 2025
 
-To be determined.
+ - February 2, 2025 – Call for proposals
+ - February 20, 2025 – Deadline for proposals
+ - Early March 2025 – Recommendation Delivered to Skule Endowment Fund Committee
+ - Mid March 2025 – Final Approval granted
+ - Late March 2025 – Funding Released
 
 ## Contact
 
