@@ -58,7 +58,7 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |First Year|Ethan Mao|
 |First Year|Arnav Agarwal|
 |First Year|Antoine Tabet|
-|First Year|Abdullah Rashid|
+|First Year|Abdullah Bin Rashid|
 |Second Year|Vishwas Puri|
 |Second Year|Aarnav Chordia|
 |Second Year|Adam Abreha|
