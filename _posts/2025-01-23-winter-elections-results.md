@@ -1,5 +1,5 @@
 ---
-title: "2024 Winter Elections - Election Results"
+title: "2025 Winter Elections - Election Results"
 author: CRO
 layout: post
 ---
