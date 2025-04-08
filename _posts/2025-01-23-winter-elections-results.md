@@ -4,9 +4,9 @@ author: CRO
 layout: post
 ---
 
-Hi all, <br>
+Hi all, <br><br>
 The Winter Elections election results can be found <a href="https://drive.google.com/file/d/1F9oNGbdP73vlL4l2vkXzJbPMKmeQdk3C/view?usp=sharing">here</a>  
-<br><br>
+<br>
 Best,<br>
 Lavneet Singh<br>
 CRO 2T4-2T5
