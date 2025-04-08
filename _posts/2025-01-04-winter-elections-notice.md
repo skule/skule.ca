@@ -4,7 +4,7 @@ author: CRO
 layout: post
 ---
 
-Hi all, <br>
+Hi all, <br><br>
 The Winter Elections election notice can be found <a href="https://drive.google.com/file/d/1ijemdjguwpX8OA7kKhsNFRbrayn-cx8d/view?usp=sharing">here</a>  
 <br><br>
 Best,<br>
