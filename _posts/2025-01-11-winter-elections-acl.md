@@ -1,5 +1,5 @@
 ---
-title: "2024 Winter Elections - ACL"
+title: "2025 Winter Elections - ACL"
 author: CRO
 layout: post
 ---
