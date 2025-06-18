@@ -1,1 +1,187 @@
-president: "Kenneth Lloyd Hilton"
+executive:
+  president: "Kenneth Lloyd Hilton"
+  vp_finance: "Kelvin Lo"
+  vp_communications: "Ethan Bhushan Mao"
+  vp_academic: "Ziquan (Jim) Xu"
+  vp_student_life: "Shosh Lebo"
+  speaker: "Lavneet Singh"
+  business_manager: "Rhonda Meek"
+
+bod_representatives:
+  at_large:
+    - "Binying (Edith) Fang"
+    - "Valentina Lin Fang"
+    - "Alyssa Tiw"
+    - "<em>Vacant</em>"
+  chemical: "Jennifer Zhifeng Xu"
+  civil: "Dana Bou Saab"
+  ece:
+    - "Justin Fang"
+    - "<em>Vacant</em>"
+  engsci: "Elias Barsa"
+  first_year:
+    - "Hankun Lin"
+    - "Jimmy Ji"
+    - "<em>Vacant</em>"
+  industrial: "Jaden Benjamin Hinds"
+  mse: "<em>Vacant</em>"
+  mechanical: "Sebastian Kiernan"
+  mineral: "<em>Vacant</em>"
+
+project_directors:
+  alumni_outreach: "Edith Fang"
+  archivist: "Alyssa Tiw"
+  environmental_sustainability: "Arshia Feizmohammady"
+  equity_inclusivity: "Alexis Kuri Garcia"
+  external_relations: "Azmi Rahim"
+  international_transition: "Nidhi Nair"
+  cannonball: "Dana Bou Saab"
+  eng_stores_managers:
+    - "Edlyn Li"
+    - "Kyle Nguyen"
+  hard_hat_cafe_managers:
+    - "Prionti Kaisar"
+    - "Zahra Ahmed"
+  gradball: "Sophia McGregor"
+  sponsorship: "Lesley Ha Tchong"
+  suds_managers:
+    - "Farbod Mohammadzadeh"
+    - "LC Rankin"
+  cannon_editor: "Christina Pizzonia"
+  systems_admin: "James Huynh"
+  frosh_editor: "Aeiou Generao"
+  social_media:
+    - "Melanie Ye"
+    - "Catherine Zhong"
+  toike_editor: "Sophia Hill"
+  webmaster: "Sunny Wu"
+  commuter_student: "Keting Trinh"
+  skulebook_editor: "Princess Akinola"
+  hi_skule: "Justin Fang"
+  mental_wellness: "<em>Vacant</em>"
+  utek: "Kaiser Tam"
+  community_outreach: "Yawen Zhang"
+  dta_director: "Michael Atkinson"
+  skule_kup: "Alexandre Klaus"
+  photography: "Victoria Zhou"
+  skule_patrol:
+    - "Eileen Walsh"
+    - "Rafael Perez"
+  ombudsperson: "William To"
+  chief_returning_officer: "Jennifer Wu"
+  athletics_president: "Meme Liu"
+  orientation_chair: "Simona Teche"
+  skule_nite:
+    director: "Skule Nite Director"
+    assistant_directors:
+      - "Skule Nite Co-Assistant Director"
+      - "Skule Nite Co-Assistant Director"
+    producer: "Skule Nite Producer"
+    assistant_producer: "Skule Nite Assistant Producer"
+  bnad_leedur: "Aidan Castanheiro"
+  yncn_presidents:
+    - "YNCN President"
+    - "YNCN President"
+
+discipline_club_chairs:
+  chemical: "Freddie Perera"
+  civil: "Zaina Nofal"
+  ece:
+    - "Harmit Goswami"
+    - "Ava Jakob"
+  engsci:
+    - "Nour Barsoum"
+    - "Novera Ahmed"
+  industrial: "Industrial Discipline Club Chair"
+  mse: "Renee Slen"
+  mechanical: "Mechanical Discipline Club Chair"
+  mineral: "Iyesha Rupasinha Arachchige"
+  trackone: "Catherine Zhong"
+
+reps:
+  chemical:
+    first_year: "William Chen"
+    second_year: "Katy Mezei"
+    third_year: "Chem Engineering Third-Year Representative"
+    pey: "Miko Samson"
+    fourth_year: "William Vandenburg"
+  civil:
+    first_year: "Natalie El Taki"
+    second_year: "Elizabeth Menjivar"
+    third_year: "Civil Engineering Third-Year Representative"
+    pey:
+      - "Dana Bou Saab"
+      - "Civil Engineering PEY Representative"
+    fourth_year: "Civil Engineering Fourth-Year Representative"
+  ece:
+    first_year:
+      - "Ethan Mao"
+      - "Arnav Agarwal"
+      - "Antoine Tabet"
+      - "Abdullah Bin Rashid"
+    second_year:
+      - "Vishwas Puri"
+      - "Aarnav Chordia"
+      - "Adam Abreha"
+      - "Gianella Bejar Alvarez"
+    third_year:
+      - "Vishwas Puri"
+      - "Gia Bejar"
+      - "ECE Third-Year Representative"
+      - "ECE Third-Year Representative"
+    pey:
+      - "ECE PEY Representative"
+      - "ECE PEY Representative"
+    fourth_year:
+      - "Nidhi Nair"
+      - "ECE Fourth-Year Representative"
+      - "ECE Fourth-Year Representative"
+      - "ECE Fourth-Year Representative"
+  engsci:
+    first_year:
+      - "Andy Wen"
+      - "Eric Xie"
+    second_year:
+      - "Oliver Lagerquist"
+      - "Evelyn Fallah"
+    third_year: "Evelyn Fallah"
+    pey: "Engineering Science PEY Representative"
+    fourth_year: "EngSci Fourth-Year Representative"
+  industrial:
+    first_year:
+      - "Ivan Zhuo"
+      - "Yann Naman"
+    second_year: "Renzo Ugarte Basurco"
+    third_year: "Renzo Ugarte"
+    pey: "Sunny Yang"
+    fourth_year: "Hayden Groer"
+  mse:
+    first_year: "Cathy Pang"
+    second_year: "Izwa Sahdi"
+    third_year: "Alexis Kuri"
+    pey: "MSE PEY Representative"
+    fourth_year: "Kasia Murawska"
+  mechanical:
+    first_year:
+      - "Tulgar Ilhan"
+      - "Francesca Huang"
+    second_year:
+      - "Rik Chatterjee"
+      - "Sebastian Kiernan"
+    third_year:
+      - "Sebastian Kiernan"
+      - "Mech Engineering Third-Year Representative"
+    pey:
+      - "Mechanical Engineering PEY Representative"
+      - "Mechanical Engineering PEY Representative"
+    fourth_year:
+      - "Matthew Du"
+      - "Mech Engineering Fourth-Year Representative"
+  mineral:
+    first_year: "Ahnaf Hawlader"
+    second_year: "Zach Zhang"
+    third_year: "Mineral Engineering Third-Year Representative"
+    pey: "Mineral Engineering PEY Representative"
+    fourth_year: "Min Engineering Fourth-Year Representative"
+  trackone:
+    first_year: "Sunny Liu"
