@@ -40,17 +40,20 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 ## Class Representatives
 
-|Position|Representative|
-|-|-|
-{% assign disciplines = site.data.council.reps %}
+| Position | Representative |
+| -------- | -------------- |
 
-{% for discipline_name in disciplines %}
-| **{{ discipline_name[0] | upcase }}** || 
-{% assign years = discipline_name[1] %}
+{% for discipline in site.data.council.reps %}
+**{{ discipline[0] | upcase }}**  
+{% assign years = discipline[1] %}
   {% for year in years %}
     {% assign year_label = year[0] | replace: "_", " " | capitalize %}
     {% assign people = year[1] %}
-    {% if people contains "," or people contains "[" %}
+    
+    {% if people == nil %}
+      {# no reps here #}
+    {% elsif people.size > 1 and people[0] %}
+      {% comment %} people is an array {% endcomment %}
       {% for person in people %}
 | {{ year_label }} | {{ person | markdownify | strip }} |
       {% endfor %}
@@ -59,3 +62,4 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
     {% endif %}
   {% endfor %}
 {% endfor %}
+
