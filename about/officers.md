@@ -7,32 +7,32 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 
 
 ## President 
-> Inho Kim
+> Kenneth Lloyd Hilton
 >
 > <a class="button is-small president" href="mailto:president@skule.ca">Email</a> 
 
 ## Vice-President Finance
-> Zayneb Hussain
+> Kelvin Lo
 > 
 > <a class="button is-small vp-finance" href="mailto:vpfinance@skule.ca">Email</a>
 
 ## Vice-President Communications
-> Jennifer Wu
+> Ethan Bhushan Mao
 > 
 > <a class="button is-small vp-comms" href="mailto:vpcomm@skule.ca">Email</a>
 
 ## Vice-President Academic
-> Katherine Jia
+> Ziquan (Jim) Xu
 > 
 > <a class="button is-small vp-academic" href="mailto:vpacademic@skule.ca">Email</a>
 
 ## Vice-President Student Life
-> Sean Huang 
+> Shosh Lebo
 > 
 > <a class="button is-small vp-student-life" href="mailto:vpstudentlife@skule.ca">Email</a>
 
 ## Speaker
-> Kenneth Lloyd Hilton
+> Lavneet Singh
 > 
 > <a class="button is-small speaker" href="mailto:speaker@g.skule.ca">Email</a>
 
