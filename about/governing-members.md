@@ -40,26 +40,76 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 ## Class Representatives
 
-| Position | Representative |
-| -------- | -------------- |
-
-{% for discipline in site.data.council.reps %}
-**{{ discipline[0] | upcase }}**  
-{% assign years = discipline[1] %}
-  {% for year in years %}
-    {% assign year_label = year[0] | replace: "_", " " | capitalize %}
-    {% assign people = year[1] %}
-    
-    {% if people == nil %}
-      {# no reps here #}
-    {% elsif people.size > 1 and people[0] %}
-      {% comment %} people is an array {% endcomment %}
-      {% for person in people %}
-| {{ year_label }} | {{ person | markdownify | strip }} |
-      {% endfor %}
-    {% else %}
-| {{ year_label }} | {{ people | markdownify | strip }} |
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
+|Position|Representative|
+|-|-|
+|**Chemical**||
+|First Year|William Chen|
+|Second Year|Katy Mezei|
+|Third Year|*Vacant*|
+|PEY|Miko Samson|
+|Fourth Year|William Vandenburg|
+|**Civil**||
+|First Year|Natalie El Taki|
+|Second Year|Elizabeth Menjivar|
+|Third Year|*Vacant*|
+|PEY|Dana Bou Saab|
+|Fourth Year|*Vacant*|
+|**ECE**||
+|First Year|Ethan Mao|
+|First Year|Arnav Agarwal|
+|First Year|Antoine Tabet|
+|First Year|Abdullah Bin Rashid|
+|Second Year|Vishwas Puri|
+|Second Year|Aarnav Chordia|
+|Second Year|Adam Abreha|
+|Second Year|*Vacant*|
+|Third Year|Samar Qureshi|
+|Third Year|Joe Dai|
+|Third Year|Gaurika Mahajan|
+|Third Year|*Vacant*|
+|PEY|Ken Hilton|
+|PEY|*Vacant*|
+|Fourth Year|Sam Chowdhury|
+|Fourth Year|Lalith Vaishnav Elangovan|
+|Fourth Year|Narender Kheder|
+|Fourth Year|Tudor Sigmund|
+|**EngSci**||
+|First Year|Andy Wen|
+|First Year|Eric Xie|
+|Second Year|Oliver Lagerquist|
+|Second Year|Evelyn Fallah|
+|Third Year|Andy Gong|
+|PEY|*Vacant*|
+|Fourth Year|*Vacant*|
+|**Industrial**||
+|First Year|Ivan Zhou|
+|First Year|Yann Naman|
+|Second Year|Renzo Ugarte Basurco|
+|Third Year|Sherry Zhang|
+|PEY|Hayden Groer|
+|Fourth Year|Anmol Mahajan|
+|**MSE**||
+|First Year|Cathy Pang|
+|Second Year|Izwa Sahdi|
+|Third Year|Jasnoor Hazooria|
+|PEY|Kyla Tan|
+|Fourth Year|CJ Conlin|
+|**Mechanical**||
+|First Year|Tulgar Ilhan|
+|First Year|*Vacant*|
+|Second Year|Rik Chatterjee|
+|Second Year|Sebastian Kiernan|
+|Third Year|Aidan Principe|
+|Third Year|Rachel Pittman|
+|PEY|Ashlyn Abdelmaseeh|
+|PEY|Celin Begeshev|
+|Fourth Year|*Vacant*|
+|Fourth Year|*Vacant*|
+|**Mineral**||
+|First Year|Ahnaf Hawlader|
+|Second Year|Zach Zhang|
+|Third Year|*Vacant*|
+|PEY|*Vacant*|
+|Fourth Year|Raymond Bhushan|
+|**Track One**||
+|First Year|Sunny Liu|
