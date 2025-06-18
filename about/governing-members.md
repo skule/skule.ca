@@ -9,7 +9,7 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 |Position|Officer|
 |-|-|
-|President|[Inho Kim](mailto:president@skule.ca)|
+|President|[Kenneth Lloyd Hilton](mailto:president@skule.ca)|
 |Vice-President Finance|[Zayneb Hussain](mailto:vpfinance@skule.ca)|
 |Vice-President Communiciations|[Jennifer Wu](mailto:vpcomm@skule.ca)|
 |Vice-President Academic|[Katherine Jia](mailto:vpacademic@skule.ca)|
