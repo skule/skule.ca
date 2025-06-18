@@ -10,33 +10,33 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |Position|Officer|
 |-|-|
 |President|[Kenneth Lloyd Hilton](mailto:president@skule.ca)|
-|Vice-President Finance|[Zayneb Hussain](mailto:vpfinance@skule.ca)|
-|Vice-President Communiciations|[Jennifer Wu](mailto:vpcomm@skule.ca)|
-|Vice-President Academic|[Katherine Jia](mailto:vpacademic@skule.ca)|
-|Vice-President Student Life|[Sean Huang](mailto:vpstudentlife@skule.ca)|
-|Speaker|[Kenneth Lloyd Hilton](mailto:speaker@g.skule.ca)|
+|Vice-President Finance|[Kelvin Lo](mailto:vpfinance@skule.ca)|
+|Vice-President Communiciations|[Ethan Bhushan Mao](mailto:vpcomm@skule.ca)|
+|Vice-President Academic|[Ziquan (Jim) Xu](mailto:vpacademic@skule.ca)|
+|Vice-President Student Life|[Shosh Lebo](mailto:vpstudentlife@skule.ca)|
+|Speaker|[Lavneet Singh](mailto:speaker@g.skule.ca)|
 |Business Manager|[Rhonda Meek](mailto:rhonda@g.skule.ca)|
 
 ## Board of Directors
 
 |Position|Representative|
 |-|-|
-|At-Large Representative|Rebecca Ing|
-|At-Large Representative, T1 Chair|Jim Xu|
-|At-Large Representative|Shosh Lebo|
+|At-Large Representative|Binying (Edith) Fang|
 |At-Large Representative|Valentina Lin Fang|
-|Chemical Engineering Representative|Yuhan Zhang|
-|Civil Engineering Representative|Michelle DeLoyde|
-|Electrical and Computer Engineering Representative|Ege Feyzioglu|
-|Electrical and Computer Engineering Representative|Emilie Côté|
-|Engineering Science Representative|Edith Fang|
-|Industrial Engineering Representative|Kelvin Lo|
-|Mechanical Engineering Representative|Ashlyn Abdelmaseeh|
+|At-Large Representative|Alyssa Tiw|
+|At-Large Representative|*Vacant*|
+|Chemical Engineering Representative|Jennifer Zhifeng Xu|
+|Civil Engineering Representative|Dana Bou Saab|
+|Electrical and Computer Engineering Representative|Justin Fang|
+|Electrical and Computer Engineering Representative|*Vacant*|
+|Engineering Science Representative|Elias Barsa|
+|Industrial Engineering Representative|Jaden Benjamin Hinds|
+|Mechanical Engineering Representative|Sebastian Kiernan|
 |Materials Science and Engineering Representative|*Vacant*|
 |Mineral Engineering Representative|*Vacant*|
-|First Year Representative|Ethan Mao|
 |First Year Representative|Hankun Lin|
 |First Year Representative|Jimmy Ji|
+|First Year Representative|*Vacant*|
 
 ## Class Representatives
 
@@ -45,14 +45,14 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |**Chemical**||
 |First Year|William Chen|
 |Second Year|Katy Mezei|
-|Third Year|Miko Samson|
-|PEY|Amogh Manivannan|
-|Fourth Year|Isabella Petrocelli|
+|Third Year|*Vacant*|
+|PEY|Miko Samson|
+|Fourth Year|William Vandenburg|
 |**Civil**||
 |First Year|Natalie El Taki|
 |Second Year|Elizabeth Menjivar|
-|Third Year|Dana Bou Saab|
-|PEY|Sophie Costantino|
+|Third Year|*Vacant*|
+|PEY|Dana Bou Saab|
 |Fourth Year|*Vacant*|
 |**ECE**||
 |First Year|Ethan Mao|
