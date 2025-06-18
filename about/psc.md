@@ -22,7 +22,7 @@ If you are interested in the PSC or have any suggestions on how we can improve o
 | Name            | Position              |
 |-----------------|-----------------------|
 | Milena Gega | PSC Chair/At-Large Member |
-| Inho Kim | President |
+| {{ site.data.council.president }} | President |
 | Jennifer Wu | VP Communications |
 | Ken Hilton | Speaker |
 | Lavneet Singh | CRO |
