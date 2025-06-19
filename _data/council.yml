@@ -4,7 +4,7 @@ executive:
   vp_communications: "Ethan Bhushan Mao"
   vp_academic: "Ziquan (Jim) Xu"
   vp_student_life: "Shosh Lebo"
-  speaker: "Lavneet Singh"
+  speaker: "Lavneet Sidhu"
   business_manager: "Rhonda Meek"
 
 bod_representatives:
@@ -82,6 +82,17 @@ project_directors:
   yncn_presidents:
     - "YNCN President"
     - "YNCN President"
+
+psc:
+  chair: "Milena Gega"
+  at_large_1: "Dhara Patel"
+  president: "{{ site.data.council.executive.president }}"
+  vp_communications: "{{ site.data.council.executive.vp_communications }}"
+  speaker: "{{ site.data.council.executive.speaker }}"
+  cro: "Lavneet Sidhu"
+  board_reps:
+    - "Ethan Mao"
+    - "Jim Xu"
 
 discipline_club_chairs:
   chemical: "Freddie Perera"
