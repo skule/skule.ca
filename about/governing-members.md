@@ -21,22 +21,21 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 |Position|Representative|
 |-|-|
-{% for rep in site.data.council.bod_representatives.at_large %}
-|At-Large Representative|{{ rep }}|
+{% for rep in site.data.council.bod_representatives.at_large %}|At-Large Representative|{{ rep }}|
 {% endfor %}
 |Chemical Engineering Representative|{{ site.data.council.bod_representatives.chemical }}|
 |Civil Engineering Representative|{{ site.data.council.bod_representatives.civil }}|
-{% for rep in site.data.council.bod_representatives.ece %}
-|Electrical and Computer Engineering Representative|{{ rep }}|
+{% for rep in site.data.council.bod_representatives.ece %}|Electrical and Computer Engineering Representative|{{ rep }}|
 {% endfor %}
 |Engineering Science Representative|{{ site.data.council.bod_representatives.engsci }}|
 |Industrial Engineering Representative|{{ site.data.council.bod_representatives.industrial }}|
 |Mechanical Engineering Representative|{{ site.data.council.bod_representatives.mechanical }}|
 |Materials Science and Engineering Representative|{{ site.data.council.bod_representatives.mse }}|
 |Mineral Engineering Representative|{{ site.data.council.bod_representatives.mineral }}|
-{% for rep in site.data.council.bod_representatives.first_year %}
-|First Year Representative|{{ rep }}|
+{% for rep in site.data.council.bod_representatives.first_year %}|First Year Representative|{{ rep }}|
 {% endfor %}
+
+
 
 ## Class Representatives
 
