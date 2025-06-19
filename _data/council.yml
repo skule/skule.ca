@@ -113,17 +113,17 @@ reps:
   chemical:
     first_year: "William Chen"
     second_year: "Katy Mezei"
-    third_year: "Chem Engineering Third-Year Representative"
+    third_year: "<em>Vacant</em>"
     pey: "Miko Samson"
     fourth_year: "William Vandenburg"
   civil:
     first_year: "Natalie El Taki"
     second_year: "Elizabeth Menjivar"
-    third_year: "Civil Engineering Third-Year Representative"
+    third_year: "<em>Vacant</em>"
     pey:
       - "Dana Bou Saab"
-      - "Civil Engineering PEY Representative"
-    fourth_year: "Civil Engineering Fourth-Year Representative"
+      - "<em>Vacant</em>"
+    fourth_year: "<em>Vacant</em>"
   ece:
     first_year:
       - "Ethan Mao"
