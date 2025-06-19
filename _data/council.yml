@@ -1,4 +1,4 @@
-executive:
+officer:
   president: "Kenneth Lloyd Hilton"
   vp_finance: "<em>Vacant</em>"
   vp_communications: "Ethan Bhushan Mao"
@@ -72,16 +72,16 @@ project_directors:
   athletics_president: "Meme Liu"
   orientation_chair: "Simona Teche"
   skule_nite:
-    director: "Skule Nite Director"
+    director: "<em>Vacant</em>"
     assistant_directors:
-      - "Skule Nite Co-Assistant Director"
-      - "Skule Nite Co-Assistant Director"
-    producer: "Skule Nite Producer"
-    assistant_producer: "Skule Nite Assistant Producer"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+    producer: "<em>Vacant</em>"
+    assistant_producer: "<em>Vacant</em>"
   bnad_leedur: "Aidan Castanheiro"
   yncn_presidents:
-    - "YNCN President"
-    - "YNCN President"
+    - "<em>Vacant</em>"
+    - "<em>Vacant</em>"
 
 psc:
   chair: "Milena Gega"
@@ -103,9 +103,9 @@ discipline_club_chairs:
   engsci:
     - "Nour Barsoum"
     - "Novera Ahmed"
-  industrial: "Industrial Discipline Club Chair"
+  industrial: "<em>Vacant</em>"
   mse: "Renee Slen"
-  mechanical: "Mechanical Discipline Club Chair"
+  mechanical: "<em>Vacant</em>"
   mineral: "Iyesha Rupasinha Arachchige"
   trackone: "Catherine Zhong"
 
@@ -138,16 +138,16 @@ reps:
     third_year:
       - "Vishwas Puri"
       - "Gia Bejar"
-      - "ECE Third-Year Representative"
-      - "ECE Third-Year Representative"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
     pey:
-      - "ECE PEY Representative"
-      - "ECE PEY Representative"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
     fourth_year:
       - "Nidhi Nair"
-      - "ECE Fourth-Year Representative"
-      - "ECE Fourth-Year Representative"
-      - "ECE Fourth-Year Representative"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
   engsci:
     first_year:
       - "Andy Wen"
@@ -156,8 +156,8 @@ reps:
       - "Oliver Lagerquist"
       - "Evelyn Fallah"
     third_year: "Evelyn Fallah"
-    pey: "Engineering Science PEY Representative"
-    fourth_year: "EngSci Fourth-Year Representative"
+    pey: "<em>Vacant</em>"
+    fourth_year: "<em>Vacant</em>"
   industrial:
     first_year:
       - "Ivan Zhuo"
@@ -170,7 +170,7 @@ reps:
     first_year: "Cathy Pang"
     second_year: "Izwa Sahdi"
     third_year: "Alexis Kuri"
-    pey: "MSE PEY Representative"
+    pey: "<em>Vacant</em>"
     fourth_year: "Kasia Murawska"
   mechanical:
     first_year:
@@ -181,18 +181,18 @@ reps:
       - "Sebastian Kiernan"
     third_year:
       - "Sebastian Kiernan"
-      - "Mech Engineering Third-Year Representative"
+      - "<em>Vacant</em>"
     pey:
-      - "Mechanical Engineering PEY Representative"
-      - "Mechanical Engineering PEY Representative"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
     fourth_year:
       - "Matthew Du"
-      - "Mech Engineering Fourth-Year Representative"
+      - "<em>Vacant</em>"
   mineral:
     first_year: "Ahnaf Hawlader"
     second_year: "Zach Zhang"
-    third_year: "Mineral Engineering Third-Year Representative"
-    pey: "Mineral Engineering PEY Representative"
-    fourth_year: "Min Engineering Fourth-Year Representative"
+    third_year: "<em>Vacant</em>"
+    pey: "<em>Vacant</em>"
+    fourth_year: "<em>Vacant</em>"
   trackone:
     first_year: "Sunny Liu"
