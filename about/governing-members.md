@@ -9,107 +9,91 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 |Position|Officer|
 |-|-|
-|President|[Inho Kim](mailto:president@skule.ca)|
-|Vice-President Finance|[Zayneb Hussain](mailto:vpfinance@skule.ca)|
-|Vice-President Communiciations|[Jennifer Wu](mailto:vpcomm@skule.ca)|
-|Vice-President Academic|[Katherine Jia](mailto:vpacademic@skule.ca)|
-|Vice-President Student Life|[Sean Huang](mailto:vpstudentlife@skule.ca)|
-|Speaker|[Kenneth Lloyd Hilton](mailto:speaker@g.skule.ca)|
-|Business Manager|[Rhonda Meek](mailto:rhonda@g.skule.ca)|
+|President|[{{ site.data.council.officer.president }}](mailto:president@skule.ca)|
+|Vice-President Finance|[{{ site.data.council.officer.vp_finance }}](mailto:vpfinance@skule.ca)|
+|Vice-President Communications|[{{ site.data.council.officer.vp_communications }}](mailto:vpcomm@skule.ca)|
+|Vice-President Academic|[{{ site.data.council.officer.vp_academic }}](mailto:vpacademic@skule.ca)|
+|Vice-President Student Life|[{{ site.data.council.officer.vp_student_life }}](mailto:vpstudentlife@skule.ca)|
+|Speaker|[{{ site.data.council.officer.speaker }}](mailto:speaker@g.skule.ca)|
+|Business Manager|[{{ site.data.council.officer.business_manager }}](mailto:rhonda@g.skule.ca)|
 
 ## Board of Directors
 
 |Position|Representative|
 |-|-|
-|At-Large Representative|Rebecca Ing|
-|At-Large Representative, T1 Chair|Jim Xu|
-|At-Large Representative|Shosh Lebo|
-|At-Large Representative|Valentina Lin Fang|
-|Chemical Engineering Representative|Yuhan Zhang|
-|Civil Engineering Representative|Michelle DeLoyde|
-|Electrical and Computer Engineering Representative|Ege Feyzioglu|
-|Electrical and Computer Engineering Representative|Emilie Côté|
-|Engineering Science Representative|Edith Fang|
-|Industrial Engineering Representative|Kelvin Lo|
-|Mechanical Engineering Representative|Ashlyn Abdelmaseeh|
-|Materials Science and Engineering Representative|*Vacant*|
-|Mineral Engineering Representative|*Vacant*|
-|First Year Representative|Ethan Mao|
-|First Year Representative|Hankun Lin|
-|First Year Representative|Jimmy Ji|
+{% for rep in site.data.council.bod_representatives.at_large %}|At-Large Representative|{{ rep }}|
+{% endfor %}|Chemical Engineering Representative|{{ site.data.council.bod_representatives.chemical }}|
+|Civil Engineering Representative|{{ site.data.council.bod_representatives.civil }}|
+{% for rep in site.data.council.bod_representatives.ece %}|Electrical and Computer Engineering Representative|{{ rep }}|
+{% endfor %}|Engineering Science Representative|{{ site.data.council.bod_representatives.engsci }}|
+|Industrial Engineering Representative|{{ site.data.council.bod_representatives.industrial }}|
+|Mechanical Engineering Representative|{{ site.data.council.bod_representatives.mechanical }}|
+|Materials Science and Engineering Representative|{{ site.data.council.bod_representatives.mse }}|
+|Mineral Engineering Representative|{{ site.data.council.bod_representatives.mineral }}|
+{% for rep in site.data.council.bod_representatives.first_year %}|First Year Representative|{{ rep }}|
+{% endfor %}
 
 ## Class Representatives
 
 |Position|Representative|
 |-|-|
-|**Chemical**||
-|First Year|William Chen|
-|Second Year|Katy Mezei|
-|Third Year|Miko Samson|
-|PEY|Amogh Manivannan|
-|Fourth Year|Isabella Petrocelli|
-|**Civil**||
-|First Year|Natalie El Taki|
-|Second Year|Elizabeth Menjivar|
-|Third Year|Dana Bou Saab|
-|PEY|Sophie Costantino|
-|Fourth Year|*Vacant*|
-|**ECE**||
-|First Year|Ethan Mao|
-|First Year|Arnav Agarwal|
-|First Year|Antoine Tabet|
-|First Year|Abdullah Bin Rashid|
-|Second Year|Vishwas Puri|
-|Second Year|Aarnav Chordia|
-|Second Year|Adam Abreha|
-|Second Year|*Vacant*|
-|Third Year|Samar Qureshi|
-|Third Year|Joe Dai|
-|Third Year|Gaurika Mahajan|
-|Third Year|*Vacant*|
-|PEY|Ken Hilton|
-|PEY|*Vacant*|
-|Fourth Year|Sam Chowdhury|
-|Fourth Year|Lalith Vaishnav Elangovan|
-|Fourth Year|Narender Kheder|
-|Fourth Year|Tudor Sigmund|
-|**EngSci**||
-|First Year|Andy Wen|
-|First Year|Eric Xie|
-|Second Year|Oliver Lagerquist|
-|Second Year|Evelyn Fallah|
-|Third Year|Andy Gong|
-|PEY|*Vacant*|
-|Fourth Year|*Vacant*|
-|**Industrial**||
-|First Year|Ivan Zhou|
-|First Year|Yann Naman|
-|Second Year|Renzo Ugarte Basurco|
-|Third Year|Sherry Zhang|
-|PEY|Hayden Groer|
-|Fourth Year|Anmol Mahajan|
-|**MSE**||
-|First Year|Cathy Pang|
-|Second Year|Izwa Sahdi|
-|Third Year|Jasnoor Hazooria|
-|PEY|Kyla Tan|
-|Fourth Year|CJ Conlin|
-|**Mechanical**||
-|First Year|Tulgar Ilhan|
-|First Year|*Vacant*|
-|Second Year|Rik Chatterjee|
-|Second Year|Sebastian Kiernan|
-|Third Year|Aidan Principe|
-|Third Year|Rachel Pittman|
-|PEY|Ashlyn Abdelmaseeh|
-|PEY|Celin Begeshev|
-|Fourth Year|*Vacant*|
-|Fourth Year|*Vacant*|
-|**Mineral**||
-|First Year|Ahnaf Hawlader|
-|Second Year|Zach Zhang|
-|Third Year|*Vacant*|
-|PEY|*Vacant*|
-|Fourth Year|Raymond Bhushan|
-|**Track One**||
-|First Year|Sunny Liu|
+|**Chemical**| |
+|First Year|{{ site.data.council.reps.chemical.first_year }}|
+|Second Year|{{ site.data.council.reps.chemical.second_year }}|
+|Third Year|{{ site.data.council.reps.chemical.third_year }}|
+|PEY|{{ site.data.council.reps.chemical.pey }}|
+|Fourth Year|{{ site.data.council.reps.chemical.fourth_year }}|
+
+|**Civil**| |
+|First Year|{{ site.data.council.reps.civil.first_year }}|
+|Second Year|{{ site.data.council.reps.civil.second_year }}|
+|Third Year|{{ site.data.council.reps.civil.third_year }}|
+{% for rep in site.data.council.reps.civil.pey %}|PEY|{{ rep }}|
+{% endfor %}|Fourth Year|{{ site.data.council.reps.civil.fourth_year }}|
+
+|**ECE**| |
+{% for rep in site.data.council.reps.ece.first_year %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.ece.second_year %}|Second Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.ece.third_year %}|Third Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.ece.pey %}|PEY|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.ece.fourth_year %}|Fourth Year|{{ rep }}|
+{% endfor %}
+
+|**EngSci**| |
+{% for rep in site.data.council.reps.engsci.first_year %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.engsci.second_year %}|Second Year|{{ rep }}|
+{% endfor %}|Third Year|{{ site.data.council.reps.engsci.third_year }}|
+|PEY|{{ site.data.council.reps.engsci.pey }}|
+|Fourth Year|{{ site.data.council.reps.engsci.fourth_year }}|
+
+|**Industrial**| |
+{% for rep in site.data.council.reps.industrial.first_year %}|First Year|{{ rep }}|
+{% endfor %}|Second Year|{{ site.data.council.reps.industrial.second_year }}|
+|Third Year|{{ site.data.council.reps.industrial.third_year }}|
+|PEY|{{ site.data.council.reps.industrial.pey }}|
+|Fourth Year|{{ site.data.council.reps.industrial.fourth_year }}|
+
+|**MSE**| |
+|First Year|{{ site.data.council.reps.mse.first_year }}|
+|Second Year|{{ site.data.council.reps.mse.second_year }}|
+|Third Year|{{ site.data.council.reps.mse.third_year }}|
+|PEY|{{ site.data.council.reps.mse.pey }}|
+|Fourth Year|{{ site.data.council.reps.mse.fourth_year }}|
+
+|**Mechanical**| |
+{% for rep in site.data.council.reps.mechanical.first_year %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.mechanical.second_year %}|Second Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.mechanical.third_year %}|Third Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.mechanical.pey %}|PEY|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.mechanical.fourth_year %}|Fourth Year|{{ rep }}|
+{% endfor %}
+
+|**Mineral**| |
+|First Year|{{ site.data.council.reps.mineral.first_year }}|
+|Second Year|{{ site.data.council.reps.mineral.second_year }}|
+|Third Year|{{ site.data.council.reps.mineral.third_year }}|
+|PEY|{{ site.data.council.reps.mineral.pey }}|
+|Fourth Year|{{ site.data.council.reps.mineral.fourth_year }}|
+
+|**Track One**| |
+|First Year|{{ site.data.council.reps.trackone.first_year }}|
