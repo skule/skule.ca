@@ -19,15 +19,15 @@ Whenever potential changes to the Bylaws and Policies are introduced, they are f
 
 If you are interested in the PSC or have any suggestions on how we can improve our Bylaws and Policies, feel free to contact the [PSC Chair](mailto:pscchair@skule.ca) or drop into a PSC meeting! The PSC meetings are always open to the public. If you would like to join the PSC as a member, nominations typically open in May and will be communicated to all students via the EngSoc Newsletter or email. 
 
-| Name            | Position              |
-|-----------------|-----------------------|
-| Milena Gega | PSC Chair/At-Large Member |
-| {{ site.data.council.president }} | President |
-| Jennifer Wu | VP Communications |
-| Ken Hilton | Speaker |
-| Lavneet Singh | CRO |
-| Ethan Mao | Board Representative |
-| Jim Xu | Board Representative |
-| Dhara Patel | At-Large Member |
+| Name                            | Position                |
+|---------------------------------|-------------------------|
+| Milena Gega                     | PSC Chair/At-Large Member |
+| {{ site.data.council.executive.president }}  | President               |
+| {{ site.data.council.executive.vp_communications }} | VP Communications       |
+| {{ site.data.council.executive.speaker }} | Speaker                 |
+| {{ site.data.council.psc.cro }}             | CRO                     |
+| {{ site.data.council.psc.board_reps[0] }}   | Board Representative    |
+| {{ site.data.council.psc.board_reps[1] }}   | Board Representative    |
+| {{ site.data.council.psc.at_large_1 }}      | At-Large Member         |
 
 If you have any questions about the PSC, please email [pscchair@skule.ca](mailto:pscchair@skule.ca).
