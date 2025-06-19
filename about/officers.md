@@ -7,36 +7,36 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 
 
 ## President 
-> Kenneth Lloyd Hilton
+> {{ site.data.council.executive.president }}
 >
 > <a class="button is-small president" href="mailto:president@skule.ca">Email</a> 
 
 ## Vice-President Finance
-> Kelvin Lo
+> {{ site.data.council.executive.vp_finance }}
 > 
 > <a class="button is-small vp-finance" href="mailto:vpfinance@skule.ca">Email</a>
 
 ## Vice-President Communications
-> Ethan Bhushan Mao
+> {{ site.data.council.executive.vp_communications }}
 > 
 > <a class="button is-small vp-comms" href="mailto:vpcomm@skule.ca">Email</a>
 
 ## Vice-President Academic
-> Ziquan (Jim) Xu
+> {{ site.data.council.executive.vp_academic }}
 > 
 > <a class="button is-small vp-academic" href="mailto:vpacademic@skule.ca">Email</a>
 
 ## Vice-President Student Life
-> Shosh Lebo
+> {{ site.data.council.executive.vp_student_life }}
 > 
 > <a class="button is-small vp-student-life" href="mailto:vpstudentlife@skule.ca">Email</a>
 
 ## Speaker
-> Lavneet Singh
+> {{ site.data.council.executive.speaker }}
 > 
 > <a class="button is-small speaker" href="mailto:speaker@g.skule.ca">Email</a>
 
 ## Business Manager
-> Rhonda Meek
+> {{ site.data.council.executive.business_manager }}
 > 
 > <a class="button is-small business-manager" href="mailto:rhonda@g.skule.ca">Email</a>
