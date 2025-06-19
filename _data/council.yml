@@ -85,14 +85,14 @@ project_directors:
 
 psc:
   chair: "Milena Gega"
-  at_large_1: "Dhara Patel"
-  president: "{{ site.data.council.executive.president }}"
-  vp_communications: "{{ site.data.council.executive.vp_communications }}"
-  speaker: "{{ site.data.council.executive.speaker }}"
+  president: "Inho Kim"
+  vp_communications: "Jennifer Wu"
+  speaker: "Ken Hilton"
   cro: "Lavneet Sidhu"
   board_reps:
     - "Ethan Mao"
     - "Jim Xu"
+  at_large_1: "Dhara Patel"
 
 discipline_club_chairs:
   chemical: "Freddie Perera"
