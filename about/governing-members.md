@@ -22,20 +22,16 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |Position|Representative|
 |-|-|
 {% for rep in site.data.council.bod_representatives.at_large %}|At-Large Representative|{{ rep }}|
-{% endfor %}
-|Chemical Engineering Representative|{{ site.data.council.bod_representatives.chemical }}|
+{% endfor %}|Chemical Engineering Representative|{{ site.data.council.bod_representatives.chemical }}|
 |Civil Engineering Representative|{{ site.data.council.bod_representatives.civil }}|
 {% for rep in site.data.council.bod_representatives.ece %}|Electrical and Computer Engineering Representative|{{ rep }}|
-{% endfor %}
-|Engineering Science Representative|{{ site.data.council.bod_representatives.engsci }}|
+{% endfor %}|Engineering Science Representative|{{ site.data.council.bod_representatives.engsci }}|
 |Industrial Engineering Representative|{{ site.data.council.bod_representatives.industrial }}|
 |Mechanical Engineering Representative|{{ site.data.council.bod_representatives.mechanical }}|
 |Materials Science and Engineering Representative|{{ site.data.council.bod_representatives.mse }}|
 |Mineral Engineering Representative|{{ site.data.council.bod_representatives.mineral }}|
 {% for rep in site.data.council.bod_representatives.first_year %}|First Year Representative|{{ rep }}|
 {% endfor %}
-
-
 
 ## Class Representatives
 
@@ -52,44 +48,27 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |First Year|{{ site.data.council.reps.civil.first_year }}|
 |Second Year|{{ site.data.council.reps.civil.second_year }}|
 |Third Year|{{ site.data.council.reps.civil.third_year }}|
-{% for rep in site.data.council.reps.civil.pey %}
-|PEY|{{ rep }}|
-{% endfor %}
-|Fourth Year|{{ site.data.council.reps.civil.fourth_year }}|
+{% for rep in site.data.council.reps.civil.pey %}|PEY|{{ rep }}|
+{% endfor %}|Fourth Year|{{ site.data.council.reps.civil.fourth_year }}|
 
 |**ECE**||
-{% for rep in site.data.council.reps.ece.first_year %}
-|First Year|{{ rep }}|
-{% endfor %}
-{% for rep in site.data.council.reps.ece.second_year %}
-|Second Year|{{ rep }}|
-{% endfor %}
-{% for rep in site.data.council.reps.ece.third_year %}
-|Third Year|{{ rep }}|
-{% endfor %}
-{% for rep in site.data.council.reps.ece.pey %}
-|PEY|{{ rep }}|
-{% endfor %}
-{% for rep in site.data.council.reps.ece.fourth_year %}
-|Fourth Year|{{ rep }}|
+{% for rep in site.data.council.reps.ece.first_year %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.ece.second_year %}|Second Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.ece.third_year %}|Third Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.ece.pey %}|PEY|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.ece.fourth_year %}|Fourth Year|{{ rep }}|
 {% endfor %}
 
 |**EngSci**||
-{% for rep in site.data.council.reps.engsci.first_year %}
-|First Year|{{ rep }}|
-{% endfor %}
-{% for rep in site.data.council.reps.engsci.second_year %}
-|Second Year|{{ rep }}|
-{% endfor %}
-|Third Year|{{ site.data.council.reps.engsci.third_year }}|
+{% for rep in site.data.council.reps.engsci.first_year %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.engsci.second_year %}|Second Year|{{ rep }}|
+{% endfor %}|Third Year|{{ site.data.council.reps.engsci.third_year }}|
 |PEY|{{ site.data.council.reps.engsci.pey }}|
 |Fourth Year|{{ site.data.council.reps.engsci.fourth_year }}|
 
 |**Industrial**||
-{% for rep in site.data.council.reps.industrial.first_year %}
-|First Year|{{ rep }}|
-{% endfor %}
-|Second Year|{{ site.data.council.reps.industrial.second_year }}|
+{% for rep in site.data.council.reps.industrial.first_year %}|First Year|{{ rep }}|
+{% endfor %}|Second Year|{{ site.data.council.reps.industrial.second_year }}|
 |Third Year|{{ site.data.council.reps.industrial.third_year }}|
 |PEY|{{ site.data.council.reps.industrial.pey }}|
 |Fourth Year|{{ site.data.council.reps.industrial.fourth_year }}|
@@ -102,20 +81,11 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |Fourth Year|{{ site.data.council.reps.mse.fourth_year }}|
 
 |**Mechanical**||
-{% for rep in site.data.council.reps.mechanical.first_year %}
-|First Year|{{ rep }}|
-{% endfor %}
-{% for rep in site.data.council.reps.mechanical.second_year %}
-|Second Year|{{ rep }}|
-{% endfor %}
-{% for rep in site.data.council.reps.mechanical.third_year %}
-|Third Year|{{ rep }}|
-{% endfor %}
-{% for rep in site.data.council.reps.mechanical.pey %}
-|PEY|{{ rep }}|
-{% endfor %}
-{% for rep in site.data.council.reps.mechanical.fourth_year %}
-|Fourth Year|{{ rep }}|
+{% for rep in site.data.council.reps.mechanical.first_year %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.mechanical.second_year %}|Second Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.mechanical.third_year %}|Third Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.mechanical.pey %}|PEY|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.mechanical.fourth_year %}|Fourth Year|{{ rep }}|
 {% endfor %}
 
 |**Mineral**||
