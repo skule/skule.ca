@@ -21,7 +21,7 @@ If you are interested in the PSC or have any suggestions on how we can improve o
 
 | Name                            | Position                |
 |---------------------------------|-------------------------|
-| {{ site.data.council.psc.chair[0] }}        | PSC Chair/At-Large Member |
+| {{ site.data.council.psc.chair }}        | PSC Chair |
 | {{ site.data.council.officer.president }}  | President               |
 | {{ site.data.council.officer.vp_communications }} | VP Communications       |
 | {{ site.data.council.officer.speaker }} | Speaker                 |
