@@ -21,11 +21,11 @@ If you are interested in the PSC or have any suggestions on how we can improve o
 
 | Name                            | Position                |
 |---------------------------------|-------------------------|
-| Milena Gega                     | PSC Chair/At-Large Member |
+| {{ site.data.council.psc.chair[0] }}        | PSC Chair/At-Large Member |
 | {{ site.data.council.officer.president }}  | President               |
 | {{ site.data.council.officer.vp_communications }} | VP Communications       |
 | {{ site.data.council.officer.speaker }} | Speaker                 |
-| {{ site.data.council.project_directors.cro }}             | CRO                     |
+| {{ site.data.council.project_directors.chief_returning_officer }}             | CRO                     |
 | {{ site.data.council.psc.board_reps[0] }}   | Board Representative    |
 | {{ site.data.council.psc.board_reps[1] }}   | Board Representative    |
 | {{ site.data.council.psc.at_large[0] }}      | At-Large Member         |
