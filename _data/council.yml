@@ -84,15 +84,13 @@ project_directors:
     - "<em>Vacant</em>"
 
 psc:
-  chair: "Milena Gega"
-  president: "Inho Kim"
-  vp_communications: "Jennifer Wu"
-  speaker: "Ken Hilton"
-  cro: "Lavneet Sidhu"
+  chair: "<em>Vacant</em>"
   board_reps:
-    - "Ethan Mao"
-    - "Jim Xu"
-  at_large_1: "Dhara Patel"
+    - "Edith Fang"
+    - "<em>Vacant</em>"
+  at_large:
+    - "Arnav Patil"
+    - "Rivera Wijaya"
 
 discipline_club_chairs:
   chemical: "Freddie Perera"
