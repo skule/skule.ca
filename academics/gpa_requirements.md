@@ -60,7 +60,7 @@ The following are grade thresholds for first-year students.
         <td id="YELLOW_COL"> <b> EngSci </b> </td>
         <td>You must withdraw from the program. You may apply again next year for a different engineering program. Upon Readmission you will be placed on repeat probation</td>
         <td colspan="2"> You are placed on probation and required to transfer to a different program. You can either: <br>
-            i.  Enroll in the T-Program and retake courses with marks less than 60%;
+            i.  Enroll in the T-Program and take the Core8 equivalent of courses with marks less than 60%;
             <br> <em> OR </em> <br>
             ii. Withdraw from the Faculty with the right to return to a subsequent fall semester in a non-EngSci program with space. </td>
         <td> You are NOT placed on probation, you may either: <br>
@@ -68,7 +68,7 @@ The following are grade thresholds for first-year students.
             <br> <em> OR </em> <br>
             ii. Conditionally transfer to another Engineering program of choice <a href="#footnote-3">[3]</a>; 
             <br> <em> OR </em> <br>
-            iii. Transfer to another Engineering program with space. </td>
+            iii. Transfer to another Engineering program with space with no conditions. </td>
         <td> Doing good 🙂 You have a clear academic record. </td>
         <td> You made the dean’s honours list 🙂. </td>
     </tr>
