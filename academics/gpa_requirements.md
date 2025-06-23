@@ -39,7 +39,7 @@ The following are grade thresholds for first-year students.
         <th style="color:white;"> 50%-55% </th>
         <th style="color:white;"> 55%-60% </th>
         <th style="color:white;"> 60%-79.5% </th>
-        <th style="color:white;"> >79.5 </th>
+        <th style="color:white;"> >79.5% </th>
     </tr>
     <tr style="vertical-align:top">
         <td id="YELLOW_COL"> <b> Core8 + TrackOne </b> </td>
