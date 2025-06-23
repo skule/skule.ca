@@ -47,7 +47,7 @@ The following are grade thresholds for first-year students.
         <td> You must withdraw and are eligible to retake the semester next year on probation. </td>
         <td> If 3 or fewer courses are less than 50%, enroll in T-Program and repeat courses with marks less than 60% <a href="#footnote-1">[1]</a>; 
             <br> <em> OR </em> <br> 
-            Withdraw with the right to repeat next the semester next year on probation. </td>
+            Withdraw with the right to repeat the semester next year on probation. </td>
         <td> If all marks are greater than 50%, proceed to next semester on probation;
             <br> <em> OR </em> <br>
             If 3 or fewer courses are less than 50%, enroll in the T-Program and repeat courses with marks less than 50% <a href="#footnote-2">[2]</a>;
