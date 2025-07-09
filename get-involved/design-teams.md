@@ -9,13 +9,13 @@ This page is under construction! [Please see a list here.](https://docs.google.c
 
 
 > <b class="vp-academic-text">aUToronto</b>
-> Kelvin Cui <small class="vp-academic-text">Team Principal</small>
+> Chad Paik <small class="vp-academic-text">Team Principal</small>
 > 
 > aUToronto is one of ten university teams competing in the SAE/GM AutoDrive Challenge. This multi-year autonomous vehicle competition will task students to develop and demonstrate a full autonomous driving passenger vehicle.
 > 
-<a class="button is-small vp-academic" href="mailto:kelvin.cui@autodrive.utoronto.ca">Email</a>
+<a class="button is-small vp-academic" href="mailto:media@autodrive.utoronto.ca">Email</a>
 <a class="button is-small vp-academic" href="https://www.autodrive.utoronto.ca/">Website</a> 
-<a class="button is-small vp-academic" href="https://www.instagram.com/uoftautodrive/?hl=en">Instagram</a> 
+<a class="button is-small vp-academic" href="https://www.instagram.com/autoronto_uoft/">Instagram</a> 
 
 > <b class="vp-academic-text">Blue Sky Solar Racing</b>
 > Olivia Ang <small class="vp-academic-text">Operations Lead</small>
