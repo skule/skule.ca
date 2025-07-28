@@ -39,7 +39,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-comms" href="http://cannon.skule.ca">Website</a>
  
 > <b class="vp-finance-text">Cannonball Director</b>
-> {{ site.data.council.project_directors.cannonball_director }} <small class="vp-finance-text">Overseen by VP Finance</small>
+> {{ site.data.council.project_directors.cannonball }} <small class="vp-finance-text">Overseen by VP Finance</small>
 > 
 > The Cannonball Director organizes Cannonball, the Skule™ semi-formal dinner dance. They coordinate with a venue, caterers, and entertainment to provide a fun and memorable night for students. 
 >
@@ -68,7 +68,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-comms" href="mailto:sysadmin@skule.ca">Email</a>
  
 > <b class="vp-student-life-text">Design Team Association Director</b>
-> {{ site.data.council.project_directors.dta_director }} <small class="vp-student-life-text">Overseen by VP Student Life</small>
+> {{ site.data.council.project_directors.design_team_association }} <small class="vp-student-life-text">Overseen by VP Student Life</small>
 > 
 > The Design Team Association Director heads the Design Team Association. They coordinate the efforts of design teams to resolve their shared problems and they represent the interests of those teams to EngSoc. 
 >
