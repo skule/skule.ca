@@ -116,7 +116,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-comms" href="mailto:agenda@skule.ca">Agenda Editor Email</a> -->
  
 > <b class="vp-finance-text">Gradball Director</b>
-> {{ site.data.council.project_directors.gradball_director }} <small class="vp-finance-text">Overseen by VP Finance</small>
+> {{ site.data.council.project_directors.gradball }} <small class="vp-finance-text">Overseen by VP Finance</small>
 > 
 > The Gradball Director organizes Gradball, the Skule™ formal dinner dance. They coordinate with a venue, caterers, and entertainment to provide a fun and memorable night for students. 
 >
@@ -164,7 +164,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small speakerpersono" href="http://skule.ca/elections">Elections Info</a>
  
 > <b class="president-text">Orientation Chair</b>
-> {{ site.data.council.project_directors.orientation_chair[0] }} and {{ site.data.council.project_directors.orientation_chair[1] }} <small class="president-text">Overseen by the President </small>
+> {{ site.data.council.project_directors.orientation_chair }} <small class="president-text">Overseen by the President </small>
 > 
 > The Orientation Chair organizes F!rosh Week, Skule™ orientation for incoming students. They build an Orientation Committee of Vice-Chairs and appoint Subcommittee Chairs and Head Leedurs to provide a fun week introduction to incoming students. 
 >
