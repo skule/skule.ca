@@ -31,7 +31,7 @@ These organization and positions are non-EngSoc organizations that are closely t
 > <a class="button is-small president" href="http://smokeandthunder.ca">Website</a>
 
 > ## Blue & Gold Committee
-> <p><b class="vp-student-life-text">Blue & Gold Committee Chairs</b> Aidan Castanheiro & Kaija Mikes
+> <p><b class="vp-student-life-text">Blue & Gold Committee Chairs</b> {{ site.data.council.project_directors.bng[0] }} and {{ site.data.council.project_directors.bng[1] }}
 > <small class="vp-student-life-text">Works with VP Student Life</small></p> 
 > 
 > <a class="button is-small vp-student-life" href="mailto:blueandgold@skule.ca">Email</a> 
