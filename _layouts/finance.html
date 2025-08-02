@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+<section class="hero is-primary is-small">
+    <div class="hero-body container">
+        <h1 class="title">
+            {% assign titlewords = page.dir | remove: "/" | split: "-" %}
+            {% for titleword in titlewords %}
+            {{ titleword | capitalize | replace: "The","the" }}
+            {% endfor %}
+        </h1>
+    </div>
+    <div class="hero-foot is-hidden-touch">
+        <nav class="tabs is-boxed is-fullwidth">
+            <ul class="major">
+                {% assign items = site.html_pages | sort: "order" %}
+                {% for item in items %}
+                {% if page.dir == item.dir %}
+                <li class="tab {% if item.url == page.url %} is-active {% endif %}">
+                    <a href="{{ item.url }}">{{ item.title }}</a>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </nav>
+    </div>
+</section>
+
+{% assign deadline = site.data.deadlines.finance_deadline | date: "%B %Y" %}
+
+<section class="section">
+
+    <div class="content container">
+
+        <h1>{{ page.title }}</h1>
+        <hr>
+        <div
+            style="font-size: 1.5em; font-weight: bold; margin-bottom: 1em;"
+        >
+            {{ deadline }} submissions due in: 
+            <span id="countdown" 
+                data-deadline="{{ site.data.deadlines.finance_deadline }}" >
+                Loading countdown…
+            </span>
+        </div>
+        <!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23efefef&ctz=America%2FToronto&showTitle=0&showNav=1&showDate=1&showPrint=1&showTabs=1&showCalendars=1&src=Y18zNTVkYTcxZWExYTIyNTJlYTUwNmJmNGFkNmM3MjM5Y2JhYTgwOWE1YmUwYzljMjYzMjY0ZTM5MTA2NDJlZGVlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=c29jaWFsbWVkaWFAZy5za3VsZS5jYQ&color=%238E24AA&color=%23EF6C00" style="border:none; width:100%; height:600px" frameborder="0" scrolling="no"></iframe> -->
+        {{ content }}
+
+    </div>
+
+</section>
+
+<script>
+  const countdownEl = document.getElementById("countdown");
+  const deadlineStr = countdownEl.dataset.deadline;
+  const deadline = new Date(deadlineStr);
+
+  function updateCountdown() {
+    const now = new Date();
+    const diff = deadline - now;
+
+    const countdownEl = document.getElementById("countdown");
+    if (diff <= 0) {
+      countdownEl.textContent = "Deadline passed";
+      return;
+    }
+
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+    const minutes = Math.floor((diff / (1000 * 60)) % 60);
+
+    countdownEl.textContent = `${days}d ${hours}h ${minutes}m`;
+  }
+
+  updateCountdown();
+  setInterval(updateCountdown, 1000);
+</script>

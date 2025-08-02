@@ -1,10 +1,8 @@
 ---
 title: Skule™ Finances
-layout: page
+layout: finance
 order: 1
 ---
-
-This page is a work in progress. We apologize for any inconveniences.
 
 ## A gentle introduction to Skule™ Finances
 
