@@ -8,6 +8,25 @@ This site is powered by Jekyll, and uses the Bulma CSS theme. We have Markdown (
 
 *Please note that changes to layouts and includes should go through the Webmaster*.
 
+## Run Locally
+
+First, clone this repository to your local machine.
+
+Then, install prerequisites:
+- Ruby version 2.7.0 or higher
+- RubyGems
+- GCC and Make
+
+Run the following commands in the root of the repository:
+
+```
+gem install jekyll bundler
+bundle install
+bundle exec jekyll serve
+```
+
+Go to `http://localhost:4000` in your browser to view the site.
+
 ## Directory Structure
 
 ```
