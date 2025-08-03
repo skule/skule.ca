@@ -35,26 +35,24 @@ layout: default
 
         <h1>{{ page.title }}</h1>
         <hr>
-        <div
-            style="font-size: 1.5em; font-weight: bold; margin-bottom: 1em; text-align: center;"
-        >
+        <h2 class="subtitle">
             {{ deadline }} submissions due: 
-        </div>
+        </h2>
         <div id="countdown" data-deadline="{{ site.data.deadlines.finance_deadline }}">
-        <div class="countdown-section">
-            <div class="label">DAYS</div>
-            <div class="digits" id="days"></div>
-        </div>
-        <div class="colon">:</div>
-        <div class="countdown-section">
-            <div class="label">HOURS</div>
-            <div class="digits" id="hours"></div>
-        </div>
-        <div class="colon">:</div>
-        <div class="countdown-section">
-            <div class="label">MINUTES</div>
-            <div class="digits" id="minutes"></div>
-        </div>
+          <div class="countdown-section">
+              <p class="label">DAYS</p>
+              <p class="digits" id="days"></p>
+          </div>
+          <div class="colon">:</div>
+          <div class="countdown-section">
+              <p class="label">HOURS</p>
+              <p class="digits" id="hours"></p>
+          </div>
+          <div class="colon">:</div>
+          <div class="countdown-section">
+              <p class="label">MINUTES</p>
+              <p class="digits" id="minutes"></p>
+          </div>
         </div>
 
         <h2 class="subtitle">Calendar</h2>
@@ -106,6 +104,12 @@ layout: default
 </script>
 
 <style>
+.subtitle {
+  font-size: 1.5em; 
+  font-weight: bold; 
+  margin-bottom: 1em;
+  text-align: center;
+}
 #countdown {
   display: flex;
   align-items: center;
