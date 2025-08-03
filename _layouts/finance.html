@@ -36,14 +36,27 @@ layout: default
         <h1>{{ page.title }}</h1>
         <hr>
         <div
-            style="font-size: 1.5em; font-weight: bold; margin-bottom: 1em;"
+            style="font-size: 1.5em; font-weight: bold; margin-bottom: 1em; text-align: center;"
         >
-            {{ deadline }} submissions due in: 
-            <span id="countdown" 
-                data-deadline="{{ site.data.deadlines.finance_deadline }}" >
-                Loading countdown…
-            </span>
+            {{ deadline }} submissions due: 
         </div>
+        <div id="countdown" data-deadline="{{ site.data.deadlines.finance_deadline }}">
+        <div class="countdown-section">
+            <div class="label">DAYS</div>
+            <div class="digits" id="days"></div>
+        </div>
+        <div class="colon">:</div>
+        <div class="countdown-section">
+            <div class="label">HOURS</div>
+            <div class="digits" id="hours"></div>
+        </div>
+        <div class="colon">:</div>
+        <div class="countdown-section">
+            <div class="label">MINUTES</div>
+            <div class="digits" id="minutes"></div>
+        </div>
+        </div>
+
         <!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23efefef&ctz=America%2FToronto&showTitle=0&showNav=1&showDate=1&showPrint=1&showTabs=1&showCalendars=1&src=Y18zNTVkYTcxZWExYTIyNTJlYTUwNmJmNGFkNmM3MjM5Y2JhYTgwOWE1YmUwYzljMjYzMjY0ZTM5MTA2NDJlZGVlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=c29jaWFsbWVkaWFAZy5za3VsZS5jYQ&color=%238E24AA&color=%23EF6C00" style="border:none; width:100%; height:600px" frameborder="0" scrolling="no"></iframe> -->
         {{ content }}
 
@@ -52,17 +65,29 @@ layout: default
 </section>
 
 <script>
-  const countdownEl = document.getElementById("countdown");
-  const deadlineStr = countdownEl.dataset.deadline;
-  const deadline = new Date(deadlineStr);
+  const deadline = new Date(document.getElementById("countdown").dataset.deadline);
+
+  function pad(n) {
+    return n.toString().padStart(2, '0');
+  }
+
+  function setDigits(containerId, value) {
+    const container = document.getElementById(containerId);
+    container.innerHTML = ''; // Clear old digits
+    pad(value).split('').forEach(d => {
+      const span = document.createElement('span');
+      span.className = 'digit';
+      span.textContent = d;
+      container.appendChild(span);
+    });
+  }
 
   function updateCountdown() {
     const now = new Date();
     const diff = deadline - now;
 
-    const countdownEl = document.getElementById("countdown");
     if (diff <= 0) {
-      countdownEl.textContent = "Deadline passed";
+      document.getElementById("countdown").textContent = "Deadline passed";
       return;
     }
 
@@ -70,9 +95,83 @@ layout: default
     const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
     const minutes = Math.floor((diff / (1000 * 60)) % 60);
 
-    countdownEl.textContent = `${days}d ${hours}h ${minutes}m`;
+    setDigits("days", days);
+    setDigits("hours", hours);
+    setDigits("minutes", minutes);
   }
 
   updateCountdown();
   setInterval(updateCountdown, 1000);
 </script>
+
+<style>
+#countdown {
+  display: flex;
+  align-items: center;
+  font-family: 'Arial Black', sans-serif;
+  color: white;
+  background: hsl(0, 0%, 81%);
+  padding: 20px;
+  border-radius: 10px;
+  gap: 10px;
+  justify-content: center;
+}
+
+.countdown-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.label {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.digits {
+  display: flex;
+  gap: 5px;
+}
+
+.digits .digit {
+  background: #3b739e;
+  color: white;
+  font-size: 2rem;
+  padding: 10px 15px;
+  border-radius: 10px;
+  min-width: 30px;
+  text-align: center;
+}
+
+.colon {
+  color: black;
+  font-size: 2rem;
+  padding: 28px 5px 0 5px;
+}
+
+@media (max-width: 600px) {
+  #countdown {
+    padding: 10px;
+    gap: 6px;
+  }
+
+  .label {
+    font-size: 0.75rem;
+    margin-bottom: 5px;
+  }
+
+  .digits .digit {
+    font-size: 1.2rem;
+    padding: 6px 8px;
+    min-width: 24px;
+    border-radius: 6px;
+  }
+
+  .colon {
+    font-size: 1.5rem;
+    padding: 18px 2px 0 2px;
+  }
+}
+
+</style>
