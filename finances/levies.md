@@ -15,22 +15,22 @@ Here are the existing levies:
 |-------|--------|---------|
 | Blue Sky Solar Racing (BSSR) | $3.50 | February 2026 - Soon |
 | CFES | $0.40 | February 2026 - Soon |
-| Concrete Canoe | $2.00 | **February 2027 - No action needed** |
-| Concrete Toboggan | $2.00 | **February 2027 - No action needed** |
-| Engineers in Action (EIA) | $1.50 | **February 2027 - No action needed** |
-| Engineers without Borders (EWB) | $1.50 | **February 2027 - No action needed** |
-| ESSCO | $0.10 | **February 2027 - No action needed** |
-| Formula Racing (UTFR) | $4.00 | **February 2027 - No action needed** |
+| Concrete Canoe | $2.00 | February 2027 - No action needed |
+| Concrete Toboggan | $2.00 | February 2027 - No action needed |
+| Engineers in Action (EIA) | $1.50 | February 2027 - No action needed |
+| Engineers without Borders (EWB) | $1.50 | February 2027 - No action needed |
+| ESSCO | $0.10 | February 2027 - No action needed |
+| Formula Racing (UTFR) | $4.00 | February 2027 - No action needed |
 | Human Powered Vehicle (HPVDT) | $2.50 | February 2026 - Soon |
-| IEEE | $1.25 | **February 2027 - No action needed** |
-| Robotics for Space Exploration (RSX) | $2.10 | **February 2027 - No action needed** |
-| Seismic Design Team | $1.42 | **February 2027 - No action needed** |
+| IEEE | $1.25 | February 2027 - No action needed |
+| Robotics for Space Exploration (RSX) | $2.10 | February 2027 - No action needed |
+| Seismic Design Team | $1.42 | February 2027 - No action needed |
 | Skule Endowment Fund (SEF) | $50.00 | February 2026 - Soon |
 | Skule Nite | $2.10 | February 2026 - Soon |
-| Supermileage Team (UTSM) | $2.50 | **February 2027 - No action needed** |
-| UofT Aerospace Team (UTAT) | $3.55 | **February 2027 - No action needed** |
+| Supermileage Team (UTSM) | $2.50 | February 2027 - No action needed |
+| UofT Aerospace Team (UTAT) | $3.55 | February 2027 - No action needed |
 | UofT Robotics Association (UTRA) | $3.50 | February 2026 - Soon |
-| UTWind | $1.80 | **February 2027 - No action needed** |
+| UTWind | $1.80 | February 2027 - No action needed |
 | WISE | $1.50 | February 2026 - Soon |
 
 ## Application Process

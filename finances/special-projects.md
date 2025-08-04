@@ -29,7 +29,7 @@ Some examples of past Special Projects are:
 
 - The conference funding application period runs from the 1st to the 15th of each month.
 - Copy the appropriate template and fill it out accordingly.
-- Please ensure you submit your application through the application form with the subject: `(Name of Organization/Project)_Special Projects Funding``
+- Please ensure you submit your application through the application form with the subject: `(Name of Organization/Project)_Special Projects Funding`
 - The application will be discussed during the monthly Finance Committee meeting to reach a recommendation. Once the recommendation is approved by the Board, the finance secretary will let you know if your project has been approved or rejected.
 
 ## Funding Review
