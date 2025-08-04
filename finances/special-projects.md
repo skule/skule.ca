@@ -17,7 +17,7 @@ Some examples of past Special Projects are:
 
 **Note:** Affiliated Clubs are also eligible to receive funding from EngSoc, see [Club Funding](/club-resources/club_funding) for more details.
 
-**Total Funding Available for 2T4-2T5: $50,000**
+**Total Funding Available for 2T5-2T6: $50,000**
 
  Please note that funding is approved on a first come, first serve basis.
 

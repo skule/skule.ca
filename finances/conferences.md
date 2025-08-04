@@ -16,10 +16,10 @@ Expenses eligible for reimbursement include any travel, accommodation, and regis
 
 ## Finances and Logistics
 
-While previous conference funding was limited, the Faculty of Applied Sciences and Engineering and associated Alumni Fund have generously donated $60,000 for the 2T4-2T5 school year to sponsor students to use conference funding and attend conferences/events for their own personal development or community achievement. We thank the Faculty and alumni for their support!
+While previous conference funding was limited, the Faculty of Applied Sciences and Engineering and associated Alumni Fund have generously donated $60,000 for the 2T5-2T6 school year to sponsor students to use conference funding and attend conferences/events for their own personal development or community achievement. We thank the Faculty and alumni for their support!
 
-- **For academic/technical/design conferences**: the maximum amount that may be received is up to **$500** of the expenses or **50% of total costs per person** of the expenses associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
-- **For recreational/hobby conferences**: the maximum amount that may be received is up to **$200** of the expenses or **50% of total costs per person of the expenses** associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
+- **For academic/technical/design conferences**: the maximum amount that may be received is up to **$750** of the expenses or **50% of total costs per person** of the expenses associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
+- **For recreational/hobby conferences**: the maximum amount that may be received is up to **$500** of the expenses or **50% of total costs per person of the expenses** associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
 - A maximum amount of $5000 may be allocated towards each conference/competition **for academic/technical/design conferences**, and a maximum amount of $2000 **for recreational/hobby conferences**.
 - The conference/competition costs must occur in the current fiscal year, which starts June 1 and ends May 31 of the next calendar year. If the expenses occur in the next fiscal year, you will need to submit an application after May 31.
 - The funding pool is limited and may be exhausted before you have a chance to apply. To improve your chances, we encourage you to apply early and provide cost estimates.
@@ -30,7 +30,7 @@ While previous conference funding was limited, the Faculty of Applied Sciences a
 <a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1LMDv3GCNBJqpGBFQ6W70WO4EQ7HGE5mR"> Individual Application Template </a>
 <a class="button is-danger" href="https://docs.google.com/forms/d/1PDQjAXXF9TTKFwtHjVHsNzIuH6D3eXn-mqFmetab88c"> Application Form </a>
 
-- The conference funding application period runs from the **1st to the 15th** of each month.
+- Check the Calendar on the [Finances Homepage](/finances/finance) to see when the next deadline is to submit an application
 - Please ensure you submit your application with the subject: `(Name of Organization/Conference)_Conference Funding`
 - Copy the appropriate template and fill it out accordingly.
   - If you are part of a club, please complete the group application form.

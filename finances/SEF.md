@@ -24,23 +24,23 @@ A compiled list of some past projects financed by the SEF is available [here](ht
 - The application will be discussed by the SEF Subcommittee to reach a recommendation.
 - The SEF Committee will review and approve individual allocations. Funds will the distributed after this stage. 
 
-## 2T4 - 2T5 Timeline 
+## 2T5 - 2T6 Timeline
 
-### Fall 2024
+### Fall 2025
 
-- Late Aug 2024 – Call for proposals
-- Late Sept 2024 – Deadline for proposals
-- Early Oct 2024 – Recommendation Delivered to Skule Endowment Fund Committee
-- Late Oct 2024 – Final Approval granted
-- Early Nov 2024 – Funding Released
+- Late Aug 2025 – Call for proposals
+- Late Sept 2025 – Deadline for proposals
+- Early Oct 2025 – Recommendation Delivered to Skule Endowment Fund Committee
+- Late Oct 2025 – Final Approval granted
+- Early Nov 2025 – Funding Released
 
-### Spring 2025
+### Spring 2026
 
- - February 2, 2025 – Call for proposals
- - February 20, 2025 – Deadline for proposals
- - Early March 2025 – Recommendation Delivered to Skule Endowment Fund Committee
- - Mid March 2025 – Final Approval granted
- - Late March 2025 – Funding Released
+ - February 2, 2026 – Call for proposals
+ - February 20, 2026 – Deadline for proposals
+ - Early March 2026 – Recommendation Delivered to Skule Endowment Fund Committee
+ - Mid March 2026 – Final Approval granted
+ - Late March 2026 – Funding Released
 
 ## Contact
 

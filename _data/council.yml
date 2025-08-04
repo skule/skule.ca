@@ -198,3 +198,17 @@ reps:
     fourth_year: "<em>Vacant</em>"
   trackone:
     first_year: "Sunny Liu"
+
+finance:
+  acting_vp_finance: "Kenneth Lloyd Hilton"
+  finance_secretary_assistant_vp_finance: "Ryan Hammer"
+  board_representative_assistant_vp_finance: "Justin Fang"
+  board_representatives:
+    - "Dana Bou Saab"
+    - "Jaden Hinds"
+  at_large:
+    - "Beatriz Correa de Mello"
+    - "Edlyn Li"
+    - "Kenneth Sulimro"
+    - "Ryan Xu"
+    - "Yawen Zhang"
