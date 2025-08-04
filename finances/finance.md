@@ -19,7 +19,26 @@ There are several main funding avenues for students and student clubs:
 - Conference Funding
 - Special Projects Funding
 
-To identify which funding avenue is best for your purposes, feel free to use the finance wizard below or browse the finance pages in this website.
+To identify which funding avenue is best for your purposes, see the tables below or browse the finance pages in this website.
+
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+    <img src="/assets/finance-club-funding.png" alt="Club Funding" style="max-width: 100%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/assets/finance-other-funding.png" alt="Other Funding" style="max-width: 100%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</div>
+
+<style>
+@media (max-width: 700px) {
+  div[style*="display: flex"] img {
+    max-width: 100% !important;
+    min-width: 0 !important;
+    flex-basis: 100% !important;
+  }
+  div[style*="display: flex"] {
+    flex-direction: column !important;
+    gap: 16px !important;
+  }
+}
+</style>
 
 ## Applying for funding
 
