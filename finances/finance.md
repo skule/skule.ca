@@ -21,12 +21,6 @@ There are several main funding avenues for students and student clubs:
 
 To identify which funding avenue is best for your purposes, feel free to use the finance wizard below or browse the finance pages in this website.
 
-### Finance Wizard
-
-The following tool has been provided to help determine which funding avenue is the best for your situation. <b> Please read the disclaimer. By entering your email, you agree to the terms of the disclaimer. <b>
-
-<a class="button-is-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSd4fQPR3ZO6AUvgnW0ev82GjdRG9SQHvb-OAPJfjEUSdvvHRA/viewform"> Finance Wizard </a>
-
 ## Applying for funding
 
 Once you have identified your funding avenue, you should download the application forms, fill them out, and submit them through the forms sent out monthly by the VP finance, from the email address vpfinance@skule.ca. Alternatively, you may send <a href="mailto:vpfinance@skule.ca"> the VP Finance </a> an email. <b>Please use the templates provided.<b> If applications are made without the templates, they are more difficult to process, and risk being rejected entirely.
