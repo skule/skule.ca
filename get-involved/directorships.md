@@ -146,7 +146,14 @@ Project Directors each manage a particular service or initiative, from managing 
 >
 > <a class="button is-small president" href="http://international.skule.ca">Website</a> 
 > <a class="button is-small president" href="mailto:intltransition@skule.ca">Email</a>
- 
+
+> <b class="president-text">Iron Pin Director</b>
+> {{ site.data.council.project_directors.iron_pin }} <small class="president-text">Overseen by the President</small>
+> 
+> The Iron Pin Director is responsible for the Iron Pin Ceremony, which recognizes the achievements of engineering students and their contributions to the Skule™ community. They work closely with faculty and administration to organize the event and ensure its success.
+>
+> <a class="button is-small president" href="mailto:ironpin@skule.ca">Email</a>
+
 > <b class="vp-academic-text">Mental Wellness Director</b>
 > {{ site.data.council.project_directors.mental_wellness }} <small class="vp-academic-text">Overseen by VP Academic</small>
 > 
