@@ -20,7 +20,8 @@ While previous conference funding was limited, the Faculty of Applied Sciences a
 
 - **For academic/technical/design conferences**: the maximum amount that may be received is up to **$750** of the expenses or **50% of total costs per person** of the expenses associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
 - **For recreational/hobby conferences**: the maximum amount that may be received is up to **$500** of the expenses or **50% of total costs per person of the expenses** associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
-- A maximum amount of $5000 may be allocated towards each conference/competition **for academic/technical/design conferences**, and a maximum amount of $2000 **for recreational/hobby conferences**.
+- A maximum amount of $5000 may be allocated for each club per fiscal year **for academic/technical/design conferences**, and a maximum amount of $2000 **for recreational/hobby conferences**.
+- A maximum amount of $750 may be allocated for each club per fiscal year **for academic/technical/design conferences**, and a maximum amount of $500 **for recreational/hobby conferences**.
 - The conference/competition costs must occur in the current fiscal year, which starts June 1 and ends May 31 of the next calendar year. If the expenses occur in the next fiscal year, you will need to submit an application after May 31.
 - The funding pool is limited and may be exhausted before you have a chance to apply. To improve your chances, we encourage you to apply early and provide cost estimates.
 
