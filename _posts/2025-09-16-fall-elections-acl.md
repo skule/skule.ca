@@ -1,5 +1,5 @@
 ---
-title: "2025 Fall Elections - Election Notice"
+title: "2025 Fall Elections - All Candidates List"
 author: CRO
 layout: post
 ---
