@@ -28,13 +28,9 @@ A compiled list of some past projects financed by the SEF is available [here](ht
 
 ### Fall 2025
 
-- Late Aug 2025 – Call for proposals
-- Late Sept 2025 – Deadline for proposals
-- Early Oct 2025 – Recommendation Delivered to Skule Endowment Fund Committee
-- Early Oct 2025 – Call for proposals
-- Mid Oct 2025 – Deadline for proposals
-- Late Oct 2025 – Recommendation Delivered to Skule Endowment Fund Committee
-- Early Nov 2025 – Funding Released
+- Early Oct 2025 - Call for proposals
+- Mid Oct 2025 - Deadline for proposals
+- Late Oct 2025 - Recommendation Delivered to Skule Endowment Fund committee
 
 ### Spring 2026
 
