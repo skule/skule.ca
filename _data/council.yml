@@ -202,10 +202,10 @@ reps:
     first_year: "Sunny Liu"
 
 finance:
-  acting_vp_finance: "Kenneth Lloyd Hilton"
-  finance_secretary_assistant_vp_finance: "Ryan Hammer"
-  board_representative_assistant_vp_finance: "Justin Fang"
+  acting_vp_finance: "Justin Fang"
+  finance_secretary: "Ryan Hammer"
   board_representatives:
+    - "Justin Fang"
     - "Dana Bou Saab"
     - "Jaden Hinds"
   at_large:

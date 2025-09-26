@@ -11,10 +11,10 @@ For the 2025-2026 year, the Finance Committee will be comprised of 2 Officers (V
 | Name                                                       | Position                              |
 |------------------------------------------------------------|---------------------------------------|
 | {{ site.data.council.finance.acting_vp_finance }}          | Acting VP Finance                     |
-| {{ site.data.council.finance.finance_secretary_assistant_vp_finance }} | Finance Secretary / Assistant VP Finance |
-| {{ site.data.council.finance.board_representative_assistant_vp_finance }} | Board Representative / Assistant VP Finance |
-| {{ site.data.council.finance.board_representatives[0] }}   | Board Representative                  |
+| {{ site.data.council.finance.finance_secretary}}           | Finance Secretary                     |
+| {{ site.data.council.finance.board_representative[0] }}    | Board Representative                  |
 | {{ site.data.council.finance.board_representatives[1] }}   | Board Representative                  |
+| {{ site.data.council.finance.board_representatives[2] }}   | Board Representative                  |
 | {{ site.data.council.finance.at_large[0] }}                | At-Large Representative               |
 | {{ site.data.council.finance.at_large[1] }}                | At-Large Representative               |
 | {{ site.data.council.finance.at_large[2] }}                | At-Large Representative               |
