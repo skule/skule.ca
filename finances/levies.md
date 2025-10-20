@@ -28,6 +28,7 @@ Here are the existing levies:
 | Skule Endowment Fund (SEF) | $50.00 | February 2026 - Soon |
 | Skule Nite | $2.10 | February 2026 - Soon |
 | Supermileage Team (UTSM) | $2.50 | February 2027 - No action needed |
+| Troitsky Bridge Team | $0.50 | February 2027 - No action needed |
 | UofT Aerospace Team (UTAT) | $3.55 | February 2027 - No action needed |
 | UofT Robotics Association (UTRA) | $3.50 | February 2026 - Soon |
 | UTWind | $1.80 | February 2027 - No action needed |
