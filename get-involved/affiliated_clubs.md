@@ -4,23 +4,32 @@ layout: page
 ---
 
 {% assign socials = "Website,LinkTree,Email,Instagram,Discord,Facebook,LinkedIn,TikTok,YouTube,Twitter" | split: "," %}
+{% assign categories = "Arts and Music,Athletics,Social Change and Advocacy,Community Service and Outreach,Cultural, Faith, or Identity-Based Community Group,Design/Competition Team,Hobby/Special Interest,Education and Professional Development,Discipline-Specific Club" | split: "," %}
 
-{% for club in site.data.clubs.clubs %}
-<div class="box">
-  <p>
-    <b class="vp-academic-text">{{ club["Club Name"] }}</b><br>
-  </p>
+<h2 class="vp-academic-text mb-3">Filter by Category</h2>
+<div id="category-filters" class="buttons are-small mb-5">
+  {% for category in categories %}
+    <button class="button is-light category-button" data-category="{{ category | strip }}">{{ category }}</button>
+  {% endfor %}
+</div>
 
-  {% if club["Club Description"] %}
-    <p>{{ club["Club Description"] }}</p>
-  {% endif %}
+<div id="clubs-container">
+  {% for club in site.data.clubs.clubs %}
+  <div class="box club-box" data-category="{{ club.Category }}">
+    <p>
+      <b class="vp-academic-text">{{ club["Club Name"] }}</b><br>
+    </p>
 
-  <div class="buttons are-small mt-2">
-    {% for social in socials %}
-      {% assign value = club[social] %}
-      {% if value %}
-        {% assign lower = social | downcase %}
-        {% capture url %}
+    {% if club["Club Description"] %}
+      <p>{{ club["Club Description"] }}</p>
+    {% endif %}
+
+    <div class="buttons are-small mt-2">
+      {% for social in socials %}
+        {% assign value = club[social] %}
+        {% if value %}
+          {% assign lower = social | downcase %}
+          {% capture url %}
 {% if value contains "http" %}{{ value }}
 {% elsif lower == "website" %}https://{{ value | strip }}
 {% elsif lower == "linktree" %}https://linktr.ee/{{ value | remove: "@" | strip }}
@@ -34,12 +43,50 @@ layout: page
 {% elsif lower == "tiktok" %}https://www.tiktok.com/@{{ value | remove: "@" | strip }}
 {% else %}{{ value }}
 {% endif %}
-        {% endcapture %}
-        <a class="button is-small vp-academic" href="{{ url | strip }}" target="_blank" rel="noopener">
-          {{ social }}
-        </a>
-      {% endif %}
-    {% endfor %}
+          {% endcapture %}
+          <a class="button is-small vp-academic" href="{{ url | strip }}" target="_blank" rel="noopener">
+            {{ social }}
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
+  {% endfor %}
 </div>
-{% endfor %}
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const buttons = document.querySelectorAll(".category-button");
+  const clubs = document.querySelectorAll(".club-box");
+  let selectedCategories = [];
+
+  buttons.forEach(button => {
+    button.addEventListener("click", () => {
+      const category = button.dataset.category;
+      button.classList.toggle("is-vp-academic");
+
+      if (selectedCategories.includes(category)) {
+        selectedCategories = selectedCategories.filter(c => c !== category);
+      } else {
+        selectedCategories.push(category);
+      }
+
+      clubs.forEach(club => {
+        const clubCategory = club.dataset.category?.trim();
+        if (selectedCategories.length === 0 || selectedCategories.includes(clubCategory)) {
+          club.style.display = "";
+        } else {
+          club.style.display = "none";
+        }
+      });
+    });
+  });
+});
+</script>
+
+<style>
+.category-button.is-vp-academic {
+  background-color: var(--vp-academic-color, #003366);
+  color: white;
+}
+</style>
