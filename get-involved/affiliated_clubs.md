@@ -6,7 +6,8 @@ layout: page
 {% assign socials = "Website,LinkTree,Email,Instagram,Discord,Facebook,LinkedIn,TikTok,YouTube,Twitter" | split: "," %}
 {% assign categories = "Arts and Music|Athletics|Social Change and Advocacy|Community Service and Outreach|Cultural, Faith, or Identity-Based Community Group|Design/Competition Team|Hobby/Special Interest|Education and Professional Development|Discipline-Specific Club" | split: "|" %}
 
-<h2 class="vp-academic-text mb-3">Filter by Category</h2>
+
+<h2 class="vp-academic-text mb-3" style="font-size: 1.25rem;">Filter by Category</h2>
 <div id="category-filters" class="buttons are-small mb-5">
   {% for category in categories %}
     <button class="button is-light category-button" data-category="{{ category | strip }}">{{ category }}</button>
