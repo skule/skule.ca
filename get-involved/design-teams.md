@@ -3,9 +3,7 @@ title: Design Teams
 layout: page
 ---
 
-This page is under construction! [Please see a list here.](https://docs.google.com/spreadsheets/d/1adJxWoR2hOwdeZTKR3CFrPjF04xbGHao70Cuzq0li_8/edit#gid=0)
-
-
+See the most up-to-date list of design teams and clubs on [the Affiliated Clubs page.](https://skule.ca/get-involved/affiliated_clubs.html)
 
 
 > <b class="vp-academic-text">aUToronto</b>
