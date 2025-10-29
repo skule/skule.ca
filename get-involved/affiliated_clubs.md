@@ -3,7 +3,7 @@ title: Affiliated Clubs
 layout: page
 ---
 
-{% assign socials = "LinkTree,Instagram,Discord,Facebook,LinkedIn,TikTok,YouTube,Twitter,Website,Email" | split: "," %}
+{% assign socials = "Website,LinkTree,Email,Instagram,Discord,Facebook,LinkedIn,TikTok,YouTube,Twitter" | split: "," %}
 
 {% for club in site.data.clubs.clubs %}
 <div class="box">
