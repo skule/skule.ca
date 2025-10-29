@@ -28,6 +28,9 @@ layout: page
         {% assign lower = social | downcase %}
         {% capture url %}
 {% if value contains "http" %}{{ value }}
+{% elsif lower == "website" %}https://{{ value | strip }}
+{% elsif lower == "linktree" %}https://linktr.ee/{{ value | remove: "@" | strip }}
+{% elsif lower == "email" %}mailto:{{ value | strip }}
 {% elsif lower == "instagram" %}https://www.instagram.com/{{ value | remove: "@" | strip }}/
 {% elsif lower == "discord" %}https://discord.gg/{{ value | strip }}
 {% elsif lower == "facebook" %}https://www.facebook.com/{{ value | strip }}
@@ -35,9 +38,6 @@ layout: page
 {% elsif lower == "youtube" %}https://www.youtube.com/{{ value | strip }}
 {% elsif lower == "twitter" %}https://twitter.com/{{ value | remove: "@" | strip }}
 {% elsif lower == "tiktok" %}https://www.tiktok.com/@{{ value | remove: "@" | strip }}
-{% elsif lower == "linktree" %}https://linktr.ee/{{ value | remove: "@" | strip }}
-{% elsif lower == "website" %}https://{{ value | strip }}
-{% elsif lower == "email" %}mailto:{{ value | strip }}
 {% else %}{{ value }}
 {% endif %}
         {% endcapture %}
