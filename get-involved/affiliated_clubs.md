@@ -15,12 +15,6 @@ layout: page
     <p>{{ club["Club Description"] }}</p>
   {% endif %}
 
-  {% assign has_socials = false %}
-  {% for social in socials %}
-    {% if club[social] %}{% assign has_socials = true %}{% endif %}
-  {% endfor %}
-
-  {% if has_socials %}
   <div class="buttons are-small mt-2">
     {% for social in socials %}
       {% assign value = club[social] %}
@@ -47,6 +41,5 @@ layout: page
       {% endif %}
     {% endfor %}
   </div>
-  {% endif %}
 </div>
 {% endfor %}
