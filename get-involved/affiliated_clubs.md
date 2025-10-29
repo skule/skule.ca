@@ -4,7 +4,7 @@ layout: page
 ---
 
 {% assign socials = "Website,LinkTree,Email,Instagram,Discord,Facebook,LinkedIn,TikTok,YouTube,Twitter" | split: "," %}
-{% assign categories = "Arts and Music,Athletics,Social Change and Advocacy,Community Service and Outreach,Cultural, Faith, or Identity-Based Community Group,Design/Competition Team,Hobby/Special Interest,Education and Professional Development,Discipline-Specific Club" | split: "," %}
+{% assign categories = "Arts and Music|Athletics|Social Change and Advocacy|Community Service and Outreach|Cultural, Faith, or Identity-Based Community Group|Design/Competition Team|Hobby/Special Interest|Education and Professional Development|Discipline-Specific Club" | split: "|" %}
 
 <h2 class="vp-academic-text mb-3">Filter by Category</h2>
 <div id="category-filters" class="buttons are-small mb-5">
