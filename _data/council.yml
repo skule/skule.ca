@@ -1,8 +1,8 @@
 officer:
   president: "Kenneth Lloyd Hilton"
-  vp_finance: "<em>Vacant</em>"
-  vp_communications: "Ethan Bhushan Mao"
-  vp_academic: "Ziquan (Jim) Xu"
+  vp_finance: "Kenneth Sulimro"
+  vp_communications: "Ethan Mao"
+  vp_academic: "Jim Xu"
   vp_student_life: "Shosh Lebo"
   speaker: "Lavneet Sidhu"
   business_manager: "Rhonda Meek"
@@ -12,21 +12,21 @@ bod_representatives:
     - "Binying (Edith) Fang"
     - "Valentina Lin Fang"
     - "Alyssa Tiw"
-    - "<em>Vacant</em>"
+    - "William Chen"
   chemical: "Jennifer Zhifeng Xu"
   civil: "Dana Bou Saab"
   ece:
     - "Justin Fang"
-    - "<em>Vacant</em>"
+    - "Ayan Ali"
   engsci: "Elias Barsa"
   first_year:
-    - "Hankun Lin"
-    - "Jimmy Ji"
-    - "<em>Vacant</em>"
+    - "Steven Zhang"
+    - "Johny Hao Dong"
+    - "Ai-Ling Ji"
   industrial: "Jaden Benjamin Hinds"
-  mse: "<em>Vacant</em>"
+  mse: "Simona Tenche"
   mechanical: "Sebastian Kiernan"
-  mineral: "<em>Vacant</em>"
+  mineral: "Nicolás Oré"
 
 project_directors:
   alumni_outreach: "Edith Fang"
@@ -72,16 +72,11 @@ project_directors:
   athletics_president: "Meme Liu"
   orientation_chair: "Simona Teche"
   skule_nite:
-    director: "<em>Vacant</em>"
-    assistant_directors:
-      - "<em>Vacant</em>"
-      - "<em>Vacant</em>"
-    producer: "<em>Vacant</em>"
-    assistant_producer: "<em>Vacant</em>"
+    director: "Sophia Bonellos"
   bnad_leedur: "Aidan Castanheiro"
   yncn:
-    - "<em>Vacant</em>"
-    - "<em>Vacant</em>"
+    - "Michelle Sun"
+    - "Shaba Khan"
   bng:
     - "Ava McMurray"
     - "Sebastian Kiernan"
@@ -114,92 +109,92 @@ discipline_club_chairs:
   trackone: "Catherine Zhong"
 
 reps:
-  chemical:
-    first_year: "William Chen"
-    second_year: "Katy Mezei"
-    third_year: "<em>Vacant</em>"
-    pey: "Miko Samson"
-    fourth_year: "William Vandenburg"
-  civil:
-    first_year: "Natalie El Taki"
-    second_year: "Elizabeth Menjivar"
-    third_year: "<em>Vacant</em>"
-    pey:
-      - "Dana Bou Saab"
-      - "<em>Vacant</em>"
-    fourth_year: "<em>Vacant</em>"
-  ece:
-    first_year:
+  first_year:
+    chemical: "Johnny Hao Dong"
+    civil: "Natalie El Taki"
+    ece:
       - "Ethan Mao"
       - "Arnav Agarwal"
       - "Antoine Tabet"
       - "Abdullah Bin Rashid"
-    second_year:
+    engsci:
+      - "Andy Wen"
+      - "Eric Xie"
+    industrial:
+      - "Ivan Zhuo"
+      - "Yann Naman"
+    mse: "Cathy Pang"
+    mechanical:
+      - "Tulgar Ilhan"
+      - "Francesca Huang"
+    mineral: "Ahnaf Hawlader"
+    trackone: "Sunny Liu"
+
+  second_year:
+    chemical: "Katy Mezei"
+    civil: ""
+    ece:
       - "Vishwas Puri"
       - "Aarnav Chordia"
       - "Adam Abreha"
       - "Gianella Bejar Alvarez"
-    third_year:
+    engsci:
+      - "Oliver Lagerquist"
+      - "Evelyn Fallah"
+    industrial: "Renzo Ugarte Basurco"
+    mse: "Izwa Sahdi"
+    mechanical:
+      - "Rik Chatterjee"
+      - "Sebastian Kiernan"
+    mineral: "Zach Zhang"
+
+  third_year:
+    chemical: "<em>Vacant</em>"
+    civil: "<em>Vacant</em>"
+    ece:
       - "Vishwas Puri"
       - "Gia Bejar"
       - "<em>Vacant</em>"
       - "<em>Vacant</em>"
-    pey:
+    engsci: "Evelyn Fallah"
+    industrial: "Renzo Ugarte"
+    mse: "Alexis Kuri"
+    mechanical:
+      - "Sebastian Kiernan"
+      - "<em>Vacant</em>"
+    mineral: "<em>Vacant</em>"
+
+  pey:
+    chemical: "Miko Samson"
+    civil:
+      - "Dana Bou Saab"
+      - "<em>Vacant</em>"
+    ece:
       - "<em>Vacant</em>"
       - "<em>Vacant</em>"
-    fourth_year:
+    engsci: "<em>Vacant</em>"
+    industrial: "Sunny Yang"
+    mse: "<em>Vacant</em>"
+    mechanical:
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+    mineral: "<em>Vacant</em>"
+
+  fourth_year:
+    chemical: "William Vandenburg"
+    civil: "<em>Vacant</em>"
+    ece:
       - "Nidhi Nair"
       - "<em>Vacant</em>"
       - "<em>Vacant</em>"
       - "<em>Vacant</em>"
-  engsci:
-    first_year:
-      - "Andy Wen"
-      - "Eric Xie"
-    second_year:
-      - "Oliver Lagerquist"
-      - "Evelyn Fallah"
-    third_year: "Evelyn Fallah"
-    pey: "<em>Vacant</em>"
-    fourth_year: "<em>Vacant</em>"
-  industrial:
-    first_year:
-      - "Ivan Zhuo"
-      - "Yann Naman"
-    second_year: "Renzo Ugarte Basurco"
-    third_year: "Renzo Ugarte"
-    pey: "Sunny Yang"
-    fourth_year: "Hayden Groer"
-  mse:
-    first_year: "Cathy Pang"
-    second_year: "Izwa Sahdi"
-    third_year: "Alexis Kuri"
-    pey: "<em>Vacant</em>"
-    fourth_year: "Kasia Murawska"
-  mechanical:
-    first_year:
-      - "Tulgar Ilhan"
-      - "Francesca Huang"
-    second_year:
-      - "Rik Chatterjee"
-      - "Sebastian Kiernan"
-    third_year:
-      - "Sebastian Kiernan"
-      - "<em>Vacant</em>"
-    pey:
-      - "<em>Vacant</em>"
-      - "<em>Vacant</em>"
-    fourth_year:
+    engsci: "<em>Vacant</em>"
+    industrial: "Hayden Groer"
+    mse: "Kasia Murawska"
+    mechanical:
       - "Matthew Du"
       - "<em>Vacant</em>"
-  mineral:
-    first_year: "Ahnaf Hawlader"
-    second_year: "Zach Zhang"
-    third_year: "<em>Vacant</em>"
-    pey: "<em>Vacant</em>"
-    fourth_year: "<em>Vacant</em>"
-  trackone:
-    first_year: "Sunny Liu"
+    mineral: "<em>Vacant</em>"
 
 finance:
   acting_vp_finance: "Justin Fang"
