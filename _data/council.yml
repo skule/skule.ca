@@ -111,24 +111,90 @@ discipline_club_chairs:
 reps:
   first_year:
     chemical: "Johnny Hao Dong"
-    civil: "Natalie El Taki"
+    civil: "Hugo (Tin Ho) Wang"
+    ece:
+      - "Jeffery Wong"
+      - "Keyu (Daphne) Zhu"
+      - "Shelley Lin"
+      - "Sam Ghasemzadeh"
+    engsci:
+      - "Ibrahim Khawar"
+      - "Yang Wang"
+    industrial:
+      - "Erik Coscollola Domingo"
+      - "Tsepella Goff-Martin"
+    mse: "Katie Alex Buchel"
+    mechanical:
+      - "Nima Bakhshaie"
+      - "Arvyn Singh"
+    mineral: "Evan Zhao"
+    trackone: "Hermela Abiy"
+
+  second_year:
+    chemical: "Mahee Alam"
+    civil: "Ezra Chung Hang Lee"
     ece:
       - "Ethan Mao"
       - "Arnav Agarwal"
-      - "Antoine Tabet"
       - "Abdullah Bin Rashid"
+      - "Rashid Mahmood"
     engsci:
       - "Andy Wen"
       - "Eric Xie"
-    industrial:
-      - "Ivan Zhuo"
-      - "Yann Naman"
-    mse: "Cathy Pang"
+    industrial: "Rohan Garg"
+    mse: "Catherine Mandy Pang"
     mechanical:
-      - "Tulgar Ilhan"
-      - "Francesca Huang"
-    mineral: "Ahnaf Hawlader"
-    trackone: "Sunny Liu"
+      - "Aaryan Fredrick"
+      - "Jack Hunter Klein"
+    mineral: "Joaquin Escudero"
+
+  third_year:
+    chemical: "McQueen Chung"
+    civil: "Elizabeth Menjivar"
+    ece:
+      - "Vishwas Puri"
+      - "Gia Bejar"
+      - "Firdaus Ansari"
+      - "<em>Vacant</em>"
+    engsci: "Evelyn Fallah"
+    industrial: "Renzo Ugarte"
+    mse: "Alexis Kuri"
+    mechanical:
+      - "Sebastian Kiernan"
+      - "<em>Vacant</em>"
+    mineral: "<em>Vacant</em>"
+
+  pey:
+    chemical: "Miko Samson"
+    civil:
+      - "Dana Bou Saab"
+      - "Charles Gu"
+    ece:
+      - "Yan Zu (Joe) Dai"
+      - "<em>Vacant</em>"
+    engsci: "Andy Gong"
+    industrial: "Sunny Yang"
+    mse: "<em>Vacant</em>"
+    mechanical:
+      - "Rachel Pittman"
+      - "Aidan Principe"
+    mineral: "<em>Vacant</em>"
+
+  fourth_year:
+    chemical: "William Vandenburg"
+    civil: "<em>Vacant</em>"
+    ece:
+      - "Nidhi Nair"
+      - "Asim Rahman"
+      - "Hannah Lila"
+      - "Raida Fardous"
+    engsci: "Briana Chen"
+    industrial: "Hayden Groer"
+    mse: "Kasia Murawska"
+    mechanical:
+      - "Matthew Du"
+      - "Celin Begeshev"
+    mineral: "<em>Vacant</em>"
 
   second_year:
     chemical: "Katy Mezei"
