@@ -37,53 +37,62 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 |Position|Representative|
 |-|-|
-|**First Year**||
-|Chemical|{{ site.data.council.reps.first_year.chemical }}|
-|Civil|{{ site.data.council.reps.first_year.civil }}|
-{% for rep in site.data.council.reps.first_year.ece %}|ECE|{{ rep }}|
-{% endfor %}{% for rep in site.data.council.reps.first_year.engsci %}|EngSci|{{ rep }}|
-{% endfor %}{% for rep in site.data.council.reps.first_year.industrial %}|Industrial|{{ rep }}|
-{% endfor %}|MSE|{{ site.data.council.reps.first_year.mse }}|
-{% for rep in site.data.council.reps.first_year.mechanical %}|Mechanical|{{ rep }}|
-{% endfor %}|Mineral|{{ site.data.council.reps.first_year.mineral }}|
-|Track One|{{ site.data.council.reps.first_year.trackone }}|
+|First Year|{{ site.data.council.reps.first_year.chemical }}|
+|Second Year|{{ site.data.council.reps.second_year.chemical }}|
+|Third Year|{{ site.data.council.reps.third_year.chemical }}|
+|PEY|{{ site.data.council.reps.pey.chemical }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.chemical }}|
 
-|**Second Year**||
-|Chemical|{{ site.data.council.reps.second_year.chemical }}|
-|Civil|{{ site.data.council.reps.second_year.civil }}|
-{% for rep in site.data.council.reps.second_year.ece %}|ECE|{{ rep }}|
-{% endfor %}{% for rep in site.data.council.reps.second_year.engsci %}|EngSci|{{ rep }}|
-{% endfor %}|Industrial|{{ site.data.council.reps.second_year.industrial }}|
-|MSE|{{ site.data.council.reps.second_year.mse }}|
-{% for rep in site.data.council.reps.second_year.mechanical %}|Mechanical|{{ rep }}|
-{% endfor %}|Mineral|{{ site.data.council.reps.second_year.mineral }}|
+|**Civil**||
+|First Year|{{ site.data.council.reps.first_year.civil }}|
+|Second Year|{{ site.data.council.reps.second_year.civil }}|
+|Third Year|{{ site.data.council.reps.third_year.civil }}|
+{% for rep in site.data.council.reps.pey.civil %}|PEY|{{ rep }}|
+{% endfor %}|Fourth Year|{{ site.data.council.reps.fourth_year.civil }}|
 
-|**Third Year**||
-|Chemical|{{ site.data.council.reps.third_year.chemical }}|
-|Civil|{{ site.data.council.reps.third_year.civil }}|
-{% for rep in site.data.council.reps.third_year.ece %}|ECE|{{ rep }}|
-{% endfor %}|EngSci|{{ site.data.council.reps.third_year.engsci }}|
-|Industrial|{{ site.data.council.reps.third_year.industrial }}|
-|MSE|{{ site.data.council.reps.third_year.mse }}|
-{% for rep in site.data.council.reps.third_year.mechanical %}|Mechanical|{{ rep }}|
-{% endfor %}|Mineral|{{ site.data.council.reps.third_year.mineral }}|
+|**ECE**||
+{% for rep in site.data.council.reps.first_year.ece %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.second_year.ece %}|Second Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.third_year.ece %}|Third Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.pey.ece %}|PEY|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.fourth_year.ece %}|Fourth Year|{{ rep }}|
+{% endfor %}
 
-|**PEY**||
-|Chemical|{{ site.data.council.reps.pey.chemical }}|
-{% for rep in site.data.council.reps.pey.civil %}|Civil|{{ rep }}|
-{% endfor %}{% for rep in site.data.council.reps.pey.ece %}|ECE|{{ rep }}|
-{% endfor %}|EngSci|{{ site.data.council.reps.pey.engsci }}|
-|Industrial|{{ site.data.council.reps.pey.industrial }}|
-|MSE|{{ site.data.council.reps.pey.mse }}|
-{% for rep in site.data.council.reps.pey.mechanical %}|Mechanical|{{ rep }}|
-{% endfor %}|Mineral|{{ site.data.council.reps.pey.mineral }}|
+|**EngSci**||
+{% for rep in site.data.council.reps.first_year.engsci %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.second_year.engsci %}|Second Year|{{ rep }}|
+{% endfor %}|Third Year|{{ site.data.council.reps.third_year.engsci }}|
+|PEY|{{ site.data.council.reps.pey.engsci }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.engsci }}|
 
-|**Fourth Year**||
-|Chemical|{{ site.data.council.reps.fourth_year.chemical }}|
-|Civil|{{ site.data.council.reps.fourth_year.civil }}|
-{% for rep in site.data.council.reps.fourth_year.ece %}|ECE|{{ rep }}|
-{% endfor %}|EngSci|{{ site.data.council.reps.fourth_year.engsci }}|
-|Industrial|{{ site.data.council.reps.fourth_year.industrial }}|
-|MSE|{{ site.data.council.reps.fourth_year.mse }}|
-{% for rep in site.data.council.reps.fourth_year.mechanical %}|Mechanical|{{ rep }}|
-{% endfor %}|Mineral|{{ site.data.council.reps.fourth_year.mineral }}|
+|**Industrial**||
+{% for rep in site.data.council.reps.first_year.industrial %}|First Year|{{ rep }}|
+{% endfor %}|Second Year|{{ site.data.council.reps.second_year.industrial }}|
+|Third Year|{{ site.data.council.reps.third_year.industrial }}|
+|PEY|{{ site.data.council.reps.pey.industrial }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.industrial }}|
+
+|**MSE**||
+|First Year|{{ site.data.council.reps.first_year.mse }}|
+|Second Year|{{ site.data.council.reps.second_year.mse }}|
+|Third Year|{{ site.data.council.reps.third_year.mse }}|
+|PEY|{{ site.data.council.reps.pey.mse }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.mse }}|
+
+|**Mechanical**||
+{% for rep in site.data.council.reps.first_year.mechanical %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.second_year.mechanical %}|Second Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.third_year.mechanical %}|Third Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.pey.mechanical %}|PEY|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.fourth_year.mechanical %}|Fourth Year|{{ rep }}|
+{% endfor %}
+
+|**Mineral**||
+|First Year|{{ site.data.council.reps.first_year.mineral }}|
+|Second Year|{{ site.data.council.reps.second_year.mineral }}|
+|Third Year|{{ site.data.council.reps.third_year.mineral }}|
+|PEY|{{ site.data.council.reps.pey.mineral }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.mineral }}|
+
+|**Track One**||
+|First Year|{{ site.data.council.reps.first_year.trackone }}|
