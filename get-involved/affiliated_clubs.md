@@ -15,7 +15,8 @@ layout: page
 </div>
 
 <div id="clubs-container">
-  {% for club in site.data.clubs.clubs %}
+  {% assign sorted_clubs = site.data.clubs.clubs | sort: "Club Name" %}
+  {% for club in sorted_clubs %}
   <div class="box club-box" data-category="{{ club.Category }}">
     <p>
       <b class="vp-academic-text">{{ club["Club Name"] }}</b><br>
