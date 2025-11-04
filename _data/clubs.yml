@@ -1,7 +1,7 @@
-clubs:
+full_status:
 - Club Name: Fly with Origami, Learn to Dream Students
+  Club Name Abbreviation: UTFOLDs
   Contact Name: Daniel Phan
-  Email: ut.fold@gmail.com
   Category: Hobby/Special Interest
   Club Description: "We host free weekly origami workshops on the U of T campus for\
     \ U of T students, staff, and alumni, as well as for anyone within the community\
@@ -23,9 +23,10 @@ clubs:
     \ in efforts to build on members' origami skill and knowledge, and also, to ensure\
     \ that there is something within the scope of origami for everyone to enjoy."
   LinkTree: UTFOLD
+  Contact Email Address: ut.fold@gmail.com
 - Club Name: IEEE University of Toronto Student Branch
+  Club Name Abbreviation: IEEE UofT
   Contact Name: Victoria Yeung
-  Email: chair@ieee.utoronto.ca
   Category: Education and Professional Development
   Club Description: For more than 50 years, IEEE UofT has helped students grow both
     personally and professionally by offering opportunities to deepen their industry
@@ -37,9 +38,10 @@ clubs:
   Instagram: ieee_uoft
   Discord: 6xkW8pYW7B
   LinkedIn: ieeeuoft
+  Contact Email Address: chair@ieee.utoronto.ca
 - Club Name: Troitsky Bridge Building Design Team
+  Club Name Abbreviation: Troitsky
   Contact Name: Nora Tawfiq and Casey Ruta
-  Email: troitsky@g.skule.ca
   Category: Design/Competition Team
   Club Description: "The Troitsky Bridge Building Club is a design team open to both\
     \ engineering and architecture students, where we design and construct model bridges\
@@ -57,9 +59,10 @@ clubs:
   LinkTree: troitskyuoft
   Instagram: troitskyuoft
   Discord: UofT Troitsky 2024-25
+  Contact Email Address: troitsky@g.skule.ca
 - Club Name: Sustainable Engineers Association
+  Club Name Abbreviation: SEA
   Contact Name: Yazan Zamel
-  Email: chair@sea.skule.ca
   Category: Education and Professional Development
   Club Description: The Sustainable Engineers Association (SEA) is fueled by the drive
     to increase interest and awareness about sustainability. We define sustainability
@@ -75,9 +78,10 @@ clubs:
     to get involved and participate throughout the year. Email chair@sea.skule.ca
     for more info or follow us on FB @SEAUofT and IG @seauoft.
   Instagram: seauoft
+  Contact Email Address: chair@sea.skule.ca
 - Club Name: University of Toronto Emergency First Responders Club
+  Club Name Abbreviation: UTEFR
   Contact Name: Rafael Perez Vicente
-  Email: director@utefr.ca
   Category: Community Service and Outreach
   Club Description: 'The University of Toronto Emergency First Responders (UTEFR)
     is a Campus Emergency Response Team in Downtown Toronto. We have a passion for
@@ -98,9 +102,10 @@ clubs:
     and base the course content from practical experience and knowledge gained in
     the field.'
   Instagram: uoft_utefr
+  Contact Email Address: director@utefr.ca
 - Club Name: University of Toronto Machine Intelligence Student Team
+  Club Name Abbreviation: UTMIST
   Contact Name: Rainy Chen
-  Email: internalaffairs@utmist.skule.ca
   Category: Education and Professional Development
   Club Description: 'University of Toronto Machine Intelligence Student Team (UTMIST)
     is the largest undergraduate Machine Learning (ML) club and one of the largest
@@ -120,9 +125,10 @@ clubs:
   Discord: 88mSPw8
   Facebook: https://www.facebook.com/UofT.MIST/
   LinkedIn: utmist
+  Contact Email Address: internalaffairs@utmist.skule.ca
 - Club Name: Spark Design Club
+  Club Name Abbreviation: Spark
   Contact Name: Kelly Chen
-  Email: president@spark.skule.ca
   Category: Design/Competition Team
   Club Description: The Spark Design Club (a.k.a Spark!) builds interactive displays
     and arcade machines that are displayed all around our campus. Spark is run by
@@ -132,9 +138,10 @@ clubs:
     the year on practical engineering topics, where students learn to harvest components
     from e-waste, design and acid etch their own PCBs, solder, and use power tools.
   Instagram: sparkdesignclub
+  Contact Email Address: president@spark.skule.ca
 - Club Name: University of Toronto Sports Analytics Club
+  Club Name Abbreviation: UTSPAN
   Contact Name: Jaden Majumdar and Zeke Weng
-  Email: sportsanalytics@utoronto.ca
   Category: Design/Competition Team
   Club Description: 'The University of Toronto Sports Analytics Student Group is a
     group composed of University of Toronto members who have an interest in the field
@@ -143,9 +150,10 @@ clubs:
     to industry leaders in the field. As a group, members have won competitions such
     as the NFL Big Data Bowl, the big data cup and the SMT data challenge.'
   Discord: TGaJWtcG3s
+  Contact Email Address: sportsanalytics@utoronto.ca
 - Club Name: Iron Dragons
+  Club Name Abbreviation: ID
   Contact Name: Kassie Tan
-  Email: dragonboat@g.skule.ca
   Category: Athletics
   Club Description: The University of Toronto Engineering Iron Dragons is a co-ed
     dragon boat club, originating and representing the Faculty of Applied Science
@@ -161,9 +169,10 @@ clubs:
     Dragons family, whether it is to stay fit, try a new sport, or make friends!
   Instagram: skuledragonboat
   Discord: KsUM64hY
+  Contact Email Address: dragonboat@g.skule.ca
 - Club Name: UofT Seismic Design Team
+  Club Name Abbreviation: UTSD
   Contact Name: Naveen Black
-  Email: ut.seismic@gmail.com
   Category: Design/Competition Team
   Club Description: 'We are a student-run design team that aims to promote earthquake
     engineering to UofT''s community and develop our theoretical and practical skills
@@ -178,9 +187,10 @@ clubs:
     predictions, cost analysis, and effective presentation skills.'
   Instagram: uoftseismic
   Discord: yQRa77H4Kx
+  Contact Email Address: ut.seismic@gmail.com
 - Club Name: University of Toronto Engineering Finance Association
+  Club Name Abbreviation: UTEFA
   Contact Name: Donald Lin
-  Email: utefa@g.skule.ca
   Category: Education and Professional Development
   Club Description: 'UTEFA provides Engineering students interested in a professional
     career in finance with resources to gain knowledge and experience through workshops,
@@ -196,9 +206,10 @@ clubs:
     about their experiences and responsibilities to allow our analysts to better understand
     career paths within the industry and build connections across fields.'
   Instagram: utefa_uoft
+  Contact Email Address: utefa@g.skule.ca
 - Club Name: NeurotechUofT
+  Club Name Abbreviation: NTUT
   Contact Name: The entire Tenth Leadership at NeurotechUofT
-  Email: leadership@neurotechuoft.ca
   Category: Design/Competition Team
   Club Description: NeurotechUofT is the University of Toronto’s only student-led
     design team dedicated to neuroengineering, where students engineer technologies
@@ -213,15 +224,17 @@ clubs:
     platforms like our NeurON Air Podcast; empowering students not just to learn about
     the brain, but to build for it.
   Instagram: neurotechuoft
+  Contact Email Address: leadership@neurotechuoft.ca
 - Club Name: aUToronto
+  Club Name Abbreviation: AU
   Contact Name: Chad Paik
-  Email: chad.paik@autodrive.utoronto.ca
   Category: Design/Competition Team
   Club Description: Self driving car club competing in Autodrive Challenge II
   Instagram: autoronto_uoft
+  Contact Email Address: chad.paik@autodrive.utoronto.ca
 - Club Name: Women in Science and Engineering UofT Chapter
+  Club Name Abbreviation: WISE
   Contact Name: Lauren Altomare
-  Email: president@wise.skule.ca
   Category: Social Change and Advocacy
   Club Description: 'The Women in Science and Engineering University of Toronto (WISE
     U of T) Chapter was established in 1999, arising as a forum for female students
@@ -235,9 +248,10 @@ clubs:
     opportunities and 3) Empower: Build leadership skills and confidence with such
     skills in professional settings.'
   Instagram: wiseuoft
+  Contact Email Address: president@wise.skule.ca
 - Club Name: University of Toronto's Wind Turbine Student Design Team
+  Club Name Abbreviation: UTWind
   Contact Name: Dhara Patel
-  Email: myutwind@gmail.com
   Category: Design/Competition Team
   Club Description: 'UTWind is the University of Toronto’s Student Wind Turbine design
     team. Each year, we design and build a small-scale, sustainable wind turbine to
@@ -249,9 +263,10 @@ clubs:
     Sustainability, there’s a place for everyone to get involved.'
   Instagram: utwindclub
   LinkedIn: utwind
+  Contact Email Address: myutwind@gmail.com
 - Club Name: Blue Sky Solar Racing
+  Club Name Abbreviation: BSSR
   Contact Name: Kai Hashimoto
-  Email: blueskysolar@studentorg.utoronto.ca
   Category: Design/Competition Team
   Club Description: 'Founded in 1995, the University of Toronto Blue Sky Solar Racing
     team is a student-led design-build team that has designed, built and raced solar
@@ -265,9 +280,10 @@ clubs:
     learning and technical training opportunities in the process.'
   Instagram: blueskysolar77
   LinkedIn: bluesky77
+  Contact Email Address: blueskysolar@studentorg.utoronto.ca
 - Club Name: University of Toronto Consulting Association
+  Club Name Abbreviation: UTCA
   Contact Name: Victoria Chen
-  Email: utca.contact@gmail.com
   Category: Education and Professional Development
   Club Description: The University of Toronto Consulting Association (UTCA) is a diverse
     organization that provides students from different fields with the opportunity
@@ -283,9 +299,9 @@ clubs:
     current business problems.
   Instagram: utca.news
   LinkedIn: university-of-toronto-consulting-association
+  Contact Email Address: utca.contact@gmail.com
 - Club Name: University of Toronto Toastmasters
   Contact Name: Darsh Shah
-  Email: toastmasters@g.skule.ca
   Category: Education and Professional Development
   Club Description: University of Toronto Toastmasters (UTT) is a club that is aimed
     at creating a supportive environment where anyone can improve their public speaking
@@ -303,9 +319,10 @@ clubs:
     the environment it creates, one that is supportive and positive, with peer evaluations
     focused on collective growth.
   Instagram: uofttoastmasters
+  Contact Email Address: toastmasters@g.skule.ca
 - Club Name: Indian Student Organisation
+  Club Name Abbreviation: ISO
   Contact Name: Mihir Agarwal, Sudeeksha Singh
-  Email: issutsg@gmail.com
   Category: Cultural, Faith, or Identity-Based Community Group
   Club Description: 'The Indian Students’ Organisation, is a student-run organisation,
     recognised by the University of Toronto, that strives to celebrate and propagate
@@ -324,9 +341,10 @@ clubs:
     world to partake. Get involved by reaching out to our Executive Team or attending
     any events, festivals, or efforts organised by the ISO!'
   Instagram: isouoft
+  Contact Email Address: issutsg@gmail.com
 - Club Name: Concrete Toboggan Design Team
+  Club Name Abbreviation: Tbog
   Contact Name: Sam Denomme or Selena Li
-  Email: captain@toboggan.skule.ca
   Category: Design/Competition Team
   Club Description: Concrete Toboggan designs a toboggan every year with concrete
     skis, a carbon fiber shell, and mechanical steering and braking components and
@@ -338,17 +356,19 @@ clubs:
     Ikeabog, and Joboggan.
   Instagram: uoftbog
   Discord: 35re33aG
+  Contact Email Address: captain@toboggan.skule.ca
 - Club Name: Skule Billiards Club
+  Club Name Abbreviation: SBC
   Contact Name: Mitchell Park
-  Email: skulebilliardsclub@gmail.com
   Category: Hobby/Special Interest
   Club Description: We enjoy playing pool, and we like to have fun!! We are completely
     beginner friendly, and can provide help, guidance and teaching to anyone who is
     new or just wants to improve!
   Instagram: skulebilliardsclub
+  Contact Email Address: skulebilliardsclub@gmail.com
 - Club Name: Engineers Without Borders
+  Club Name Abbreviation: EWB
   Contact Name: Angela Ye and Erin Stewart
-  Email: uoft@chapter.ewb.ca
   Category: Social Change and Advocacy
   Club Description: Engineers Without Borders (EWB) is an organization dedicated to
     creating change by supporting social innovations and fostering student advocacy.
@@ -362,9 +382,9 @@ clubs:
     (@ewbuoft) for more information.
   Instagram: ewbuoft
   Discord: SJvgDZT5EP
+  Contact Email Address: uoft@chapter.ewb.ca
 - Club Name: UofTHacks
   Contact Name: Yannick Longval
-  Email: contact@uofthacks.com
   Category: Education and Professional Development
   Club Description: UofTHacks is Canada's first ever student-run hackathon! We host
     an annual hackathon where over 500 innovators, developers, designers, and entrepreneurs
@@ -375,9 +395,10 @@ clubs:
     and furthering their journey in technology. We hope to help inspire the new generation
     of entrepreneurs by providing ample support from a professional community.
   Instagram: uofthacks
+  Contact Email Address: contact@uofthacks.com
 - Club Name: University of Toronto Supermileage Team
+  Club Name Abbreviation: UTSM
   Contact Name: Rafael Perez Vicente
-  Email: team@utsm.skule.ca
   Category: Design/Competition Team
   Club Description: "The University of Toronto Supermileage Team (UTSM) is a student-led\
     \ organization focused on designing and building hyper-efficient, sustainable\
@@ -400,9 +421,10 @@ clubs:
   Instagram: utsm_team
   LinkedIn: university-of-toronto-supermileage
   TikTok: utsupermileage
+  Contact Email Address: team@utsm.skule.ca
 - Club Name: Robotics for Space Exploration
+  Club Name Abbreviation: RSX
   Contact Name: Sarah Zhao (Admin); Parm Ghai (Tech)
-  Email: president@rsx.skule.ca
   Category: Design/Competition Team
   Club Description: "Robotics for Space Exploration (RSX) is a space robotics design\
     \ team where you can take part in designing and building space robotics systems\
@@ -433,9 +455,10 @@ clubs:
     \ and we are happy to foster their growth to become the next scientists and engineers."
   Instagram: rsx.utoronto
   LinkedIn: rsx-utoronto
+  Contact Email Address: president@rsx.skule.ca
 - Club Name: University of Toronto Chemical Vehicles
+  Club Name Abbreviation: UTCV
   Contact Name: Mariam Itani
-  Email: president@utcv.ca
   Category: Design/Competition Team
   Club Description: 'The University of Toronto Chemical Vehicles (UTCV) is a multidisciplinary,
     student-led team dedicated to designing and building autonomous vehicles powered
@@ -466,9 +489,10 @@ clubs:
     or operations, UTCV offers a collaborative environment to apply your skills and
     learn new ones!'
   Instagram: utcv_official
+  Contact Email Address: president@utcv.ca
 - Club Name: Power to Change
+  Club Name Abbreviation: P2C
   Contact Name: Trinity Pang
-  Email: p2c.uoft@gmail.com
   Category: Cultural, Faith, or Identity-Based Community Group
   Club Description: Engineers at U of T are known for their capabilities and spirit
     in working through challenges not just in labs and lecture halls but also everyday
@@ -485,9 +509,10 @@ clubs:
     get our latest updates!
   Instagram: p2cuoft
   Facebook: facebook.com/p2cuoft
+  Contact Email Address: p2c.uoft@gmail.com
 - Club Name: University of Toronto Formula Racing
+  Club Name Abbreviation: UTFR
   Contact Name: Eric Emmenegger
-  Email: team@fsaeutoronto.ca
   Category: Design/Competition Team
   Club Description: The University of Toronto Formula SAE Racing team (UTFR) designs,
     manufactures and races a single-seater open-wheel Formula style car every year.
@@ -499,18 +524,20 @@ clubs:
   Instagram: uoftfsae
   LinkedIn: utfr
   TikTok: uoftfsae
+  Contact Email Address: team@fsaeutoronto.ca
 - Club Name: Trustworthy Machine Intelligence
+  Club Name Abbreviation: TMI
   Contact Name: Joeun Yook, Steven Lin
-  Email: utoronto.tmi@gmail.com
   Category: Education and Professional Development
   Club Description: TMI takes a deeper look at AI in the context of deployment in
     real-world systems. Since conception of the club, TMI has solely focused on addressing
     ethical issues in the development and application of AI. TMI has spearheaded numerous
     projects, with a clear commitment to exploring ethical principles in AI.
   Instagram: uoft_tmi
+  Contact Email Address: utoronto.tmi@gmail.com
 - Club Name: University of Toronto Robotics Association
+  Club Name Abbreviation: UTRA
   Contact Name: Brendan Lee
-  Email: president@utra.ca
   Category: Design/Competition Team
   Club Description: Established in 2004, the University of Toronto Robotics Association
     (UTRA) is the premier robotics student association at the University of Toronto,
@@ -525,9 +552,10 @@ clubs:
     Havoc Robot League. Our annual hackathon, UTRAHacks, draws in nearly 500 students
     from around the world to compete in North America’s largest robotics hackathon.
   Instagram: utra_uoft
+  Contact Email Address: president@utra.ca
 - Club Name: University of Toronto Outing Club
+  Club Name Abbreviation: UTOC
   Contact Name: Anika Credico, Zach Groves
-  Email: anika.credico@utoc.ca
   Category: Hobby/Special Interest
   Club Description: The University of Toronto Outing Club has been ‘Doing It Outside’
     since 1957. Since then, we have been committed to making the outdoors accessible
@@ -538,9 +566,10 @@ clubs:
     launch point for many of our adventures. We are always taking suggestions as to
     what kinds of club socials and activities we should run from our members!
   Instagram: utoc_club
+  Contact Email Address: anika.credico@utoc.ca
 - Club Name: Interplanetary Space Exploration Team
+  Club Name Abbreviation: ISET
   Contact Name: Suhani Sood
-  Email: iset@skule.ca
   Category: Design/Competition Team
   Club Description: Interplanetary Space Exploration Team (ISET) was founded on the
     basis of providing a platform for undergraduate students to actively take part
@@ -553,17 +582,19 @@ clubs:
     WE might be the ones traveling there one day!
   Instagram: isetuoft
   Facebook: ISETUofT
+  Contact Email Address: iset@skule.ca
 - Club Name: Hide and Seek Club
+  Club Name Abbreviation: H&S
   Contact Name: Jennifer Fong and Ava McMurray
-  Email: uofthideandseek@gmail.com
   Category: Athletics
   Club Description: We’re the Hide & Seek club! We run biweekly games of hide and
     seek (and other yard games) in buildings on campus - all are welcome!
   Instagram: hideandseekuoft
   Discord: Mg6KgxGCrs
+  Contact Email Address: uofthideandseek@gmail.com
 - Club Name: Stars for Scholarly Youth
+  Club Name Abbreviation: SSY
   Contact Name: Chloe Nguyen
-  Email: utoronto@starsforscholarlyyouth.com
   Category: Community Service and Outreach
   Club Description: 'Stars for Scholarly Youth (SSY) is a student-led non-profit and
     university club dedicated to advancing educational equity for underserved youth,
@@ -583,9 +614,9 @@ clubs:
     community outreach, or social impact, SSY offers a supportive environment where
     students can make a real difference.'
   Instagram: starsfsyuoft
+  Contact Email Address: utoronto@starsforscholarlyyouth.com
 - Club Name: Skule Stageband
   Contact Name: Savannah Byrne & Liam Krestow
-  Email: stageband@g.skule.ca
   Category: Arts and Music
   Club Description: The ~40-member, student-run Skule™ Stage Band has been playing
     jazz to great acclaim at Skule™ events for over 35 years. These include the most
@@ -596,9 +627,10 @@ clubs:
     at UofT who enjoys playing and performing swing, big band, funk, latin, and all
     other genres of jazz music.
   Instagram: skulestageband
+  Contact Email Address: stageband@g.skule.ca
 - Club Name: Human Powered Vehicles Design Team
+  Club Name Abbreviation: HPVDT
   Contact Name: Ethan Elbaz
-  Email: captain@hpvdt.skule.ca
   Category: Design/Competition Team
   Club Description: "The Human-Powered Vehicles Design Team (HPVDT) is a student organization\
     \ at the University of Toronto that is focused on the design and construction\
@@ -619,9 +651,10 @@ clubs:
   LinkTree: https://linktr.ee/hpvdt
   Instagram: hpvdt
   Discord: CkjaV7Cgga
+  Contact Email Address: captain@hpvdt.skule.ca
 - Club Name: Skule Tennis Club
+  Club Name Abbreviation: STC
   Contact Name: Sara Hadzimustafic
-  Email: skuletc@gmail.com
   Category: Athletics
   Club Description: STC (Skule Tennis Club) is a club that arranges weekly meet-ups
     for engineering students itching to play tennis. We coordinate court usage with
@@ -636,9 +669,10 @@ clubs:
     while.
   Instagram: stc_official_9
   Discord: xKSj5bYgV7
+  Contact Email Address: skuletc@gmail.com
 - Club Name: Canadian Society for Civil Engineering - UofT Chapter
+  Club Name Abbreviation: CSCE
   Contact Name: Wael Halabi
-  Email: csce@g.skule.ca
   Category: Education and Professional Development
   Club Description: 'The mission of CSCE is to close the gap between those with an
     interest in Civil
@@ -652,9 +686,9 @@ clubs:
 
     beyond undergrad, and more.'
   Instagram: csce.uoft
+  Contact Email Address: csce@g.skule.ca
 - Club Name: Skule™ Choir
   Contact Name: Tyler Chen
-  Email: choir@g.skule.ca
   Category: Arts and Music
   Club Description: Skule™ Choir is a 30-member SATB mixed chorus performing a wide
     range of music from Baroque to contemporary classical, and from global popular
@@ -670,9 +704,10 @@ clubs:
   Instagram: skulechoir
   Facebook: SkuleMusic
   YouTube: skulechoir
+  Contact Email Address: choir@g.skule.ca
 - Club Name: University of Toronto Aerospace Team
+  Club Name Abbreviation: UTAT
   Contact Name: Emily Ha-Tchong
-  Email: execdirector@utat.ca
   Category: Design/Competition Team
   Club Description: 'UTAT is an interdisciplinary student design team dedicated to
     pushing the bounds of
@@ -685,9 +720,10 @@ clubs:
     in Aerospace through ambitious projects and encourage the community to pursue
     their passions in aerospace and engineering.'
   Instagram: uoft_aerospaceteam
+  Contact Email Address: execdirector@utat.ca
 - Club Name: St. George Capital
+  Club Name Abbreviation: SGC
   Contact Name: Nikita Fenev
-  Email: outreach@stgeorgecapital.ca
   Category: Design/Competition Team
   Club Description: St. George Capital is a dynamic organization at the University
     of Toronto, dedicated to empowering future financial experts by merging traditional
@@ -698,9 +734,10 @@ clubs:
     approach to each member's strengths, fostering a community of lifelong learners
     and industry leaders. (copied from website)
   Instagram: st_george_capital_fund
+  Contact Email Address: outreach@stgeorgecapital.ca
 - Club Name: Latin Engineering Students' Association
+  Club Name Abbreviation: LESA
   Contact Name: Allison Lee
-  Email: lesa@studentorg.utoronto.ca
   Category: Cultural, Faith, or Identity-Based Community Group
   Club Description: 'The Latin Engineering Students'' Association (LESA) connects
     the Skule community with Latinx culture. We aim to make your UofT journey memorable
@@ -718,9 +755,10 @@ clubs:
     regardless of background or major, is welcome to attend events and join our executive
     team.'
   Instagram: uoft_lesa
+  Contact Email Address: lesa@studentorg.utoronto.ca
 - Club Name: Chinese Christian Fellowship
+  Club Name Abbreviation: UTCCF
   Contact Name: Nathan Li
-  Email: utccfcommittee@gmail.com
   Category: Cultural, Faith, or Identity-Based Community Group
   Club Description: 'Founded in 1968, the University of Toronto Chinese Christian
     Fellowship (UTCCF) has had a longstanding impact on the lives of many student
@@ -739,9 +777,10 @@ clubs:
   Instagram: utccf_
   Discord: utccf
   Facebook: utccf
+  Contact Email Address: utccfcommittee@gmail.com
 - Club Name: University of Toronto Concrete Canoe
+  Club Name Abbreviation: UTCC
   Contact Name: Michael Atkinson, James Jurach
-  Email: canoe@g.skule.ca
   Category: Design/Competition Team
   Club Description: We are a multidisciplinary design team that designs and constructs
     a concrete canoe every year! We do so to compete in the Canadian National Concrete
@@ -750,9 +789,10 @@ clubs:
     way to logistical, aesthetic and outreach, there is a place for anyone and everyone
     here, to make a really confounding boat.  And yes, it does float.
   Instagram: uoftconcretecanoe
+  Contact Email Address: canoe@g.skule.ca
 - Club Name: University of Toronto Amateur Radio Society
+  Club Name Abbreviation: UTARS
   Contact Name: Edith Fang
-  Email: utars@skule.ca
   Category: Hobby/Special Interest
   Club Description: The University of Toronto Amateur Radio Society (UTARS), first
     established before WWII, aims to develop its members’ technical and professional
@@ -763,9 +803,10 @@ clubs:
     including potentially assisting them in acquiring their Amateur Radio Operator
     Certificate.
   LinkTree: utars
+  Contact Email Address: utars@skule.ca
 - Club Name: UTSG Cricket Club
+  Club Name Abbreviation: UTSGCC
   Contact Name: Tarun Gopal
-  Email: utsgcricketclub@gmail.com
   Category: Athletics
   Club Description: The UTSG Cricket Club organizes cricket-related events on campus,
     both indoors and outdoors. We maintain liaison with the university and external
@@ -775,9 +816,10 @@ clubs:
     an inclusive environment where students of all skill levels can enjoy and participate
     in the sport, fostering teamwork, sportsmanship, and a sense of community.
   Instagram: utsg_cricket_club
+  Contact Email Address: utsgcricketclub@gmail.com
 - Club Name: Filipino Engineering Association of Students in Toronto
+  Club Name Abbreviation: FEAST
   Contact Name: Riann Po
-  Email: filipino.uoftengineering@gmail.com
   Category: Cultural, Faith, or Identity-Based Community Group
   Club Description: The Filipino Engineering Association of Students in Toronto (FEAST)
     is a club that aims to create a supportive and understanding community of Filipino
@@ -785,9 +827,10 @@ clubs:
     Filipinos to pursue a career in Engineering while raising awareness of Filipino
     culture within the Skule™ Community.
   Instagram: uoft_feast
+  Contact Email Address: filipino.uoftengineering@gmail.com
 - Club Name: University of Toronto Association of Chinese Engineers
+  Club Name Abbreviation: UTACE
   Contact Name: XiaoChuan Guo & LinQiao Zhang, Co-Presidents
-  Email: info@utace.ca
   Category: Cultural, Faith, or Identity-Based Community Group
   Club Description: The Association of Chinese Engineers (ACE) connects Chinese and
     Chinese‑heritage engineering students with peers, alumni, and campus resources.
@@ -795,9 +838,10 @@ clubs:
     program that foster academic success, professional growth, and an inclusive community
     within Skule.
   Instagram: ut_ace.official
+  Contact Email Address: info@utace.ca
 - Club Name: University of Toronto's Nuclear Energy Association
+  Club Name Abbreviation: UTNEA
   Contact Name: Jess Graham
-  Email: nuclear.uoft@gmail.com
   Category: Education and Professional Development
   Club Description: The UofT Nuclear Energy Association (UTNEA) seeks to spark student
     interest in nuclear energy and the role it plays in todays energy mix. Our mission
@@ -808,9 +852,10 @@ clubs:
   LinkTree: https://lnk.bio/nuclear.uoft
   Instagram: nuclear.uoft
   LinkedIn: uoft-nuclear-energy-association
+  Contact Email Address: nuclear.uoft@gmail.com
 - Club Name: Engineers in Action - University of Toronto Chapter
+  Club Name Abbreviation: EIA - UofT Chapter
   Contact Name: Claire Zhang, Francesco Gressani
-  Email: eia.uoft@gmail.com
   Category: Design/Competition Team
   Club Description: "Engineers In Action (EIA) - University of Toronto Chapter is\
     \ a multidisciplinary student club dedicated to raising awareness and making a\
@@ -831,9 +876,10 @@ clubs:
   Instagram: eia.uoft
   Discord: https://discord.com/invite/bsCp5MuBtb
   Facebook: https://www.facebook.com/EIAUofT
+  Contact Email Address: eia.uoft@gmail.com
 - Club Name: Cybersecurity Student Association
+  Club Name Abbreviation: CSSA
   Contact Name: Goran Osvald
-  Email: president@cyber.skule.ca
   Category: Education and Professional Development
   Club Description: We are undergraduate students at the University of Toronto interested
     in sharing our interest in cybersecurity with other students. Through our events,
@@ -841,9 +887,9 @@ clubs:
     in cybersecurity and mentor the next generation of leaders in the field.
   Instagram: uoftcssa
   Discord: qA2XJVDxan
+  Contact Email Address: president@cyber.skule.ca
 - Club Name: SKULE Ski club
   Contact Name: Dominique Wanandi/ Ryo
-  Email: skitrip@g.skule.ca
   Category: Athletics
   Club Description: 'The SKULE Ski Club is a student-led organization dedicated to
     creating an inclusive and enjoyable environment for all students interested in
@@ -863,25 +909,28 @@ clubs:
     the club welcomes you to be part of a community that values fun, adventure, and
     shared passion for the outdoors.'
   Instagram: skuleskiclub
+  Contact Email Address: skitrip@g.skule.ca
 - Club Name: Skule™ Orchestra
+  Club Name Abbreviation: N/A
   Contact Name: Anna-Mariya Korol
-  Email: orchestr@g.skule.ca
   Category: Arts and Music
   Club Description: Skule™ Orchestra is a 50 member symphonic orchestra based in the
     University of Toronto Faculty of Engineering, but welcoming all members of the
     university community. We hold weekly rehearsals and various events during the
     year, including concerts, socials, and trips to local music events.
   Instagram: skuleorchestra
+  Contact Email Address: orchestr@g.skule.ca
 - Club Name: Institute of Industrial and Systems Engineers
+  Club Name Abbreviation: IISE
   Contact Name: Elena Yijia Zhu
-  Email: iie@skule.ca
   Category: Education and Professional Development
   Club Description: The Institute of Industrial & Systems Engineers is dedicated to
     the professional development of STEM students. We host annual Hackthons and Workshops!
   Instagram: iiseuoft
+  Contact Email Address: iie@skule.ca
 - Club Name: University of Toronto Toastmasters
+  Club Name Abbreviation: UTT
   Contact Name: Darsh Shah
-  Email: toastmasters@g.skule.ca
   Category: Education and Professional Development
   Club Description: University of Toronto Toastmasters (UTT) is a club that is aimed
     at creating a supportive environment where anyone can improve their public speaking
@@ -899,9 +948,10 @@ clubs:
     the environment it creates, one that is supportive and positive, with peer evaluations
     focused on collective growth.
   Instagram: uofttoastmasters
+  Contact Email Address: toastmasters@g.skule.ca
 - Club Name: University of Toronto Autonomous Scale Racing Club
+  Club Name Abbreviation: UTASR
   Contact Name: Martin Shanahan
-  Email: utasrteam@gmail.com
   Category: Design/Competition Team
   Club Description: With an aim to learn how humans learn to drive and develop better
     learning-based algorithms, and bringing more fun to students and faculties, we
@@ -914,10 +964,11 @@ clubs:
     a new hobby or just want to be involved in a super cool side project. Looking
     forward to meeting you!
   Instagram: utasr_uoft
+  Contact Email Address: utasrteam@gmail.com
 - Club Name: Bangladeshi Students' Association, University of Toronto– St. George
     Campus
+  Club Name Abbreviation: BSA
   Contact Name: Sudipta
-  Email: bsauoft@gmail.com
   Category: Cultural, Faith, or Identity-Based Community Group
   Club Description: 'Established in 1997, the Bangladeshi Students’ Association (BSA)
     stands as a beacon of cultural integration and community engagement at the esteemed
@@ -947,9 +998,10 @@ clubs:
     passion and dedication of its members towards building a more inclusive, equitable,
     and harmonious society.'
   LinkTree: https://linktr.ee/BSA_UOFT
+  Contact Email Address: bsauoft@gmail.com
 - Club Name: Club for Undergraduate Biomedical Engineering
+  Club Name Abbreviation: CUBE
   Contact Name: Angela Leung and Shivang Mistry
-  Email: cube@g.skule.ca
   Category: Education and Professional Development
   Club Description: The Club for Undergraduate Biomedical Engineering (CUBE) is the
     oldest biomedical engineering-focused club on campus. Our purpose is to disseminate
@@ -967,9 +1019,10 @@ clubs:
   Instagram: cube.skule
   LinkedIn: club-for-undergraduate-biomedical-engineering
   Twitter: Skule_CUBE
+  Contact Email Address: cube@g.skule.ca
 - Club Name: Materials Industry Club
+  Club Name Abbreviation: MIC
   Contact Name: Kyla Tan
-  Email: mseic.uoft@gmail.com
   Category: Education and Professional Development
   Club Description: The Materials Industry Club (MIC) is a student-run organization
     with the mission of connecting University of Toronto engineering students, both
@@ -977,9 +1030,10 @@ clubs:
     throughout the year to help students understand the industry, and what it will
     be like outside of graduation.
   Instagram: mic_uoft
+  Contact Email Address: mseic.uoft@gmail.com
 - Club Name: International Genetically Engineered Machine Toronto
+  Club Name Abbreviation: iGEM Toronto
   Contact Name: Amogh Manivannan
-  Email: igem@g.skule.ca
   Category: Design/Competition Team
   Club Description: 'iGEM Toronto is an undergraduate-led student design team which
     undertakes a year-long, end-to-end synthetic biology design project. Some of our
@@ -1001,9 +1055,10 @@ clubs:
     For more information about iGEM, please visit: https://igem.org. For more information
     about our team, please visit our website: https://igem.skule.ca/.'
   Instagram: igemtoronto
+  Contact Email Address: igem@g.skule.ca
 - Club Name: Skule French-speaking Society
+  Club Name Abbreviation: SFS
   Contact Name: Isabelle
-  Email: utorontosfs@gmail.com
   Category: Cultural, Faith, or Identity-Based Community Group
   Club Description: 'The Skule French-speaking Society fosters a vibrant community
     for French-speaking
@@ -1030,9 +1085,10 @@ clubs:
     offering students meaningful connections and practical language skills that will
     benefit them beyond university.'
   Instagram: uoftsfs
+  Contact Email Address: utorontosfs@gmail.com
 - Club Name: Queer Sphere
+  Club Name Abbreviation: QS
   Contact Name: Corin Espinas
-  Email: queersphere@g.skule.ca
   Category: Social Change and Advocacy
   Club Description: 'QueerSphere is the engineering 2SLGBTQ+ club at the University
     of Toronto! We are dedicated to promoting queer awareness and fostering a sense
@@ -1048,9 +1104,10 @@ clubs:
     of diversity, and a sense of belonging within the queer engineering community.'
   Instagram: queer_sphere_uoft
   Discord: aegM8A6Y8k
+  Contact Email Address: queersphere@g.skule.ca
 - Club Name: University of Toronto Engineering Students Consulting Association
+  Club Name Abbreviation: UTESCA
   Contact Name: Clemen Chan
-  Email: uoft.esca@gmail.com
   Category: Education and Professional Development
   Club Description: At UTESCA, we bridge the gap between Engineering and Consulting
     to make a real impact. We're a community of passionate students aiming to break
@@ -1058,9 +1115,10 @@ clubs:
     development events, hands-on consulting projects, case competitions, and more,
     we empower our members to build their dream careers.
   Instagram: utesca
+  Contact Email Address: uoft.esca@gmail.com
 - Club Name: The University of Toronto Korean Engineering Students' Association
+  Club Name Abbreviation: UTKESA
   Contact Name: Jihan Kang
-  Email: utkesa.engsoc@gmail.com
   Category: Community Service and Outreach
   Club Description: 'The University of Toronto Korean Engineering Students’ Association
     (UTKESA) is a vibrant student community that brings together Korean engineering
@@ -1080,9 +1138,10 @@ clubs:
     Whether you’re looking to connect with peers, gain professional opportunities,
     or simply join a welcoming community, UTKESA has something for you.'
   Instagram: utkesa_official
+  Contact Email Address: utkesa.engsoc@gmail.com
 - Club Name: University of Toronto Underwater Exploration Team
+  Club Name Abbreviation: UTUX
   Contact Name: Alexander Mueller
-  Email: contact@utux.ca
   Category: Design/Competition Team
   Club Description: 'The University of Toronto Underwater Exploration Team (UTUX)
     is a student-led design team dedicated to foster innovation and hands-on learning
@@ -1097,9 +1156,10 @@ clubs:
     Currently we are working on a joint project with the Civil and Mineral Department
     of UofT Engineering.'
   Instagram: utuxuoft
+  Contact Email Address: contact@utux.ca
 - Club Name: NourishUofT
+  Club Name Abbreviation: NUT
   Contact Name: Zack Fine
-  Email: nourish@skule.ca
   Category: Social Change and Advocacy
   Club Description: NourishUofT seeks to foster a campus environment where all students,
     regardless of their dietary restrictions, can access nutritious and inclusive
@@ -1109,16 +1169,18 @@ clubs:
     environment to talk about shared struggles, advocate for accessible food on campus,
     and enjoy little treats for all.
   Instagram: nourishuoft
+  Contact Email Address: nourish@skule.ca
 - Club Name: National Society of Black Engineers U of T Chapter
+  Club Name Abbreviation: NSBE
   Contact Name: Justin Yearwood
-  Email: nsbeuoft@studentorg.utoronto.ca
   Category: Education and Professional Development
   Club Description: Increasing the number of culturally responsible black engineers
     who excel academically, succeed professionally, and positively impact the community.
   Instagram: nsbeuoft
+  Contact Email Address: nsbeuoft@studentorg.utoronto.ca
 - Club Name: University of Toronto Biomedical Engineering Design Team
+  Club Name Abbreviation: UT BIOME
   Contact Name: Preet Buall
-  Email: utbiomedesign@gmail.com
   Category: Design/Competition Team
   Club Description: 'The University of Toronto Biomedical Engineering Design Team
     (UT BIOME) is an undergraduate-focused, multidisciplinary, design team with three
@@ -1137,9 +1199,10 @@ clubs:
     for undergraduate students to learn and apply their knowledge.'
   Instagram: utbiome
   Discord: https://discord.com/invite/U3Qx53YnAK
+  Contact Email Address: utbiomedesign@gmail.com
 - Club Name: Blues Engineering
+  Club Name Abbreviation: BLUES
   Contact Name: carly.magarelli@mail.utoronto.ca AND carter.buck@mail.utoronto.ca
-  Email: bluesengineeringcontact@gmail.com
   Category: Athletics
   Club Description: Blues Engineering is a student-led club that supports U of T Engineering
     varsity student-athletes. We bring together students who share the challenge of
@@ -1148,9 +1211,11 @@ clubs:
     events, and community gatherings, we help student-athletes find balance, connect
     with peers, and thrive in both sport and school.
   Instagram: blues.engineering
+  Contact Email Address: bluesengineeringcontact@gmail.com
+trial_to_full_status:
 - Club Name: Skule Fitness Club
+  Club Name Abbreviation: SFC
   Contact Name: Julian Papasodaro
-  Email: skulefitness@gmail.com
   Category: Athletics
   Club Description: 'Who are we? We are UofT Engineering’s first fitness club - dedicated
     to advancing the fitness (including strength, nutrition, recovery) goals of everybody.
@@ -1178,9 +1243,10 @@ clubs:
     side too! This is an opportunity to serve as an executive member (employers like
     this)'
   Instagram: skulefitnessclub
+  Contact Email Address: skulefitness@gmail.com
 - Club Name: Web Development Club
+  Club Name Abbreviation: UofTWeb
   Contact Name: Lana Wehbeh
-  Email: uoftwebdevclub@gmail.com
   Category: Discipline-Specific Club
   Club Description: The Web Development Club is a student-run club dedicated to teaching
     interested members of the U of T community the fundamentals of Web Development
@@ -1189,9 +1255,10 @@ clubs:
     and past experiences with Web Development is not required!
   Instagram: uoftwebdevclub
   Discord: U of T Web Dev Club
+  Contact Email Address: uoftwebdevclub@gmail.com
 - Club Name: UofT Baja Racing
+  Club Name Abbreviation: UTBR
   Contact Name: Qin Bei
-  Email: uoftbajaracing@gmail.com
   Category: Design/Competition Team
   Club Description: 'UofT Baja Racing (UTBR) is a multidisciplinary student design
     team, driven by a passion for engineering and off-road adventure. Our mission
@@ -1216,9 +1283,10 @@ clubs:
     Our goal is to reignite the Baja spirit at UofT, and create an unforgettable adrenaline-filled
     dirt-filled experience for every team member along the way.'
   Instagram: uoftbajaracing
+  Contact Email Address: uoftbajaracing@gmail.com
 - Club Name: Engineering Drama Society
+  Club Name Abbreviation: EDS
   Contact Name: Lincoln Macdonald
-  Email: drama@skule.ca
   Category: Arts and Music
   Club Description: 'Unleash your inner engineer and actor with the Engineering Drama
     Society! We are a dedicated drama club at UofT for undergraduate engineering students
@@ -1240,28 +1308,32 @@ clubs:
     memorable theatrical experiences within the Faculty of Applied Science & Engineering
     and beyond!'
   Instagram: engdramasociety
+  Contact Email Address: drama@skule.ca
+trial_status:
 - Club Name: Blues Moto Electric Racing
+  Club Name Abbreviation: BMER
   Contact Name: adam.abreha@mail.utoronto.ca
-  Email: team.BMER@outlook.com
   Category: Design/Competition Team
   Club Description: We are a student-run design team that will design and produce
     an electric motorcycle to compete in competitions around the world. Our multidisciplinary
     team brings together undergraduate students to design, build, and race a fully
     electric motorcycle from the ground up. We offer a chance to apply theory learnt
     in the classroom and provide hands-on technical experience.
+  Contact Email Address: team.BMER@outlook.com
 - Club Name: NSight Mentorship Program
+  Club Name Abbreviation: NSight
   Contact Name: Reim Yousef
-  Email: nsight.mentors@gmail.com
   Category: Discipline-Specific Club
   Club Description: NSight is a student-led mentorship program within the Engineering
     Science community that connects EngSci students across all years through one-on-one
     mentoring and community-building events designed to support academic, professional,
     and personal growth.
   Instagram: NSight Mentorship
+  Contact Email Address: nsight.mentors@gmail.com
 - Club Name: University of Toronto Bioengineering Innovation and Outreach in Consulting
     Club
+  Club Name Abbreviation: UTBIONIC
   Contact Name: NOOR AMAD
-  Email: utbionic@studentorg.utoronto.ca
   Category: Design/Competition Team
   Club Description: UT BIONIC is a volunteer-based bioengineering and consulting team
     at the University of Toronto that provides students the opportunity to make a
@@ -1273,9 +1345,10 @@ clubs:
     opportunities that promote skill development and participate in every stage of
     the design process from initial brainstorming to final production.
   Instagram: utbionic
+  Contact Email Address: utbionic@studentorg.utoronto.ca
 - Club Name: University of Toronto Quantum Computing Club
+  Club Name Abbreviation: UTQC
   Contact Name: Michael Silver
-  Email: quantum.uoft@gmail.com
   Category: Education and Professional Development
   Club Description: Discover the future of computing with the **University of Toronto
     Quantum Computing Club (UTQC) - your launchpad into the world of quantum technology.
@@ -1288,9 +1361,10 @@ clubs:
   Discord: HbDkNa8EE5
   LinkedIn: uoft-quantum-computing-group
   Website: https://utqc.sa.utoronto.ca/ (Under Construction)
+  Contact Email Address: quantum.uoft@gmail.com
 - Club Name: Operation Outbreak UofT Chapter
+  Club Name Abbreviation: OO
   Contact Name: Lauren Altomare
-  Email: lauren.altomare@mail.utoronto.ca
   Category: Community Service and Outreach
   Club Description: Operation Outbreak UofT Chapter is a student-led initiative that
     runs interactive simulations of infectious disease outbreaks on campus and in
@@ -1300,9 +1374,10 @@ clubs:
     workshops and panels with speakers in the field. Through outreach and engagement,
     our goal is to explore how infectious diseases spread and impact communities while
     raising awareness for particularly younger populations.
+  Contact Email Address: lauren.altomare@mail.utoronto.ca
 - Club Name: Institute of Industrial and Systems Engineers
+  Club Name Abbreviation: IISE
   Contact Name: Elena Yijia Zhu
-  Email: iie@skule.ca
   Category: Education and Professional Development
   Club Description: The Institute of Industrial and Systems Engineers (IISE) is a
     global, non-profit organization dedicated to supporting the professional and academic
@@ -1316,9 +1391,10 @@ clubs:
     panels with students and professionals from across other universities in Canada.
     Follow us on Instagram (@iiseuoft) to learn more and get involved!
   Instagram: iiseuoft
+  Contact Email Address: iie@skule.ca
 - Club Name: University of Toronto World Cup 2026 Club
+  Club Name Abbreviation: UTWC26
   Contact Name: Hamza Alami Ouaddane
-  Email: utwc26@gmail.com
   Category: Design/Competition Team
   Club Description: 'UTWC26 is a student-run club created ahead of the FIFA World
     Cup 2026, with the goal of bringing the excitement of the tournament to UofT —
@@ -1334,9 +1410,10 @@ clubs:
     flow in busy areas like downtown Toronto, and creative installations inspired
     by connected cities (e.g., a digital portal between Toronto and another host city).'
   Instagram: utwc26
+  Contact Email Address: utwc26@gmail.com
 - Club Name: University of Toronto Flight Endurance Group
+  Club Name Abbreviation: UTFET
   Contact Name: Ayan Ali
-  Email: flightenduranceteam@gmail.com
   Category: Design/Competition Team
   Club Description: The University of Toronto Flight Endurance Team (UTFET) aims to
     push the boundaries of flight endurance through developing aircraft for independent
@@ -1345,9 +1422,9 @@ clubs:
   Instagram: uoft_flightendurance
   Discord: eK5tsMN7Dc
   Website: https://utfet.ayanali.net/
+  Contact Email Address: flightenduranceteam@gmail.com
 - Club Name: UofT Wearable Student Design Team
   Contact Name: Jaehah Shin
-  Email: uoftwearable@studentorg.utoronto.ca
   Category: Design/Competition Team
   Club Description: UofT Wearable is a design team dedicated to advancing wearable
     technology by developing novel wearable ideas using state of the art methods.
@@ -1357,9 +1434,10 @@ clubs:
     communications protocols, and software integration—all into one wearable package.
     We are open to your wearable ideas and how we can bring it to reality.
   Instagram: uoft_wearable
+  Contact Email Address: uoftwearable@studentorg.utoronto.ca
 - Club Name: ChemE-Cube@UofT
+  Club Name Abbreviation: ChemE-Cube
   Contact Name: Edward Lombo; Kenneth Sulimro
-  Email: captain@chemecube-uoft.ca
   Category: Design/Competition Team
   Club Description: We are UofT's first pilot chemical plant design team! Every year,
     we make a cubic foot mini-plant - called the "cube" - to meet a particular industrial
@@ -1369,15 +1447,17 @@ clubs:
     fun - it'll be a challenge of a lifetime!
   Instagram: chemecube.uoft
   Website: chemecube-uoft.ca
+  Contact Email Address: captain@chemecube-uoft.ca
 - Club Name: Japanese Engineers Toronto
+  Club Name Abbreviation: JET
   Contact Name: Shoichiro Adachi
-  Email: sho.adachi@mail.utoronto.ca
   Category: Cultural, Faith, or Identity-Based Community Group
   Club Description: jpengineerstoronto@gmail.com
   Instagram: jet.uoft
+  Contact Email Address: sho.adachi@mail.utoronto.ca
 - Club Name: University of Toronto Open Source Students
+  Club Name Abbreviation: UTOSS
   Contact Name: Joonseo Park
-  Email: utoss.execs@gmail.com
   Category: Hobby/Special Interest
   Club Description: UTOSS is a design team that focuses on developing and contributing
     to existing open-source hardware and software projects. Our hardware team aims
@@ -1389,18 +1469,20 @@ clubs:
   Instagram: ut_oss
   Discord: x6zxM28k
   Website: linktr.ee/ut_oss
+  Contact Email Address: utoss.execs@gmail.com
 - Club Name: Integration Bee Club
+  Club Name Abbreviation: IBC
   Contact Name: Alan Wang
-  Email: integration.bee.utoronto@gmail.com
   Category: Hobby/Special Interest
   Club Description: A club for math enjoyers who want to solve hard integrals, learn
     fun tricks, and meet fellow math enjoyers.
   Instagram: integration.bee.club.utoronto
   Discord: naGW6NmD2v
   Website: https://sites.google.com/view/integration-bee-club-utoronto
+  Contact Email Address: integration.bee.utoronto@gmail.com
 - Club Name: University of Toronto Mersivity Student Research Team
+  Club Name Abbreviation: UTMSRT
   Contact Name: Rocklen Jeong
-  Email: mersivity@gmail.com
   Category: Design/Competition Team
   Club Description: We're a team of engineers at the University of Toronto working
     at the nexus of the physical (earth, water, air), the virtual (AI, cyber, tech),
@@ -1411,9 +1493,10 @@ clubs:
     academia through publications to improve current technological systems.
   Instagram: mersivity
   Website: mersivity.com
+  Contact Email Address: mersivity@gmail.com
 - Club Name: 'Robogals: University of Toronto Student Chapter'
+  Club Name Abbreviation: UofT Robogals
   Contact Name: Joanna Xu
-  Email: utoronto.president@robogals.org
   Category: Community Service and Outreach
   Club Description: UofT Robogals is an outreach club that aims to bring workshops
     to elementary students around Toronto to encourage the development of young minds
@@ -1421,9 +1504,10 @@ clubs:
     provide a chance for University students to get involved with the community and
     plan/oversee simple workshops to share their knowledge to those around them.
   Instagram: robogalsuoft
+  Contact Email Address: utoronto.president@robogals.org
 - Club Name: U of T eSports Club
+  Club Name Abbreviation: UTES
   Contact Name: Kirsten Sutantyo
-  Email: uoft.esports@gmail.com
   Category: Hobby/Special Interest
   Club Description: U of T Esports (UTES) is the largest online community at U of
     T, and is the hub for all Esports and gaming communities & activities at the University
@@ -1433,9 +1517,10 @@ clubs:
   Instagram: uoftesports
   Discord: NJP3sFb64R
   Website: uoftesports.ca
+  Contact Email Address: uoft.esports@gmail.com
 - Club Name: The Electrochemical Society - University of Toronto Chapter
+  Club Name Abbreviation: ECS-UofT
   Contact Name: Justin Fang
-  Email: ecs.uoft@gmail.com
   Category: Hobby/Special Interest
   Club Description: ECS refers to the Electrochemical Society. It is a nonprofit organization
     focused on electrochemical and solid state science and technology, and allied
@@ -1444,3 +1529,4 @@ clubs:
     both students and researchers to network since it consists of more than 8000 members
     from 85 different countries with diverse interests in all fields of electrochemistry
     and solid state.
+  Contact Email Address: ecs.uoft@gmail.com

@@ -19,7 +19,7 @@ layout: page
   {% for club in sorted_clubs %}
   <div class="box club-box" data-category="{{ club.Category }}">
     <p>
-      <b class="vp-academic-text">{{ club["Club Name"] }}</b><br>
+      <b class="vp-academic-text">{{ club["Club Name"] }} ({{ club["Club Name Abbreviation"] }})</b><br>
     </p>
 
     {% if club["Club Description"] %}
