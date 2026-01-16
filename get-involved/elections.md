@@ -13,11 +13,6 @@ Of course, all members of EngSoc can vote in our elections, as well as their res
 
 Elections will be announced by the CRO (Chief Returning Officer) via mass email, Skule Digest, and the announcement feed found below. Students wishing to nominate themselves must fill out the nomination form, available in the EngSoc office, and hand it in before the end of the nomination period
 
-You may also download the nomination form here
-
-<a class="button is-primary" href="./assets/Nomination Form (10 signatures).pdf">10 signatures</a>
-<a class="button is-primary" href="./assets/Nomination Form (20 signatures).pdf">20 signatures</a>
-
 ## Rules and Procedures
 
 The elections process varies depending on the position. Elections are run by the CRO with the help of DROs (Deputy Returning officers) to ensure a fair and unbiased election. As such, EngSoc has put in place rules regarding nominations, campaigning, re-elections etc...
