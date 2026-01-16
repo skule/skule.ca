@@ -5,9 +5,7 @@ layout: page
 
 {% assign socials = "Website,LinkTree,Email,Instagram,Discord,Facebook,LinkedIn,TikTok,YouTube,Twitter" | split: "," %}
 
-See the most up-to-date list of design teams and clubs on [the Affiliated Clubs page.](https://skule.ca/get-involved/affiliated_clubs.html)
-
-{% assign socials = "Website,LinkTree,Email,Instagram,Discord,Facebook,LinkedIn,TikTok,YouTube,Twitter" | split: "," %}
+See a complete list of design teams and clubs on [the Affiliated Clubs page.](https://skule.ca/get-involved/affiliated_clubs.html)
 
 
 <div id="clubs-container">
