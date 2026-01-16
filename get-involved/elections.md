@@ -83,7 +83,7 @@ $$\text{votes needed to win} = \left\lfloor\frac{\text{valid votes cast}}{\text{
 
 So for example, if there is one seat to fill and 10 people voted, no candidate is allowed to win unless they have at least 
 {% raw %}
-$\left\lfloor\frac{10}{1 + 1}\right\rfloor + 1 = 6$ votes.
+$$\left\lfloor\frac{10}{1 + 1}\right\rfloor + 1 = 6$$ votes.
 {% endraw %}
  Likewise, for 10 people and two seats, each candidate needs at least 4 votes to win.
 
@@ -103,7 +103,7 @@ $$\left(\frac{\text{total value of candidate's votes} - \text{quota}}{\text{tota
 
 For example: Say a candidate received 12 votes in the first round and the quota is 10. All 12 people who voted for this candidate would have their votes transferred to their second choice candidates at a value of 
 {% raw %}
-$\left(\frac{12 - 10}{12}\right) \times 1 = 0.2$.
+$$\left(\frac{12 - 10}{12}\right) \times 1 = 0.2$$.
 {% endraw %}
 </div>
 

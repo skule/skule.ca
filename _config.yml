@@ -12,3 +12,8 @@ defaults:
       path: ""
     values:
       order: 1000
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax # or katex
+  syntax_highlighter: rouge
