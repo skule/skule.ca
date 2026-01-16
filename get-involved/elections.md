@@ -26,6 +26,42 @@ For more information about the election process, refer to [Bylaw 3](/about/gover
 > 
 > <a class="button is-small speakpersono" href="mailto:cro@skule.ca">Email</a>
 
+> <b class="speakerpersono">Deputy Returning Officers</b>
+> 
+> As part of the Office of Returning Officers (ORO), the DRO collaborates with the CRO to ensure the entire elections process remains transparent, fair, and trustworthy for all candidates and voters. 
+>  
+> > <b class="speakerpersono">Abisha Kugathasan</b>
+> >
+> > <a class="button is-small speakpersono" href="mailto:abisha.kugathasan@mail.utoronto.ca">Email</a>
+>
+> > <b class="speakerpersono">Genevieve Beirne</b>
+> >
+> > <a class="button is-small speakpersono" href="mailto:genevieve.beirne@mail.utoronto.ca">Email</a>
+>
+> > <b class="speakerpersono">Jingya Liu</b>
+> >
+> > <a class="button is-small speakpersono" href="mailto:jingya.liu@mail.utoronto.ca">Email</a>
+>
+> > <b class="speakerpersono">Katie Hung</b>
+> >
+> > <a class="button is-small speakpersono" href="mailto:katie.hung@mail.utoronto.ca">Email</a>
+>
+> > <b class="speakerpersono">Abdirahman Nuh</b>
+> >
+> > <a class="button is-small speakpersono" href="mailto:abdirahman.nuh@mail.utoronto.ca">Email</a>
+>
+> > <b class="speakerpersono">Aaryan Fredrick</b>
+> >
+> > <a class="button is-small speakpersono" href="mailto:aaryan.fredrick@mail.utoronto.ca">Email</a>
+>
+> > <b class="speakerpersono">Bowen Wang</b>
+> >
+> > <a class="button is-small speakpersono" href="mailto:bbowen.wang@mail.utoronto.ca">Email</a>
+>
+> > <b class="speakerpersono">Lina Le</b>
+> >
+> > <a class="button is-small speakpersono" href="mailto:Linanguyen.le@mail.utoronto.ca">Email</a>
+
 ### Voting System
 
 EngSoc's elections are conducted using a single transferrable voting system using the Gregory method, with a Droop quota. In English, this means that on your ballot, you rank your choices. Then, if the person you prefer the most doesn't win, your vote is transferred to the person you prefer the second most, then third most, and so on.
@@ -69,39 +105,3 @@ For example: Say a candidate received 12 votes in the first round and the quota 
 **Q: How are the votes counted? Why do I have a fractional number of votes?**
 
 **A:** EngSoc's elections are conducted using a single transferrable voting system using the Gregory method, with a "Droop quota". Please see [above](#voting-system) for more details. For why you might have a fractional number of votes, please see [here](#vote-transfers)
-
-> <b class="speakerpersono">Deputy Returning Officers</b>
-> 
-> As part of the Office of Returning Officers (ORO), the DRO collaborates with the CRO to ensure the entire elections process remains transparent, fair, and trustworthy for all candidates and voters. 
->  
-> > <b class="speakerpersono">Abisha Kugathasan</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:abisha.kugathasan@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Genevieve Beirne</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:genevieve.beirne@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Jingya Liu</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:jingya.liu@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Katie Hung</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:katie.hung@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Abdirahman Nuh</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:abdirahman.nuh@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Aaryan Fredrick</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:aaryan.fredrick@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Bowen Wang</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:bbowen.wang@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Lina Le</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:Linanguyen.le@mail.utoronto.ca">Email</a>
