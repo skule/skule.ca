@@ -5,14 +5,6 @@ layout: page
 
 One of the UTSU's most recognized services is the Health and Dental Plan, [click here to find out more about it](http://studentcare.ca/rte/en/IHaveAPlan_UTSU_Home), including how to submit a claim and opt-out. The UTSU also offers discounts and other services; visit [UTSU's Services](https://www.utsu.ca/services/) to learn more. If you're interested in getting involved with the UTSU, check out the [Commissions Section](https://www.utsu.ca/commissions/) on their website.
 
-## Contact Points
-
-- UTSU Engineering Representative
-    - Andrew Chen ([andrew.chen@utsu.ca](mailto:andrew.chen@utsu.ca)) 
-
-- VP Professional Faculties
-    - Paul Kaita ([vpprofac@utsu.ca](mailto:vpprofac@utsu.ca))
-
 ## Information for Clubs
 
 ### Recognition and Affiliation with the UTSU

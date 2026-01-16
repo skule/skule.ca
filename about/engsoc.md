@@ -7,9 +7,13 @@ The Engineering Society, or EngSoc, is the student government for undergraduate 
 
 <iframe src="https://www.youtube.com/embed/l82hadNbu4c" width="560" height="315" allowfullscreen="allowfullscreen"></iframe>
 
+![Video: What is EngSoc](https://www.youtube.com/embed/l82hadNbu4c)
+
 ## Governance Structure
             
-The Engineering Society is run by volunteers in a wide variety of positions. It would be impossible to list everyone who contributes to its operation, but this page includes information about many of those volunteers. To read more about each role, what that person does, and how you can contact them, expand one of the categories below. For a pretty infographic on our governance structure, [please click here](https://drive.google.com/file/d/1iDCFWZjzb2UAa5M2N31oe2J0RpOQ9c2J/).
+The Engineering Society is run by volunteers in a wide variety of positions. It would be impossible to list everyone who contributes to its operation, but this page includes information about many of those volunteers. To read more about each role, what that person does, and how you can contact them, see the sections below. 
+
+![Engsoctopus](/about/engsoc/engsoctopus.png)
 
 ## Officers
             

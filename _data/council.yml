@@ -1,0 +1,211 @@
+officer:
+  president: "Kenneth Lloyd Hilton"
+  vp_finance: "Kenneth Sulimro"
+  vp_communications: "Ethan Mao"
+  vp_academic: "Jim Xu"
+  vp_student_life: "Shosh Lebo"
+  speaker: "Lavneet Sidhu"
+  business_manager: "Rhonda Meek"
+
+bod_representatives:
+  at_large:
+    - "Binying (Edith) Fang"
+    - "Valentina Lin Fang"
+    - "Alyssa Tiw"
+    - "William Chen"
+  chemical: "Jennifer Zhifeng Xu"
+  civil: "Dana Bou Saab"
+  ece:
+    - "Justin Fang"
+    - "Ayan Ali"
+  engsci: "Elias Barsa"
+  first_year:
+    - "Steven Zhang"
+    - "Johny Hao Dong"
+    - "Ai-Ling Ji"
+  industrial: "Jaden Benjamin Hinds"
+  mse: "Simona Tenche"
+  mechanical: "Sebastian Kiernan"
+  mineral: "Nicolás Oré"
+
+project_directors:
+  alumni_outreach: "Edith Fang"
+  archivist: "Alyssa Tiw"
+  environmental_sustainability: "Arshia Feizmohammady"
+  equity_inclusivity: "Alexis Kuri Garcia"
+  external_relations: "Azmi Rahim"
+  international_transition: "Nidhi Nair"
+  cannonball: "Dana Bou Saab"
+  eng_stores_managers:
+    - "Edlyn Li"
+    - "Kyle Nguyen"
+  hard_hat_cafe_managers:
+    - "Prionti Kaisar"
+    - "Zahra Ahmed"
+  gradball: "Sophia McGregor"
+  sponsorship: "Lesley Ha Tchong"
+  suds_managers:
+    - "Farbod Mohammadzadeh"
+    - "LC Rankin"
+  cannon_editor: "Christina Pizzonia"
+  systems_admin: "James Huynh"
+  frosh_editor: "Aeiou Generao"
+  social_media:
+    - "Melanie Ye"
+    - "Catherine Zhong"
+  toike_editor: "Sophia Hill"
+  webmaster: "Sunny Wu"
+  commuter_student: "Keting Trinh"
+  skulebook_editor: "Princess Akinola"
+  hi_skule: "Justin Fang"
+  mental_wellness: "Valentina Lin Fang"
+  utek: "Kaiser Tam"
+  community_outreach: "Yawen Zhang"
+  design_team_association: "Michael Atkinson"
+  skule_kup: "Alexandre Klaus"
+  photography: "Victoria Zhou"
+  skule_patrol:
+    - "Eileen Walsh"
+    - "Rafael Perez"
+  ombudsperson: "William To"
+  chief_returning_officer: "Jennifer Wu"
+  athletics_president: "Meme Liu"
+  orientation_chair: "Simona Teche"
+  skule_nite:
+    director: "Sophia Bonellos"
+  bnad_leedur: "Aidan Castanheiro"
+  yncn:
+    - "Michelle Sun"
+    - "Shaba Khan"
+  bng:
+    - "Ava McMurray"
+    - "Sebastian Kiernan"
+  iron_pin:
+    - "Jenn Xu"
+
+psc:
+  chair: "<em>Vacant</em>"
+  board_reps:
+    - "Edith Fang"
+    - "<em>Vacant</em>"
+  at_large:
+    - "Arnav Patil"
+    - "Rivera Wijaya"
+
+discipline_club_chairs:
+  chemical: "Freddie Perera"
+  civil: "Zaina Nofal"
+  ece:
+    - "Harmit Goswami"
+    - "Ava Jakob"
+  engsci:
+    - "Nour Barsoum"
+    - "Novera Ahmed"
+  industrial: "<em>Vacant</em>"
+  mechanical: "<em>Vacant</em>"
+  materials: "Renee Slen"
+  mineral: "Iyesha Rupasinha Arachchige"
+
+  trackone: "Catherine Zhong"
+
+reps:
+  first_year:
+    chemical: "Johnny Hao Dong"
+    civil: "Hugo (Tin Ho) Wang"
+    ece:
+      - "Jeffery Wong"
+      - "Keyu (Daphne) Zhu"
+      - "Shelley Lin"
+      - "Sam Ghasemzadeh"
+    engsci:
+      - "Ibrahim Khawar"
+      - "Yang Wang"
+    industrial:
+      - "Erik Coscollola Domingo"
+      - "Tsepella Goff-Martin"
+    mse: "Katie Alex Buchel"
+    mechanical:
+      - "Nima Bakhshaie"
+      - "Arvyn Singh"
+    mineral: "Evan Zhao"
+    trackone: "Hermela Abiy"
+
+  second_year:
+    chemical: "Mahee Alam"
+    civil: "Ezra Chung Hang Lee"
+    ece:
+      - "Ethan Mao"
+      - "Arnav Agarwal"
+      - "Abdullah Bin Rashid"
+      - "Rashid Mahmood"
+    engsci:
+      - "Andy Wen"
+      - "Eric Xie"
+    industrial: "Rohan Garg"
+    mse: "Catherine Mandy Pang"
+    mechanical:
+      - "Aaryan Fredrick"
+      - "Jack Hunter Klein"
+    mineral: "Joaquin Escudero"
+
+  third_year:
+    chemical: "McQueen Chung"
+    civil: "Elizabeth Menjivar"
+    ece:
+      - "Vishwas Puri"
+      - "Gia Bejar"
+      - "Firdaus Ansari"
+      - "<em>Vacant</em>"
+    engsci: "Evelyn Fallah"
+    industrial: "Renzo Ugarte"
+    mse: "Alexis Kuri"
+    mechanical:
+      - "Sebastian Kiernan"
+      - "<em>Vacant</em>"
+    mineral: "<em>Vacant</em>"
+
+  pey:
+    chemical: "Miko Samson"
+    civil:
+      - "Dana Bou Saab"
+      - "Charles Gu"
+    ece:
+      - "Yan Zu (Joe) Dai"
+      - "<em>Vacant</em>"
+    engsci: "Andy Gong"
+    industrial: "Sunny Yang"
+    mse: "<em>Vacant</em>"
+    mechanical:
+      - "Rachel Pittman"
+      - "Aidan Principe"
+    mineral: "<em>Vacant</em>"
+
+  fourth_year:
+    chemical: "William Vandenburg"
+    civil: "<em>Vacant</em>"
+    ece:
+      - "Nidhi Nair"
+      - "Asim Rahman"
+      - "Hannah Lila"
+      - "Raida Fardous"
+    engsci: "Briana Chen"
+    industrial: "Hayden Groer"
+    mse: "Kasia Murawska"
+    mechanical:
+      - "Matthew Du"
+      - "Celin Begeshev"
+    mineral: "<em>Vacant</em>"
+
+finance:
+  acting_vp_finance: "Justin Fang"
+  finance_secretary: "Ryan Hammer"
+  board_representatives:
+    - "Justin Fang"
+    - "Dana Bou Saab"
+    - "Jaden Hinds"
+  at_large:
+    - "Beatriz Correa de Mello"
+    - "Edlyn Li"
+    - "Kenneth Sulimro"
+    - "Ryan Xu"
+    - "Yawen Zhang"

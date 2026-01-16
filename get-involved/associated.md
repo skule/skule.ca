@@ -7,7 +7,7 @@ These organization and positions are non-EngSoc organizations that are closely t
 
 
 > ## Engineering Athletics Association
-> <p><b class="vp-student-life-text">EAA President</b> Okyu Ugur 
+> <p><b class="vp-student-life-text">EAA President</b> {{ site.data.council.project_directors.athletics_president }} 
 > <small class="vp-student-life-text">Works with VP Student Life</small></p>
 > The Engineering Athletics Association runs intramural sports for engineering students at the University of Toronto.Their sports teams compete against other colleges and faculties. EAA also runs leagues for sports between disciplines,as well as sports-focused events.
 > 
@@ -15,7 +15,7 @@ These organization and positions are non-EngSoc organizations that are closely t
 > <a class="button is-small vp-student-life" href="http://eaa.skule.ca">Website</a>
 
 > ## Lady Godiva Memorial Bnad
-> <p><b class="vp-student-life-text">Seenyur Bnad Leedur</b> Ewan Wai 
+> <p><b class="vp-student-life-text">Seenyur Bnad Leedur</b> {{ site.data.council.project_directors.bnad_leedur }} 
 > <small class="vp-student-life-text">Works with VP Student Life</small> </p>
 > Leading the LGMB along with their Drum Majur and Joonyur Bnad Leedur, the Bnad Leedur spreads Skule spirit through open events that anyone can join in. Including you! These events are held regularly throughout the year and are a great way to blow off some steam, make new friends or just show your Skule spirit loud and proud. *Will play and sing for food and BEvERages!*
 > 
@@ -31,14 +31,14 @@ These organization and positions are non-EngSoc organizations that are closely t
 > <a class="button is-small president" href="http://smokeandthunder.ca">Website</a>
 
 > ## Blue & Gold Committee
-> <p><b class="vp-student-life-text">Blue & Gold Committee Chairs</b> Aidan Castanheiro & Kaija Mikes
+> <p><b class="vp-student-life-text">Blue & Gold Committee Chairs</b> {{ site.data.council.project_directors.bng[0] }} and {{ site.data.council.project_directors.bng[1] }}
 > <small class="vp-student-life-text">Works with VP Student Life</small></p> 
 > 
 > <a class="button is-small vp-student-life" href="mailto:blueandgold@skule.ca">Email</a> 
-> <a class="button is-small vp-student-life" href="http://blueandgold.skuleca">Website</a>
+> <a class="button is-small vp-student-life" href="http://blueandgold.skule.ca">Website</a>
 
 > ## Skule Nite
-> <p><b class="vp-student-life-text">Skule Nite Director</b> Thomas Dell
+> <p><b class="vp-student-life-text">Skule Nite Director</b> {{ site.data.council.project_directors.skule_nite.director }}
 > <small class="vp-student-life-text">Works with VP Student Life</small></p> 
 > 
 > <a class="button is-small vp-student-life" href="http://skulenite.skule.ca/">Website</a> 
@@ -51,7 +51,7 @@ These organization and positions are non-EngSoc organizations that are closely t
 > <a class="button is-small president" href="http://wwwgoverningcouncil.utoronto.ca/">Website</a>
 
 > ## You're Next Career Network
-> <p><b class="president-text">YNCN President</b> Hannah Kot
+> <p><b class="president-text">YNCN President</b> {{ site.data.council.project_directors.yncn[0] }} and {{ site.data.council.project_directors.yncn[1] }}
 > <small class="president-text">Works with the President</small></p> 
 > 
 > <a class="button is-small president" href="mailto:contact@yourenext.ca">Email</a> 

@@ -5,15 +5,29 @@ layout: page
 
 Founded in 2008, following a call for increased accountability and help with a high volume of funding applications and allocations, the University of Toronto Engineering Society Finance Committee is a standing committee of the Engineering Society Board of Directors. Members of the FC, whose terms last for one year, reserve no particular authority but are mandated to recommend to the Board of Directors funding recommendations and assist Engineering Society members and clubs who seek financial help or guidance.
 
-For the 2023-2024 year, the Finance Committee will be comprised of 2 Officers (VP Student Life and VP Finance), 4 members at large and 1 member of the Board of Directors. The following document provides a short introduction to the Engineering Society Finance Committee for those unfamiliar with their work. For more information, [please refer to this](https://drive.google.com/file/d/1khGt4_ZQWeGjuT2MAzsKbrDdMMvhRkjw/view?usp=sharing).
+For the 2025-2026 year, the Finance Committee will be comprised of 2 Officers (VP Student Life and VP Finance), 5 members at large and 3 members of the Board of Directors. The following document provides a short introduction to the Engineering Society Finance Committee for those unfamiliar with their work. For more information, [please refer to this](https://drive.google.com/file/d/1khGt4_ZQWeGjuT2MAzsKbrDdMMvhRkjw/view?usp=sharing).
+
+
+| Name                                                       | Position                              |
+|------------------------------------------------------------|---------------------------------------|
+| {{ site.data.council.finance.acting_vp_finance }}          | Acting VP Finance                     |
+| {{ site.data.council.finance.finance_secretary}}           | Finance Secretary                     |
+| {{ site.data.council.finance.acting_vp_finance       }}    | Board Representative                  |
+| {{ site.data.council.finance.board_representatives[1] }}   | Board Representative                  |
+| {{ site.data.council.finance.board_representatives[2] }}   | Board Representative                  |
+| {{ site.data.council.finance.at_large[0] }}                | At-Large Representative               |
+| {{ site.data.council.finance.at_large[1] }}                | At-Large Representative               |
+| {{ site.data.council.finance.at_large[2] }}                | At-Large Representative               |
+| {{ site.data.council.finance.at_large[3] }}                | At-Large Representative               |
+| {{ site.data.council.finance.at_large[4] }}                | At-Large Representative               |
 
 ## Application Process
 
-The Finance Committee for the 2T3-2T4 year has been struck.
+The Finance Committee for the 2T5-2T6 year has been struck.
 
-Generally, the application process starts every May. Check back here for the applications in 2024!
+Generally, the application process starts every May. Check back here for the applications in 2026!
 
-Note that all finance committee meetings are open to the public and their minutes are publically available. If you are interested in joining a meeting, you can check the Skule calendar, the regular governance newsletters emailed from the VPF (Ken Hilton), or email finance.secretary@skule.ca for the date and location.
+Note that all finance committee meetings are open to the public and their minutes are publically available. If you are interested in joining a meeting, check the Skule calendar or governance newsletters emailed from the Vice President Communications, or [email vpcomm@skule.ca](mailto:vpcomm@skule.ca) for the date and location.
 
 ## Finance Committee Internal Guidlines
 

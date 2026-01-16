@@ -7,62 +7,92 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 ## Officers
 
-> **President** [Parker Johnston](mailto:president@skule.ca)
->
-> **Vice-President Finance** [Bo Zhao](mailto:vpfinance@skule.ca)
->
-> **Vice-President Communiciations** [Renee Slen](mailto:vpcomm@skule.ca)
->
-> **Vice-President Academic** [Kenneth Lloyd Hilton](mailto:vpacademic@skule.ca)
->
-> **Vice-President Student Life** [Joy Lai](mailto:vpstudentlife@skule.ca)
+|Position|Officer|
+|-|-|
+|President|[{{ site.data.council.officer.president }}](mailto:president@skule.ca)|
+|Vice-President Finance|[{{ site.data.council.officer.vp_finance }}](mailto:vpfinance@skule.ca)|
+|Vice-President Communications|[{{ site.data.council.officer.vp_communications }}](mailto:vpcomm@skule.ca)|
+|Vice-President Academic|[{{ site.data.council.officer.vp_academic }}](mailto:vpacademic@skule.ca)|
+|Vice-President Student Life|[{{ site.data.council.officer.vp_student_life }}](mailto:vpstudentlife@skule.ca)|
+|Speaker|[{{ site.data.council.officer.speaker }}](mailto:speaker@g.skule.ca)|
+|Business Manager|[{{ site.data.council.officer.business_manager }}](mailto:rhonda@g.skule.ca)|
 
 ## Board of Directors
 
-> **At-Large Representative** [Natalia Espinosa-Merlano](mailto:natespinosamerlano@mail.utoronto.ca)
->
-> **At-Large Representative** [Rebecca Ing](mailto:rebecca.ing@mail.utoronto.ca)
->
-> **At-Large Representative** [Kaija Mikes](mailto:k.mikes@mail.utoronto)
->
-> **At-Large Representative** [Ana Vukojevic](mailto:ana.vukojevic@mail.utoronto.ca)
->
-> **First Year Representative** [Lavneet Singh](mailto:lavneet.singh@mail.utoronto.ca)
->
-> **First Year Representative** [Elias Barsa](mailto:elias.barsa@mail.utoronto.ca)
->
-> **First Year Representative** [Boluwatife Asaba](mailto:boluwatife.asaba@mail.utoronto.ca)
->
-> **ChemicalEngineering Representative** [William Krestow](mailto:liam.krestow@mail.utoronto.ca)
->
-> **Civil Engineering Representative** [Baneen Kazmi](mailto:Baneen.kazmi@mail.utoronto.ca)
->
-> **Electrical and Computer Engineering Representative** [Parker Johnston](mailto:parkerjohnston@mail.utoronto.ca)
->
-> **Electrical and Computer Engineering Representative** *Vacant*
->
-> **Engineering Science Representative** [Sean Huang](mailto:seanhuang@mail.utoronto.ca)
->
-> **Industrial Engineering Representative** [Aisha Gurses](mailto:aisha.gurses@mail.utoronto.ca)
->
-> **Mechanical Engineering Representative** [Aidan Maunder](mailto:aidan.maunder@mail.utoronto.ca)
->
-> **Materials Science and Engineering Representative** [Tobin Zheng](mailto:tobin.zheng@mail.utoronto.ca)
->
-> **Mineral Engineering Representative** [Evan Kiriakou](mailto:evan.kiriakou@mail.utoronto.ca)
->
-> **Speaker**  [Erika Narimatsu](mailto:speaker@skule.ca)
+|Position|Representative|
+|-|-|
+{% for rep in site.data.council.bod_representatives.at_large %}|At-Large Representative|{{ rep }}|
+{% endfor %}|Chemical Engineering Representative|{{ site.data.council.bod_representatives.chemical }}|
+|Civil Engineering Representative|{{ site.data.council.bod_representatives.civil }}|
+{% for rep in site.data.council.bod_representatives.ece %}|Electrical and Computer Engineering Representative|{{ rep }}|
+{% endfor %}|Engineering Science Representative|{{ site.data.council.bod_representatives.engsci }}|
+|Industrial Engineering Representative|{{ site.data.council.bod_representatives.industrial }}|
+|Mechanical Engineering Representative|{{ site.data.council.bod_representatives.mechanical }}|
+|Materials Science and Engineering Representative|{{ site.data.council.bod_representatives.mse }}|
+|Mineral Engineering Representative|{{ site.data.council.bod_representatives.mineral }}|
+{% for rep in site.data.council.bod_representatives.first_year %}|First Year Representative|{{ rep }}|
+{% endfor %}
 
 ## Class Representatives
 
-> | Discipline                          | First Year      | Second Year     | Third Year                                                                                                                                                                                                                     | PEY                                                                                                            | Fourth Year                                                                     |
-> | ----------------------------------- | --------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-> | Chemical Engineering                | Vacant          | Vacant          | [Iftekhar Ali](mailto:iftekhar.ali@mail.utoronto.ca)                                                                                                                                                                           | N/A                                                                                                            | Vacant                                                                          |
-> | Civil Engineering                   | Vacant          | Vacant          | Vacant                                                                                                                                                                                                                         | Vacant                                                                                                         | Vacant                                                                          |
-> | Electrical and Computer Engineering | Vacant,  Vacant | Vacant,  Vacant | [Shannon Victoria Jones](mailto:shan.jones@mail.utoronto.ca), [Sahana Prabhu](mailto:sahana.prabhu@mail.utoronto.ca), [Asim Rahman](mailto:asim.rahman@mail.utoronto.ca), [Jeffrey Zhao](mailto:jeffrey.zhao@mail.utoronto.ca) | [Sam Chowdhury](mailto:sam.chowdhury@mail.utoronto.ca), [Medina Qaderi](mailto:Medina.qaderi@mail.utoronto.ca) | [Albert Huang](mailto:albert.huang@mail.utoronto.ca),  Vacant,  Vacant,  Vacant |
-> | Engineering Science                 | Vacant,  Vacant | Vacant,  Vacant | Vacant                                                                                                                                                                                                                         | N/A                                                                                                            | Vacant                                                                          |
-> | Industrial Engineering              | Vacant,  Vacant | Vacant          | Vacant                                                                                                                                                                                                                         | Vacant                                                                                                         | Vacant                                                                          |
-> | Materials Science and Engineering   | Vacant          | Vacant          | [Natalie Wong](mailto:nataliewns.wong@mail.utoronto.ca)                                                                                                                                                                        | N/A                                                                                                            | Vacant                                                                          |
-> | Mechanical Engineering              | Vacant,  Vacant | Vacant,  Vacant | [Thea Perez](mailto:thea.perez@mail.utoronto.ca ),  Vacant                                                                                                                                                                     | Vacant                                                                                                         | Vacant                                                                          |
-> | Mineral Engineering                 | Vacant          | Vacant          | [Matthew Ye](mailto:matthew.ye@mail.utoronto.ca)                                                                                                                                                                               | N/A                                                                                                            | [Evan Beri](mailto:evan.beri@utoronto.ca)                                       |
-> | Track One                           | Vacant          |                 |                                                                                                                                                                                                                                |                                                                                                                |                                                                                 |
+|Position|Representative|
+|-|-|
+|First Year|{{ site.data.council.reps.first_year.chemical }}|
+|Second Year|{{ site.data.council.reps.second_year.chemical }}|
+|Third Year|{{ site.data.council.reps.third_year.chemical }}|
+|PEY|{{ site.data.council.reps.pey.chemical }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.chemical }}|
+
+|**Civil**||
+|First Year|{{ site.data.council.reps.first_year.civil }}|
+|Second Year|{{ site.data.council.reps.second_year.civil }}|
+|Third Year|{{ site.data.council.reps.third_year.civil }}|
+{% for rep in site.data.council.reps.pey.civil %}|PEY|{{ rep }}|
+{% endfor %}|Fourth Year|{{ site.data.council.reps.fourth_year.civil }}|
+
+|**ECE**||
+{% for rep in site.data.council.reps.first_year.ece %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.second_year.ece %}|Second Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.third_year.ece %}|Third Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.pey.ece %}|PEY|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.fourth_year.ece %}|Fourth Year|{{ rep }}|
+{% endfor %}
+
+|**EngSci**||
+{% for rep in site.data.council.reps.first_year.engsci %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.second_year.engsci %}|Second Year|{{ rep }}|
+{% endfor %}|Third Year|{{ site.data.council.reps.third_year.engsci }}|
+|PEY|{{ site.data.council.reps.pey.engsci }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.engsci }}|
+
+|**Industrial**||
+{% for rep in site.data.council.reps.first_year.industrial %}|First Year|{{ rep }}|
+{% endfor %}|Second Year|{{ site.data.council.reps.second_year.industrial }}|
+|Third Year|{{ site.data.council.reps.third_year.industrial }}|
+|PEY|{{ site.data.council.reps.pey.industrial }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.industrial }}|
+
+|**MSE**||
+|First Year|{{ site.data.council.reps.first_year.mse }}|
+|Second Year|{{ site.data.council.reps.second_year.mse }}|
+|Third Year|{{ site.data.council.reps.third_year.mse }}|
+|PEY|{{ site.data.council.reps.pey.mse }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.mse }}|
+
+|**Mechanical**||
+{% for rep in site.data.council.reps.first_year.mechanical %}|First Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.second_year.mechanical %}|Second Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.third_year.mechanical %}|Third Year|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.pey.mechanical %}|PEY|{{ rep }}|
+{% endfor %}{% for rep in site.data.council.reps.fourth_year.mechanical %}|Fourth Year|{{ rep }}|
+{% endfor %}
+
+|**Mineral**||
+|First Year|{{ site.data.council.reps.first_year.mineral }}|
+|Second Year|{{ site.data.council.reps.second_year.mineral }}|
+|Third Year|{{ site.data.council.reps.third_year.mineral }}|
+|PEY|{{ site.data.council.reps.pey.mineral }}|
+|Fourth Year|{{ site.data.council.reps.fourth_year.mineral }}|
+
+|**Track One**||
+|First Year|{{ site.data.council.reps.first_year.trackone }}|

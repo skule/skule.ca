@@ -1,0 +1,189 @@
+---
+layout: default
+---
+
+<section class="hero is-primary is-small">
+    <div class="hero-body container">
+        <h1 class="title">
+            {% assign titlewords = page.dir | remove: "/" | split: "-" %}
+            {% for titleword in titlewords %}
+            {{ titleword | capitalize | replace: "The","the" }}
+            {% endfor %}
+        </h1>
+    </div>
+    <div class="hero-foot is-hidden-touch">
+        <nav class="tabs is-boxed is-fullwidth">
+            <ul class="major">
+                {% assign items = site.html_pages | sort: "order" %}
+                {% for item in items %}
+                {% if page.dir == item.dir %}
+                <li class="tab {% if item.url == page.url %} is-active {% endif %}">
+                    <a href="{{ item.url }}">{{ item.title }}</a>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </nav>
+    </div>
+</section>
+
+{% assign deadline = site.data.deadlines.finance_deadline | date: "%B %Y" %}
+
+<section class="section">
+
+    <div class="content container">
+
+        <h1>{{ page.title }}</h1>
+        <hr>
+        <h2 class="subtitle">
+            {{ deadline }} submissions due: 
+        </h2>
+        <div id="countdown" data-deadline="{{ site.data.deadlines.finance_deadline }}">
+          <div class="countdown-section">
+              <p class="label">DAYS</p>
+              <p class="digits" id="days"></p>
+          </div>
+          <div class="colon">:</div>
+          <div class="countdown-section">
+              <p class="label">HOURS</p>
+              <p class="digits" id="hours"></p>
+          </div>
+          <div class="colon">:</div>
+          <div class="countdown-section">
+              <p class="label">MINUTES</p>
+              <p class="digits" id="minutes"></p>
+          </div>
+        </div>
+        <p class="submit-here"><a href="https://forms.gle/DY1oHWG8uFPoggv36">Submit here!</a></p>
+
+        <h2 class="subtitle">Calendar</h2>
+        <iframe src="https://calendar.google.com/calendar/u/0/embed?src=c_a891bed43742f03a95c501e7bfb2dca9652b1d7fa4add4e645ea39593ea5d8f4@group.calendar.google.com&ctz=America/New_York" style="border:none; width:100%; height:600px" frameborder="0" scrolling="no"></iframe>
+        <hr>
+        {{ content }}
+
+    </div>
+
+</section>
+
+<script>
+  const deadline = new Date(document.getElementById("countdown").dataset.deadline);
+
+  function pad(n) {
+    return n.toString().padStart(2, '0');
+  }
+
+  function setDigits(containerId, value) {
+    const container = document.getElementById(containerId);
+    container.innerHTML = ''; // Clear old digits
+    pad(value).split('').forEach(d => {
+      const span = document.createElement('span');
+      span.className = 'digit';
+      span.textContent = d;
+      container.appendChild(span);
+    });
+  }
+
+  function updateCountdown() {
+    const now = new Date();
+    const diff = deadline - now;
+
+    if (diff <= 0) {
+      document.getElementById("countdown").textContent = "Deadline passed";
+      return;
+    }
+
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+    const minutes = Math.floor((diff / (1000 * 60)) % 60);
+
+    setDigits("days", days);
+    setDigits("hours", hours);
+    setDigits("minutes", minutes);
+  }
+
+  updateCountdown();
+  setInterval(updateCountdown, 1000);
+</script>
+
+<style>
+.subtitle {
+  font-size: 1.5em; 
+  font-weight: bold; 
+  margin-bottom: 1em;
+  text-align: center;
+}
+.submit-here {
+  text-align: center;
+  margin-top: 1em;
+  font-size: 1.2em;
+}
+#countdown {
+  display: flex;
+  align-items: center;
+  font-family: 'Arial Black', sans-serif;
+  color: white;
+  background: hsl(0, 0%, 81%);
+  padding: 20px;
+  border-radius: 10px;
+  gap: 10px;
+  justify-content: center;
+}
+
+.countdown-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.label {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.digits {
+  display: flex;
+  gap: 5px;
+}
+
+.digits .digit {
+  background: #3b739e;
+  color: white;
+  font-size: 2rem;
+  padding: 10px 15px;
+  border-radius: 10px;
+  min-width: 30px;
+  text-align: center;
+}
+
+.colon {
+  color: black;
+  font-size: 2rem;
+  padding: 28px 5px 0 5px;
+}
+
+@media (max-width: 600px) {
+  #countdown {
+    padding: 10px;
+    gap: 6px;
+  }
+
+  .label {
+    font-size: 0.75rem;
+    margin-bottom: 5px;
+  }
+
+  .digits .digit {
+    font-size: 1.2rem;
+    padding: 6px 8px;
+    min-width: 24px;
+    border-radius: 6px;
+  }
+
+  .colon {
+    font-size: 1.5rem;
+    padding: 18px 2px 0 2px;
+  }
+}
+
+</style>

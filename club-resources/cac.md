@@ -13,9 +13,8 @@ The committee reviews applications in various rounds throughout the school year 
 
 | Name          | Role            |
 | ------------- | --------------- |
-| Joy Lai       | VP Student Life |
-| Bo Zhao       | VP Finance      |
-| Josea Tarulli | DTA Director    |
-| Rebecca Ing   | Board Member    |
-| Novera Ahmed  | General Member  |
-| Inho Kim      | General Member  |
+| Sean Huang | VP Student Life |
+| Zayneb Hussain | VP Finance |
+| Sheen Patel | DTA Director |
+| Shosh Lebo | Board Member |
+| Armita Khashayardoost | General Member |

@@ -40,17 +40,9 @@ hr {
     box-shadow: 0 0 0;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-weight: 300 !important;
-}
+
 
 html {
-    font-family: 'Quicksand', sans-serif !important;
     background-color: #eeeeee;
 }
 
@@ -85,30 +77,7 @@ html {
     font-size: 18px;
 }
 
-#about {
-    background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('/assets/about.jpg') center no-repeat;
-    background-size: cover;
-}
 
-#get-involved {
-    background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('/assets/get-involved.jpg') center no-repeat;
-    background-size: cover;
-}
-
-#finances {
-    background: linear-gradient(to right, rgba(239, 239, 239, 0.98), rgba(239, 239, 239, 0.98)), url('/assets/finances.jpg') center no-repeat;
-    background-size: cover;
-}
-
-#club-resources {
-    background: linear-gradient(to right, rgba(239, 239, 239, 0.95) 0%, rgba(239, 239, 239, 0.95) 50%, rgba(239, 239, 239, 0) 87.5%), url('/assets/club-resources.jpg') center no-repeat;
-    background-size: cover;
-}
-
-#bookings {
-    background: linear-gradient(to right, rgba(239, 239, 239, 0.95), rgba(239, 239, 239, 0.95)), url('/assets/bookings.jpg') center no-repeat;
-    background-size: cover;
-}
 
 @media (max-width: 768px) {
     #about {

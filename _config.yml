@@ -1,7 +1,14 @@
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap 
 paginate: 5
 paginate_path: "/announcements/:num/"
 
 timezone: America/New_York
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      order: 1000

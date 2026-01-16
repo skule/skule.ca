@@ -9,9 +9,11 @@ If you have thoughts about how the Engineering Society can be improved, the best
 
 ## Office Hours
 
-11am - 5pm Monday - Friday 
+Location: GB 173 (Galbraith Building)
 
-Due to changing Covid-19 circumstances, the office may be closed without notice. If it is not open during these hours, please reach out to [rhonda@g.skule.ca ](mailto:rhonda@g.skule.ca) or [president@g.skule.ca ](mailto:president@g.skule.ca)to get in touch.
+Hours: 10am - 6pm, Tuesday - Thursday 
+
+Due to changing Covid-19 circumstances, the office may be closed without notice. If it is not open during these hours, please reach out to [rhonda@skule.ca ](mailto:rhonda@skule.ca) or [president@skule.ca ](mailto:president@skule.ca)to get in touch.
  
 <a class="button is-primary" href="https://utoronto.zoom.us/j/82382984574">Zoom Link</a>
 
@@ -23,7 +25,7 @@ Due to changing Covid-19 circumstances, the office may be closed without notice.
 
 > University of Toronto Engineering Society
 > 
-> B740 Sandford Fleming Building
+> B540 Sandford Fleming Building
 > 
 > 10 King's College Road
 > 

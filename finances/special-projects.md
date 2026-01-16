@@ -17,19 +17,20 @@ Some examples of past Special Projects are:
 
 **Note:** Affiliated Clubs are also eligible to receive funding from EngSoc, see [Club Funding](/club-resources/club_funding) for more details.
 
-**Total Funding Available for 2T3-2T4: $50,000**
+**Total Funding Available for 2T5-2T6: $50,000**
 
  Please note that funding is approved on a first come, first serve basis.
 
-## Application Proces
+## Application Process
 
-<a class="button is-primary" href="/finances/applications/Special-Projects-Application-2T3-2T4.xlsx"> Application Download </a> 
-<a class="button is-danger" href="https://docs.google.com/forms/d/e/1FAIpQLSfwNSAK8fXTA_NpJDPme0jj8PRZZviyFTfwgqLcAWLmAGPsdg/viewform "> Application Form</a>
+<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1rTHT00-sYadB1kkwCMMoGXRkMh7eO-Qg"> Application Template </a> 
+<a class="button is-danger" href="https://docs.google.com/forms/d/1PDQjAXXF9TTKFwtHjVHsNzIuH6D3eXn-mqFmetab88c"> Application Form</a>
 
-- Fill in the **written application**. Please only use the space provided.
-- Fill in the **excel template** to detail any budgeting revenue and expenses.
-- Email both the application and the budget to [vpfinance@skule.ca](mailto:vpfinance@skule.ca) and [finance.secretary@skule.ca](mailto:finance.secretary@skule.ca) with the subject/name: `(Name of Organization/Project)_Special Projects Funding``
-- The application will be discussed by the Finance Committee to reach a recommendation. Once the recommendation is approved by the Board, the finance secretary will let you know if your project has been approved or rejected.
+
+- The conference funding application period runs from the 1st to the 15th of each month.
+- Copy the appropriate template and fill it out accordingly.
+- Please ensure you submit your application through the application form with the subject: `(Name of Organization/Project)_Special Projects Funding`
+- The application will be discussed during the monthly Finance Committee meeting to reach a recommendation. Once the recommendation is approved by the Board, the finance secretary will let you know if your project has been approved or rejected.
 
 ## Funding Review
 
@@ -37,7 +38,7 @@ Applications to this fund are accepted on a rolling basis. Once the application 
 
 ## Funding Release
 
-Once the application is approved, please submit a cheque requisition to claim any expenses. Visit [Cheque Requisitions](/finances/cheque_requisitions) for more information.
+Once the application is approved, please submit a cheque requisition to claim any expenses. Visit [Cheque Requisitions](/finances/cheque-requisitions) for more information.
 
 ## Contact
 

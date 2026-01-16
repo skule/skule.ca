@@ -16,11 +16,22 @@
     <div class="navbar-menu" id="navMenu">
         <div class="navbar-start"></div>
         <div class="navbar-end ">
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link is-arrowless" href="/">
+                    Home
+                </a>
+            </div>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link is-arrowless" href="https://stores.skule.ca">
+                    Engineering Stores
+                </a>
+            </div>
             {% assign mydocs = site.html_pages | group_by: 'dir' %}
             {% for cat in mydocs %}
             {% unless cat.name == "/" or cat.name contains "announcements"%}
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link">
+                {% assign firstItem = cat.items | sort: 'order' | first %}
+                <a class="navbar-link" href="{{ firstItem.url }}">
                     {% assign titlewords = cat.name | remove: "/" | split: "-" %}
                     {% for titleword in titlewords %}
                     {{ titleword | capitalize | replace: "The","the" }}
