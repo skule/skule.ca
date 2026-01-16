@@ -79,13 +79,11 @@ The "quota" referred to above is how we make sure that at a majority of people d
 <div markdown="1">
 {% raw %}
 $$\text{votes needed to win} = \left\lfloor\frac{\text{valid votes cast}}{\text{seats to fill} + 1}\right\rfloor + 1$$
-{% endraw %}
 
-So for example, if there is one seat to fill and 10 people voted, no candidate is allowed to win unless they have at least 
-{% raw %}
-$$\left\lfloor\frac{10}{1 + 1}\right\rfloor + 1 = 6$$ votes.
+For example, if there is one seat to fill and 10 people voted, no candidate is allowed to win unless they have at least 6 votes:
+$$\left\lfloor\frac{10}{1 + 1}\right\rfloor + 1 = 6$$
+Likewise, for 10 people and two seats, each candidate needs at least 4 votes to win.
 {% endraw %}
- Likewise, for 10 people and two seats, each candidate needs at least 4 votes to win.
 
 #### Vote transfers
 
@@ -99,11 +97,9 @@ The formula to determine the value transferred is:
 
 {% raw %}
 $$\left(\frac{\text{total value of candidate's votes} - \text{quota}}{\text{total value of candidate's votes}}\right) \times \text{value of each vote when the candidate is elected}$$
-{% endraw %}
 
-For example: Say a candidate received 12 votes in the first round and the quota is 10. All 12 people who voted for this candidate would have their votes transferred to their second choice candidates at a value of 
-{% raw %}
-$$\left(\frac{12 - 10}{12}\right) \times 1 = 0.2$$.
+Say a candidate received 12 votes in the first round and the quota is 10. All 12 people who voted for this candidate would have their votes transferred to their second choice candidates at a value of: 
+$$\left(\frac{12 - 10}{12}\right) \times 1 = 0.2$$
 {% endraw %}
 </div>
 
