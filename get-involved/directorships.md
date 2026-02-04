@@ -33,7 +33,7 @@ Project Directors each manage a particular service or initiative, from managing 
 > <b class="vp-comms-text">Cannon Editor-in-Chief</b>
 > {{ site.data.council.project_directors.cannon_editor }} <small class="vp-comms-text">Overseen by VP Communications</small>
 > 
-> The Cannon Editor runs the Cannon, Skule™'s serious newspaper, informing students about happenings on campus and related to the engineering profession. They coordinate a dedicated staff to publish editions to newsstands and online on a regular basis. 
+> The Cannon Editor-in-Chief runs The Cannon, Skule™'s official quarterly magazine, dedicated to publishing themed issues featuring student articles, essays, puzzles, poems and more! They accept submissions from students of all years and disciplines. Issues can be found online or in-print, on newsstands across campus.
 >
 > <a class="button is-small vp-comms" href="mailto:cannon@skule.ca">Email</a> 
 > <a class="button is-small vp-comms" href="http://cannon.skule.ca">Website</a>
