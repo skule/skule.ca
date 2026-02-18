@@ -42,7 +42,7 @@ To identify which funding avenue is best for your purposes, see the tables below
 
 ## Applying for funding
 
-Once you have identified your funding avenue, you should download the application forms, fill them out, and submit them through the forms sent out monthly by the VP finance, from the email address vpfinance@skule.ca. Alternatively, you may send <a href="mailto:vpfinance@skule.ca"> the VP Finance </a> an email. <b>Please use the templates provided.<b> If applications are made without the templates, they are more difficult to process, and risk being rejected entirely.
+Once you have identified your funding avenue, you should download the application forms, fill them out, and submit them through the forms sent out monthly by the VP finance or the Finance Secretary. If applications are made without the templates, they are more difficult to process, and risk being rejected entirely.
 
 When filling in application forms, it is best to be detailed. Expense items should be broken down as much as possible, receipt by receipt if possible. Include contingencies where applicable - a 5% allowance is normally made for larger projects. At this stage, cost estimates are fine, since funding applications are only being <i>approved<i>. By having applications approved, you gain the right to requisition your approved funds in the future.
 
