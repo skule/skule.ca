@@ -41,24 +41,24 @@ Regardless of if you have a levy and need to renew it in February 2025, or if yo
 1. Applying for a Levy: Access the application package [HERE](https://docs.google.com/spreadsheets/d/1lOgnYFlR_dlJQ026rU6fB_iYBbrDToM2/edit?usp=sharing&ouid=101947819943477447084&rtpof=true&sd=true). This package requires four main components:
    - Some basic questions and information about your team.
    - A letter to the student body explaining the purpose of your team, what you do, and why you should have a levy.
-   - Your projected budget for the upcoming two years (i.e. 2T5-2T6 AND 2T6-2T7)
+   - Your projected budget for the upcoming two years (i.e. 2T6-2T7 AND 2T7-2T8)
    - Justifications from past fiscal years to support this projected budget.
      - Note: if your club is expanding significantly or asking for a major increase, please provide additional justification. If your requested levy is the same, an overview of previous fiscal years will suffice.
      - If you are applying for a levy for the first time, please still provide past budgets to justify your request.
      - The finance committee expects quotations, receipts and past transactions to support estimated budgets. Numbers alone are not sufficient. If you're budget is missing information, the finance committee will not provide extensions to give you an opportunity to do this past the deadline except under extenuting circumstances.
      - However, the finance committee recognizes that many design teams and clubs make numerous purchases over the year, and does not expect justifications down to a dollar level. Generally, the principle should be that your anticipated budget fits well with the levy you have requested, and it should be clear that your group is not overcharging the student body.
    - A profit and loss statement, or document of transactions that the organization has made over the last two years (this means Sept 2023 - Jan 2025 transactions made)
-   - You will submit this application to the Finance Committee by **no later than 11:59pm on Tuesday February 18th** via this link.
+   - **Application details, including deadlines, are circulated by email from the Finance Secretary. Only the email - and nothing else - contains authoritative information**.
 
-1. Finance Committee: The Finance Committee reviews your application, and makes a recommendation to the Engineering Society’s Board of Directors on whether or not to hold a referendum on your group’s levy. The Finance Committee meeting will be on both February 22nd and 23rd and invitations will be sent out to the applicants.
+2. Finance Committee: The Finance Committee reviews your application, and makes a recommendation to the Engineering Society’s Board of Directors on whether or not to hold a referendum on your group’s levy. The Finance Committee meeting will be on both February 22nd and 23rd and invitations will be sent out to the applicants.
 
-1. Board of Directors: The Board of Directors of the Engineering Society must vote to approve your levy referendum. The details of this meeting will be made available to you once confirmed; the meeting is likely to occur on February 27th or 28th in the evening. If you disagree with the decision made by the Finance Committee, you may also appeal the decision at the Board of Directors meeting. 
+3. Board of Directors: The Board of Directors of the Engineering Society must vote to approve your levy referendum. The details of this meeting will be made available to you once confirmed; the meeting is likely to occur on February 27th or 28th in the evening. If you disagree with the decision made by the Finance Committee, you may also appeal the decision at the Board of Directors meeting. 
 
-1. Preparing for Referendum: The Chief Returning Officer will reach out to you closer to that date to give you instructions about campaigning and elections. YOU ARE NOT ALLOWED TO CAMPAIGN BEFORE THEN.
+4. Preparing for Referendum: The Chief Returning Officer will reach out to you closer to that date to give you instructions about campaigning and elections. YOU ARE NOT ALLOWED TO CAMPAIGN BEFORE THEN.
 
-1. Voting: During the Spring Elections (in March), the student body votes on the referendum. Should the referendum not pass, your group can apply again in February 2026 and you will just receive regular club funding (CPSIF) for the 2025-26 school year.
+5. Voting: During the Spring Elections (in March), the student body votes on the referendum. Should the referendum not pass, your group can apply again in February 2026 and you will just receive regular club funding (CPSIF) for the 2026-27 school year.
 
-1. Payment: If the referendum passes, your group will receive the first installment of your levy in October 2025.
+6. Payment: If the referendum passes, your group will receive the first installment of your levy in October 2026.
 
 You can access the policy on levy groups [here](https://drive.google.com/file/d/1J1VPsPSnyRHALoX6dEoIC1uGouhYpi0X/view?usp=sharing) and the bylaw regarding referenda in Chapter 6 of [Bylaw 3](https://github.com/skule/bylaws/blob/master/Bylaw%203.pdf), although note that sections are somewhat out of date. A key point is that financial statements must be submitted to EngSoc following the fiscal year to remain eligible for continued funding. These financial statements allow us to remain compliant with the University’s policy on the distribution of student fees.
 
