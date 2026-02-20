@@ -27,18 +27,10 @@ A compiled list of some past projects financed by the SEF is available [here](ht
 ## 2T5 - 2T6 Timeline
 
 ### Fall 2025
+The Fall 2025 SEF round is over.
 
-- Early Oct 2025 - Call for proposals
-- Mid Oct 2025 - Deadline for proposals
-- Late Oct 2025 - Recommendation Delivered to Skule Endowment Fund committee
-
-### Spring 2026
-
- - February 2, 2026 – Call for proposals
- - February 20, 2026 – Deadline for proposals
- - Early March 2026 – Recommendation Delivered to Skule Endowment Fund Committee
- - Mid March 2026 – Final Approval granted
- - Late March 2026 – Funding Released
+### Winter 2026
+The Winter 2026 SEF round is over.
 
 ## Contact
 
