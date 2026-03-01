@@ -216,10 +216,10 @@ Project Directors each manage a particular service or initiative, from managing 
 >
 > <a class="button is-small vp-comms" href="mailto:socialmedia@skule.ca">Email</a>
  
-> <b class="vp-finance-text">Sponsorship Director</b>
->  {{ site.data.council.project_directors.sponsorship }} <small class="vp-finance-text">Overseen by VP Finance</small>
+> <b class="vp-finance-text">Student Benefits Director</b>
+>  {{ site.data.council.project_directors.student_benefits }} <small class="vp-finance-text">Overseen by VP Finance</small>
 > 
-> The Sponsorship Director builds relationships with sponsors in order to provide financial relief for EngSoc initiatives. They maintain a sponsorship package for events such as Cannonball, Gradball, Orientation, and they arrange the sale of advertisements in the Society publications. 
+> The Student Benefits Director builds relationships with ventors to acquire and maintain deals - such as pizza and bus deals - for the engineering student community. They also perform analysis on the Society members to identify where deals may be best made.
 >
 > <a class="button is-small vp-finance" href="mailto:sponsorship@skule.ca">Email</a>
  
