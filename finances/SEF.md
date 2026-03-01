@@ -24,6 +24,28 @@ A compiled list of some past projects financed by the SEF is available [here](ht
 - The application will be discussed by the SEF Subcommittee to reach a recommendation.
 - The SEF Committee will review and approve individual allocations. Funds will the distributed after this stage. 
 
+## Branding
+
+When you receive funding from SEF, you are required to <b>publicly acknowledge SEF support</b>. You must do this by displaying the following image on your promotional material. <b>If you do not do this, you will be refused funding in all future SEF rounds.</b>
+
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+    <img src="/assets/sef-logo.png" alt="SEF logo" style="max-width: 100%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</div>
+
+<style>
+@media (max-width: 700px) {
+  div[style*="display: flex"] img {
+    max-width: 100% !important;
+    min-width: 0 !important;
+    flex-basis: 100% !important;
+  }
+  div[style*="display: flex"] {
+    flex-direction: column !important;
+    gap: 16px !important;
+  }
+}
+</style>
+
 ## 2T5 - 2T6 Timeline
 
 ### Fall 2025
