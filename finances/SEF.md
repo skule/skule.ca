@@ -11,7 +11,11 @@ The SEF will be governed in an open and transparent fashion, for the benefit of 
 - Laboratory equipment for extracurricular use;
 - Engineering Society activities and operations.
 
-A compiled list of some past projects financed by the SEF is available [here](https://drive.google.com/drive/u/2/folders/1d_L69qd6ONqqOa3IboxEnPpZVMcuQzif).
+Among the projects the Skule Endowment Fund has financed, some examples are:
+- the inaugural Iron Pin ceremony and Skule 150;
+- the Pit renovation, Myhal Arena, and refurbishing discipline club common rooms;
+- 3D printers, machining tools, and laboratory equipment for the DTA and other design teams.
+A compiled list of some past projects financed by the SEF is available [here](https://drive.google.com/drive/folders/1d_L69qd6ONqqOa3IboxEnPpZVMcuQzif).
 
 ## Application Process
 
