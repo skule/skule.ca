@@ -9,13 +9,12 @@ Students can apply for Special Projects funding from the Engineering Society for
 - New ideas that are not a part of the typical EngSoc budget (e.g. Skule Kup in its first year)
 
 Some examples of past Special Projects are:
-- A new Suds fridge
-- Tools for the Blue and Gold Committee
-- Instruments for the Skule Orchestra and the LGMB
-- Hosting the 2012 Ontario Engineering Competitions at the University of Toronto
-- A rocket test stand for University of Toronto Aerospace Team
+- First Year Integration Conference 2024;
+- Skule Cultural Day;
+- the Skule Kup revival;
+- Soldering irons, balances, and machining equipment for design teams.
 
-**Note:** Affiliated Clubs are also eligible to receive funding from EngSoc, see [Club Funding](/club-resources/club_funding) for more details.
+**Note:** Affiliated Clubs are also eligible to receive operational funding beyond one-time purchases, see [Club Funding](/club-resources/club_funding) for more details.
 
 **Total Funding Available for 2T5-2T6: $50,000**
 
