@@ -1,31 +1,31 @@
 officer:
-  president: "Kenneth Lloyd Hilton"
-  vp_finance: "Kenneth Sulimro"
-  vp_communications: "Ethan Mao"
-  vp_academic: "Jim Xu"
-  vp_student_life: "Shosh Lebo"
-  speaker: "Lavneet Sidhu"
+  president: "Simona Tenche"
+  vp_finance: "Kaiy Cao"
+  vp_communications: "Christina Pizzonia"
+  vp_academic: "Edith Fang"
+  vp_student_life: "Michael Atkinson"
+  speaker: "Vacant"
   business_manager: "Rhonda Meek"
 
 bod_representatives:
   at_large:
-    - "Binying (Edith) Fang"
-    - "Valentina Lin Fang"
-    - "Alyssa Tiw"
-    - "William Chen"
-  chemical: "Jennifer Zhifeng Xu"
-  civil: "Dana Bou Saab"
+    - "Jennifer Wu"
+    - "Jennifer Xu"
+    - "Marc-André Gaudet"
+    - "Vacant"
+  chemical: "Kyle Nguyen"
+  civil: "Vacant"
   ece:
-    - "Justin Fang"
     - "Ayan Ali"
-  engsci: "Elias Barsa"
+    - "Ketevan Gallagher"
+  engsci: "Arthur Chen"
   first_year:
     - "Steven Zhang"
     - "Johny Hao Dong"
     - "Ai-Ling Ji"
-  industrial: "Jaden Benjamin Hinds"
-  mse: "Simona Tenche"
-  mechanical: "Sebastian Kiernan"
+  industrial: "Vacant"
+  mse: "Katie Buchel"
+  mechanical: "Aaryan Frederick"
   mineral: "Nicolás Oré"
 
 project_directors:
