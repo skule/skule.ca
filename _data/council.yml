@@ -4,7 +4,7 @@ officer:
   vp_communications: "Christina Pizzonia"
   vp_academic: "Edith Fang"
   vp_student_life: "Michael Atkinson"
-  speaker: "Vacant"
+  speaker: "<em>Vacant</em>"
   business_manager: "Rhonda Meek"
 
 bod_representatives:
@@ -12,7 +12,7 @@ bod_representatives:
     - "Jennifer Wu"
     - "Jennifer Xu"
     - "Marc-André Gaudet"
-    - "Vacant"
+    - "<em>Vacant</em>"
   chemical: "Kyle Nguyen"
   civil: "Vacant"
   ece:
@@ -42,10 +42,10 @@ project_directors:
     - "Angela Ye"
     - "Anika Mule"
   hard_hat_cafe_managers:
-    - "Vacant"
-    - "Vacant"
-  gradball: "Vacant"
-  student_benefits: "Vacant"
+    - "<em>Vacant</em>"
+    - "<em>Vacant</em>"
+  gradball: "<em>Vacant</em>"
+  student_benefits: "<em>Vacant</em>"
   suds_managers:
     - "Amanda Smith"
     - "Leslie Muir"
@@ -53,8 +53,8 @@ project_directors:
   systems_admin: "Maxim Akbulatov"
   frosh_editor: "Ishita Jain"
   social_media:
-    - "Vacant"
-    - "Vacant"
+    - "<em>Vacant</em>"
+    - "<em>Vacant</em>"
   toike_editor: "Selena Li"
   webmaster: "Katie Buchel"
   commuter_student: "Nick Oré"
@@ -64,24 +64,24 @@ project_directors:
   utek: "Francesca Mangano"
   community_outreach: "Yawen Zhang"
   design_team_association: "Ryan Hammer"
-  skule_kup: "Vacant"
+  skule_kup: "<em>Vacant</em>"
   photography: "Tianai Liu"
   skule_patrol:
     - "Alex Klaus"
-    - "Vacant"
+    - "<em>Vacant</em>"
   ombudsperson: "Aaryan Frederick"
   chief_returning_officer: "Katherine Mezei"
   athletics_president: "Gabriela Babic"
   orientation_chair: "Lesley Ha Tchong"
   skule_nite:
-    director: "Vacant"
+    director: "<em>Vacant</em>"
   bnad_leedur: "Mitchell Park"
   yncn:
     - "Sonia Kooner"
     - "Taleen Kutob"
   bng:
-    - "Ava McMurray"
-    - "Sebastian Kiernan"
+    - "Tristan Brady"
+    - "James Huynh"
   iron_pin:
     - "Leila Agil"
 
@@ -95,20 +95,20 @@ psc:
     - "Rivera Wijaya"
 
 discipline_club_chairs:
-  chemical: "Freddie Perera"
-  civil: "Zaina Nofal"
+  chemical: "<em>Vacant</em>"
+  civil: "Dana Bou Saab"
   ece:
-    - "Harmit Goswami"
-    - "Ava Jakob"
+    - "Agrim Sharma"
+    - "Danelle D'Souza"
   engsci:
-    - "Nour Barsoum"
-    - "Novera Ahmed"
-  industrial: "<em>Vacant</em>"
+    - "Riann Po"
+    - "Tanvi Manku"
+  industrial: "Jasmine Zhan"
   mechanical: "<em>Vacant</em>"
-  materials: "Renee Slen"
-  mineral: "Iyesha Rupasinha Arachchige"
+  materials: "Elyas Hannoufa"
+  mineral: "Sarim Baig"
 
-  trackone: "Catherine Zhong"
+  trackone: "Hermela Abiy"
 
 reps:
   first_year:
@@ -125,7 +125,7 @@ reps:
     industrial:
       - "Erik Coscollola Domingo"
       - "Tsepella Goff-Martin"
-    mse: "Katie Alex Buchel"
+    mse: "Katie Buchel"
     mechanical:
       - "Nima Bakhshaie"
       - "Arvyn Singh"
@@ -133,69 +133,69 @@ reps:
     trackone: "Hermela Abiy"
 
   second_year:
-    chemical: "Mahee Alam"
-    civil: "Ezra Chung Hang Lee"
+    chemical: "<em>Vacant</em>"
+    civil: "<em>Vacant</em>"
     ece:
-      - "Ethan Mao"
-      - "Arnav Agarwal"
-      - "Abdullah Bin Rashid"
-      - "Rashid Mahmood"
-    engsci:
-      - "Andy Wen"
-      - "Eric Xie"
-    industrial: "Rohan Garg"
-    mse: "Catherine Mandy Pang"
-    mechanical:
-      - "Aaryan Fredrick"
-      - "Jack Hunter Klein"
-    mineral: "Joaquin Escudero"
-
-  third_year:
-    chemical: "McQueen Chung"
-    civil: "Elizabeth Menjivar"
-    ece:
-      - "Vishwas Puri"
-      - "Gia Bejar"
-      - "Firdaus Ansari"
       - "<em>Vacant</em>"
-    engsci: "Evelyn Fallah"
-    industrial: "Renzo Ugarte"
-    mse: "Alexis Kuri"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+    engsci:
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+    industrial: "<em>Vacant</em>"
+    mse: "<em>Vacant</em>"
     mechanical:
-      - "Sebastian Kiernan"
+      - "<em>Vacant</em>"
       - "<em>Vacant</em>"
     mineral: "<em>Vacant</em>"
 
-  pey:
-    chemical: "Miko Samson"
-    civil:
-      - "Dana Bou Saab"
-      - "Charles Gu"
+  third_year:
+    chemical: "Diya Patel"
+    civil: "Victoria Ferreira"
     ece:
-      - "Yan Zu (Joe) Dai"
+      - "Arnav Argawal"
+      - "Ethan Mao"
       - "<em>Vacant</em>"
-    engsci: "Andy Gong"
-    industrial: "Sunny Yang"
+      - "<em>Vacant</em>"
+    engsci: "<em>Vacant</em>"
+    industrial: "Rohan Garg"
+    mse: "Amelia Antonellis"
+    mechanical:
+      - "Jack Klein"
+      - "<em>Vacant</em>"
+    mineral: "Joaquin Escudero"
+
+  pey:
+    chemical: "Angela Ye"
+    civil:
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+    ece:
+      - "Firdaus Ansari"
+      - "Vishwas Puri"
+    engsci: "<em>Vacant</em>"
+    industrial: "<em>Vacant</em>"
     mse: "<em>Vacant</em>"
     mechanical:
-      - "Rachel Pittman"
-      - "Aidan Principe"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
     mineral: "<em>Vacant</em>"
 
   fourth_year:
-    chemical: "William Vandenburg"
-    civil: "<em>Vacant</em>"
+    chemical: "Miko Samson"
+    civil: "Dana Bou Saab"
     ece:
-      - "Nidhi Nair"
-      - "Asim Rahman"
-      - "Hannah Lila"
-      - "Raida Fardous"
-    engsci: "Briana Chen"
-    industrial: "Hayden Groer"
-    mse: "Kasia Murawska"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
+    engsci: "<em>Vacant</em>"
+    industrial: "Sherry Zhang"
+    mse: "<em>Vacant</em>"
     mechanical:
-      - "Matthew Du"
-      - "Celin Begeshev"
+      - "<em>Vacant</em>"
+      - "<em>Vacant</em>"
     mineral: "<em>Vacant</em>"
 
 finance:
