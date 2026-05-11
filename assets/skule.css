@@ -120,30 +120,30 @@ html {
 }
 
 .vp-comms {
-    background-color: #f55252;
-    color: white;
-}
-
-.vp-comms-text {
-    color: #f55252;
-}
-
-.vp-academic {
-    background-color: #2b6482;
-    color: white;
-}
-
-.vp-academic-text {
-    color: #2b6482;
-}
-
-.vp-student-life {
     background-color: #c49300;
     color: white;
 }
 
-.vp-student-life-text {
+.vp-comms-text {
     color: #c49300;
+}
+
+.vp-academic {
+    background-color: #f55252;
+    color: white;
+}
+
+.vp-academic-text {
+    color: #f55252;
+}
+
+.vp-student-life {
+    background-color: #2b6482;
+    color: white;
+}
+
+.vp-student-life-text {
+    color: #2b6482;
 }
 
 .speakpersono {
