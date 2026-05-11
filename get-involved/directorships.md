@@ -13,6 +13,13 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-academic" href="mailto:academicpolicies@skule.ca">Email</a>
 > <a class="button is-small vp-academic" href="https://skule.ca/academics/gpa_requirements">Skule™ Academics</a>  -->
 
+> <b class="vp-academic-text">Academic Resources Director</b>
+> {{ site.data.council.project_directors.academic_resources }} <small class="vp-academic-text">Overseen by VP Academic</small>
+> 
+> The Academic Resources Director works to find study resources and develop a "student-forward" layout for the Skule(TM) Domain.
+>
+> <a class="button is-small vp-academic" href="mailto:academicresources@skule.ca">Email</a>
+
 > <b class="president-text">Alumni Outreach Director</b>
 > {{ site.data.council.project_directors.alumni_outreach }} <small class="president-text">Overseen by the President</small>
 > 
