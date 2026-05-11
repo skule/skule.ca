@@ -17,20 +17,20 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 ## Officers
             
-Officers handle EngSoc's day-to-day operations and external relations at a high level. Each of them also oversee a group of Project Directors related to their portfolios. They are elected directly by all full-time and part-time engineering students. [Visit the officers page](/about/officers/) to see a list of officers and their contact information.
+Officers handle EngSoc's day-to-day operations and external relations at a high level. Each of them also oversee a group of Project Directors related to their portfolios. They are elected directly by all full-time and part-time engineering students. [Visit the officers page](https://skule.ca/about/officers.html) to see a list of officers and their contact information.
 
 ## Board of Directors
             
-The Board of Directors is the highest level of governance and oversees all of the operations of the Engineering Society, as well as the activities of the Officers. Board of Directors Representatives vote on major decisions concerning changes to EngSoc's services, methods of representation, and bylaws. The Board holds the Officers and Directors of the Society accountable for their actions, and ultimately ensures that the Engineering Society acts in the best interests of its Members. They are elected directly by all full-time and part-time engineering students in each of their constituencies. [Visit the governing members](/about/governing_members/) page to see a list of Boar of Directors members and their contact information.
+The Board of Directors is the highest level of governance and oversees all of the operations of the Engineering Society, as well as the activities of the Officers. Board of Directors Representatives vote on major decisions concerning changes to EngSoc's services, methods of representation, and bylaws. The Board holds the Officers and Directors of the Society accountable for their actions, and ultimately ensures that the Engineering Society acts in the best interests of its Members. They are elected directly by all full-time and part-time engineering students in each of their constituencies. [Visit the governing members](https://skule.ca/about/governing-members.html) page to see a list of Boar of Directors members and their contact information.
 
 ## Project Directors
             
-Project Directors each manage a particular service or initiative, from managing a cafe to teaching high school students about engineering. Many of them form committees or teams open to anyone at Skule™ to achieve their goals for the year. They are elected by the outgoing EngSoc Council members near the end of their terms. [See the Project Directors page](/get_involved/directorships/) for more details.
+Project Directors each manage a particular service or initiative, from managing a cafe to teaching high school students about engineering. Many of them form committees or teams open to anyone at Skule™ to achieve their goals for the year. They are elected by the outgoing EngSoc Council members near the end of their terms. [See the Project Directors page](https://skule.ca/get-involved/directorships.html) for more details.
 
 ## Associated Entities
             
-Associated Entities are non-EngSoc organizations who are considered part of Council because of their contributions to the Skule™ community. The method by which they are elected or appointed varies based on their position. For mor information, please [visit the Associated Entities page](/get_involved/associated/).
+Associated Entities are non-EngSoc organizations who are considered part of Council because of their contributions to the Skule™ community. The method by which they are elected or appointed varies based on their position. For mor information, please [visit the Associated Entities page](https://skule.ca/get-involved/associated.html).
 
 ## Class Representatives
             
-Class Representatives are members of each discipline and year who represent the concerns and values of their classmates to Discipline Clubs, EngSoc, and the Faculty of Applied Science and Engineering. They are elected directly by all full-time and part-time engineering students in each of their constituencies. [Visit the governing members](/about/governing_members/) page to see a list of class representatives and their contact information.
+Class Representatives are members of each discipline and year who represent the concerns and values of their classmates to Discipline Clubs, EngSoc, and the Faculty of Applied Science and Engineering. They are elected directly by all full-time and part-time engineering students in each of their constituencies. [Visit the governing members](https://skule.ca/about/governing-members.html) page to see a list of class representatives and their contact information.
