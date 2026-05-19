@@ -69,10 +69,9 @@ By June 30, 2026, all affiliated and discipline clubs must submit, for the time 
 - Dated receipts for all transactions;
 - The club's annual budget for the time period above;
 - Any special financial arrangements or explanations the Club wishes to disclose to the Audit Committee.
-All documents must be submitted to this <a href="">form</a> as a zip archive, with:
+All documents must be submitted to this <a href="">form (TO BE ANNOUNCED)</a> as a zip archive, with:
     - All bank statements for the year put into one folder;
-    - Receipts for one activity code should be put into the same folder.
-In addition, <b>all clubs must fill this report <a href="">template</a></b>. Detailed instructions and examples are located in the first tab of the template. <b>If you are...</b>
+    - Receipts for one activity code should be put into the same folder. In addition, <b>all clubs must fill this report <a href="">template (TO BE ANNOUNCED)</a></b>. Detailed instructions and examples are located in the first tab of the template. <b>If you are...</b>
 
 <table>
     <tr>
