@@ -1,9 +1,9 @@
 ---
-title: Cheque Requisitions
+title: Audit
 layout: page
 ---
 
-> <b>This website contains information on a MANDATORY DEADLINE. Please read this website in its entirety. If you have questions, inquire with the VP Finance at vpfinance@skule.ca IMMEDIATELY.</b>
+> <b>This website contains information on a MANDATORY DEADLINE that is due June 30, 2026. Please read this website in its entirety. If you have questions, inquire with the VP Finance at vpfinance@skule.ca IMMEDIATELY.</b>
 
 ## Financial audit
 Per the Finance Policy §7.0.4, all Affiliated Clubs and Discipline Clubs are required to submit their financial records for the immediately preceding fiscal year to the Audit Committee for audit. This audit process ensures:
@@ -28,12 +28,12 @@ For 2026-2027:
 - In June 2026,
     - Reports from all clubs are due on June 30.
     - Clubs that are slated to be audited in July will be notified that they will be audited.
-- In each subsequent month (except December and April):
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
     <img src="/assets/audit_bild_2.png" alt="Audit cycle depiction, monthly" style="max-width: 100%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </div>
 
+- In each subsequent month (except December and April):
     - Clubs will be notified at a given month when it's their turn to be audited the next month. Each audit cycle lasts one and a half months.
     - AuditComm will start processing financial statements in the middle of a given month.
     - If AuditComm requires additional information as part of the audit, including viewing bank statements and records in person, requests will be sent out early on the subsequent month.
@@ -50,11 +50,17 @@ The report template revolves around the concept of activity codes. Club activiti
 - CPSIF and Winter Club Funding income should be reported under its own activity code (AC-6100 and AC-6200 respectively)
 
 The "P&L" tab should provide a month-by-month, high level view of revenue and expenditure.<br>
+
 The "Breakdown of P&L" tab should provide a more granular documentation of expenditure, for instance if your club has events or initiatives with multiple sub-budgets. All levy groups and clubs with cash flow >$20k per year MUST fill in this tab.<br>
+
 The "Special Projects Actuals" tab should provide an accounting of how Special Projects funds were used. All Special Projects revenues should be reported in this tab. All expenses that use Special Projects funds should be reported in this tab.<br>
+
 The "SEF Actuals" tab should provide an accounting of how SEF was used. All SEF revenues should be reported in this tab. All expenses that use SEF funds should be reported in this tab.<br>
+
 The "Conference Funding" tab should provide an accounting of how Conference Funding was used. All Conference Funding revenues should be reported in this tab. All expenses that use Conference Funding funds should be reported in this tab. As Conference Funding funds up to 50% of a conference's expenses, additional income sources should be declared where appropriate.<br>
+
 The "Transaction List Report" tab should provide a list of all transactions, both incoming and outgoing, made on behalf of the club. This can either be from the club's bank account or from individual bank accounts.<br>
+
 The "Reimbursement Recipient List" should provide a list of all the club's individual beneficiaries, including club executives and members who have received transfers from either EngSoc or the club's bank account.<br>
 
 ## Reporting requirements – due June 30, 2026
@@ -64,8 +70,8 @@ By June 30, 2026, all affiliated and discipline clubs must submit, for the time 
 - The club's annual budget for the time period above;
 - Any special financial arrangements or explanations the Club wishes to disclose to the Audit Committee.
 All documents must be submitted to this <a href="">form</a> as a zip archive, with:
-- All bank statements for the year put into one folder;
-- Receipts for one activity code should be put into the same folder.
+    - All bank statements for the year put into one folder;
+    - Receipts for one activity code should be put into the same folder.
 In addition, <b>all clubs must fill this report <a href="">template</a></b>. Detailed instructions and examples are located in the first tab of the template. <b>If you are...</b>
 
 <table>
