@@ -64,7 +64,14 @@ The Finance Committee evaluates applications based on:
 
 Only one-time expenditures that will not recur in the same or similar form over the recipient's lifetime are eligible.
 
+After you apply:
+1. Applications are reviewed by the Finance Committee when they hold their meeting in the same month. Finance Committee meeting details are sent to all students 72 hours in advance of the meeting. 
+2. Finance Committee decisions are approved at the Engineering Society Board of Directors meeting in the same month.
+3. If the funding is approved at the Board meeting, you may claim your expenses via cheque requisition.
+Approvals will be made in the same month that applications are made.
+
 ## What happens after my funding is approved?
+
 Once the application is approved, please submit a cheque requisition to claim any expenses. Visit [Cheque Requisitions](/finances/cheque-requisitions) for more information.
 Funds must be spent on the items listed in your approved application, with only non-substantive changes to price and quality. Significant changes should be communicated to the Vice-President Finance.
 

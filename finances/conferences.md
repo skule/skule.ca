@@ -69,6 +69,12 @@ Ineligible expenses include:
 -	Gasoline;
 -	Food and socials.
 
+After you apply:
+1. Applications are reviewed by the Finance Committee when they hold their meeting that month. Finance Committee meeting details are sent to all students 72 hours in advance of the meeting. 
+2. Finance Committee decisions are approved at the Engineering Society Board of Directors meeting in the same month.
+3. If the funding is approved at the Board meeting, you may claim your expenses via cheque requisition.
+Approvals will be made in the same month that applications are made.
+
 ## What happens after my funding is approved?
 
 Once funding is approved, please submit a cheque requisition to claim any expenses. Visit [Cheque Requisitions](/finances/cheque-requisitions) for more information.
