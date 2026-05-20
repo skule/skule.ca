@@ -3,11 +3,10 @@ title: Student Levies
 layout: page
 ---
 
-### Levy Application: [Need To Know](https://docs.google.com/document/d/139IWp6CPKuqXl156pMj-3-BAwrhubHr-4hDY0jlDm1o/edit?usp=sharing)
-
 # Student Levies
 
-Certain student groups on campus have their own levy that comes from students in addition to other ancillary fees. A levy is a fee charged to each student directly through the invoice you pay on ACORN. EngSoc collects these fees and distributes them directly to the teams (60% in Oct, 30% in Feb, 10% in April). Levies must be approved by a majority of the students that vote in the Spring Elections every March. A levy lasts two years and after that it must be renewed. A student group that receives a levy cannot receive funding from EngSoc in any other way (CPSIF, Conference Funding, Special Projects). They also cannot change their levy amount during that two year period.
+Levy Funding is meant to support highly involved clubs with a source of funding beyond that which any other funding avenue may provide.
+> Consult the Finance Policy §15 for full details. If there is a discrepancy between the contents of this website and the Finance Policy, the Finance Policy prevails.
 
 Here are the existing levies:
 
@@ -35,33 +34,86 @@ Here are the existing levies:
 | UTWind | $1.80 | February 2027 - Upcoming |
 | WISE | $2.00 | February 2028 - No action needed |
 
-## Application Process
+> This website is split into two halves. If you represent a club seeking a new levy, read the first half, from this header text to the next similarly styled header text. If you represent an existing levy group seeking to maintain a levy, read the second half after the next header text.
 
-Regardless of if you have a levy and need to renew it in February 2025, or if you would like to get a levy for a group that does not have one yet, you need to follow the below process:
+## Is this funding avenue appropriate for me? 
 
-1. Applying for a Levy: Access the application package [HERE](https://docs.google.com/spreadsheets/d/1lOgnYFlR_dlJQ026rU6fB_iYBbrDToM2/edit?usp=sharing&ouid=101947819943477447084&rtpof=true&sd=true). This package requires four main components:
-   - Some basic questions and information about your team.
-   - A letter to the student body explaining the purpose of your team, what you do, and why you should have a levy.
-   - Your projected budget for the upcoming two years (i.e. 2T6-2T7 AND 2T7-2T8)
-   - Justifications from past fiscal years to support this projected budget.
-     - Note: if your club is expanding significantly or asking for a major increase, please provide additional justification. If your requested levy is the same, an overview of previous fiscal years will suffice.
-     - If you are applying for a levy for the first time, please still provide past budgets to justify your request.
-     - The finance committee expects quotations, receipts and past transactions to support estimated budgets. Numbers alone are not sufficient. If you're budget is missing information, the finance committee will not provide extensions to give you an opportunity to do this past the deadline except under extenuting circumstances.
-     - However, the finance committee recognizes that many design teams and clubs make numerous purchases over the year, and does not expect justifications down to a dollar level. Generally, the principle should be that your anticipated budget fits well with the levy you have requested, and it should be clear that your group is not overcharging the student body.
-   - A profit and loss statement, or document of transactions that the organization has made over the last two years (this means Sept 2023 - Jan 2025 transactions made)
-   - **Application details, including deadlines, are circulated by email from the Finance Secretary. Only the email - and nothing else - contains authoritative information**.
+Levy Funding is intended for established organizations seeking long-term student fee support at scale. As passing a levy requires a referendum, the organization must have substantial support amongst the engineering student community.
 
-2. Finance Committee: The Finance Committee reviews your application, and makes a recommendation to the Engineering Society’s Board of Directors on whether or not to hold a referendum on your group’s levy. The Finance Committee meeting will be on both February 22nd and 23rd and invitations will be sent out to the applicants.
+Eligible applicants must be:
+-	Full-status clubs affiliated with the Engineering Society; or
+-	Affiliated Entities.
 
-3. Board of Directors: The Board of Directors of the Engineering Society must vote to approve your levy referendum. The details of this meeting will be made available to you once confirmed; the meeting is likely to occur on February 27th or 28th in the evening. If you disagree with the decision made by the Finance Committee, you may also appeal the decision at the Board of Directors meeting. 
+Levy funds are generally only used for operating expenses. Operating capital may be approved by the Finance Committee on a case-by-case basis. Large capital purchases should be made through SEF or the club's other funds. 
 
-4. Preparing for Referendum: The Chief Returning Officer will reach out to you closer to that date to give you instructions about campaigning and elections. YOU ARE NOT ALLOWED TO CAMPAIGN BEFORE THEN.
+Engineering Society levies have a maximum duration of two years, after which they must be renewed.
 
-5. Voting: During the Spring Elections (in March), the student body votes on the referendum. Should the referendum not pass, your group can apply again in February 2026 and you will just receive regular club funding (CPSIF) for the 2026-27 school year.
+If you do not currently possess a levy, the Board of Directors may refuse to hold a referendum unless you already receive more than $1,000 in affiliated club funding.
 
-6. Payment: If the referendum passes, your group will receive the first installment of your levy in October 2026.
+## How should I apply? 
 
-You can access the policy on levy groups [here](https://drive.google.com/file/d/1J1VPsPSnyRHALoX6dEoIC1uGouhYpi0X/view?usp=sharing) and the bylaw regarding referenda in Chapter 6 of [Bylaw 3](https://github.com/skule/bylaws/blob/master/Bylaw%203.pdf), although note that sections are somewhat out of date. A key point is that financial statements must be submitted to EngSoc following the fiscal year to remain eligible for continued funding. These financial statements allow us to remain compliant with the University’s policy on the distribution of student fees.
+Applications for Levy Funding are open in early February only.
+
+Eligible groups will receive an email containing an application template, the application form, and the application deadline. **The deadline as stated in the email is authoritative.**
+
+Your application must include:
+-	A letter addressed to the engineering student body explaining your activities, accomplishments, and needs;
+-	The levy amount requested from students;
+-	A budget for the current year;
+-	A constitution or governing document outlining governance, accountability, and transition procedures.
+
+## How are applications reviewed? 
+
+A 3-step process is followed after you send your levy application:
+
+1.	Review by the Finance Committee.
+
+The Finance Committee reviews levy applications based on the following:
+-	Technical and/or professional value to the community;
+-	Community-building value;
+-	Inclusivity of events;
+-	Appropriateness of the requested levy amount;
+-	Ability to carry out the proposed activities;
+-	Good budgeting practices, including a contingency;
+-	Demonstrated value-seeking among alternatives;
+-	Accountability to levy-paying students and likelihood of referendum success.
+Other criteria may be considered at the Finance Committee's discretion.
+
+The Finance Committee review is a technical and budgetary review. The Committee may either recommend that an application's levy amount be amended, the application progress as is, or the application be rejected entirely.
+
+2.	Review by the Engineering Society Board of Directors.
+
+The EngSoc Board of Directors reviews levies on behalf of their constituents; as such, they may vote for or against applications based on what they believe their constituents may benefit from best.
+This review occurs during the February Board of Directors meeting. A simple majority of the Board is required for a levy application to progress to the subsequent stage (referendum). A levy application that fails the Board vote is unsalvageable; it cannot be moved to referendum in the same year.
+
+3.	Referendum within the engineering student community.
+
+The referendum occurs in March. A simple majority of engineering students who voted must vote for the levy to pass. A campaigning period will be provided under the campaigning rules in <a href="https://skule.github.io/bylaws/bylaw-3.html">Bylaw 3</a>.
+If the referendum is passed, the levy will come into effect next academic year.
+
+> This is the second half of this web page and contains information on maintaining levies.
+
+## What happens after my funding is approved?
+
+Levy funds are distributed in three installments:
+-	60% in the Fall round;
+-	25% in the Winter round;
+-	15% in the Spring round.
+
+To receive the first installment, levy groups must submit by August 31:
+-	A list of authorized members and their contact information;
+-	Proof of a bank account with appropriate signing officers;
+-	A preliminary or forecast budget.
+
+## Audits
+
+Levy groups must comply with all audit requirements [here](/finances/audit.md). Funding will be withheld if audit requirements are not met. In particular, all levy groups:
+-	Must submit a profit and loss statement to the Business Manager every May. The Business Manager (Rhonda) will send an email to levy groups requesting these statements;
+-	Must submit the audit template, bank statements, and receipts to the Audit Committee by June 30 annually.
+
+## Renewing a levy
+
+Levies must be renewed every two years. Information pertinent to renewing a levy is located in the first half of this page.
 
 ## Contact
 
