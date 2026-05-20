@@ -3,40 +3,52 @@ title: Club Funding
 layout: page
 ---
 
-The Engineering Society participates in the Centralized Process for Student Initiative Funding (CPSIF). CPSIF allows student groups to apply to various funding resources from within the Faculty of Applied Science & Engineering in a single application. Departments and affiliates of this program will all receive the same application and budget. The funding process will occur once this academic year during the fall.
+Affiliated Club Funding is meant to support Engineering Society affiliated clubs with their annual, day-to-day operations. This funding avenue is specifically meant to support operating costs.
 
-For more information about CPSIF and to begin your application, please visit the [CPSIF Home Page](https://uofteng.ca/CPSIF). A thorough review of the Eligibility & Guidelines section is strongly recommended. Especially important is to fill out an Impact Report by the end of the year highlighting how the funds were used. Without this report an organization will not be able to apply for funding the following year.
+> Consult the Finance Policy §14 for full details. If there is a discrepancy between the contents of this website and the Finance Policy, the Finance Policy prevails.
 
-In addition to the CPSIF, EngSoc will have an additional round of Club Funding in the Winter. Information regarding Winter round club funding applications and deadlines will be released in the second semester. Clubs that have not received funding from EngSoc will have funding priority. However, groups that have applied to CPSIF in the fall semester may be considered again based on need (i.e. you were a trial club and now have been fully affiliated). Please ensure that your proposed budget reflects activities and programs for the entire academic year. You will be asked to provide past financial records along with projected expenses and all sources of income. 
+## Is this funding avenue appropriate for me? 
 
-<a class="button is-primary" href="https://utoronto.sharepoint.com/:x:/s/fase-VDU/setd/ET_pS7HVxwJAlB6vzRSzbwoBnJvJtZsAzflJangkHuH-_g?e=GNi1H6">2023-2024 CPSIF Budget Template</a>
-
-## CPSIF Details
-
-<b>Please read this section before applying to CPSIF. This section contains important information which your application should include.<b>
-
-CPSIF is a centralized student funding process. This means that the same application is sent to different recipients, whether it be the various Faculty of Applied Science and Engineering departments, or the Engineering Society. This section addresses only applications received by the Engineering Society. Please refer to individual departments' websites if you would like to know more about how they judge CPSIF applications they receive.
-
-<b>The following student groups are NOT eligible for CPSIF funding from EngSoc:<b>
+If you are an:
+-	EngSoc Affiliated Trial Status club, or an
+-	EngSoc Affiliated Full Status club that is not a levy group;
+You may apply to receive support for operating expenses from the Engineering Society. The following student groups are NOT eligible for CPSIF funding from EngSoc:
 - Discipline clubs
 - Levy groups
 - Student groups NOT affiliated with EngSoc
 
-If your student group falls into one of the above categories, please put "0" under expected funds received from EngSoc in your CPSIF application budget, as you are guaranteed to not receive any.
+This funding avenue materializes in two forms:
+-	CPSIF, which occurs in the fall term; **NOTE: being a levy group, discipline club, or project directorship does not preclude groups from applying to CPSIF, but it does mean EngSoc will automatically allocate 0 to said organization.**
+-	Winter Club Funding, which may be opened at the discretion of the Vice-President Finance.
 
-Trial status clubs are only eligible for a maximum of $200 in CPSIF funding. All student groups are expected to include a contingency in their budgets, as EngSoc will not approve funding for a student group more than what that group requested in their application.
+Funds may only be used for operating expenses and may not be used to purchase alcohol or intoxicating drugs (including cannabis and psilocybin).
 
-EngSoc will not approve funding for expense items already or potentially covered under EngSoc's other recourses to funding. In particular, past or future conference expenses and expense items approved in the past will not be (re-)approved under CPSIF. Please apply to the conference funding application for conference-related expenses. Student groups should distinguish between holding (organizing) and attending conferences; expenses related to organizing a conference are admissible under CPSIF, while attending conferences are not.
+## How should I apply? 
 
-## CPSIF Application Process
+For **CPSIF**, apply via the Faculty of Applied Science and Engineering's CPSIF <a href=" https://www.engineering.utoronto.ca/current-students/centralized-process-for-student-initiative-funding-cpsif/">portal</a>. Email blasts are sent out by the Faculty in August and September reminding students and clubs to apply. Applications are generally due late September/early October. In order to qualify, your club must meet any CPSIF-specific requirements including submitting impact reports on time.
 
-There are two rounds of funding for trial and fully affiliated EngSoc clubs. The first is the Fall round through CPSIF, the timeline of which can be found below.
+For winter club funding, emails will be sent out to all qualifying affiliated clubs with the application template and submission form. Applications are generally open late January and due early February.
 
-- Monday, August 28, 2023 (12PM ET) –  Wednesday October 4, 2023 (12PM ET): 2023-24 CPSIF application period [CONCLUDED, decisions being finalised]
-- Wednesday, November 1, 2023: Student initiatives notified of funding decisions
-- Monday November 20, 2023 – Wednesday January 31, 2024: Cheque pick up period
-- Wednesday May 22, 2024 (12PM ET): Successful applicants submit Impact Statement
+In both cases, your application must include:
+-	The club's mission and how it benefits the Skule™ community;
+-	All projected sources of income and expenses;
+-	Quotes or evidence for each budgeted expense;
+-	An explanation of the purpose of each line item.
 
-<a class="button is-primary" href="https://forms.office.com/r/NpQsrtGqpR">Click to Apply</a> 
-<a class="button is-primary" href="https://uofteng.ca/CPSIF">More CPSIF Info</a> 
-<a class="button is-danger" disabled href="https://docs.google.com/forms/d/e/1FAIpQLSfYUfIKAGVTVfzpvkzEuezJG4UYjZzQo8mr4qPp8oUrJYPvSQ/viewform">Winter Funding Application</a>
+## How are applications reviewed?
+
+The Finance Committee evaluates applications based on:
+-	Technical and/or professional value to the community;
+-	Community-building value;
+-	Inclusivity of events;
+-	The club's ability to carry out the proposed activities;
+-	Demonstrated effort to compare alternatives and obtain best value;
+-	Good budgeting practices, including a contingency;
+-	Reasonableness of the requested amount relative to club activities.
+Other criteria may be considered at the Finance Committee's discretion.
+
+For winter club funding specifically, allocations may be prioritized towards clubs which did not benefit from CPSIF funding in the same year.
+
+## What happens after my funding is approved?
+
+Once funding is approved, please submit a cheque requisition to claim any expenses. Visit [Cheque Requisitions](/finances/cheque-requisitions) for more information.
