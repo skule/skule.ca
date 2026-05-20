@@ -23,6 +23,8 @@ This funding avenue materializes in two forms:
 
 Funds may only be used for operating expenses and may not be used to purchase alcohol or intoxicating drugs (including cannabis and psilocybin).
 
+Trial status clubs may only receive $200 per year across all funding sources.
+
 ## How should I apply? 
 
 For **CPSIF**, apply via the Faculty of Applied Science and Engineering's CPSIF <a href=" https://www.engineering.utoronto.ca/current-students/centralized-process-for-student-initiative-funding-cpsif/">portal</a>. Email blasts are sent out by the Faculty in August and September reminding students and clubs to apply. Applications are generally due late September/early October. In order to qualify, your club must meet any CPSIF-specific requirements including submitting impact reports on time.

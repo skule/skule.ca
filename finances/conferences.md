@@ -31,6 +31,8 @@ On a per-application basis:
 -	Club applications may claim up to **$750 per person up to $5000 for academic conferences** and **$500 per person up to $2000 for hobby conferences**, or **50% of all conference costs, whichever is lesser**.
 Each year, an individual may only receive $750 across all individual applications, and a club may only receive $5000 across all club applications. **There is no limit to how much an individual can receive from individual and club applications!**
 
+Trial status clubs may only receive $200 per year across all funding sources.
+
 ## How should I apply?
 
 Applications are open every month except for the months of May, December, and April.

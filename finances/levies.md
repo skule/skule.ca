@@ -64,7 +64,7 @@ Your application must include:
 
 ## How are applications reviewed? 
 
-A 3-step process is followed after you send your levy application:
+A **3-step** process is followed after you send your levy application:
 
 1.	Review by the Finance Committee.
 
@@ -91,7 +91,7 @@ This review occurs during the February Board of Directors meeting. A simple majo
 The referendum occurs in March. A simple majority of engineering students who voted must vote for the levy to pass. A campaigning period will be provided under the campaigning rules in <a href="https://skule.github.io/bylaws/bylaw-3.html">Bylaw 3</a>.
 If the referendum is passed, the levy will come into effect next academic year.
 
-> This is the second half of this web page and contains information on maintaining levies.
+> This half of this web page contains information on maintaining levies.
 
 ## What happens after my funding is approved?
 
