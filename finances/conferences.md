@@ -3,30 +3,39 @@ title: Conference Funding
 layout: page
 ---
 
-It is in the interest of the Engineering Society that all undergraduate engineering students who wish to attend an academic conference or design competition to represent Skule, EngSoc and the University of Toronto to the engineering community have the opportunity to do so, without being restricted by financial needs. All undergraduate engineering students may thus apply for a subsidy from the Engineering Society to attend an academic conference or design competition that clearly demonstrates these points.
+Conference funding is a funding avenue that has been generously enabled by a donation from the Faculty of Applied Science and Engineering and the Engineering Alumni Association. The purpose of this funding avenue is to support students in attending conferences/events for their own personal development or community achievement.
 
-## Eligibility
+> Consult the Finance Policy §11 for full details. If there is a discrepancy between the contents of this website and the Finance Policy, the Finance Policy prevails.
 
-Expenses eligible for reimbursement include any travel, accommodation, and registration costs related to the conference/competition. Students may apply as individuals or as members of a club attending a conference or competition as a group. A club executive needs to apply only once on behalf of all attending members. Please keep in mind the following points:
+## Is this funding avenue appropriate for me?
 
-- Individuals can only be approved for conference funding once per fiscal year, whether as an individual or with a club
-- This fund only applies to conferences that students/clubs attend, not direct or organize. Please apply for Affiliated Club Funding and Special Projects for student run initiatives.
-- The Engineering Society reserves the right to compare your application against others as funding is limited.
-- Students applying for conference funding must be Undergraduate Engineering Students at the University of Toronto.
+Anyone attending a conference may apply! **$50000 in total funding available for academic year 2026-7**. A conference must be a gathering of multiple people with a common interest or background and on a well-defined topic. With this definition, multiple events can be considered conferences, such as:
+- Academic conferences;
+- Competitions;
+-	Symposia;
+-	Industry visits and plant tours.
+**Conferences must be held by non-EngSoc affiliated entities to be eligible.**
 
-## Finances and Logistics
+**Your conference must be held in the same academic year as when you send the application**, except:
+-	If your conference is held in March or April, you may file your application in the subsequent academic year;
+-	If your conference is held in May or June, you may file your application in the preceding academic year.
 
-While previous conference funding was limited, the Faculty of Applied Sciences and Engineering and associated Alumni Fund have generously donated $60,000 for the 2T5-2T6 school year to sponsor students to use conference funding and attend conferences/events for their own personal development or community achievement. We thank the Faculty and alumni for their support!
+If you are attending a conference to represent yourself and not an affiliated club, you may file an *individual* application. If you are attending a conference on behalf of an affiliated club, your club must file a *club* application for you.
 
-- **For academic/technical/design conferences**: the maximum amount that may be received is up to **$750** of the expenses or **50% of total costs per person** of the expenses associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
-- **For recreational/hobby conferences**: the maximum amount that may be received is up to **$500** of the expenses or **50% of total costs per person of the expenses** associated with the conference/competition (conference fees, travel expenses and hotel fees etc.), per individual, **whichever is lesser**.
-- A maximum amount of $5000 may be allocated for each club per fiscal year **for academic/technical/design conferences**, and a maximum amount of $2000 **for recreational/hobby conferences**.
-- A maximum amount of $750 may be allocated for each club per fiscal year **for academic/technical/design conferences**, and a maximum amount of $500 **for recreational/hobby conferences**.
-- The conference/competition costs must occur in the current fiscal year, which starts June 1 and ends May 31 of the next calendar year. If the expenses occur in the next fiscal year, you will need to submit an application after May 31.
-- The funding pool is limited and may be exhausted before you have a chance to apply. To improve your chances, we encourage you to apply early and provide cost estimates.
+EngSoc recognizes two types of conferences:
+-	Academic conferences are conferences that contain an engineering design element.
+-	Hobby conferences are conferences that are not academic conferences.
 
-## Application Process 
+On a per-application basis:
+-	Individual applications may claim up to **$750 for academic conferences** and **$500 for hobby conferences**, or **50% of all conference costs, whichever is lesser**;
+-	Club applications may claim up to **$750 per person up to $5000 for academic conferences** and **$500 per person up to $2000 for hobby conferences**, or **50% of all conference costs, whichever is lesser**.
+Each year, an individual may only receive $750 across all individual applications, and a club may only receive $5000 across all club applications. **There is no limit to how much an individual can receive from individual and club applications!**
 
+Trial status clubs may only receive $200 per year across all funding sources.
+
+## How should I apply?
+
+Applications are open every month except for the months of May, December, and April.
 <a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1QwzuVd8rWqownJ8wXR4x2VelOG83BY0e"> Group Application Template </a>
 <a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1LMDv3GCNBJqpGBFQ6W70WO4EQ7HGE5mR"> Individual Application Template </a>
 <a class="button is-danger" href="https://docs.google.com/forms/d/1PDQjAXXF9TTKFwtHjVHsNzIuH6D3eXn-mqFmetab88c"> Application Form </a>
@@ -38,15 +47,38 @@ While previous conference funding was limited, the Faculty of Applied Sciences a
   - If you are an individual or a group of individuals planning to attend a conference, please use the individual application form.
 - The application will be discussed during the monthly Finance Committee meeting to reach a recommendation. Once the recommendation is approved by the Board, the finance secretary will let you know if your conference funding has been approved or rejected.
 
-**Note:** The written application consists of two parts: conference details **and a conference review**. If you submit the first part of the application before the conference has occurred, the Finance Committee may confirm your funding amount beforehand. This funding will be reimbursed once the second part of application and a cheque requisition has been submitted. A member of the Finance Committee will contact you with impact report submission details after the conference.
+## How are applications reviewed?
 
-## Funding Review
+Conference funding applications must demonstrate how participation in the conference creates benefits to attendees and the Skule™ community.
 
-Applications to this fund are accepted on a rolling basis. Once the application is received, it will be reviewed in the subsequent Finance Committee meeting. The turnaround time for applications is approximately one month. If we are requesting more information from you, we recommend you send it as soon as possible so we can process it at the next meeting, and minimize any delays in the process. You may also be requested to meet with the Finance Committee during this process.
+Clubs filing club applications must explain how individuals who bore expenses on behalf of the club will be compensated.
 
-## Funding Release
+Only certain expenses are eligible for reimbursement, which meet the following criteria:
+-	They are necessary for participation in the conference;
+-	They are not excessive beyond what is needed for participation in the conference;
+-	Expenses claimed through conference funding must clearly be for that particular conference and not be for other purposes.
 
-Once the funding is approved and all parts of the application have been submitted, please submit a cheque requisition to claim any expenses. Visit [Cheque Requisitions](/finances/cheque-requisitions) for more information.
+Eligible expenses include:
+-	Long distance travel from the GTA (beyond the range of local/commuter transit services); 
+-	Room and board;
+-	Conference equipment (e.g. posters, electronics) and shipping thereof.
+
+Ineligible expenses include:
+-	Travel within range of GTA's commuter transit services;
+-	Ridesharing and taxi;
+-	Gasoline;
+-	Food and socials.
+
+After you apply:
+1. Applications are reviewed by the Finance Committee when they hold their meeting that month. Finance Committee meeting details are sent to all students 72 hours in advance of the meeting. 
+2. Finance Committee decisions are approved at the Engineering Society Board of Directors meeting in the same month.
+3. If the funding is approved at the Board meeting, you may claim your expenses via cheque requisition.
+Approvals will be made in the same month that applications are made.
+
+## What happens after my funding is approved?
+
+Once funding is approved, please submit a cheque requisition to claim any expenses. Visit [Cheque Requisitions](/finances/cheque-requisitions) for more information.
+**Note:** when you submit your cheque requisition, you must also ensure that the conference review portion of the template is filled. Your funds will not be released before you do so.
 
 ## Contact
 
