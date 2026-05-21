@@ -79,7 +79,7 @@ All documents must be submitted to the application form below with:
     - All bank statements for the year put into one folder;
     - Receipts for one activity code should be put into the same folder. In addition, <b>all clubs must fill the report template below</b>. Detailed instructions and examples are located in the first tab of the template.
 
-<a class="button is-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSe513OTv1P7uddK9AYxhWIlfdojqfkMzqApWu8CN4Skh6NdLg/viewform"> Submission form </a>
+<a class="button is-danger" href="https://docs.google.com/forms/d/e/1FAIpQLSe513OTv1P7uddK9AYxhWIlfdojqfkMzqApWu8CN4Skh6NdLg/viewform"> Submission form </a>
 <a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1aglabsDOYMV1lItOdoWqayV0YMQ2MVyRrs6ReauLso8/edit?gid=283474351#gid=283474351"> Report template </a>
 
 <b>If you are...</b>
