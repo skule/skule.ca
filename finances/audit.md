@@ -44,6 +44,12 @@ For 2026-2027:
 The order in which clubs are audited will be randomized. Approximately 10 clubs will be audited each month. Levy groups and discipline club audits will be spread across the year.
 
 ## Report template instructions
+
+Access the report template here and a filled example here:
+
+<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1aglabsDOYMV1lItOdoWqayV0YMQ2MVyRrs6ReauLso8/edit?gid=283474351#gid=283474351"> Report template </a>
+<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1CDNyPr2pIH7Nn6B7OCMI8eKkfyOzkkty/edit?gid=2111528138#gid=2111528138"> Filled example </a>
+
 The report template revolves around the concept of activity codes. Club activities are categorized into activity codes in the "P&L" tab, though you are free to define additional activity codes as necessary. Each transaction done by your club should be assigned under exactly one corresponding activity code. However, there are restrictions on assigning codes:
 - All income activity codes must start with a 6 (see "P&L" tab).
 - Special projects, conference funding, and SEF income and expenses should be reported under its own activity code (AC-6600, AC-6700, AC-6300 respectively).
@@ -69,10 +75,14 @@ By June 30, 2026, all affiliated and discipline clubs must submit, for the time 
 - Dated receipts for all transactions;
 - The club's annual budget for the time period above;
 - Any special financial arrangements or explanations the Club wishes to disclose to the Audit Committee.
-All documents must be submitted to this <a href="">form (TO BE ANNOUNCED)</a> as a zip archive, with:
+All documents must be submitted to the application form below with:
     - All bank statements for the year put into one folder;
-    - Receipts for one activity code should be put into the same folder. In addition, <b>all clubs must fill this report <a href="">template (TO BE ANNOUNCED)</a></b>. Detailed instructions and examples are located in the first tab of the template. <b>If you are...</b>
+    - Receipts for one activity code should be put into the same folder. In addition, <b>all clubs must fill the report template below</b>. Detailed instructions and examples are located in the first tab of the template.
 
+<a class="button is-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSe513OTv1P7uddK9AYxhWIlfdojqfkMzqApWu8CN4Skh6NdLg/viewform"> Submission form </a>
+<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1aglabsDOYMV1lItOdoWqayV0YMQ2MVyRrs6ReauLso8/edit?gid=283474351#gid=283474351"> Report template </a>
+
+<b>If you are...</b>
 <table>
     <tr>
         <td><b>A levy group...</b></td>
@@ -118,5 +128,5 @@ Suppose affiliated club ABC will be audited in August 2026.
 6. AuditComm will conclude Club ABC's audit by around August 20, 2026. The exact date will be decided by AuditComm.
 7. The EngSoc Board of Directors will decide to approve Club ABC's audit at the August Board Meeting.
 
-## Audit schedule and deadlines 2026-7
+## Audit schedule 2026-7
 <b> To be released mid-June. </b>
