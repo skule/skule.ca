@@ -72,7 +72,7 @@ The "Reimbursement Recipient List" should provide a list of all the club's indiv
 ## Reporting requirements – due June 30, 2026
 By June 30, 2026, all affiliated and discipline clubs must submit, for the time period between May 2025 – April 2026:
 - Bank statements;
-- Dated receipts for all transactions;
+- Dated receipts for all transactions, **organized into folders by month** (e.g. all receipts for June 2025 belong to one folder);
 - The club's annual budget for the time period above;
 - Any special financial arrangements or explanations the Club wishes to disclose to the Audit Committee.
 All documents must be submitted to the application form below with:
