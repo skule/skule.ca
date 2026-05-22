@@ -45,10 +45,11 @@ The order in which clubs are audited will be randomized. Approximately 10 clubs 
 
 ## Report template instructions
 
-Access the report template here and a filled example here:
+Access the report template here and two filled examples here. Both examples are written based on typical design team scenarios:
 
 <a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1aglabsDOYMV1lItOdoWqayV0YMQ2MVyRrs6ReauLso8/edit?gid=283474351#gid=283474351"> Report template </a>
 <a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1CDNyPr2pIH7Nn6B7OCMI8eKkfyOzkkty/edit?gid=2111528138#gid=2111528138"> Filled example </a>
+<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1m8d66rMC6q7PVreH04n11D5Ie2huZwknawdyq_FI2kE/edit?gid=283474351#gid=283474351"> Filled example 2 </a>
 
 The report template revolves around the concept of activity codes. Club activities are categorized into activity codes in the "P&L" tab, though you are free to define additional activity codes as necessary. Each transaction done by your club should be assigned under exactly one corresponding activity code. However, there are restrictions on assigning codes:
 - All income activity codes must start with a 6 (see "P&L" tab).
