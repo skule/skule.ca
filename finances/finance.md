@@ -26,6 +26,7 @@ To identify which funding avenue is best for your purposes, see the tables below
     <img src="/assets/finance-other-funding.png" alt="Other Funding" style="max-width: 100%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </div>
 
+
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
     <img src="/assets/cpsif_faq.png" alt="levy faq" style="max-width: 40%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </div>
