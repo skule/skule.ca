@@ -37,7 +37,6 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 |Position|Representative|
 |-|-|
-
 |**Chemical**||
 |First Year|{{ site.data.council.reps.first_year.chemical }}|
 |Second Year|{{ site.data.council.reps.second_year.chemical }}|
