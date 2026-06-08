@@ -38,8 +38,9 @@ The SEF will support initiatives, projects and services, that enhance the underg
 
 **The Vice-President Finance will announce the submission form over email blast.**
 
-<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1roh-A0rojJgNjYK61mT4w-UMne5WTXp4"> Application Package </a> 
-<a class="button is-primary" disabled href="https://forms.gle/wE6rAg7wcCubsNn87"> Application Form </a> 
+<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/10TdojU3WlGJaUy815Bk8vZ9R-JDqbJ3z"> Application Package </a> 
+<a class="button is-primary" href="https://forms.gle/mLK431TQy9Ki8i688"> Application Form </a> 
+<a class="button is-danger" href="https://drive.google.com/drive/u/2/folders/1xL_3wjVRcKnFvMFn17pkqiriw4kwnaNl"> Past Budgets </a>
 
 - Please download a copy of the application and Terms of Reference documents linked above. 
 - Read the Terms of Reference document for this funding round and ensure that your project fits within the scope.
@@ -87,13 +88,15 @@ When you receive funding from SEF, you are required to <b>publicly acknowledge S
 }
 </style>
 
-## 2T5 - 2T6 Timeline
+## 2T6 - 2T7 Timeline
 
-### Fall 2025
-The Fall 2025 SEF round is over.
+### Summer 2026
+Applications open!
 
-### Winter 2026
-The Winter 2026 SEF round is over.
+**Deadline: June 29, 2026**
+
+### Fall & Winter 2026
+TBD
 
 ## Contact
 

@@ -7,6 +7,10 @@ Special Projects Funding is intended for non-operating expenses for initiatives 
 
 > Consult the Finance Policy §12 for full details. If there is a discrepancy between the contents of this website and the Finance Policy, the Finance Policy prevails.
 
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+    <img src="/assets/special_projects_faq.png" alt="Special projects faq" style="max-width: 40%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</div>
+
 ## Is this funding avenue appropriate for me?
 
 If you are seeking funds for a one-time, long-lasting project, then special projects funding is for you. You may apply if you are a/an:
@@ -38,7 +42,7 @@ Trial status clubs may only receive $200 per year across all funding sources.
 
 Applications are open every month except the months of May, December, and April.
 
-<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1rTHT00-sYadB1kkwCMMoGXRkMh7eO-Qg"> Application Template </a> 
+<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1QHYgOSOtn-TvUwza1LgttQJhdajze15P"> Application Template </a> 
 <a class="button is-danger" href="https://docs.google.com/forms/d/1PDQjAXXF9TTKFwtHjVHsNzIuH6D3eXn-mqFmetab88c"> Application Form</a>
 
 Your application must include:
