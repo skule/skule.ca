@@ -36,6 +36,10 @@ Here are the existing levies:
 
 > This website is split into two halves. If you represent a club seeking a new levy, read the first half, from this header text to the next similarly styled header text. If you represent an existing levy group seeking to maintain a levy, read the second half after the next header text.
 
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+    <img src="/assets/levy_funds_faq.png" alt="levy faq" style="max-width: 40%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</div>
+
 ## Is this funding avenue appropriate for me? 
 
 Levy Funding is intended for established organizations seeking long-term student fee support at scale. As passing a levy requires a referendum, the organization must have substantial support amongst the engineering student community.

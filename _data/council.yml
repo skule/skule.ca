@@ -42,7 +42,7 @@ project_directors:
     - "Angela Ye"
     - "Anika Mule"
   hard_hat_cafe_managers:
-    - "<em>Vacant</em>"
+    - Bhoovi Handa
     - "<em>Vacant</em>"
   gradball: "<em>Vacant</em>"
   student_benefits: "<em>Vacant</em>"
@@ -199,15 +199,13 @@ reps:
     mineral: "<em>Vacant</em>"
 
 finance:
-  acting_vp_finance: "Justin Fang"
-  finance_secretary: "Ryan Hammer"
+  vp_finance: "Kaiy Cao"
+  finance_secretary: "Yana Khurana"
   board_representatives:
+    - "Arthur Chen"
+  at_large:
     - "Justin Fang"
     - "Dana Bou Saab"
-    - "Jaden Hinds"
-  at_large:
-    - "Beatriz Correa de Mello"
-    - "Edlyn Li"
-    - "Kenneth Sulimro"
-    - "Ryan Xu"
-    - "Yawen Zhang"
+    - "Ryan Hammer"
+    - "Chance Hattrick"
+    - "Evelyn Liu"

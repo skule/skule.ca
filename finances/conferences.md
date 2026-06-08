@@ -7,6 +7,11 @@ Conference funding is a funding avenue that has been generously enabled by a don
 
 > Consult the Finance Policy §11 for full details. If there is a discrepancy between the contents of this website and the Finance Policy, the Finance Policy prevails.
 
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+    <img src="/assets/conference_faq.png" alt="levy faq" style="max-width: 40%; flex: 1 1 200px; min-width: 220px; height: auto;">
+</div>
+
+
 ## Is this funding avenue appropriate for me?
 
 Anyone attending a conference may apply! **$50000 in total funding available for academic year 2026-7**. A conference must be a gathering of multiple people with a common interest or background and on a well-defined topic. With this definition, multiple events can be considered conferences, such as:
@@ -36,8 +41,9 @@ Trial status clubs may only receive $200 per year across all funding sources.
 ## How should I apply?
 
 Applications are open every month except for the months of May, December, and April.
-<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1QwzuVd8rWqownJ8wXR4x2VelOG83BY0e"> Group Application Template </a>
-<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1LMDv3GCNBJqpGBFQ6W70WO4EQ7HGE5mR"> Individual Application Template </a>
+
+<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/117cCvwTcCWaaTaFRAZ9a171CrVPId_Gs"> Group Application Template </a>
+<a class="button is-primary" href="https://docs.google.com/spreadsheets/d/1MasLJ5mUlu3013KNBN0ZOM2W0xt4ASvy"> Individual Application Template </a>
 <a class="button is-danger" href="https://docs.google.com/forms/d/1PDQjAXXF9TTKFwtHjVHsNzIuH6D3eXn-mqFmetab88c"> Application Form </a>
 
 - Check the Calendar on the [Finances Homepage](/finances/finance) to see when the next deadline is to submit an application
