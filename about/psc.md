@@ -5,11 +5,11 @@ layout: page
 
 The Policies and Structures Committee (PSC) is an EngSoc subcommittee that meets once per month to discuss possible changes to EngSoc's Bylaws and policies. Topics that we discuss include revising the Constitution, Election Bylaws, and anything else that is relevant to the operations of the Engineering Society.
 
-If you would like to access the PSC meeting minutes, [please click here](https://drive.google.com/drive/u/1/folders/1A2tghRaPWWPHn7Mukl-At_jkkTbpUTu5). If you would like to access the EngSoc Bylaws and Policies, [please click here](https://skule.ca/governing_documents). Read on below to learn more about what we do!
+If you would like to access the PSC meeting minutes, [please click here](https://drive.google.com/drive/folders/1UAjvOAKPE7E3d9Z8XXirR0V2U3XdySHt?usp=sharing). If you would like to access the EngSoc Bylaws and Policies, [please click here](https://skule.github.io/bylaws/). Read on below to learn more about what we do!
 
 ## What are Bylaws and Policies?
 
-Bylaws regulate how EngSoc functions and how every entity of EngSoc operates throughout the year. Bylaws can only be passed, repealed, or amended by a majority vote of the Board of Directors. Additionally, the EngSoc Constitution (Bylaw 1) may only be amended by a two-thirds majority vote from an Annual General Meeting in which any full-time or part-time undergraduate engineering student is able to vote.Policies are a set of best practices for EngSoc. Policies can be passed, repealed, or amended by a majority vote of the Board of Directors, the General Meeting, or by a meeting of the Officers. For more information about EngSoc Bylaws and Policies, you can read [Bylaw 1 Chapter 7 - Amendments, Bylaws, and Policies](https://github.com/skule/bylaws/blob/master/Bylaw%201.pdf).
+Bylaws regulate how EngSoc functions and how every entity of EngSoc operates throughout the year. Bylaws can only be passed, repealed, or amended by a majority vote of the Board of Directors. Additionally, the EngSoc Constitution (Bylaw 1) may only be amended by a two-thirds majority vote from an Annual General Meeting in which any full-time or part-time undergraduate engineering student is able to vote.Policies are a set of best practices for EngSoc. Policies can be passed, repealed, or amended by a majority vote of the Board of Directors, the General Meeting, or by a meeting of the Officers. For more information about EngSoc Bylaws and Policies, you can read [Bylaw 1 Chapter 7 - Amendments, Bylaws, and Policies](https://skule.github.io/bylaws/bylaw-1.html).
 
 ## What is the process of submitting changes to the Bylaws and Policies?
 
