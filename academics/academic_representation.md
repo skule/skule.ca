@@ -29,13 +29,46 @@ Faculty Council is the highest level of governance in the Faculty of Applied Sci
 
 | Academic Appeals Board (AAB)                               |
 |------------------------------------------------------------|
-| {{ site.data.council.finance.at_large[0] }}                |
-| {{ site.data.council.finance.at_large[1] }}                |
-| {{ site.data.council.finance.at_large[2] }}                |
-| {{ site.data.council.finance.at_large[3] }}                |
-| {{ site.data.council.finance.at_large[4] }}                |
-| {{ site.data.council.finance.at_large[5] }}                |
-| {{ site.data.council.finance.at_large[6] }}                |
-| {{ site.data.council.finance.at_large[7] }}                |
-| {{ site.data.council.finance.at_large[8] }}                |
+| {{ site.data.council.academic.aab[0] }}                |
+| {{ site.data.council.academic.aab[1] }}                |
+| {{ site.data.council.academic.aab[2] }}                |
+| {{ site.data.council.academic.aab[3] }}                |
+| {{ site.data.council.academic.aab[4] }}                |
+| {{ site.data.council.academic.aab[5] }}                |
+| {{ site.data.council.academic.aab[6] }}                |
+| {{ site.data.council.academic.aab[7] }}                |
+| {{ site.data.council.academic.aab[8] }}                |
 
+| Incluivity, Diverstiy, and Equity Advisory Committee (IDEA)                               |
+|------------------------------------------------------------|
+| {{ site.data.council.academic.idea[0] }}                |
+| {{ site.data.council.academic.idea[1] }}                |
+| {{ site.data.council.academic.idea[2] }}                |
+| {{ site.data.council.academic.idea[3] }}                |
+| {{ site.data.council.academic.idea[4] }}                |
+
+| Teaching Methods and Resources Committee (TMRC)                               |
+|------------------------------------------------------------|
+| {{ site.data.council.academic.tmrc[0] }}                |
+| {{ site.data.council.academic.tmrc[1] }}                |
+
+| Undergraduate Admissions Committee (ADM)                               |
+|------------------------------------------------------------|
+| {{ site.data.council.academic.adm[0] }}                |
+
+| Undergraduate Assessment Committee (UAC)                               |
+|------------------------------------------------------------|
+| {{ site.data.council.academic.uac[0] }}                |
+| {{ site.data.council.academic.uac[1] }}                |
+| {{ site.data.council.academic.uac[2] }}                |
+| {{ site.data.council.academic.uac[3] }}                |
+
+| Undergraduate Curriculum Committee (UCC)                               |
+|------------------------------------------------------------|
+| {{ site.data.council.academic.ucc[0] }}                |
+| {{ site.data.council.academic.ucc[1] }}                |
+
+| Undergraduate Scholarships and Awards Committee (SAC)                               |
+|------------------------------------------------------------|
+| {{ site.data.council.academic.sac[0] }}                |
+| {{ site.data.council.academic.sac[1] }}                |
