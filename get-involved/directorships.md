@@ -169,13 +169,6 @@ Project Directors each manage a particular service or initiative, from managing 
 > <a class="button is-small vp-academic" href="mailto:mentalwellness@skule.ca">Email</a> 
 > <a class="button is-small vp-academic" href="http://wellness.skule.ca">Website</a>
  
-> <b class="speakerpersono-text">Ombudsperson</b>
-> {{ site.data.council.project_directors.ombudsperson }} <small class="speakerpersono-text">Overseen by the Speaker</small>
-> 
-> The Ombudsperson is a neutral body who gathers feedback about all aspects of Skule™ and mediates interpersonal conflicts within EngSoc. In addition to running the Skule™ census every year, they make themselves available at all times to hear comments or complaints about EngSoc's operations. The Ombudsperson ensures that feedback remains anonymous and is given to people who can attempt to address it. 
->
-> <a class="button is-small speakerpersono" href="mailto:ombudsperson@skule.ca">Email</a> 
- 
 > <b class="president-text">Orientation Chair</b>
 > {{ site.data.council.project_directors.orientation_chair }} <small class="president-text">Overseen by the President </small>
 > 
