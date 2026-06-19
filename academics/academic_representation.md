@@ -63,7 +63,7 @@ Faculty Council is the highest level of governance in the Faculty of Applied Sci
 | {{ site.data.council.academic.uac[2] }}                |
 | {{ site.data.council.academic.uac[3] }}                |
 
-| Undergraduate Curriculum Committee (UCC)                               |
+| Undergraduate Curriculum Committee (UCC) (Including VP Academic)                              |
 |------------------------------------------------------------|
 | {{ site.data.council.academic.ucc[0] }}                |
 | {{ site.data.council.academic.ucc[1] }}                |
