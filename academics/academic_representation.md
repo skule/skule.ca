@@ -29,7 +29,6 @@ Faculty Council is the highest level of governance in the Faculty of Applied Sci
 
 | Academic Appeals Board (AAB)                               |
 |------------------------------------------------------------|
-
 | {{ site.data.council.finance.at_large[0] }}                |
 | {{ site.data.council.finance.at_large[1] }}                |
 | {{ site.data.council.finance.at_large[2] }}                |
