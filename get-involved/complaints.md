@@ -6,11 +6,11 @@ layout: page
 The Engineering Society’s complaints policy enables complaints against members holding a position within EngSoc to be handled by a neutral third party, in the best interests of fairness, accountability and transparency—all complaints must be directed to the Ombudsperson.*
 
 > <b class="speakerpersono">Ombudsperson</b>
-> {{ site.data.council.project_directors.ombudsperson }} <small class="speakpersono-text">Overseen by the Speaker</small>
+> {{ site.data.council.project_directors.ombudsperson }} <small class="speakerpersono-text">Overseen by the Speaker</small>
 > 
 > The Ombudsperson is a neutral body who gathers feedback about all aspects of Skule™ and mediates interpersonal conflicts within EngSoc. In addition to running the Skule™ census every year, they make themselves available at all times to hear comments or complaints about EngSoc's operations. The Ombudsperson ensures that feedback remains anonymous and is given to people who can attempt to address it. 
 > 
-> <a class="button is-small speakpersono" href="mailto:ombudsperson@skule.ca">Email</a>
+> <a class="button is-small speakerpersono" href="mailto:ombudsperson@skule.ca">Email</a>
 
 ## Who can I complain about?
 
