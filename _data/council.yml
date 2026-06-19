@@ -4,7 +4,7 @@ officer:
   vp_communications: "Christina Pizzonia"
   vp_academic: "Edith Fang"
   vp_student_life: "Michael Atkinson"
-  speaker: "<em>Vacant</em>"
+  speaker: "Justin Fang"
   business_manager: "Rhonda Meek"
 
 bod_representatives:
@@ -21,7 +21,7 @@ bod_representatives:
   engsci: "Arthur Chen"
   first_year:
     - "Steven Zhang"
-    - "Johny Hao Dong"
+    - "<em>Vacant</em>"
     - "Ai-Ling Ji"
   industrial: "<em>Vacant</em>"
   mse: "Katie Buchel"
