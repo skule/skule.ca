@@ -3,7 +3,7 @@ title: Complaints
 layout: page
 ---
 
-The Engineering Society’s complaints policy enables complaints against members holding a position within EngSoc to be handled by a neutral third party, in the best interests of fairness, accountability and transparency—all complaints must be directed to the Ombudsperson. *
+The Engineering Society’s complaints policy enables complaints against members holding a position within EngSoc to be handled by a neutral third party, in the best interests of fairness, accountability and transparency—all complaints must be directed to the Ombudsperson.*
 
 > <b class="speakerpersono-text">Ombudsperson</b>
 > {{ site.data.council.project_directors.ombudsperson }} <small class="speakerpersono-text">Overseen by the Speaker</small>
@@ -34,4 +34,4 @@ An incomplete complaint will not be investigated, however, a new, complete compl
 
 For details of the possible responses and outcomes of complaints, see the [Policy on Complaints](https://github.com/skule/bylaws/blob/master/policies/policy-on-complaints.md)
 
-* Complaints against the Ombudsperson may be directed to the Speaker at [speaker@skule.ca](mailto:speaker@skule.ca).
+*Complaints against the Ombudsperson may be directed to the Speaker at [speaker@skule.ca](mailto:speaker@skule.ca).
