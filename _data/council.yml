@@ -209,3 +209,39 @@ finance:
     - "Ryan Hammer"
     - "Chance Hattrick"
     - "Evelyn Liu"
+
+academic:
+  aab:
+    - "Daphne Zhu"
+    - "Johnny Dong"
+    - "Katherine Mezei"
+    - "Katie Buchel"
+    - "Harish Shankar"
+    - "Krushni Nizahan"
+    - "Srishti Krishnan"
+    - "Kyle Nguyen"
+    - "Nicholas Ali"
+  uac:
+    - "Aaryan Fredrick"
+    - "Nicholas Ali"
+    - "Johnny Dong"
+    - "Alex Klaus"
+  ucc:
+    - "Rango Lee-Fu"
+    - "Katherine Mezei"
+  uac:
+    - "Hankun Lin"
+  sac:
+    - "Saniki Amira Soura"
+    - "Chenyu Li"
+  tmrc:
+    - "Hankun Lin"
+    - "Ishita Jain"
+  idea:
+    - "Harish Shankar"
+    - "Nour Mlaiki"
+    - "Anastasia Butnariu"
+    - "Hermela Abiy"
+    - "Sanibi Amira Soura"
+  
+
