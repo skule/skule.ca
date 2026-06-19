@@ -26,3 +26,17 @@ In 2016-2017, the Academic Advocacy Committee put together a recommendation repo
 ## Faculty Council
             
 Faculty Council is the highest level of governance in the Faculty of Applied Science and Engineering. They influence how courses are taught and evaluated and what resources are available to students. [You can find out more about Faculty Council and its many committees here](http://www.engineering.utoronto.ca/about/governance/faculty-council/).
+
+| Academic Appeals Board (AAB)                               |
+|------------------------------------------------------------|
+
+| {{ site.data.council.finance.at_large[0] }}                |
+| {{ site.data.council.finance.at_large[1] }}                |
+| {{ site.data.council.finance.at_large[2] }}                |
+| {{ site.data.council.finance.at_large[3] }}                |
+| {{ site.data.council.finance.at_large[4] }}                |
+| {{ site.data.council.finance.at_large[5] }}                |
+| {{ site.data.council.finance.at_large[6] }}                |
+| {{ site.data.council.finance.at_large[7] }}                |
+| {{ site.data.council.finance.at_large[8] }}                |
+
