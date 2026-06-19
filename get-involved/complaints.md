@@ -28,6 +28,7 @@ Acting in an official capacity, and actions taken outside their official capacit
 A complaint is complete if:
 
 1) It concerns a person listed above
+
 2) Contains enough information for a reasonable person, with full access to EngSoc’s documents, to determine the factual accuracy of the allegations
 
 An incomplete complaint will not be investigated, however, a new, complete complaint may be filed. You will be notified of the completeness of your complaint within 7 days of your complaint first being acknowledged.
