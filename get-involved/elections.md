@@ -29,38 +29,12 @@ For more information about the election process, refer to [Bylaw 3](/about/gover
 > <b class="speakerpersono">Deputy Returning Officers</b>
 > 
 > As part of the Office of Returning Officers (ORO), the DRO collaborates with the CRO to ensure the entire elections process remains transparent, fair, and trustworthy for all candidates and voters. 
->  
-> > <b class="speakerpersono">Abisha Kugathasan</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:abisha.kugathasan@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Genevieve Beirne</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:genevieve.beirne@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Jingya Liu</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:jingya.liu@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Katie Hung</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:katie.hung@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Abdirahman Nuh</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:abdirahman.nuh@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Aaryan Fredrick</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:aaryan.fredrick@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Bowen Wang</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:bbowen.wang@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Lina Le</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:Linanguyen.le@mail.utoronto.ca">Email</a>
+
+Lead Deputy Returning Officers
+| Name                                                       | Email                              |
+|------------------------------------------------------------|---------------------------------------|
+| {{ site.data.council.neutral.lead_dro[0] }}                 | <a class="button is-small speakpersono" href="mailto:alexandrejwklaus@gmail.com">Email</a>                            |
+| {{ site.data.council.neutral.lead_dro[1] }}                 | <a class="button is-small speakpersono" href="mailto:rango.leefu@mail.utoronto.ca">Email</a>                            |
 
 ### Voting System
 
