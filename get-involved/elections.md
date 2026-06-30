@@ -48,10 +48,10 @@ For more information about the election process, refer to Bylaw 3:
 <details>
   <summary> 
 
-  **Bylaw 3**
+  Bylaw 3
 
   </summary>
-  
+<p align=center>
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
     <img src="/Bylaw 3/Bylaw 3-01.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </div>
@@ -197,7 +197,7 @@ For more information about the election process, refer to Bylaw 3:
 </div>
   
  </details>
-
+</p>
 <br>
 
 > <b class="speakerpersono">Chief Returning Officer</b>
