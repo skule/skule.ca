@@ -48,7 +48,7 @@ For more information about the election process, refer to Bylaw 3:
 <details>
   <summary> 
 
-  Bylaw 3
+  <b class="speakerpersono">Bylaw 3</b>
 
   </summary>
 <p align=center>
