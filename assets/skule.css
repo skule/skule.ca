@@ -155,6 +155,26 @@ html {
     color: #0a0a0a;
 }
 
+.fall {
+    background-color: #bfd7ff;
+    color: #0a0a0a;
+}
+
+.winter {
+    background-color: #9bb1ff;
+    color: #0a0a0a;
+}
+
+.spring {
+    background-color: #f5d491;
+    color: #0a0a0a;
+}
+
+.summer {
+    background-color: #ffaf87;
+    color: #0a0a0a;
+}
+
 table tr#GREEN_HEADER  {background-color:#38a87a; color:white;}
 
 table tr#YELLOW_HEADER  {background-color:#c49300; color:white;}
