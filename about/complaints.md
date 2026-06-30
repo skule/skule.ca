@@ -35,4 +35,8 @@ An incomplete complaint will not be investigated, however, a new, complete compl
 
 For details of the possible responses and outcomes of complaints, see the [Policy on Complaints](https://github.com/skule/bylaws/blob/master/policies/policy-on-complaints.md)
 
+## Anonymous Complaints Link
+
+If you want to make an anonymous complaint, please fill out the form attached [here](https://forms.gle/6tBe8ZAZASTASFLk6).
+
 *Complaints against the Ombudsperson may be directed to the Speaker at [speaker@skule.ca](mailto:speaker@skule.ca).
