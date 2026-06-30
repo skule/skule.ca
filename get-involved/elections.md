@@ -45,6 +45,8 @@ The elections process varies depending on the position. Elections are run by the
             
 For more information about the election process, refer to Bylaw 3:
 
+![[Bylaw 3.pdf]]
+
 <iframe
     src="Bylaw 3.pdf"
     width="100%"
