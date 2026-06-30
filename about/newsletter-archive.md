@@ -10,7 +10,7 @@ The past newsletter issues (2025-onwards) can be found below:
 <details>
   <summary> 
 
-  <b class="vp-comms">September 2025</b>
+  <b class="fall">September 2025</b>
 
   </summary>
 <p align=center>
