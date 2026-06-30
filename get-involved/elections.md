@@ -31,6 +31,7 @@ For more information about the election process, refer to [Bylaw 3](/about/gover
 > As part of the Office of Returning Officers (ORO), the DRO collaborates with the CRO to ensure the entire elections process remains transparent, fair, and trustworthy for all candidates and voters. 
 
 Lead Deputy Returning Officers
+
 | Name                                                       | Email                              |
 |------------------------------------------------------------|---------------------------------------|
 | {{ site.data.council.neutral.lead_dro[0] }}                 | <a class="button is-small speakpersono" href="mailto:alexandrejwklaus@gmail.com">Email</a>                            |
