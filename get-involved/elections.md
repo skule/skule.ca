@@ -29,13 +29,14 @@ For more information about the election process, refer to [Bylaw 3](/about/gover
 > <b class="speakerpersono">Deputy Returning Officers</b>
 > 
 > As part of the Office of Returning Officers (ORO), the DRO collaborates with the CRO to ensure the entire elections process remains transparent, fair, and trustworthy for all candidates and voters. 
-
-Lead Deputy Returning Officers
-
-| Name                                                       | Email                              |
-|------------------------------------------------------------|---------------------------------------|
-| {{ site.data.council.neutral.lead_dro[0] }}                 | <a class="button is-small speakpersono" href="mailto:alexandrejwklaus@gmail.com">Email</a>                            |
-| {{ site.data.council.neutral.lead_dro[1] }}                 | <a class="button is-small speakpersono" href="mailto:rango.leefu@mail.utoronto.ca">Email</a>                            |
+>
+> <b class="speakerpersono">Lead Deputy Returning Officers</b>
+>
+> | Name                                                       : Email                              |
+> |------------------------------------------------------------:---------------------------------------|
+> | {{ site.data.council.neutral.lead_dro[0] }}                 : <a class="button is-small speakpersono" href="mailto:alexandrejwklaus@gmail.com">Email</a>                            |
+> | {{ site.data.council.neutral.lead_dro[1] }}                 : <a class="button is-small speakpersono" href="mailto:rango.leefu@mail.utoronto.ca">Email</a>                            |
+>
 
 ### Voting System
 
