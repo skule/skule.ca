@@ -47,12 +47,6 @@ For more information about the election process, refer to Bylaw 3:
 
 ![[Bylaw 3.pdf]]
 
-<iframe
-    src="Bylaw 3.pdf"
-    width="100%"
-    height="600px">
-</iframe>
-
 > <b class="speakerpersono">Chief Returning Officer</b>
 > {{ site.data.council.project_directors.chief_returning_officer }} <small class="speakpersono-text">Overseen by the Speaker</small>
 > 
