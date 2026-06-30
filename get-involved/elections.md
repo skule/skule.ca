@@ -48,11 +48,13 @@ For more information about the election process, refer to Bylaw 3:
 <details>
   <summary> 
 
-  ## 👉 Click here to view the document 👈
+  ## Bylaw 3
 
   </summary>
   
-![2.png](Bylaw 3/Bylaw 3-02.png)
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+    <img src="/Bylaw 3/Bylaw 3-02.png" alt="1" style="max-width: 100%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</div>
   
  </details>
 
