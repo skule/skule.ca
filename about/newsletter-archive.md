@@ -45,8 +45,6 @@ The past newsletter issues (2025-onwards) can be found below:
 </p>
 <p align=center>
     <img src="/newsletters/sept-2025/11.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
-</p>
-<p align=center>
     <img src="/newsletters/sept-2025/12.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 </details>
