@@ -52,147 +52,147 @@ For more information about the election process, refer to Bylaw 3:
 
   </summary>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-01.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-01.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-02.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-02.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-03.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-03.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-04.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-04.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-05.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-05.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-06.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-06.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-07.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-07.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-08.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-08.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-09.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-09.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-10.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-10.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-11.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-11.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-12.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-12.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-13.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-13.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-14.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-14.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-15.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-15.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-16.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-16.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-17.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-17.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-18.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-18.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-19.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-19.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-20.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-20.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-21.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-21.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-22.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-22.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-23.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-23.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-24.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-24.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-25.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-25.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-26.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-26.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-27.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-27.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-28.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-28.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-29.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-29.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-30.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-30.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-31.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-31.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-32.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-32.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-33.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-33.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-34.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-34.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-35.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-35.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
 <br>
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-36.png" alt="1" style="max-width: 80%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/Bylaw 3/Bylaw 3-36.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 </p>
   
  </details>
