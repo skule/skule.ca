@@ -45,7 +45,16 @@ The elections process varies depending on the position. Elections are run by the
             
 For more information about the election process, refer to Bylaw 3:
 
-![[Bylaw 3.pdf]]
+<details>
+  <summary> 
+
+  ## 👉 Click here to view the document 👈
+
+  </summary>
+  
+![2.png](Bylaw 3/Bylaw 3-02.png)
+  
+ </details>
 
 > <b class="speakerpersono">Chief Returning Officer</b>
 > {{ site.data.council.project_directors.chief_returning_officer }} <small class="speakpersono-text">Overseen by the Speaker</small>
