@@ -69,7 +69,7 @@ For more information about the election process, refer to Bylaw 3:
 > | {{ site.data.council.neutral.lead_dro[0] }}                 | <a class="button is-small speakpersono" href="mailto:alexandrejwklaus@gmail.com">Email</a>                            |
 > | {{ site.data.council.neutral.lead_dro[1] }}                 | <a class="button is-small speakpersono" href="mailto:rango.leefu@mail.utoronto.ca">Email</a>                            |
 >
-> > <b class="speakerpersono">Deputy Returning Officers</b>
+> <b class="speakerpersono">Deputy Returning Officers</b>
 >
 > | Name                                                       | Email                              |
 > |------------------------------------------------------------|---------------------------------------|
