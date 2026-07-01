@@ -3,8 +3,6 @@ title: Newsletter Archive
 layout: page
 ---
 
-## Newsletter Archive
-
 The past newsletter issues (May 2026-onwards) can be found below:
 
 <details>
