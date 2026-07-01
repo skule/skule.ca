@@ -1,5 +1,5 @@
 ---
-title: Newsletter Archive
+title: The Archives
 layout: page
 ---
 
