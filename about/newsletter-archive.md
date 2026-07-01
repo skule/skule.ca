@@ -3,7 +3,8 @@ title: The Archives
 layout: page
 ---
 
-Want to remember what's happened at Skule each month? The past newsletter issues (May 2026-onwards) can be found here:
+## Skule (TM) Newsletters
+Want to remember what's happened at Skule (TM) each month? The past newsletter issues (May 2026-onwards) can be found here:
 
 
 <details>
