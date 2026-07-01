@@ -5,6 +5,7 @@ layout: page
 
 The past newsletter issues (May 2026-onwards) can be found below:
 
+<p align=center>
 <details>
   <summary> 
 
@@ -16,6 +17,8 @@ The past newsletter issues (May 2026-onwards) can be found below:
 </p>
 </details>
 <br>
+</p>
+<p align=center>
 <details>
   <summary> 
 
@@ -27,3 +30,4 @@ The past newsletter issues (May 2026-onwards) can be found below:
 </p>
 </details>
 <br>
+</p>
