@@ -32,3 +32,14 @@ Want to look back on what's happened at Skule (TM) each month? The past newslett
 </details>
 <br>
 
+<details>
+  <summary> 
+  <p align=center>
+  <img src="/newsletters/july-2026-top.png" alt="1" style="max-width: 75%; flex: 1 1 300px; min-width: 220px; height: auto;">
+  </p>
+  </summary>
+<p align=center>
+    <img src="/newsletters/july-2026.png" alt="1" style="max-width: 75%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+</details>
+<br>
