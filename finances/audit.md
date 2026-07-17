@@ -3,7 +3,7 @@ title: Audit
 layout: page
 ---
 
-> <b>This website contains information on a MANDATORY DEADLINE that is due June 30, 2026. Please read this website in its entirety. If you have questions, inquire with the VP Finance at vpfinance@skule.ca IMMEDIATELY.</b>
+> <b>This website contains information on a MANDATORY DEADLINE that is due August 12, 2026. Please read this website in its entirety. If you have questions, inquire with the VP Finance at vpfinance@skule.ca IMMEDIATELY.</b>
 
 ## Financial audit
 Per the Finance Policy §7.0.4, all Affiliated Clubs and Discipline Clubs are required to submit their financial records for the immediately preceding fiscal year to the Audit Committee for audit. This audit process ensures:
@@ -43,6 +43,25 @@ For 2026-2027:
     - Exact deadlines for each month will be confirmed by AuditComm and the VPF.
 The order in which clubs are audited will be randomized. Approximately 10 clubs will be audited each month. Levy groups and discipline club audits will be spread across the year.
 
+## Audit Committee
+
+| Name                                                       | Position                              |
+|------------------------------------------------------------|---------------------------------------|
+| {{ site.data.council.finance.vp_finance }}                 | VP Finance                            |
+| {{ site.data.council.finance.finance_secretary}}           | Finance Secretary                     |
+| {{ site.data.council.project_directors.ombudsperson }}     | Ombudsperson                          |
+| {{ site.data.council.audit.board_representatives }}        | Board Representative                  |
+| {{ site.data.council.audit.finance[0] }}                   | Finance Representative                |
+| {{ site.data.council.audit.finance[1] }}                   | Finance Representative                |
+| {{ site.data.council.audit.at_large[0] }}                  | At-Large Representative               |
+| {{ site.data.council.audit.at_large[1] }}                  | At-Large Representative               |
+| {{ site.data.council.audit.at_large[2] }}                  | At-Large Representative               |
+| {{ site.data.council.audit.at_large[3] }}                  | At-Large Representative               |
+| {{ site.data.council.audit.at_large[4] }}                  | At-Large Representative               |
+| {{ site.data.council.audit.at_large[5] }}                  | At-Large Representative               |
+
+
+
 ## Report template instructions
 
 Access the report template here and two filled examples here. Both examples are written based on typical design team scenarios:
@@ -70,8 +89,8 @@ The "Transaction List Report" tab should provide a list of all transactions, bot
 
 The "Reimbursement Recipient List" should provide a list of all the club's individual beneficiaries, including club executives and members who have received transfers from either EngSoc or the club's bank account.<br>
 
-## Reporting requirements – due June 30, 2026
-By June 30, 2026, all affiliated and discipline clubs must submit, for the time period between May 2025 – April 2026:
+## Reporting requirements – due August 12, 2026
+By August 12, 2026, all affiliated and discipline clubs must submit, for the time period between May 2025 – April 2026:
 - Bank statements;
 - Dated receipts for all transactions, **organized into folders by month** (e.g. all receipts for June 2025 belong to one folder);
 - The club's annual budget for the time period above;
@@ -129,5 +148,16 @@ Suppose affiliated club ABC will be audited in August 2026.
 6. AuditComm will conclude Club ABC's audit by around August 20, 2026. The exact date will be decided by AuditComm.
 7. The EngSoc Board of Directors will decide to approve Club ABC's audit at the August Board Meeting.
 
-## Audit schedule 2026-7
-<b> To be released mid-June. </b>
+## Audit schedule for August 2026 Cycle:
+
+AuditComm Meeting Date: Sunday, July 12th, 2026
+
+Auditing Clubs informed: Tuesday, July 14th
+
+Next Board Meeting: Thursday, July 23rd
+
+Contacting clubs for more information: Sunday, July 26th
+
+Deadline for answer from clubs: Wednesday, August 5th
+
+Next AuditComm Meeting: Any day after August 12th; more details to follow. 

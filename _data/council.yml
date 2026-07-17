@@ -210,6 +210,20 @@ finance:
     - "Chance Hattrick"
     - "Evelyn Liu"
 
+audit:
+  vp_finance: "Kaiy Cao"
+  board_representatives:
+    - "Arthur Chen"
+  finance:
+    - "Justin Fang"
+    - "Ryan Hammer"
+  at_large:
+    - "Charlie Therence"
+    - "Jaden Hinds"
+    - "Melissa Lin"
+    - "Joy Zhou"
+    - "Keting Trinh"
+    - "Auva Bagriz"
 academic:
   aab:
     - "Daphne Zhu"
