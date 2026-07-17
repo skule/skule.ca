@@ -110,10 +110,15 @@ Project Directors each manage a particular service or initiative, from managing 
 >
 > <a class="button is-small president" href="mailto:external@skule.ca">Email</a>
  
-> <b class="vp-comms-text">F!rosh Handbook Editor</b>
-> {{ site.data.council.project_directors.frosh_editor }} <small class="vp-comms-text">Overseen by VP Communications</small>
+> <b class="vp-comms-text">F!rosh Handbook Editor and Agenda Editor</b>
+> {{ site.data.council.project_directors.frosh_editor }} (F!rosh Handbook) and {{ site.data.council.project_directors.agenda }} (Agenda) <small class="vp-comms-text">Overseen by VP Communications</small>
 > 
 > The Handbook Editor coordinates the production of the F!rosh Handbook which is mailed out to many F!rosh in the summer. They coordinate their team to introduce hundreds of incoming students to the Skule™ community and life at the University of Toronto. The summer after creating their F!rosh Handbook, they also create the Skule™ Agenda, a free daily agenda available to all engineering students, in the following summer. You can pick up a free Agenda at the EngSoc office.
+>
+> The Skule™ Agenda Editor organizes the production of the Skule™ Agenda. This year long planner is available for all U of T Engineering Students. One is created every year and released at the beginning of the fall semester.
+>
+> <a class="button is-small president" href="mailto:handbook@skule.ca">Email (F!rosh Handbook)</a>
+> <a class="button is-small president" href="mailto:agenda@skule.ca">Email (Agenda)</a>
 
 <!-- > <b class="vp-comms-text">Agenda Editor</b>
 > {{ site.data.council.project_directors.agenda_editor }} <small class="vp-comms-text">Overseen by VP Communications</small>
@@ -168,14 +173,6 @@ Project Directors each manage a particular service or initiative, from managing 
 >
 > <a class="button is-small vp-academic" href="mailto:mentalwellness@skule.ca">Email</a> 
 > <a class="button is-small vp-academic" href="http://wellness.skule.ca">Website</a>
- 
-> <b class="speakerpersono-text">Ombudsperson</b>
-> {{ site.data.council.project_directors.ombudsperson }} <small class="speakerpersono-text">Overseen by the Speaker</small>
-> 
-> The Ombudsperson is a neutral body who gathers feedback about all aspects of Skule™ and mediates interpersonal conflicts within EngSoc. In addition to running the Skule™ census every year, they make themselves available at all times to hear comments or complaints about EngSoc's operations. The Ombudsperson ensures that feedback remains anonymous and is given to people who can attempt to address it. 
->
-> <a class="button is-small speakerpersono" href="mailto:ombudsperson@skule.ca">Email</a> 
-> <a class="button is-small speakerpersono" href="http://skule.ca/elections">Elections Info</a>
  
 > <b class="president-text">Orientation Chair</b>
 > {{ site.data.council.project_directors.orientation_chair }} <small class="president-text">Overseen by the President </small>

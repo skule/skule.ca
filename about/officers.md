@@ -40,3 +40,7 @@ Officers handle EngSoc's day-to-day operations and external relations at a high 
 > {{ site.data.council.officer.business_manager }}
 > 
 > <a class="button is-small business-manager" href="mailto:rhonda@g.skule.ca">Email</a>
+
+## Feedback Form
+
+If you have any feedback/complaints regarding the Engineering Society, please submit them [here](https://docs.google.com/forms/d/e/1FAIpQLScdmfk39FkLhlKZIgtTY7OZzQgdUjIlC6KBHjWdJQqvL4UsFg/viewform).

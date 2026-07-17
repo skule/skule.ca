@@ -4,7 +4,7 @@ officer:
   vp_communications: "Christina Pizzonia"
   vp_academic: "Edith Fang"
   vp_student_life: "Michael Atkinson"
-  speaker: "<em>Vacant</em>"
+  speaker: "Justin Fang"
   business_manager: "Rhonda Meek"
 
 bod_representatives:
@@ -21,11 +21,11 @@ bod_representatives:
   engsci: "Arthur Chen"
   first_year:
     - "Steven Zhang"
-    - "Johny Hao Dong"
+    - "<em>Vacant</em>"
     - "Ai-Ling Ji"
   industrial: "<em>Vacant</em>"
   mse: "Katie Buchel"
-  mechanical: "Aaryan Frederick"
+  mechanical: "Aaryan Fredrick"
   mineral: "Nicolás Oré"
 
 project_directors:
@@ -69,7 +69,7 @@ project_directors:
   skule_patrol:
     - "Alex Klaus"
     - "<em>Vacant</em>"
-  ombudsperson: "Aaryan Frederick"
+  ombudsperson: "Aaryan Fredrick"
   chief_returning_officer: "Katherine Mezei"
   athletics_president: "Gabriela Babic"
   orientation_chair: "Lesley Ha Tchong"
@@ -224,3 +224,47 @@ audit:
     - "Joy Zhou"
     - "Keting Trinh"
     - "Auva Bagriz"
+academic:
+  aab:
+    - "Daphne Zhu"
+    - "Johnny Dong"
+    - "Katherine Mezei"
+    - "Katie Buchel"
+    - "Harish Shankar"
+    - "Krushni Nizahan"
+    - "Srishti Krishnan"
+    - "Kyle Nguyen"
+    - "Nicholas Ali"
+  uac:
+    - "Aaryan Fredrick"
+    - "Nicholas Ali"
+    - "Johnny Dong"
+    - "Alex Klaus"
+  ucc:
+    - "Rango Lee-Fu"
+    - "Katherine Mezei"
+  adm:
+    - "Hankun Lin"
+  sac:
+    - "Saniki Amira Soura"
+    - "Chenyu Li"
+  tmrc:
+    - "Hankun Lin"
+    - "Ishita Jain"
+  idea:
+    - "Harish Shankar"
+    - "Nour Mlaiki"
+    - "Anastasia Butnariu"
+    - "Hermela Abiy"
+    - "Sanibi Amira Soura"
+
+neutral:
+  lead_dro:
+    - "Alexandre Klaus"
+    - "Rango Lee-Fu"
+  dro:
+    - "James Chan"
+    - "Ben Nguyen"
+    - "Kameron Sharma"
+    - "Joaquin Arcilla"
+    - "William Chen"

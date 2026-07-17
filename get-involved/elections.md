@@ -9,6 +9,32 @@ Of course, all members of EngSoc can vote in our elections, as well as their res
 
 <a class="button is-primary" href="http://vote.skule.ca">Vote!</a>
 
+## Why Vote?
+
+Voting is your most direct way to influence the engineering undergraduate experience at the University of Toronto. Below are several reasons why your participation matters.
+
+**1. Direct Influence on Your Education**
+
+From academic advocacy to faculty relations, the people you elect represent your interests to the University. By voting for your Class Representatives and Officers, you ensure that the voices speaking to the Faculty reflect your actual concerns and values. 
+
+Some academic matters that Class Representatives routinely contest include:
+
+- How marks are assessed
+- Fairness of assessments
+- Quality of course instruction
+
+**2. Control Over Your Student Fees**
+
+EngSoc manages a significant financial portfolio (supported by your student fees!) that funds clubs, design teams, community initiatives, and much more. Your vote decides how funds should be allocated (e.g. levy votes) and who oversees these allocations, ensuring that your student fees are invested in the services and events that matter most to you.
+
+**3. Accountability and Governance**
+
+The Board of Directors serves as the ultimate authority for the Society. By electing Board Representatives, you are choosing the individuals responsible for holding student leaders accountable and ensuring the Society operates transparently and in the best interest of all your “Skulemates”.
+
+**4. Shaping the Future EngSoc Culture**
+
+Whether it is overseeing day-to-day operations or launching new student services, the Officers you elect set the tone for the school year. Voting allows you to choose the vision and leadership style that you want to see during your undergraduate degree at Skule.
+
 ## Apply
 
 Elections will be announced by the CRO (Chief Returning Officer) via mass email, Skule Digest, and the announcement feed found below. Students wishing to nominate themselves must fill out the nomination form, available in the EngSoc office, and hand it in before the end of the nomination period
@@ -17,10 +43,163 @@ Elections will be announced by the CRO (Chief Returning Officer) via mass email,
 
 The elections process varies depending on the position. Elections are run by the CRO with the help of DROs (Deputy Returning officers) to ensure a fair and unbiased election. As such, EngSoc has put in place rules regarding nominations, campaigning, re-elections etc...
             
-For more information about the election process, refer to [Bylaw 3](/about/governing_documents)
+For more information about the election process, refer to Bylaw 3:
+
+<details>
+  <summary> 
+
+  <b class="speakerpersono">Bylaw 3</b>
+
+  </summary>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-01.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-02.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-03.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-04.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-05.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-06.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-07.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-08.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-09.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-10.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-11.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-12.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-13.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-14.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-15.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-16.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-17.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-18.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-19.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-20.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-21.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-22.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-23.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-24.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-25.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-26.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-27.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-28.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-29.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-30.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-31.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-32.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-33.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-34.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-35.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+<br>
+<p align=center>
+    <img src="/Bylaw 3/Bylaw 3-36.png" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+</p>
+  
+ </details>
+<br>
 
 > <b class="speakerpersono">Chief Returning Officer</b>
-> Lavneet Singh <small class="speakpersono-text">Overseen by the Speaker</small>
+> {{ site.data.council.project_directors.chief_returning_officer }} <small class="speakpersono-text">Overseen by the Speaker</small>
 > 
 > The CRO is a neutral body who conducts EngSoc elections, ensuring that they are run fairly and democratically. Along with their Deputy Returning Officers (or DROs) as part of the Office of Returning Officers (or ORO), they spend much of the year refining the election policies and scheduling the elections for the year.
 > 
@@ -29,38 +208,24 @@ For more information about the election process, refer to [Bylaw 3](/about/gover
 > <b class="speakerpersono">Deputy Returning Officers</b>
 > 
 > As part of the Office of Returning Officers (ORO), the DRO collaborates with the CRO to ensure the entire elections process remains transparent, fair, and trustworthy for all candidates and voters. 
->  
-> > <b class="speakerpersono">Abisha Kugathasan</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:abisha.kugathasan@mail.utoronto.ca">Email</a>
 >
-> > <b class="speakerpersono">Genevieve Beirne</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:genevieve.beirne@mail.utoronto.ca">Email</a>
+> <b class="speakerpersono">Lead Deputy Returning Officers</b>
 >
-> > <b class="speakerpersono">Jingya Liu</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:jingya.liu@mail.utoronto.ca">Email</a>
+> | Name                                                       | Email                              |
+> |------------------------------------------------------------|---------------------------------------|
+> | {{ site.data.council.neutral.lead_dro[0] }}                 | <a class="button is-small speakpersono" href="mailto:alexandrejwklaus@gmail.com">Email</a>                            |
+> | {{ site.data.council.neutral.lead_dro[1] }}                 | <a class="button is-small speakpersono" href="mailto:rango.leefu@mail.utoronto.ca">Email</a>                            |
 >
-> > <b class="speakerpersono">Katie Hung</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:katie.hung@mail.utoronto.ca">Email</a>
+> <b class="speakerpersono">Deputy Returning Officers</b>
 >
-> > <b class="speakerpersono">Abdirahman Nuh</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:abdirahman.nuh@mail.utoronto.ca">Email</a>
+> | Name                                                       | Email                              |
+> |------------------------------------------------------------|---------------------------------------|
+> | {{ site.data.council.neutral.dro[0] }}                 | <a class="button is-small speakpersono" href="mailto:jamesdz.chan@mail.utoronto.ca">Email</a>                            |
+> | {{ site.data.council.neutral.dro[1] }}                 | <a class="button is-small speakpersono" href="mailto:bben.nguyen@utoronto.ca">Email</a>                            |
+> | {{ site.data.council.neutral.dro[2] }}                 | <a class="button is-small speakpersono" href="mailto:kameron.sharma@mail.utoronto.ca">Email</a>                            |
+> | {{ site.data.council.neutral.dro[3] }}                 | <a class="button is-small speakpersono" href="mailto:joaquin.arcilla@gmail.com">Email</a>                            |
+> | {{ site.data.council.neutral.dro[4] }}                 | <a class="button is-small speakpersono" href="mailto:willam.chen@utoronto.ca">Email</a>                            |
 >
-> > <b class="speakerpersono">Aaryan Fredrick</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:aaryan.fredrick@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Bowen Wang</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:bbowen.wang@mail.utoronto.ca">Email</a>
->
-> > <b class="speakerpersono">Lina Le</b>
-> >
-> > <a class="button is-small speakpersono" href="mailto:Linanguyen.le@mail.utoronto.ca">Email</a>
 
 ### Voting System
 
@@ -115,4 +280,4 @@ $$\left(\frac{12 - 10}{12}\right) \times 1 = 0.2$$
 
 **Q: How are the votes counted? Why do I have a fractional number of votes?**
 
-**A:** EngSoc's elections are conducted using a single transferrable voting system using the Gregory method, with a "Droop quota". Please see [above](#voting-system) for more details. For why you might have a fractional number of votes, please see [here](#vote-transfers)
+**A:** EngSoc's elections are conducted using a single transferrable voting system using the Gregory method, with a "Droop quota". Please see [above](#voting-system) for more details. For why you might have a fractional number of votes, please see [here](#vote-transfers).
