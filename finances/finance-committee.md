@@ -28,13 +28,13 @@ Generally, the application process starts every May. Check back here for the app
 
 Note that all finance committee meetings are open to the public and their minutes are publically available. If you are interested in joining a meeting, check the Skule calendar or governance newsletters emailed from the Vice President Communications, or [email vpcomm@skule.ca](mailto:vpcomm@skule.ca) for the date and location.
 
-## Finance Committee Internal Guidlines
+## Finance Committee Internal Guidelines
 
-Below are some general rules of prescription of how much funding can be approved by the finance commiee for these common items.
+Below are some general rules of prescription of how much funding can be approved by the finance committee for these common items.
 
 Food for in person events:
 - Case by case based on size of club/event
-- Generally $5/person for food (except dinner dances)
+- Generally $5/person for food (except dinner dances and end-of-year socials)
 
 Internal engagement such as exec team socials:
 - $200 max for the entire year; if over $200, it must come from other sources (sponsorship, personal to cover the rest)
@@ -48,7 +48,7 @@ Alcohol:
 - **Engsoc cannot purchase alcohol** , so we cannot approve any spending on this, as we do not hold a LCBO license (only SUDS does).
 
 Furniture and equipment:
-- As long as furniture/equipment is demonstrang utility for the majority of the student body, it is appropriate to approve.
+- As long as furniture/equipment is demonstrating utility for the majority of the student body, it is appropriate to approve.
 
 Stationery:
 - Generally stationery such as paper, pens are not considered as justifiable expenses as that reserves budget away from other clubs/entities that is in need of funding.
