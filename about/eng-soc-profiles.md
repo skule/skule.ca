@@ -6,10 +6,10 @@ layout: page
 > # <p align=center> <b class="president-text">President: Simona Tenche</b> </p>
 > <p align=center> <img src="/profiles/IMG_6615.PNG" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;"> </p>
 > 
-> <p align=center> Simona is an MSE 2T6+PEY and she is so grateful and excited to be serving as your President this year. </p>
-<p align=center> As previous Orientation Chair, Hard Hat Cafe Manager, and all-around event planner, Simona loves problem </p>
-<p align=center> solving and helping everyone with everything. Outside of Skule, she loves theatre, baking, cats, and books. </p>
-<p align=center> If you need anything or have any questions about anything, please email her or find her in the pit. <3 </p>
+> Simona is an MSE 2T6+PEY and she is so grateful and excited to be serving as your President this year.
+As previous Orientation Chair, Hard Hat Cafe Manager, and all-around event planner, Simona loves problem
+solving and helping everyone with everything. Outside of Skule, she loves theatre, baking, cats, and books.
+If you need anything or have any questions about anything, please email her or find her in the pit. <3
 >
 
 > # <b class="vp-finance-text">Vice-President Finance: Kaiy Cao</b>
