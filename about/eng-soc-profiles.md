@@ -13,7 +13,7 @@ If you need anything or have any questions about anything, please email her or f
 >
 
 > # <b class="vp-finance-text">Vice-President Finance: Kaiy Cao</b>
-> <img src="/profiles/IMG_6615.PNG" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
+> <img src="/profiles/IMG_6625.PNG" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;">
 > 
 > Kaiy is a 4th-year civil engineering student who is your incoming VPF this year.
 In addition to his future ventures in transportation & urban planning in his degree, he has wide 
