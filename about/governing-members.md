@@ -11,7 +11,7 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 |-|-|
 |President|
 <p align=center>
-    <img src="/Bylaw 3/Bylaw 3-01.png" alt="1" style="max-width: 20%; flex: 1 1 300px; min-width: 220px; height: auto;">
+    <img src="/profiles/IMG_6613.PNG" alt="1" style="max-width: 20%; flex: 1 1 300px; min-width: 220px; height: auto;">
   <[{{ site.data.council.officer.president }}](mailto:president@skule.ca)>
 </p>|
 |Vice-President Finance|[{{ site.data.council.officer.vp_finance }}](mailto:vpfinance@skule.ca)|
