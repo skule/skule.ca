@@ -4,7 +4,7 @@ layout: page
 ---
 
 > # <b class="president-text">President: Simona Tenche </b>
-> <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;"> <img src="/profiles/IMG_6615.PNG" alt="1" style="max-width: 50%; flex: 1 1 300px; min-width: 220px; height: auto;"> <img src="/profiles/IMG_6615.PNG" alt="1" style="max-width: 50%; flex: 1 1 300px; min-width: 220px; height: auto;"> </div>
+> <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;"> <img src="/profiles/IMG_6615.PNG" alt="1" style="max-width: 50%; flex: 1 1 300px; min-width: 220px; height: auto;"> <img src="/profiles/pres.png" alt="1" style="max-width: 50%; flex: 1 1 300px; min-width: 220px; height: auto;"> </div>
 > 
 
 > # <b class="vp-finance-text">Vice-President Finance: Kaiy Cao</b>
