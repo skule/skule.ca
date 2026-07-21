@@ -9,9 +9,9 @@ The Engineering Society is run by volunteers in a wide variety of positions. It 
 
 |Position|Officer|
 |-|-|
-|President|<img src="/profiles/IMG_6613.PNG" alt="1" style="max-width: 20%; flex: 1 1 300px; min-width: 220px; height: auto;"> [{{ site.data.council.officer.president }}](mailto:president@skule.ca)|
+|President|<p align=center> <img src="/profiles/IMG_6613.PNG" alt="1" style="max-width: 20%; flex: 1 1 300px; min-width: 220px; height: auto;"> [{{ site.data.council.officer.president }}](mailto:president@skule.ca)|
 |Vice-President Finance|[{{ site.data.council.officer.vp_finance }}](mailto:vpfinance@skule.ca)|
-|Vice-President Communications|[{{ site.data.council.officer.vp_communications }}](mailto:vpcomm@skule.ca)|
+|Vice-President Communications|[{{ site.data.council.officer.vp_communications }}](mailto:vpcomm@skule.ca)</p>|
 |Vice-President Academic|[{{ site.data.council.officer.vp_academic }}](mailto:vpacademic@skule.ca)|
 |Vice-President Student Life|[{{ site.data.council.officer.vp_student_life }}](mailto:vpstudentlife@skule.ca)|
 |Speaker|[{{ site.data.council.officer.speaker }}](mailto:speaker@g.skule.ca)|
