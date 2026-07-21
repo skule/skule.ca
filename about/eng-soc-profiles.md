@@ -3,7 +3,7 @@ title: Engineering Society Profiles
 layout: page
 ---
 
-> # <b class="president-text">President: Simona Tenche</b>
+> # <p align=center> <b class="president-text">President: Simona Tenche</b> </p>
 > <p align=center> <img src="/profiles/IMG_6615.PNG" alt="1" style="max-width: 60%; flex: 1 1 300px; min-width: 220px; height: auto;"> </p>
 > 
 > Simona is an MSE 2T6+PEY and she is so grateful and excited to be serving as your President this year. 
