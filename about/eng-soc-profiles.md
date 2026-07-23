@@ -130,3 +130,9 @@ In addition to his future ventures in transportation & urban planning in his deg
 > 
 > Road work ahead? I sure hope it does! In all seriousness, check back soon.
 >
+
+> # <center> <b class="bod-text">First Year Representative: TBD</b> </center>
+> <center> <img src="/profiles/IMG_6637.PNG" alt="1" style="max-width: 50%; flex: 1 1 300px; min-width: 220px; height: auto;"> </center>
+> 
+> Road work ahead? I sure hope it does! In all seriousness, check back soon.
+>
