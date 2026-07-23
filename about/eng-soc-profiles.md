@@ -125,12 +125,6 @@ In addition to his future ventures in transportation & urban planning in his deg
 > Hello! I'm a civ2T9, I like to find productive ways to avoid homework, I'm always down to meet someone new, and I'd love to meet you! If you want a list of the best libraries on campus (and specifically which ones don't require tcard to enter if you've forgotten yours) send me a message, I love utsg's architecture. Do not ask me for any academic help!
 >
 
-> # <center> <b class="bod-text">First Year Representative: Steven Zhang </b> </center>
-> <center> <img src="/profiles/IMG_6616.PNG" alt="1" style="max-width: 50%; flex: 1 1 300px; min-width: 220px; height: auto;"> </center>
-> 
-> Steven Zhang is an Engineering Science student interested in machine learning and AI-assisted scientific research. Alongside cramming for exams and midterms, he enjoys exploring new ideas, meeting people across campus, and, often, arguing with ChatGPT (if you know, you know...).
->
-
 > # <center> <b class="bod-text">First Year Representative: TBD</b> </center>
 > <center> <img src="/profiles/IMG_6637.PNG" alt="1" style="max-width: 50%; flex: 1 1 300px; min-width: 220px; height: auto;"> </center>
 > 
