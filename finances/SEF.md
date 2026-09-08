@@ -93,11 +93,10 @@ When you receive funding from SEF, you are required to <b>publicly acknowledge S
 ### Summer 2026
 Applications closed!
 
-**Deadline: June 29, 2026**
-
 ### Fall & Winter 2026
-TBD
+Fall Applications Open!
 
+**Deadline: Sept 25, 2026**
 ## Contact
 
 If you have any questions about the Skule™ Endowment Fund, please look at the or contact the VP Finance at [vpfinance@skule.ca](mailto:vpfinance@skule.ca).
