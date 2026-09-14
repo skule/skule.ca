@@ -10,7 +10,9 @@ If you are an EngSoc-affiliated Club, Associated Entity, Project Directorship, o
 
 General Room Bookings: Only GB202 and the Engineering Communications (EngComm) room can be booked through EngSoc. Other bookings for rooms are done directly through Campus Events (formerly ACE). Please ensure that your group is affiliated with SOP to access these bookings when available. Instructions for [booking non-EngSoc spaces can be found in this document](https://drive.google.com/file/d/1-dLtknTFG0V99_lt0c71CH72E35bExgs/view"), and more [information about SOP affiliation can be found on their site](https://sop.utoronto.ca/).
 
-EngCom/GB202 Room Bookings: EngCom is available for groups of up to 8 people and is equipped with a meeting table, a whiteboard, a television screen which can be used as a monitor, three computers, and a scanner. GB202 is available for larger groups. Both these rooms must be booked at least 7 days in advance, and you must sign out the key and make a refundable deposit to either Rhonda or the VP Communications. To book rooms, you can contact Rhonda [rhonda@skule.ca](mailto:rhonda@skule.ca) or the VP Communications [vpcomm@skule.ca](mailto:vpcomm@skule.ca).
+EngCom: EngCom is available for groups of up to 8 people and is equipped with a meeting table, a whiteboard, a television screen which can be used as a monitor, three computers, and a scanner. EngCom must be booked at least 7 days in advance, and you must sign out the key and make a refundable deposit to either Rhonda or the VP Communications. To book rooms, you can contact Rhonda [rhonda@skule.ca](mailto:rhonda@skule.ca) or the VP Communications [vpcomm@skule.ca](mailto:vpcomm@skule.ca).
+
+GB202 Room Bookings: GB202 is available for larger groups. GB202 must be booked at least 7 days in advance, and you must sign out the key and make a refundable deposit to Rhonda. To book rooms, you can contact Rhonda [rhonda@skule.ca](mailto:rhonda@skule.ca).
 
 ## General Rules
 - You are responsible for everything that happens in the room while it is booked, including other people's actions. Do not bring any food or drinks into the room.
