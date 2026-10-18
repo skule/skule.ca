@@ -35,10 +35,10 @@ In addition to his future ventures in transportation & urban planning in his deg
 > Hi Skule, I am Michael, an EngSci 2t6+PEY in the physics option (the best one). I am a board of directors member this year in my capacity as Vice President Student Life of EngSoc, and I am super excited to be here helping make decisions which shape our wonderful community for the better on a day by day basis. Being certifiably old at this point, I have accumulated quite the rap sheet of time spent in and working with clubs, design teams, PDs,  AEs, and absolutely no academic committees (hence the whole Student Life thing). I am super happy to chat with anyone at anypoint about anything (please save me from schoolwork), so do not be a stranger.
 >
 
-> # <center> <b class="speakerpersono">Speaker: Justin Fang</b> </center>
-> <center> <img src="/profiles/IMG_6627.PNG" alt="1" style="max-width: 50%; flex: 1 1 300px; min-width: 220px; height: auto;"> </center>
+> # <center> <b class="speakerpersono">Speaker: TBD</b> </center>
+> <center> <img src="/profiles/IMG_6637.PNG" alt="1" style="max-width: 50%; flex: 1 1 300px; min-width: 220px; height: auto;"> </center>
 > 
-> Justin is a Computer Engineering student on PEY interested in transportation modelling and planning. He was a Board Representative last year and is now the Speaker of the Board. Outside of school, he enjoys music (Ateez, Babymonster, Conan Gray), playing hockey, and running to catch the bus he will eventually miss.
+> Road work ahead? I sure hope it does! In all seriousness, check back soon.
 >
 
 > # <center> <b class="bod-text">At-Large Representative: Jennifer Wu</b> </center>
