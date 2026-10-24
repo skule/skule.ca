@@ -30,6 +30,8 @@ If you are interested in the PSC or have any suggestions on how we can improve o
 | {{ site.data.council.psc.at_large[0] }}   | At-Large Member    |
 | {{ site.data.council.psc.at_large[1] }}      | At-Large Member         |
 | {{ site.data.council.psc.at_large[2] }}      | At-Large Member         |
+| {{ site.data.council.psc.at_large[3] }}      | At-Large Member         |
+| {{ site.data.council.psc.at_large[4] }}      | At-Large Member         |
 
 If you have any questions about the PSC, please email [pscchair@skule.ca](mailto:pscchair@skule.ca).
 
