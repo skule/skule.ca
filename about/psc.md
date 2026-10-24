@@ -32,3 +32,9 @@ If you are interested in the PSC or have any suggestions on how we can improve o
 | {{ site.data.council.psc.at_large[2] }}      | At-Large Member         |
 
 If you have any questions about the PSC, please email [pscchair@skule.ca](mailto:pscchair@skule.ca).
+
+## Resources
+
+[Apply for PSC here!](https://docs.google.com/forms/d/e/1FAIpQLSe1zp4yY-ien_lGsGVh6xp5TbmDU8bB1uJfpzvxiBqtZGFpng/viewform)
+
+[Submission form](https://docs.google.com/forms/d/e/1FAIpQLSf8UtQlKG4vlKrXh4QUh25SwHzwvv4UiG0D2P5YKjgZ08oOKw/viewform)
