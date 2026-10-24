@@ -86,13 +86,13 @@ project_directors:
     - "Leila Agil"
 
 psc:
-  chair: "Sebastian Dot"
+  chair: "Ishita Jain"
   board_reps:
     - "Katie Buchel"
   at_large:
-    - "Ishita Jain"
-    - "Yawen Zhang"
     - "Alex Klaus"
+    - "<em>Vacant</em>"
+    - "<em>Vacant</em>"
 
 discipline_club_chairs:
   chemical: "<em>Vacant</em>"
