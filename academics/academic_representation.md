@@ -23,7 +23,7 @@ You are encouraged to bring forward larger issues to VP Academic at [vpacademic@
             
 In 2016-2017, the Academic Advocacy Committee put together a recommendation report for the Engineering Career Centre to aid in their restructuring. [The full report can be found here](/academics/files/final-engineering-career-centre-reccomenation-report.pdf).
             
-## Faculty Council
+## Faculty Council + First Year Curriculum Committee (FYCC)
             
 Faculty Council is the highest level of governance in the Faculty of Applied Science and Engineering. They influence how courses are taught and evaluated and what resources are available to students. [You can find out more about Faculty Council and its many committees here](http://www.engineering.utoronto.ca/about/governance/faculty-council/).
 
@@ -72,3 +72,8 @@ Faculty Council is the highest level of governance in the Faculty of Applied Sci
 |------------------------------------------------------------|
 | {{ site.data.council.academic.sac[0] }}                |
 | {{ site.data.council.academic.sac[1] }}                |
+
+| First Year Curriculum Committee (FYCC)                               |
+|------------------------------------------------------------|
+| {{ site.data.council.academic.fycc[0] }}                |
+| {{ site.data.council.academic.fycc[1] }}                |
