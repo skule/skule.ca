@@ -11,21 +11,21 @@ bod_representatives:
   at_large:
     - "Jennifer Wu"
     - "Jennifer Xu"
-    - "<em>Vacant</em>"
-    - "<em>Vacant</em>"
+    - "Ammar Hasham"
+    - "Tristan Seto"
   chemical: "Kyle Nguyen"
-  civil: "<em>Vacant</em>"
+  civil: "Antoan Venev"
   ece:
     - "Ayan Ali"
     - "Ketevan Gallagher"
   engsci: "Arthur Chen"
   first_year:
-    - "<em>Vacant</em>"
-    - "<em>Vacant</em>"
-    - "Ai-Ling Ji"
-  industrial: "<em>Vacant</em>"
+    - "Ege"
+    - "Jasmine Chen"
+    - "Mashrur Mahtab"
+  industrial: "Francesca Mangano"
   mse: "Katie Buchel"
-  mechanical: "Aaryan Fredrick"
+  mechanical: "<em>Vacant</em>"
   mineral: "Nicolás Oré"
 
 project_directors:
@@ -114,43 +114,43 @@ discipline_club_chairs:
 
 reps:
   first_year:
-    chemical: "Johnny Hao Dong"
-    civil: "Hugo (Tin Ho) Wang"
+    chemical: "Vanessa Lovino"
+    civil: "Ariana Azami"
     ece:
-      - "Jeffery Wong"
-      - "Keyu (Daphne) Zhu"
-      - "Shelley Lin"
-      - "Sam Ghasemzadeh"
+      - "Marium Ahmed"
+      - "Sophia Zhang"
+      - "Eshdeep Singh Soodan"
+      - "<em>Vacant</em>"
     engsci:
-      - "Ibrahim Khawar"
-      - "Yang Wang"
+      - "Bosen Song"
+      - "Brianna Li"
     industrial:
-      - "Erik Coscollola Domingo"
-      - "Tsepella Goff-Martin"
-    mse: "Katie Buchel"
+      - "Hanzada Bahgat"
+      - "Jessica Xu"
+    mse: "Nathan Chen"
     mechanical:
-      - "Nima Bakhshaie"
-      - "Arvyn Singh"
-    mineral: "Evan Zhao"
-    trackone: "Hermela Abiy"
+      - "Abby Yu"
+      - "<em>Vacant</em>"
+    mineral: "Andrew Zhang"
+    trackone: "Mashrur Mahtab"
 
   second_year:
-    chemical: "<em>Vacant</em>"
-    civil: "<em>Vacant</em>"
+    chemical: "Johnny Dong"
+    civil: "Hugo Wang"
     ece:
-      - "<em>Vacant</em>"
+      - "Stephanie Florescu"
       - "<em>Vacant</em>"
       - "<em>Vacant</em>"
       - "<em>Vacant</em>"
     engsci:
-      - "<em>Vacant</em>"
-      - "<em>Vacant</em>"
-    industrial: "<em>Vacant</em>"
-    mse: "<em>Vacant</em>"
+      - "Miles Ehrlich"
+      - "Yang Wang"
+    industrial: "Zina Kittaneh"
+    mse: "Tiago Loureiro"
     mechanical:
+      - "Arvyn Singh"
       - "<em>Vacant</em>"
-      - "<em>Vacant</em>"
-    mineral: "<em>Vacant</em>"
+    mineral: "Jimin So"
 
   third_year:
     chemical: "Diya Patel"
@@ -158,14 +158,13 @@ reps:
     ece:
       - "Arnav Argawal"
       - "Ethan Mao"
-      - "<em>Vacant</em>"
+      - "Abdullah Bin Rashid"
       - "<em>Vacant</em>"
     engsci: "<em>Vacant</em>"
     industrial: "Rohan Garg"
     mse: "Amelia Antonellis"
     mechanical:
       - "Jack Klein"
-      - "<em>Vacant</em>"
     mineral: "Joaquin Escudero"
 
   pey:
@@ -176,9 +175,11 @@ reps:
     ece:
       - "Firdaus Ansari"
       - "Vishwas Puri"
-    engsci: "<em>Vacant</em>"
-    industrial: "<em>Vacant</em>"
-    mse: "<em>Vacant</em>"
+    engsci: "Rhea Contractor"
+    industrial: 
+      - "Gabe Raposo"
+      - "Renzo Ugarte"
+    mse: "Jason Chen"
     mechanical:
       - "<em>Vacant</em>"
       - "<em>Vacant</em>"
@@ -188,17 +189,16 @@ reps:
     chemical: "Miko Samson"
     civil: "Dana Bou Saab"
     ece:
+      - "Joe Dai"
       - "<em>Vacant</em>"
       - "<em>Vacant</em>"
       - "<em>Vacant</em>"
-      - "<em>Vacant</em>"
-    engsci: "<em>Vacant</em>"
+    engsci: "Andy Gong"
     industrial: "Sherry Zhang"
-    mse: "<em>Vacant</em>"
+    mse: "Jasnoor Hazooria"
     mechanical:
       - "<em>Vacant</em>"
-      - "<em>Vacant</em>"
-    mineral: "<em>Vacant</em>"
+    mineral: "Dorothy Tao"
 
 finance:
   vp_finance: "Kaiy Cao"
@@ -259,6 +259,9 @@ academic:
     - "Anastasia Butnariu"
     - "Hermela Abiy"
     - "Sanibi Amira Soura"
+  fycc:
+    - "Katie Buchel"
+    - "Jack Klein"
 
 neutral:
   lead_dro:
