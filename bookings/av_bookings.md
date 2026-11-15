@@ -5,7 +5,6 @@ layout: page
 
 If you are an EngSoc-affiliated Club, Associated Entity, Project Directorship, or Discipline Club, and affiliated with Ulife/SOP, you can book projectors, speakers, and microphones through EngSoc. Instructions for booking non-EngSoc spaces can be found [in this document](https://drive.google.com/file/d/1-dLtknTFG0V99_lt0c71CH72E35bExgs/view), and more information about SOP affiliation can be found [in this site](https://sop.utoronto.ca/).
 
-EngSoc-affiliated organizations will be granted free use of projectors in classrooms, including speakers, microphones, projectors, etc. **However, clubs must pay for the services through campus events in advance and then get a reimbursement through EngSoc by filling out a cheque requisition and providing proof of purchase (such as a paid invoice).** [See here for further info on reimbursements](https://skule.ca/cheque_requisitions).
 
 This project is intended to be used solely for the purpose of club or design team work, and not for personal projects or use. If you require a large number of rooms, a booking for a conference or other large event, and events that span over multiple days, please contact Rhonda at [rhonda@skule.ca](mailto:rhonda@skule.ca) and the VP Student Life at [vpstudentlife@skule.ca](mailto:vpstudentlife@skule.ca) to negotiate in-classroom AV usage.
 
